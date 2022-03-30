@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="NMCARS_NMCARS2_topic_21">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5201.403</ph> Individual deviations.</title>
+   <conbody>
+      <p id="GVMBFd" outputclass="Normal">(1) DASN(P) is the approval authority for:</p>
+      <p id="YryweK" outputclass="List2">(i) individual deviations from the FAR or DFARS other than those specified in DFARS 201.402(1) and DFARS 201.403(2) and 5201.403(2).</p>
+      <p id="BowGxr" outputclass="List2">(ii) individual or class deviations from NMCARS.</p>
+      <p id="JmygCK" outputclass="List2">(iii) deviations from certain component clauses (see DFARS 201.403(1)).</p>
+      <p id="GDCXXu" outputclass="Normal">(2) In the case of a purchase or contract by an offshore contracting activity with a foreign contractor made outside the United States, its possessions, or Puerto Rico, deviations from contract clauses may be granted by the HCA provided that no change in intent, principle, or substance is made. The HCA may delegate this authority no lower than one level above the contracting officer.</p>
+   </conbody>
+</concept>

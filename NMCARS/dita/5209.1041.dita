@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="NMCARS_NMCARS2_topic_129">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5209.104-1</ph> General standards.</title>
+   <conbody>
+      <p id="GoJyLB" outputclass="Normal">(g)(ii) <i>Ownership or control by a foreign government when access to proscribed information is required.</i>
+      </p>
+      <p id="xWYtrp" outputclass="List2">(C) Submit waiver requests for Undersecretary of Defense for Intelligence approval via DASN(P) by email at <xref format="mailto" href="mailto:Rdaj&amp;as.fct@navy.mil" scope="external">
+            <u>RDAJ&amp;As.fct</u>
+            <u>@navy.mil</u>
+         </xref> with the subject “[Activity Name] DFARS 209.104-1(g)(ii) - Waiver Request/National Security Interest Determination.”</p>
+      <p id="UCtmPx" outputclass="List2">(D) Submit waiver requests for Secretary of Defense approval via DASN(P) by email at address <xref format="mailto" href="mailto:Rdaj&amp;as.fct@navy.mil" scope="external">
+            <u>RDAJ&amp;As.fct</u>
+            <u>@navy.mil</u>
+         </xref> with the subject “[Activity Name] DFARS 209.104-1(g)(ii)(A) - SECDEF Waiver Request.”</p>
+   </conbody>
+</concept>

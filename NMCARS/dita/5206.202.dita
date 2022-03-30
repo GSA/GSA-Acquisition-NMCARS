@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="NMCARS_NMCARS2_topic_87">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5206.202</ph> Establishing or maintaining alternative sources.</title>
+   <conbody>
+      <p id="SxDktW" outputclass="Normal">(b)(1) Determination and Findings (D&amp;Fs) shall be signed as follows:</p>
+      <p id="hBLrUx" outputclass="List2">(i) For a proposed contract not exceeding the approval threshold at FAR 6.304(a)(3), the approval level is the HCA, or a designee who—</p>
+      <p id="rBzvxh" outputclass="List3">(A) If a member of the armed forces, is a general or flag officer; or</p>
+      <p id="vJbQJf" outputclass="List3">(B) If a civilian, is serving in a position in the Senior Executive Service (SES).</p>
+      <p id="bGvuLp" outputclass="List2">(ii) For a proposed contract exceeding the approval threshold at FAR 6.304(a)(4), the approval level is the NSPE. D&amp;Fs for NSPE approval shall be submitted with a copy of the approved AS, Streamlined Acquisition Plan (STRAP) or Management and Oversight Process for the Acquisition of Services – Streamlined (MOPAS-S) via DASN(P) by email at <xref format="mailto" href="mailto:RDAJ&amp;As.fct@navy.mil" scope="external">
+            <u>RDAJ&amp;As.fct@navy.mil</u>
+         </xref> with the subject “[Activity Name] FAR 6.202 - Establishing or Maintaining Alternative Sources.”</p>
+   </conbody>
+</concept>

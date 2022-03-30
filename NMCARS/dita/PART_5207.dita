@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="NMCARS_NMCARS2_topic_101">
+      <title outputclass="Ctr 1 heading part" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PART 5207</ph> ACQUISITION PLANNING</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5207.1.dita#NMCARS_NMCARS2_topic_102">SUBPART 5207.1 — ACQUISITION PLANS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5207.103.dita#NMCARS_NMCARS2_topic_103">5207.103 Agency–head responsibilities.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5207.105.dita#NMCARS_NMCARS2_topic_104">5207.105 Contents of written acquisition plans.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5207.106.dita#NMCARS_NMCARS2_topic_105">5207.106 Additional requirements for major systems.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5207.107.dita#NMCARS_NMCARS2_topic_106">5207.107 Additional requirements for acquisitions involving consolidation, bundling, or substantial bundling.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5207.1072.dita#NMCARS_NMCARS2_topic_107">5207.107-2 Consolidation.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5207.1073.dita#NMCARS_NMCARS2_topic_108">5207.107-3 Bundling.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5207.2.dita#NMCARS_NMCARS2_topic_109">SUBPART 5207.2 — PLANNING FOR THE PURCHASE OF SUPPLIES IN ECONOMIC QUANTITIES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5207.204.dita#NMCARS_NMCARS2_topic_110">5207.204 Responsibilities of contracting officers.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5207.5.dita#NMCARS_NMCARS2_topic_111">SUBPART 5207.5 — INHERENTLY GOVERNMENTAL FUNCTIONS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5207.503.dita#NMCARS_NMCARS2_topic_112">5207.503 Policy.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5207.70.dita#NMCARS_NMCARS2_topic_113">SUBPART 5207.70 — BUY–TO–BUDGET – ADDITIONAL QUANTITIES OF END ITEMS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5207.7002.dita#NMCARS_NMCARS2_topic_114">5207.7002 Authority to acquire additional quantities of end items.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

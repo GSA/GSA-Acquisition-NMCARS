@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="NMCARS_NMCARS2_topic_75">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5204.2104</ph> Waivers.</title>
+   <conbody>
+      <p id="oXyAxt" outputclass="Normal">(a) ASN(RDA), without power of redelegation, is the approval authority for waivers. Requests shall be endorsed by the HCA. Endorsement authority may be delegated no lower than the Deputy/Assistant Commander for Contracts, without power of redelegation. Submit waiver requests for approval via DASN(P) by email to <xref format="mailto" href="mailto:RDAJ&amp;As.fct@navy.mil" scope="external">
+            <u>RDAJ&amp;As.fct@navy.mil</u>
+         </xref> with the subject “[Activity Name] NMCARS 5204.2104(a) – Executive Agency Waiver Request (Prohibition on Certain Telecommunications and Video Surveillance Services or Equipment)”. Waivers shall include:</p>
+      <p id="itfYOJ" outputclass="List2">(1) A compelling justification for the additional time to implement the requirements;</p>
+      <p id="HiuNGy" outputclass="List2">(2) A full and complete laydown or description of the presences of covered telecommunications or video surveillance equipment or services in the relevant supply chain; and</p>
+      <p id="IOvsuB" outputclass="List2">(3) A phase-out plan to eliminate such covered telecommunications equipment or services from the relevant systems.</p>
+      <p id="QiCZsy" outputclass="Normal">(b) Waiver requests shall be endorsed by the HCA. This authority may be delegated no lower than the Deputy/Assistant Commander for Contracts, without power of redelegation. Submit waiver requests for approval via DASN(P) by email to <xref format="mailto" href="mailto:RDAJ&amp;As.fct@navy.mil" scope="external">
+            <u>RDAJ&amp;As.fct@navy.mil</u>
+         </xref> with the subject “[Activity Name] NMCARS 5204.2104(b) – DNI Waiver Request (Prohibition on Certain Telecommunications and Video Surveillance Services or Equipment).”</p>
+   </conbody>
+</concept>

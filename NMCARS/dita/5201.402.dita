@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="NMCARS_NMCARS2_topic_20">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5201.402</ph> Policy.</title>
+   <conbody>
+      <p id="LrjlXe" outputclass="Normal">(2) Submit those requests for individual or class deviation that require approval at a level higher than the HCA to DASN(P) by email at <xref format="mailto" href="mailto:Policy@navy.mil" scope="external">
+            <u>Policy@navy.mil</u>
+         </xref> with the subject “DFARS 201.402 –Deviation Request.”</p>
+   </conbody>
+</concept>

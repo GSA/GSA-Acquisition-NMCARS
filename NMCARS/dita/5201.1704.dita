@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="NMCARS_NMCARS2_topic_11">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5201.170-4</ph> Administration of peer reviews.</title>
+   <conbody>
+      <p id="gygJLb" outputclass="Normal">(f) Contracting Officers shall submit copies of required memoranda documenting the disposition of peer review results and recommendations to DASN(P)/Director, Program Analysis and Business Transformation (PA&amp;BT) by email at <xref format="mailto" href="mailto:RDAJ&amp;As.fct@navy.mil" scope="external">
+            <u>RDAJ&amp;As.fct@navy.mil</u>
+         </xref> with the subject “[Activity Name] PGI 201.170-4 - Disposition Of Peer Review Recommendations” followed by the applicable solicitation/contract number and peer review date.</p>
+   </conbody>
+</concept>

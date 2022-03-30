@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="NMCARS_NMCARS2_topic_71">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5204.804-1</ph> Closeout by the office administering the contract.</title>
+   <conbody>
+      <p id="DdSTjY" outputclass="Normal">(a)(1) After receiving evidence of receipt of supplies/services for firm-fixed price contracts or task or delivery orders valued at less than the simplified acquisition threshold, the contracting officer may close the contract, citing NMCARS 5204.804-1(a)(1), as long as there is evidence of final payment or 180 days have elapsed after the final scheduled delivery date.</p>
+      <p id="adKVDi" outputclass="Normal">(S-90) Submit a monthly report in accordance with the ASN(RDA) memorandum entitled “Department of the Navy Contract Closeout Policy” dated April 12, 2019 in the format prescribed in Annex 24 to DASN(P) by email <xref format="mailto" href="mailto:RDAJ&amp;As.fct@navy.mil" scope="external">
+            <u>RDAJ&amp;As.fct@navy.mil</u>
+         </xref> with the subject “[Activity Name] NMCARS 5204.804-1(S-90) – Monthly Contract Closeout Metric Report” by the 15th of each month.</p>
+   </conbody>
+</concept>

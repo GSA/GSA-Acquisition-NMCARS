@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="NMCARS_NMCARS2_topic_149">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5211.274-2</ph> Policy for item unique identification.</title>
+   <conbody>
+      <p id="lOuJGX" outputclass="Normal">(a) See Annex 4 for STRL deviations applicable hereto.</p>
+      <p id="hqMWZh" outputclass="Normal">(b)(2)(i)(A) Submit the determination and findings under DFARS 211.274-2(b)(2)(i)(A) via DASN(P) by email at <xref format="mailto" href="mailto:Rdaj&amp;as.fct@navy.mil" scope="external">
+            <u>RDAJ&amp;As.fct</u>
+            <u>@navy.mil</u>
+         </xref> with the subject “[Activity Name] DFARS 211.274-2(b)(2)(i)(A) – D&amp;F – Exception to Item Unique Identification Marking.”</p>
+   </conbody>
+</concept>

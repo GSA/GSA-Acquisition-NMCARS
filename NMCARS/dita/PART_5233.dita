@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="NMCARS_NMCARS2_topic_387">
+      <title outputclass="1 Heading Part" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PART 5233</ph> PROTESTS, DISPUTES, AND APPEALS</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5233.1.dita#NMCARS_NMCARS2_topic_388">SUBPART 5233.1 — PROTESTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5233.103.dita#NMCARS_NMCARS2_topic_389">5233.103 Protests to the agency.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5233.104.dita#NMCARS_NMCARS2_topic_390">5233.104 Protests to GAO.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5233.170.dita#NMCARS_NMCARS2_topic_391">5233.170 Briefing requirement for protested acquisitions valued at $1 billion or more.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5233.2.dita#NMCARS_NMCARS2_topic_392">SUBPART 5233.2 — DISPUTES AND APPEALS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5233.201.dita#NMCARS_NMCARS2_topic_393">5233.201 Definitions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5233.203.dita#NMCARS_NMCARS2_topic_394">5233.203 Applicability.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5233.204.dita#NMCARS_NMCARS2_topic_395">5233.204 Policy.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5233.20490.dita#NMCARS_NMCARS2_topic_396">5233.204-90 General.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5233.209.dita#NMCARS_NMCARS2_topic_397">5233.209 Suspected fraudulent claims.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5233.211.dita#NMCARS_NMCARS2_topic_398">5233.211 Contracting officer's decision.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5233.90.dita#NMCARS_NMCARS2_topic_399">SUBPART 5233.90 — PROCEDURES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5233.9001.dita#NMCARS_NMCARS2_topic_400">5233.9001 Claims approval requirements.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5233.9002.dita#NMCARS_NMCARS2_topic_401">5233.9002 Contractor appeals to the Armed Services Board of Contract Appeals (ASBCA).</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

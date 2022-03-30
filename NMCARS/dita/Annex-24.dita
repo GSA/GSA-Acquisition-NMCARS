@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="NMCARS_NM_Anex_topic_24">
+   <title outputclass="1 heading Ctr">
+      <ph props="autonumber">ANNEX 24</ph> – CONTRACT CLOSEOUT METRIC REPORT</title>
+   <conbody>
+      <p id="dRlsjz" outputclass="Normal">Pursuant to 5204.804-1(S-90), the template below shall be
+         used in reporting monthly contract closeout metrics. The electronic version of this
+         template can be found at <xref format="aspx" href="https://www.secnav.navy.mil/rda/DASN-P/Pages/NMCARS.aspx" scope="external">
+            <u>https://www.secnav.navy.mil/rda/DASN-P/Pages/NMCARS.aspx</u>
+         </xref>.</p>
+      <p id="zwBVHO" outputclass="Normal">
+         <image height="148.96mm" href="Graphics/image5.png" width="165.10mm" />
+      </p>
+   </conbody>
+</concept>

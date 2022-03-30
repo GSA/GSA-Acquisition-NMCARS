@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="NMCARS_NMCARS2_topic_95">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5206.303-92</ph> Bridge Contract Reporting.</title>
+   <conbody>
+      <p id="qufjZU" outputclass="Normal">Data on bridge contract use shall be reported by HCAs to DASN(P). Reports shall be submitted 30 days after the end of each quarter, in the format prescribed by Annex 5. The required Excel file for reporting can be found on the ASN(RDA) website. Negative reports are required. Reports shall be submitted via email to <xref format="mailto" href="mailto:seniorservicesmanage.fct@navy.mil" scope="external">
+            <u>seniorservicesmanage.fct@navy.mil</u>
+         </xref> with the subject “NMCARS 5206.303-92 - Bridge Contract Report by [Command Name]”.</p>
+   </conbody>
+</concept>

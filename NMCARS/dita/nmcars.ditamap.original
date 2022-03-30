@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xml:lang="en-US" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)   " class="- map/map " title="NMCARS" outputclass="dod">
+   <title id="title__Toc80348749" outputclass="Title" class="- topic/title ">NMCARS</title>
+   <topicref navtitle="Volume X - Parts xxxx to xxxx" href="Volume_I.dita" outputclass="Volume" props="NoTitle" audience="NoTitle" otherprops="NoProp" base="NoTitle" class="- map/topicref ">
+      <topicref navtitle="Navy Marine Corps Acquisition Regulation Supplement" href="Cover_1.dita" props="NoTitle" audience="NoTitle" otherprops="NoProp" base="NoTitle" class="- map/topicref " />
+   </topicref>
+   <topicref href="PART_5201.dita" navtitle="PART 5201 FEDERAL ACQUISITION REGULATIONS SYSTEM" outputclass="Part" props="PART 5201" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5201.1.dita" navtitle="" outputclass="SubPart" props="PART 5201.1" class="- map/topicref " base="NoTitle">
+         <topicref href="5201.101.dita" navtitle="" props="5201.101" class="- map/topicref " base="NoTitle" />
+         <topicref href="5201.103.dita" navtitle="" props="5201.103" class="- map/topicref " base="NoTitle" />
+         <topicref href="5201.104.dita" navtitle="" props="5201.104" class="- map/topicref " base="NoTitle" />
+         <topicref href="5201.105.dita" navtitle="" props="5201.105" class="- map/topicref " base="NoTitle">
+            <topicref href="5201.1052.dita" navtitle="" props="5201.105-2" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5201.107.dita" navtitle="" props="5201.107" class="- map/topicref " base="NoTitle" />
+         <topicref href="5201.108.dita" navtitle="" props="5201.108" class="- map/topicref " base="NoTitle" />
+         <topicref href="5201.170.dita" navtitle="" props="5201.170" class="- map/topicref " base="NoTitle">
+            <topicref href="5201.1704.dita" navtitle="" props="5201.170-4" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5201.190.dita" navtitle="" props="5201.190" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5201.2.dita" navtitle="" outputclass="SubPart" props="PART 5201.2" class="- map/topicref " base="NoTitle">
+         <topicref href="5201.201.dita" navtitle="" props="5201.201" class="- map/topicref " base="NoTitle">
+            <topicref href="5201.2011.dita" navtitle="" props="5201.201-1" class="- map/topicref " base="NoTitle" />
+         </topicref>
+      </topicref>
+      <topicref href="SUBPART_5201.3.dita" navtitle="" outputclass="SubPart" props="PART 5201.3" class="- map/topicref " base="NoTitle">
+         <topicref href="5201.303.dita" navtitle="" props="5201.303" class="- map/topicref " base="NoTitle" />
+         <topicref href="5201.304.dita" navtitle="" props="5201.304" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5201.4.dita" navtitle="" outputclass="SubPart" props="PART 5201.4" class="- map/topicref " base="NoTitle">
+         <topicref href="5201.402.dita" navtitle="" props="5201.402" class="- map/topicref " base="NoTitle" />
+         <topicref href="5201.403.dita" navtitle="" props="5201.403" class="- map/topicref " base="NoTitle" />
+         <topicref href="5201.404.dita" navtitle="" props="5201.404" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5201.6.dita" navtitle="" outputclass="SubPart" props="PART 5201.6" class="- map/topicref " base="NoTitle">
+         <topicref href="5201.601.dita" navtitle="" props="5201.601" class="- map/topicref " base="NoTitle">
+            <topicref href="5201.60190.dita" navtitle="" props="5201.601-90" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5201.602.dita" navtitle="" props="5201.602" class="- map/topicref " base="NoTitle">
+            <topicref href="5201.6021.dita" navtitle="" props="5201.602-1" class="- map/topicref " base="NoTitle" />
+            <topicref href="5201.6022.dita" navtitle="" props="5201.602-2" class="- map/topicref " base="NoTitle" />
+            <topicref href="5201.6023.dita" navtitle="" props="5201.602-3" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5201.603.dita" navtitle="" props="5201.603" class="- map/topicref " base="NoTitle">
+            <topicref href="5201.6031.dita" navtitle="" props="5201.603-1" class="- map/topicref " base="NoTitle" />
+            <topicref href="5201.603290.dita" navtitle="" props="5201.603-2-90" class="- map/topicref " base="NoTitle" />
+            <topicref href="5201.603291.dita" navtitle="" props="5201.603-2-91" class="- map/topicref " base="NoTitle" />
+            <topicref href="5201.6034.dita" navtitle="" props="5201.603-4" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5201.691.dita" navtitle="" props="5201.691" class="- map/topicref " base="NoTitle">
+            <topicref href="5201.6911.dita" navtitle="" props="5201.691-1" class="- map/topicref " base="NoTitle" />
+            <topicref href="5201.6912.dita" navtitle="" props="5201.691-2" class="- map/topicref " base="NoTitle" />
+         </topicref>
+      </topicref>
+      <topicref href="SUBPART_5201.90.dita" navtitle="" outputclass="SubPart" props="PART 5201.90" class="- map/topicref " base="NoTitle">
+         <topicref href="5201.9000.dita" navtitle="" props="5201.9000" class="- map/topicref " base="NoTitle" />
+         <topicref href="5201.9001.dita" navtitle="" props="5201.9001" class="- map/topicref " base="NoTitle" />
+         <topicref href="5201.9002.dita" navtitle="" props="5201.9002" class="- map/topicref " base="NoTitle" />
+         <topicref href="5201.9003.dita" navtitle="" props="5201.9003" class="- map/topicref " base="NoTitle" />
+      </topicref>
+   </topicref>
+   <topicref href="PART_5202.dita" navtitle="PART 5202 DEFINITIONS OF WORDS AND TERMS" outputclass="Part" props="PART 5202" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5202.1.dita" navtitle="" outputclass="SubPart" props="PART 5202.1" class="- map/topicref " base="NoTitle">
+         <topicref href="NMCARS2-topic_45.dita" navtitle="" class="- map/topicref " base="NoTitle" />
+      </topicref>
+   </topicref>
+   <topicref href="PART_5203.dita" navtitle="PART 5203 IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST" outputclass="Part" props="PART 5203" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5203.1.dita" navtitle="" outputclass="SubPart" props="PART 5203.1" class="- map/topicref " base="NoTitle">
+         <topicref href="5203.101.dita" navtitle="" props="5203.101" class="- map/topicref " base="NoTitle">
+            <topicref href="5203.1011.dita" navtitle="" props="5203.101-1" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5203.104.dita" navtitle="" props="5203.104" class="- map/topicref " base="NoTitle">
+            <topicref href="5203.1047.dita" navtitle="" props="5203.104-7" class="- map/topicref " base="NoTitle" />
+         </topicref>
+      </topicref>
+      <topicref href="SUBPART_5203.2.dita" navtitle="" outputclass="SubPart" props="PART 5203.2--" class="- map/topicref " base="NoTitle">
+         <topicref href="5203.203.dita" navtitle="" props="5203.203" class="- map/topicref " base="NoTitle" />
+         <topicref href="5203.204.dita" navtitle="" props="5203.204" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5203.6.dita" navtitle="" outputclass="SubPart" props="PART 5203.6" class="- map/topicref " base="NoTitle">
+         <topicref href="5203.602.dita" navtitle="" props="5203.602" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5203.8.dita" navtitle="" outputclass="SubPart" props="PART 5203.8" class="- map/topicref " base="NoTitle">
+         <topicref href="5203.806.dita" navtitle="" props="5203.806" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5203.9.dita" navtitle="" outputclass="SubPart" props="PART 5203.9" class="- map/topicref " base="NoTitle">
+         <topicref href="5203.903.dita" navtitle="" props="5203.903" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5203.10.dita" navtitle="" outputclass="SubPart" props="PART 5203.10" class="- map/topicref " base="NoTitle">
+         <topicref href="5203.1003.dita" navtitle="" props="5203.1003" class="- map/topicref " base="NoTitle" />
+      </topicref>
+   </topicref>
+   <topicref href="PART_5204.dita" navtitle="PART 5204 ADMINISTRATIVE MATTERS" outputclass="Part" props="PART 5204" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5204.2.dita" navtitle="" outputclass="SubPart" props="PART 5204.2" class="- map/topicref " base="NoTitle">
+         <topicref href="5204.270.dita" navtitle="" props="5204.270" class="- map/topicref " base="NoTitle">
+            <topicref href="5204.2701.dita" navtitle="" props="5204.270-1" class="- map/topicref " base="NoTitle" />
+         </topicref>
+      </topicref>
+      <topicref href="SUBPART_5204.6.dita" navtitle="" outputclass="SubPart" props="PART 5204.6" class="- map/topicref " base="NoTitle">
+         <topicref href="5204.604.dita" navtitle="" props="5204.604" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5204.8.dita" navtitle="" outputclass="SubPart" props="PART 5204.8" class="- map/topicref " base="NoTitle">
+         <topicref href="5204.804.dita" navtitle="" props="5204.804" class="- map/topicref " base="NoTitle">
+            <topicref href="5204.8041.dita" navtitle="" props="5204.804-1" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5204.805.dita" navtitle="" props="5204.805" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5204.21.dita" navtitle="" outputclass="SubPart" props="PART 5204.21" class="- map/topicref " base="NoTitle">
+         <topicref href="5204.2103.dita" navtitle="" props="5204.2103" class="- map/topicref " base="NoTitle" />
+         <topicref href="5204.2104.dita" navtitle="" props="5204.2104" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5204.73.dita" navtitle="" outputclass="SubPart" props="PART 5204.73 -" class="- map/topicref " base="NoTitle">
+         <topicref href="5204.7303.dita" navtitle="" props="5204.7303" class="- map/topicref " base="NoTitle">
+            <topicref href="5204.73031.dita" navtitle="" props="5204.7303-1" class="- map/topicref " base="NoTitle" />
+         </topicref>
+      </topicref>
+   </topicref>
+   <topicref href="PART_5205.dita" navtitle="PART 5205 PUBLICIZING CONTRACT ACTIONS" outputclass="Part" props="PART 5205" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5205.3.dita" navtitle="" outputclass="SubPart" props="PART 5205.3" class="- map/topicref " base="NoTitle">
+         <topicref href="5205.303.dita" navtitle="" props="5205.303" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5205.4.dita" navtitle="" outputclass="SubPart" props="PART 5205.4" class="- map/topicref " base="NoTitle">
+         <topicref href="5205.404.dita" navtitle="" props="5205.404" class="- map/topicref " base="NoTitle">
+            <topicref href="5205.4041.dita" navtitle="" props="5205.404-1" class="- map/topicref " base="NoTitle" />
+         </topicref>
+      </topicref>
+   </topicref>
+   <topicref href="PART_5206.dita" navtitle="PART 5206 COMPETITION REQUIREMENTS" outputclass="Part" props="PART 5206" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5206.2.dita" navtitle="" outputclass="SubPart" props="PART 5206.2" class="- map/topicref " base="NoTitle">
+         <topicref href="5206.202.dita" navtitle="" props="5206.202" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5206.3.dita" navtitle="" outputclass="SubPart" props="PART 5206.3" class="- map/topicref " base="NoTitle">
+         <topicref href="5206.302.dita" navtitle="" props="5206.302" class="- map/topicref " base="NoTitle">
+            <topicref href="5206.3025.dita" navtitle="" props="5206.302-5" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5206.303.dita" navtitle="" props="5206.303" class="- map/topicref " base="NoTitle">
+            <topicref href="5206.3031.dita" navtitle="" props="5206.303-1" class="- map/topicref " base="NoTitle" />
+            <topicref href="5206.3032.dita" navtitle="" props="5206.303-2" class="- map/topicref " base="NoTitle" />
+            <topicref href="5206.30390.dita" navtitle="" props="5206.303-90" class="- map/topicref " base="NoTitle" />
+            <topicref navtitle="" href="5206.30391.dita" audience="" otherprops="" base="NoTitle" props="5206.303-91" outputclass="" class="- map/topicref " />
+            <topicref href="5206.30392.dita" navtitle="" props="5206.303-92" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5206.304.dita" navtitle="" props="5206.304" class="- map/topicref " base="NoTitle" />
+         <topicref href="5206.305.dita" navtitle="" props="5206.305" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5206.5.dita" navtitle="" outputclass="SubPart" props="PART 5206.5" class="- map/topicref " base="NoTitle">
+         <topicref href="5206.501.dita" navtitle="" props="5206.501" class="- map/topicref " base="NoTitle" />
+         <topicref href="5206.502.dita" navtitle="" props="5206.502" class="- map/topicref " base="NoTitle" />
+      </topicref>
+   </topicref>
+   <topicref href="PART_5207.dita" navtitle="PART 5207 ACQUISITION PLANNING" outputclass="Part" props="PART 5207" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5207.1.dita" navtitle="" outputclass="SubPart" props="PART 5207.1" class="- map/topicref " base="NoTitle">
+         <topicref href="5207.103.dita" navtitle="" props="5207.103" class="- map/topicref " base="NoTitle" />
+         <topicref href="5207.105.dita" navtitle="" props="5207.105" class="- map/topicref " base="NoTitle" />
+         <topicref href="5207.106.dita" navtitle="" props="5207.106" class="- map/topicref " base="NoTitle" />
+         <topicref href="5207.107.dita" navtitle="" props="5207.107" class="- map/topicref " base="NoTitle">
+            <topicref href="5207.1072.dita" navtitle="" props="5207.107-2" class="- map/topicref " base="NoTitle" />
+            <topicref href="5207.1073.dita" navtitle="" props="5207.107-3" class="- map/topicref " base="NoTitle" />
+         </topicref>
+      </topicref>
+      <topicref href="SUBPART_5207.2.dita" navtitle="" outputclass="SubPart" props="PART 5207.2" class="- map/topicref " base="NoTitle">
+         <topicref href="5207.204.dita" navtitle="" props="5207.204" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5207.5.dita" navtitle="" outputclass="SubPart" props="PART 5207.5" class="- map/topicref " base="NoTitle">
+         <topicref href="5207.503.dita" navtitle="" props="5207.503" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5207.70.dita" navtitle="" outputclass="SubPart" props="PART 5207.70" class="- map/topicref " base="NoTitle">
+         <topicref href="5207.7002.dita" navtitle="" props="5207.7002" class="- map/topicref " base="NoTitle" />
+      </topicref>
+   </topicref>
+   <topicref href="PART_5208.dita" navtitle="PART 5208 REQUIRED SOURCES OF SUPPLIES AND SERVICES" outputclass="Part" props="PART 5208" class="- map/topicref " base="NoTitle">
+      <topicref href="5208.001.dita" navtitle="" props="5208.001" class="- map/topicref " base="NoTitle" />
+      <topicref href="SUBPART_5208.4.dita" navtitle="" outputclass="SubPart" props="PART 5208.4" class="- map/topicref " base="NoTitle">
+         <topicref href="5208.405.dita" navtitle="" props="5208.405" class="- map/topicref " base="NoTitle">
+            <topicref href="5208.4056.dita" navtitle="" props="5208.405-6" class="- map/topicref " base="NoTitle" />
+         </topicref>
+      </topicref>
+      <topicref href="SUBPART_5208.7.dita" navtitle="" outputclass="SubPart" props="PART 5208.7" class="- map/topicref " base="NoTitle">
+         <topicref href="5208.790.dita" navtitle="" props="5208.790" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5208.70.dita" navtitle="" outputclass="SubPart" props="PART 5208.70" class="- map/topicref " base="NoTitle">
+         <topicref href="5208.7002.dita" navtitle="" props="5208.7002" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5208.74.dita" navtitle="" outputclass="SubPart" props="PART 5208.74" class="- map/topicref " base="NoTitle">
+         <topicref href="5208.7403.dita" navtitle="" props="5208.7403" class="- map/topicref " base="NoTitle" />
+      </topicref>
+   </topicref>
+   <topicref href="PART_5209.dita" navtitle="PART 5209 CONTRACTOR QUALIFICATIONS" outputclass="Part" props="PART 5209" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5209.1.dita" navtitle="" outputclass="SubPart" props="PART 5209.1" class="- map/topicref " base="NoTitle">
+         <topicref href="5209.104.dita" navtitle="" props="5209.104" class="- map/topicref " base="NoTitle">
+            <topicref href="5209.1041.dita" navtitle="" props="5209.104-1" class="- map/topicref " base="NoTitle" />
+            <topicref href="5209.1045.dita" navtitle="" props="5209.104-5" class="- map/topicref " base="NoTitle" />
+            <topicref href="5209.1046.dita" navtitle="" props="5209.104-6" class="- map/topicref " base="NoTitle" />
+         </topicref>
+      </topicref>
+      <topicref href="SUBPART_5209.4.dita" navtitle="" outputclass="SubPart" props="PART 5209.4" class="- map/topicref " base="NoTitle">
+         <topicref href="5209.402.dita" navtitle="" props="5209.402" class="- map/topicref " base="NoTitle" />
+         <topicref href="5209.404.dita" navtitle="" props="5209.404" class="- map/topicref " base="NoTitle" />
+         <topicref href="5209.405.dita" navtitle="" props="5209.405" class="- map/topicref " base="NoTitle">
+            <topicref href="5209.4052.dita" navtitle="" props="5209.405-2" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5209.406.dita" navtitle="" props="5209.406" class="- map/topicref " base="NoTitle">
+            <topicref href="5209.4063.dita" navtitle="" props="5209.406-3" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5209.407.dita" navtitle="" props="5209.407" class="- map/topicref " base="NoTitle">
+            <topicref href="5209.4073.dita" navtitle="" props="5209.407-3" class="- map/topicref " base="NoTitle" />
+         </topicref>
+      </topicref>
+      <topicref href="SUBPART_5209.5.dita" navtitle="" outputclass="SubPart" props="PART 5209.5" class="- map/topicref " base="NoTitle">
+         <topicref href="5209.503.dita" navtitle="" props="5209.503" class="- map/topicref " base="NoTitle" />
+         <topicref href="5209.570.dita" navtitle="" props="5209.570" class="- map/topicref " base="NoTitle" />
+         <topicref navtitle="" href="5209.5702.dita" audience="" otherprops="" base="NoTitle" props="5209.570-2" outputclass="" class="- map/topicref " />
+      </topicref>
+   </topicref>
+   <topicref href="PART_5211.dita" navtitle="PART 5211 DESCRIBING AGENCY NEEDS" outputclass="Part" props="PART 5211" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5211.1.dita" navtitle="" outputclass="SubPart" props="PART 5211.1" class="- map/topicref " base="NoTitle">
+         <topicref href="5211.103.dita" navtitle="" props="5211.103" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5211.2.dita" navtitle="" outputclass="SubPart" props="PART 5211.2" class="- map/topicref " base="NoTitle">
+         <topicref href="5211.274.dita" navtitle="" props="5211.274" class="- map/topicref " base="NoTitle">
+            <topicref href="5211.2742.dita" navtitle="" props="5211.274-2" class="- map/topicref " base="NoTitle" />
+         </topicref>
+      </topicref>
+      <topicref href="SUBPART_5211.6.dita" navtitle="" outputclass="SubPart" props="PART 5211.6" class="- map/topicref " base="NoTitle">
+         <topicref href="5211.603.dita" navtitle="" props="5211.603" class="- map/topicref " base="NoTitle" />
+      </topicref>
+   </topicref>
+   <topicref href="PART_5212.dita" navtitle="PART 5212 ACQUISITION OF COMMERCIAL ITEMS" outputclass="Part" props="PART 5212" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5212.1.dita" navtitle="" outputclass="SubPart" props="PART 5212.1" class="- map/topicref " base="NoTitle">
+         <topicref href="5212.102.dita" navtitle="" props="5212.102" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5212.2.dita" navtitle="" outputclass="SubPart" props="PART 5212.2" class="- map/topicref " base="NoTitle">
+         <topicref href="5212.207.dita" navtitle="" props="5212.207" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5212.3.dita" navtitle="" outputclass="SubPart" props="PART 5212.3" class="- map/topicref " base="NoTitle">
+         <topicref href="5212.302.dita" navtitle="" props="5212.302" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5212.4.dita" navtitle="" outputclass="SubPart" props="PART 5212.4" class="- map/topicref " base="NoTitle">
+         <topicref href="5212.403.dita" navtitle="" props="5212.403" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5212.70.dita" navtitle="" outputclass="SubPart" props="PART 5212.70 ---" class="- map/topicref " base="NoTitle">
+         <topicref href="5212.7001.dita" navtitle="" props="5212.7001" class="- map/topicref " base="NoTitle" />
+      </topicref>
+   </topicref>
+   <topicref href="PART_5213.dita" navtitle="PART 5213 SIMPLIFIED ACQUISITION PROCEDURES" outputclass="Part" props="PART 5213" class="- map/topicref " base="NoTitle">
+      <topicref href="5213.000.dita" navtitle="" props="5213.000" class="- map/topicref " base="NoTitle" />
+      <topicref href="SUBPART_5213.2.dita" navtitle="" outputclass="SubPart" props="PART 5213.2" class="- map/topicref " base="NoTitle">
+         <topicref href="5213.270.dita" navtitle="" props="5213.270" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5213.3.dita" navtitle="" outputclass="SubPart" props="PART 5213.3" class="- map/topicref " base="NoTitle">
+         <topicref href="5213.303.dita" navtitle="" props="5213.303" class="- map/topicref " base="NoTitle">
+            <topicref href="5213.3032.dita" navtitle="" props="5213.303-2" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5213.305.dita" navtitle="" props="5213.305" class="- map/topicref " base="NoTitle">
+            <topicref href="5213.3053.dita" navtitle="" props="5213.305-3" class="- map/topicref " base="NoTitle" />
+         </topicref>
+      </topicref>
+   </topicref>
+   <topicref href="PART_5214.dita" navtitle="PART 5214 SEALED BIDDING" outputclass="Part" props="PART 5214" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5214.4.dita" navtitle="" outputclass="SubPart" props="PART 5214.4" class="- map/topicref " base="NoTitle">
+         <topicref href="5214.401.dita" navtitle="" props="5214.401" class="- map/topicref " base="NoTitle" />
+         <topicref href="5214.407.dita" navtitle="" props="5214.407" class="- map/topicref " base="NoTitle">
+            <topicref href="5214.4073.dita" navtitle="" props="5214.407-3" class="- map/topicref " base="NoTitle" />
+         </topicref>
+      </topicref>
+   </topicref>
+   <topicref href="PART_5215.dita" navtitle="PART 5215 CONTRACTING BY NEGOTIATION" outputclass="Part" props="PART 5215" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5215.2.dita" navtitle="" outputclass="SubPart" props="PART 5215.2" class="- map/topicref " base="NoTitle">
+         <topicref href="5215.204.dita" navtitle="" props="5215.204" class="- map/topicref " base="NoTitle">
+            <topicref href="5215.2045.dita" navtitle="" props="5215.204-5" class="- map/topicref " base="NoTitle" />
+         </topicref>
+      </topicref>
+      <topicref href="SUBPART_5215.3.dita" navtitle="" outputclass="SubPart" props="PART 5215.3" class="- map/topicref " base="NoTitle">
+         <topicref href="5215.300.dita" navtitle="" props="5215.300" class="- map/topicref " base="NoTitle" />
+         <topicref href="5215.303.dita" navtitle="" props="5215.303" class="- map/topicref " base="NoTitle" />
+         <topicref href="5215.304.dita" navtitle="" props="5215.304" class="- map/topicref " base="NoTitle" />
+         <topicref href="5215.305.dita" navtitle="" props="5215.305" class="- map/topicref " base="NoTitle" />
+         <topicref href="5215.308.dita" navtitle="" props="5215.308" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5215.4.dita" navtitle="" outputclass="SubPart" props="PART 5215.4" class="- map/topicref " base="NoTitle">
+         <topicref href="5215.402.dita" navtitle="" props="5215.402" class="- map/topicref " base="NoTitle" />
+         <topicref href="5215.403.dita" navtitle="" props="5215.403" class="- map/topicref " base="NoTitle">
+            <topicref href="5215.4031.dita" navtitle="" props="5215.403-1" class="- map/topicref " base="NoTitle" />
+            <topicref href="5215.4033.dita" navtitle="" props="5215.403-3" class="- map/topicref " base="NoTitle" />
+            <topicref href="5215.44.dita" navtitle="" props="5215.4-4" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5215.406.dita" navtitle="" props="5215.406" class="- map/topicref " base="NoTitle">
+            <topicref href="5215.4061.dita" navtitle="" props="5215.406-1" class="- map/topicref " base="NoTitle" />
+            <topicref href="5215.4063.dita" navtitle="" props="5215.406-3" class="- map/topicref " base="NoTitle" />
+         </topicref>
+      </topicref>
+      <topicref href="SUBPART_5215.6.dita" navtitle="" outputclass="SubPart" props="PART 5215.6" class="- map/topicref " base="NoTitle">
+         <topicref href="5215.606.dita" navtitle="" props="5215.606" class="- map/topicref " base="NoTitle" />
+      </topicref>
+   </topicref>
+   <topicref href="PART_5216.dita" navtitle="PART 5216 TYPES OF CONTRACTS" outputclass="Part" props="PART 5216" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5216.2.dita" navtitle="" outputclass="SubPart" props="PART 5216.2" class="- map/topicref " base="NoTitle">
+         <topicref href="5216.20290.dita" navtitle="" props="5216.202-90" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5216.3.dita" navtitle="" outputclass="SubPart" props="PART 5216.3" class="- map/topicref " base="NoTitle">
+         <topicref href="5216.306.dita" navtitle="" props="5216.306" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5216.4.dita" navtitle="" outputclass="SubPart" props="PART 5216.4" class="- map/topicref " base="NoTitle">
+         <topicref href="5216.401.dita" navtitle="" props="5216.401" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5216.5.dita" navtitle="" outputclass="SubPart" props="PART 5216.5" class="- map/topicref " base="NoTitle">
+         <topicref href="5216.504.dita" navtitle="" props="5216.504" class="- map/topicref " base="NoTitle" />
+         <topicref href="5216.505.dita" navtitle="" props="5216.505" class="- map/topicref " base="NoTitle" />
+         <topicref href="5216.506.dita" navtitle="" props="5216.506" class="- map/topicref " base="NoTitle" />
+      </topicref>
+   </topicref>
+   <topicref href="PART.dita" navtitle="PART 5217 SPECIAL CONTRACTING METHODS" outputclass="Part" props="PART" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5217.1.dita" navtitle="" outputclass="SubPart" props="PART 5217.1" class="- map/topicref " base="NoTitle">
+         <topicref href="5217.105.dita" navtitle="" props="5217.105" class="- map/topicref " base="NoTitle">
+            <topicref href="5217.1051.dita" navtitle="" props="5217.105-1" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5217.170.dita" navtitle="" props="5217.170" class="- map/topicref " base="NoTitle" />
+         <topicref href="5217.171.dita" navtitle="" props="5217.171" class="- map/topicref " base="NoTitle" />
+         <topicref href="5217.172.dita" navtitle="" props="5217.172" class="- map/topicref " base="NoTitle">
+            <topicref href="5217.17290.dita" navtitle="" props="5217.172-90" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5217.174.dita" navtitle="" props="5217.174" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5217.2.dita" navtitle="" outputclass="SubPart" props="PART 5217.2" class="- map/topicref " base="NoTitle">
+         <topicref href="5217.200.dita" navtitle="" props="5217.200" class="- map/topicref " base="NoTitle" />
+         <topicref href="5217.204.dita" navtitle="" props="5217.204" class="- map/topicref " base="NoTitle" />
+         <topicref href="5217.207.dita" navtitle="" props="5217.207" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5217.5.dita" navtitle="" outputclass="SubPart" props="PART 5217.5" class="- map/topicref " base="NoTitle">
+         <topicref href="5217.502.dita" navtitle="" props="5217.502" class="- map/topicref " base="NoTitle">
+            <topicref href="5217.5021.dita" navtitle="" props="5217.502-1" class="- map/topicref " base="NoTitle" />
+            <topicref href="5217.5022.dita" navtitle="" props="5217.502-2" class="- map/topicref " base="NoTitle" />
+         </topicref>
+      </topicref>
+      <topicref href="SUBPART_5217.7.dita" navtitle="" outputclass="SubPart" props="PART 5217.7" class="- map/topicref " base="NoTitle">
+         <topicref href="5217.703.dita" navtitle="" props="5217.703" class="- map/topicref " base="NoTitle" />
+         <topicref href="5217.770.dita" navtitle="" props="5217.770" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5217.74.dita" navtitle="" outputclass="SubPart" props="PART 5217.74" class="- map/topicref " base="NoTitle">
+         <topicref href="5217.7402.dita" navtitle="" props="5217.7402" class="- map/topicref " base="NoTitle" />
+         <topicref href="5217.7404.dita" navtitle="" props="5217.7404" class="- map/topicref " base="NoTitle">
+            <topicref href="5217.74043.dita" navtitle="" props="5217.7404-3" class="- map/topicref " base="NoTitle">
+               <topicref href="5217.74045.dita" navtitle="" props="5217.7404-5" class="- map/topicref " base="NoTitle" />
+            </topicref>
+         </topicref>
+         <topicref href="5217.7405.dita" navtitle="" props="5217.7405" class="- map/topicref " base="NoTitle" />
+      </topicref>
+   </topicref>
+   <topicref href="PART_5219.dita" navtitle="PART 5219 SMALL BUSINESS PROGRAMS" outputclass="Part" props="PART 5219" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5219.2.dita" navtitle="" outputclass="SubPart" props="PART 5219.2" class="- map/topicref " base="NoTitle">
+         <topicref href="5219.201.dita" navtitle="" props="5219.201" class="- map/topicref " base="NoTitle" />
+         <topicref href="5219.202.dita" navtitle="" props="5219.202" class="- map/topicref " base="NoTitle">
+            <topicref navtitle="" href="5219.2021.dita" audience="" otherprops="" base="NoTitle" props="5219.202-1" outputclass="" class="- map/topicref " />
+         </topicref>
+      </topicref>
+      <topicref navtitle="" href="5219.4.dita" audience="" otherprops="" base="NoTitle" props="PART 5219.4" outputclass="SubPart" class="- map/topicref ">
+         <topicref navtitle="" href="5219.402.dita" audience="" otherprops="" base="NoTitle" props="5219.402" outputclass="" class="- map/topicref " />
+      </topicref>
+      <topicref href="SUBPART_5219.5.dita" navtitle="" outputclass="SubPart" props="PART 5219.5" class="- map/topicref " base="NoTitle">
+         <topicref navtitle="" href="5219.5028.dita" audience="" otherprops="" base="NoTitle" props="5219.502-8" outputclass="" class="- map/topicref " />
+      </topicref>
+      <topicref href="SUBPART_5219.7.dita" navtitle="" outputclass="SubPart" props="PART 5219.7" class="- map/topicref " base="NoTitle">
+         <topicref href="5219.705.dita" navtitle="" props="5219.705" class="- map/topicref " base="NoTitle">
+            <topicref href="5219.7054.dita" navtitle="" props="5219.705-4" class="- map/topicref " base="NoTitle" />
+         </topicref>
+      </topicref>
+      <topicref href="SUBPART_5219.8.dita" navtitle="" outputclass="SubPart" props="PART 5219.8" class="- map/topicref " base="NoTitle">
+         <topicref href="5219.803.dita" navtitle="" props="5219.803" class="- map/topicref " base="NoTitle" />
+         <topicref href="5219.804.dita" navtitle="" props="5219.804" class="- map/topicref " base="NoTitle">
+            <topicref href="5219.8041.dita" navtitle="" props="5219.804-1" class="- map/topicref " base="NoTitle" />
+         </topicref>
+      </topicref>
+   </topicref>
+   <topicref href="PART_5222.dita" navtitle="PART 5222 APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS" outputclass="Part" props="PART 5222" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5222.1.dita" navtitle="" outputclass="SubPart" props="PART 5222.1" class="- map/topicref " base="NoTitle">
+         <topicref href="5222.101.dita" navtitle="" props="5222.101" class="- map/topicref " base="NoTitle">
+            <topicref href="5222.1011.dita" navtitle="" props="5222.101-1" class="- map/topicref " base="NoTitle" />
+            <topicref href="5222.1013.dita" navtitle="" props="5222.101-3" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5222.102.dita" navtitle="" props="5222.102" class="- map/topicref " base="NoTitle">
+            <topicref href="5222.1022.dita" navtitle="" props="5222.102-2" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5222.103.dita" navtitle="" props="5222.103" class="- map/topicref " base="NoTitle">
+            <topicref href="5222.1034.dita" navtitle="" props="5222.103-4" class="- map/topicref " base="NoTitle" />
+            <topicref href="5222.10390.dita" navtitle="" props="5222.103-90" class="- map/topicref " base="NoTitle" />
+         </topicref>
+      </topicref>
+      <topicref href="SUBPART_5222.3.dita" navtitle="" outputclass="SubPart" props="PART 5222.3" class="- map/topicref " base="NoTitle">
+         <topicref href="5222.302.dita" navtitle="" props="5222.302" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5222.4.dita" navtitle="" outputclass="SubPart" props="PART 5222.4" class="- map/topicref " base="NoTitle">
+         <topicref href="5222.406.dita" navtitle="" props="5222.406" class="- map/topicref " base="NoTitle">
+            <topicref href="5222.4061.dita" navtitle="" props="5222.406-1" class="- map/topicref " base="NoTitle" />
+            <topicref href="5222.4068.dita" navtitle="" props="5222.406-8" class="- map/topicref " base="NoTitle" />
+         </topicref>
+      </topicref>
+      <topicref href="SUBPART_5222.10.dita" navtitle="" outputclass="SubPart" props="PART 5222.10" class="- map/topicref " base="NoTitle">
+         <topicref href="5222.1006.dita" navtitle="" props="5222.1006" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5222.11.dita" navtitle="" outputclass="SubPart" props="PART 5222.11" class="- map/topicref " base="NoTitle">
+         <topicref href="5222.1103.dita" navtitle="" props="5222.1103" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5222.70.dita" navtitle="" outputclass="SubPart" props="PART 5222.70" class="- map/topicref " base="NoTitle">
+         <topicref href="5222.7003.dita" navtitle="" props="5222.7003" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5222.74.dita" navtitle="" outputclass="SubPart" props="PART 5222.74" class="- map/topicref " base="NoTitle">
+         <topicref href="5222.7404.dita" navtitle="" props="5222.7404" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5222.90.dita" navtitle="" outputclass="SubPart" props="PART 5222.90" class="- map/topicref " base="NoTitle">
+         <topicref href="5222.9000.dita" navtitle="" props="5222.9000" class="- map/topicref " base="NoTitle" />
+      </topicref>
+   </topicref>
+   <topicref href="PART_5223.dita" navtitle="PART 5223 ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG–FREE WORKPLACE" outputclass="Part" props="PART 5223" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5223.3.dita" navtitle="" outputclass="SubPart" props="PART 5223.3" class="- map/topicref " base="NoTitle">
+         <topicref href="5223.370.dita" navtitle="" props="5223.370" class="- map/topicref " base="NoTitle">
+            <topicref href="5223.3703.dita" navtitle="" props="5223.370-3" class="- map/topicref " base="NoTitle" />
+            <topicref href="5223.3705.dita" navtitle="" props="5223.370-5" class="- map/topicref " base="NoTitle" />
+         </topicref>
+      </topicref>
+      <topicref href="SUBPART_5223.4.dita" navtitle="" outputclass="SubPart" props="PART 5223.4" class="- map/topicref " base="NoTitle">
+         <topicref href="5223.406.dita" navtitle="" props="5223.406" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5223.5.dita" navtitle="" outputclass="SubPart" props="PART 5223.5" class="- map/topicref " base="NoTitle">
+         <topicref href="5223.506.dita" navtitle="" props="5223.506" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5223.8.dita" navtitle="" outputclass="SubPart" props="PART 5223.8" class="- map/topicref " base="NoTitle">
+         <topicref href="5223.803.dita" navtitle="" props="5223.803" class="- map/topicref " base="NoTitle" />
+      </topicref>
+   </topicref>
+   <topicref href="PART_5225.dita" navtitle="PART 5225 FOREIGN ACQUISITION" outputclass="Part" props="PART 5225" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5225.1.dita" navtitle="" outputclass="SubPart" props="PART 5225.1" class="- map/topicref " base="NoTitle">
+         <topicref href="5225.103.dita" navtitle="" props="5225.103" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5225.2.dita" navtitle="" outputclass="SubPart" props="PART 5225.2" class="- map/topicref " base="NoTitle">
+         <topicref href="5225.202.dita" navtitle="" props="5225.202" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5225.3.dita" navtitle="" outputclass="SubPart" props="PART 5225.3" class="- map/topicref " base="NoTitle">
+         <topicref href="5225.370.dita" navtitle="" props="5225.370" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5225.4.dita" navtitle="" outputclass="SubPart" props="PART 5225.4" class="- map/topicref " base="NoTitle">
+         <topicref href="5225.401.dita" navtitle="" props="5225.401" class="- map/topicref " base="NoTitle" />
+         <topicref href="5225.403.dita" navtitle="" props="5225.403" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5225.7.dita" navtitle="" outputclass="SubPart" props="PART 5225.7" class="- map/topicref " base="NoTitle">
+         <topicref href="5225.702.dita" navtitle="" props="5225.702" class="- map/topicref " base="NoTitle">
+            <topicref href="5225.7024.dita" navtitle="" props="5225.702-4" class="- map/topicref " base="NoTitle" />
+            <topicref href="5225.7034.dita" navtitle="" props="5225.703-4" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5225.770.dita" navtitle="" props="5225.770" class="- map/topicref " base="NoTitle">
+            <topicref href="5225.7705.dita" navtitle="" props="5225.770-5" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5225.771.dita" navtitle="" props="5225.771" class="- map/topicref " base="NoTitle">
+            <topicref href="5225.7713.dita" navtitle="" props="5225.771-3" class="- map/topicref " base="NoTitle" />
+            <topicref href="5225.7714.dita" navtitle="" props="5225.771-4" class="- map/topicref " base="NoTitle" />
+            <topicref href="5225.7723.dita" navtitle="" props="5225.772-3" class="- map/topicref " base="NoTitle" />
+            <topicref href="5225.7724.dita" navtitle="" props="5225.772-4" class="- map/topicref " base="NoTitle" />
+         </topicref>
+      </topicref>
+      <topicref href="SUBPART_5225.8.dita" navtitle="" outputclass="SubPart" props="PART 5225.8" class="- map/topicref " base="NoTitle">
+         <topicref href="5225.802.dita" navtitle="" props="5225.802" class="- map/topicref " base="NoTitle">
+            <topicref href="5225.80271.dita" navtitle="" props="5225.802-71" class="- map/topicref " base="NoTitle" />
+            <topicref href="5225.80290.dita" navtitle="" props="5225.802-90" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5225.871.dita" navtitle="" props="5225.871" class="- map/topicref " base="NoTitle">
+            <topicref href="5225.8714.dita" navtitle="" props="5225.871-4" class="- map/topicref " base="NoTitle" />
+            <topicref href="5225.8717.dita" navtitle="" props="5225.871-7" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5225.872.dita" navtitle="" props="5225.872" class="- map/topicref " base="NoTitle">
+            <topicref href="5225.8723.dita" navtitle="" props="5225.872-3" class="- map/topicref " base="NoTitle" />
+         </topicref>
+      </topicref>
+      <topicref href="SUBPART_5225.70.dita" navtitle="" outputclass="SubPart" props="PART 5225.70" class="- map/topicref " base="NoTitle">
+         <topicref href="5225.7002.dita" navtitle="" props="5225.7002" class="- map/topicref " base="NoTitle">
+            <topicref href="5225.70022.dita" navtitle="" props="5225.7002-2" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5225.7003.dita" navtitle="" props="5225.7003" class="- map/topicref " base="NoTitle">
+            <topicref href="5225.70033.dita" navtitle="" props="5225.7003-3" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5225.7007.dita" navtitle="" props="5225.7007" class="- map/topicref " base="NoTitle">
+            <topicref href="5225.70072.dita" navtitle="" props="5225.7007-2" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5225.7009.dita" navtitle="" props="5225.7009" class="- map/topicref " base="NoTitle">
+            <topicref href="5225.70094.dita" navtitle="" props="5225.7009-4" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5225.7011.dita" navtitle="" props="5225.7011" class="- map/topicref " base="NoTitle">
+            <topicref href="5225.70112.dita" navtitle="" props="5225.7011-2" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5225.7012.dita" navtitle="" props="5225.7012" class="- map/topicref " base="NoTitle">
+            <topicref href="5225.70122.dita" navtitle="" props="5225.7012-2" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5225.7018.dita" navtitle="" props="5225.7018" class="- map/topicref " base="NoTitle">
+            <topicref href="5225.70184.dita" navtitle="" props="5225.7018-4" class="- map/topicref " base="NoTitle" />
+         </topicref>
+      </topicref>
+      <topicref href="SUBPART_5225.73.dita" navtitle="" outputclass="SubPart" props="PART 5225.73" class="- map/topicref " base="NoTitle">
+         <topicref href="5225.7301.dita" navtitle="" props="5225.7301" class="- map/topicref " base="NoTitle">
+            <topicref href="5225.73012.dita" navtitle="" props="5225.7301-2" class="- map/topicref " base="NoTitle" />
+         </topicref>
+      </topicref>
+      <topicref href="SUBPART_5225.76.dita" navtitle="" outputclass="SubPart" props="PART 5225.76" class="- map/topicref " base="NoTitle">
+         <topicref href="5225.7604.dita" navtitle="" props="5225.7604" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5225.77.dita" navtitle="" outputclass="SubPart" props="PART 5225.77" class="- map/topicref " base="NoTitle">
+         <topicref href="5225.7799.dita" navtitle="" props="5225.7799" class="- map/topicref " base="NoTitle" />
+      </topicref>
+   </topicref>
+   <topicref href="PART_5227.dita" navtitle="PART 5227 PATENTS, DATA AND COPYRIGHTS" outputclass="Part" props="PART 5227" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5227.70.dita" navtitle="" outputclass="SubPart" props="PART 5227.70" class="- map/topicref " base="NoTitle">
+         <topicref href="5227.7013.dita" navtitle="" props="5227.7013" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5227.90.dita" navtitle="" outputclass="SubPart" props="PART 5227.90" class="- map/topicref " base="NoTitle">
+         <topicref href="5227.9001.dita" navtitle="" props="5227.9001" class="- map/topicref " base="NoTitle" />
+      </topicref>
+   </topicref>
+   <topicref href="PART_5228.dita" navtitle="PART 5228 BONDS AND INSURANCE" outputclass="Part" props="PART 5228" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5228.3.dita" navtitle="" outputclass="SubPart" props="PART 5228.3" class="- map/topicref " base="NoTitle">
+         <topicref href="5228.301.dita" navtitle="" props="5228.301" class="- map/topicref " base="NoTitle">
+            <topicref href="5228.30190.dita" navtitle="" props="5228.301-90" class="- map/topicref " base="NoTitle" />
+            <topicref href="5228.30191.dita" navtitle="" props="5228.301-91" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5228.305.dita" navtitle="" props="5228.305" class="- map/topicref " base="NoTitle" />
+         <topicref href="5228.307.dita" navtitle="" props="5228.307" class="- map/topicref " base="NoTitle">
+            <topicref href="5228.3071.dita" navtitle="" props="5228.307-1" class="- map/topicref " base="NoTitle" />
+            <topicref href="5228.30790.dita" navtitle="" props="5228.307-90" class="- map/topicref " base="NoTitle" />
+         </topicref>
+      </topicref>
+      <topicref href="SUBPART_5228.90.dita" navtitle="" outputclass="SubPart" props="PART 5228.90" class="- map/topicref " base="NoTitle">
+         <topicref href="5228.9000.dita" navtitle="" props="5228.9000" class="- map/topicref " base="NoTitle" />
+         <topicref href="5228.9001.dita" navtitle="" props="5228.9001" class="- map/topicref " base="NoTitle" />
+         <topicref href="5228.9002.dita" navtitle="" props="5228.9002" class="- map/topicref " base="NoTitle" />
+         <topicref href="5228.9003.dita" navtitle="" props="5228.9003" class="- map/topicref " base="NoTitle" />
+      </topicref>
+   </topicref>
+   <topicref href="PART_5229.dita" navtitle="PART 5229 TAXES" outputclass="Part" props="PART 5229" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5229.3.dita" navtitle="" outputclass="SubPart" props="PART 5229.3" class="- map/topicref " base="NoTitle">
+         <topicref href="5229.302.dita" navtitle="" props="5229.302" class="- map/topicref " base="NoTitle" />
+      </topicref>
+   </topicref>
+   <topicref href="PART_5230.dita" navtitle="PART 5230 COST ACCOUNTING STANDARDS ADMINISTRATION" outputclass="Part" props="PART 5230" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5230.2.dita" navtitle="" outputclass="SubPart" props="PART 5230.2" class="- map/topicref " base="NoTitle">
+         <topicref href="5230.201.dita" navtitle="" props="5230.201" class="- map/topicref " base="NoTitle">
+            <topicref href="5230.2015.dita" navtitle="" props="5230.201-5" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5230.202.dita" navtitle="" props="5230.202" class="- map/topicref " base="NoTitle">
+            <topicref href="5230.2022.dita" navtitle="" props="5230.202-2" class="- map/topicref " base="NoTitle" />
+         </topicref>
+      </topicref>
+   </topicref>
+   <topicref href="PART_5231.dita" navtitle="PART 5231 CONTRACT COST PRINCIPLES AND PROCEDURES" outputclass="Part" props="PART 5231" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5231.1.dita" navtitle="" outputclass="SubPart" props="PART 5231.1" class="- map/topicref " base="NoTitle">
+         <topicref href="5231.109.dita" navtitle="" props="5231.109" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5231.2.dita" navtitle="" outputclass="SubPart" props="PART 5231.2" class="- map/topicref " base="NoTitle">
+         <topicref href="5231.205.dita" navtitle="" props="5231.205" class="- map/topicref " base="NoTitle">
+            <topicref href="5231.20590.dita" navtitle="" props="5231.205-90" class="- map/topicref " base="NoTitle" />
+            <topicref href="5231.20591.dita" navtitle="" props="5231.205-91" class="- map/topicref " base="NoTitle" />
+         </topicref>
+      </topicref>
+   </topicref>
+   <topicref href="PART_5232.dita" navtitle="PART 5232 CONTRACT FINANCING" outputclass="Part" props="PART 5232" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5232.2.dita" navtitle="" outputclass="SubPart" props="PART 5232.2" class="- map/topicref " base="NoTitle">
+         <topicref href="5232.202.dita" navtitle="" props="5232.202" class="- map/topicref " base="NoTitle">
+            <topicref href="5232.2021.dita" navtitle="" props="5232.202-1" class="- map/topicref " base="NoTitle" />
+         </topicref>
+      </topicref>
+      <topicref href="SUBPART_5232.4.dita" navtitle="" outputclass="SubPart" props="PART 5232.4" class="- map/topicref " base="NoTitle">
+         <topicref href="5232.402.dita" navtitle="" props="5232.402" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5232.5.dita" navtitle="" outputclass="SubPart" props="PART 5232.5" class="- map/topicref " base="NoTitle">
+         <topicref href="5232.501.dita" navtitle="" props="5232.501" class="- map/topicref " base="NoTitle">
+            <topicref href="5232.5012.dita" navtitle="" props="5232.501-2" class="- map/topicref " base="NoTitle" />
+         </topicref>
+      </topicref>
+      <topicref href="SUBPART_5232.6.dita" navtitle="" outputclass="SubPart" props="PART 5232.6" class="- map/topicref " base="NoTitle">
+         <topicref href="5232.607.dita" navtitle="" props="5232.607" class="- map/topicref " base="NoTitle">
+            <topicref href="5232.6072.dita" navtitle="" props="5232.607-2" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5232.690.dita" navtitle="" props="5232.690" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5232.70.dita" navtitle="" outputclass="SubPart" props="PART 5232.70" class="- map/topicref " base="NoTitle">
+         <topicref href="5232.7003.dita" navtitle="" props="5232.7003" class="- map/topicref " base="NoTitle" />
+      </topicref>
+   </topicref>
+   <topicref href="PART_5233.dita" navtitle="PART 5233 PROTESTS, DISPUTES, AND APPEALS" outputclass="Part" props="PART 5233" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5233.1.dita" navtitle="" outputclass="SubPart" props="PART 5233.1" class="- map/topicref " base="NoTitle">
+         <topicref href="5233.103.dita" navtitle="" props="5233.103" class="- map/topicref " base="NoTitle" />
+         <topicref href="5233.104.dita" navtitle="" props="5233.104" class="- map/topicref " base="NoTitle" />
+         <topicref href="5233.170.dita" navtitle="" props="5233.170" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5233.2.dita" navtitle="" outputclass="SubPart" props="PART 5233.2" class="- map/topicref " base="NoTitle">
+         <topicref href="5233.201.dita" navtitle="" props="5233.201" class="- map/topicref " base="NoTitle" />
+         <topicref href="5233.203.dita" navtitle="" props="5233.203" class="- map/topicref " base="NoTitle" />
+         <topicref href="5233.204.dita" navtitle="" props="5233.204" class="- map/topicref " base="NoTitle">
+            <topicref href="5233.20490.dita" navtitle="" props="5233.204-90" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5233.209.dita" navtitle="" props="5233.209" class="- map/topicref " base="NoTitle" />
+         <topicref href="5233.211.dita" navtitle="" props="5233.211" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5233.90.dita" navtitle="" outputclass="SubPart" props="PART 5233.90" class="- map/topicref " base="NoTitle">
+         <topicref href="5233.9001.dita" navtitle="" props="5233.9001" class="- map/topicref " base="NoTitle" />
+         <topicref href="5233.9002.dita" navtitle="" props="5233.9002" class="- map/topicref " base="NoTitle" />
+      </topicref>
+   </topicref>
+   <topicref href="PART_5234.dita" navtitle="PART 5234 MAJOR SYSTEM ACQUISITION" outputclass="Part" props="PART 5234" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5234.2.dita" navtitle="" outputclass="SubPart" props="PART 5234.2" class="- map/topicref " base="NoTitle">
+         <topicref href="5234.203.dita" navtitle="" props="5234.203" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5234.70.dita" navtitle="" outputclass="SubPart" props="PART 5234.70" class="- map/topicref " base="NoTitle">
+         <topicref href="5234.7002.dita" navtitle="" props="5234.7002" class="- map/topicref " base="NoTitle" />
+      </topicref>
+   </topicref>
+   <topicref href="PART_5235.dita" navtitle="PART 5235 RESEARCH AND DEVELOPMENT CONTRACTING" outputclass="Part" props="PART 5235" class="- map/topicref " base="NoTitle">
+      <topicref href="5235.006.dita" navtitle="" props="5235.006" class="- map/topicref " base="NoTitle" />
+      <topicref href="5235.015.dita" navtitle="" props="5235.015" class="- map/topicref " base="NoTitle">
+         <topicref href="5235.01570.dita" navtitle="" props="5235.015-70" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="5235.070.dita" navtitle="" props="5235.070" class="- map/topicref " base="NoTitle">
+         <topicref href="5235.0701.dita" navtitle="" props="5235.070-1" class="- map/topicref " base="NoTitle" />
+      </topicref>
+   </topicref>
+   <topicref href="PART_5236.dita" navtitle="PART 5236 CONSTRUCTION AND ARCHITECT–ENGINEER CONTRACTS" outputclass="Part" props="PART 5236" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5236.2.dita" navtitle="" outputclass="SubPart" props="PART 5236.2" class="- map/topicref " base="NoTitle">
+         <topicref href="5236.270.dita" navtitle="" props="5236.270" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5236.6.dita" navtitle="" outputclass="SubPart" props="PART 5236.6" class="- map/topicref " base="NoTitle">
+         <topicref href="5236.601.dita" navtitle="" props="5236.601" class="- map/topicref " base="NoTitle" />
+      </topicref>
+   </topicref>
+   <topicref href="PART_5237.dita" navtitle="PART 5237 SERVICE CONTRACTING" outputclass="Part" props="PART 5237" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5237.1.dita" navtitle="" outputclass="SubPart" props="PART 5237.1" class="- map/topicref " base="NoTitle">
+         <topicref href="5237.102.dita" navtitle="" props="5237.102" class="- map/topicref " base="NoTitle">
+            <topicref href="5237.10271.dita" navtitle="" props="5237.102-71" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5237.103.dita" navtitle="" props="5237.103" class="- map/topicref " base="NoTitle" />
+         <topicref href="5237.104.dita" navtitle="" props="5237.104" class="- map/topicref " base="NoTitle" />
+         <topicref href="5237.170.dita" navtitle="" props="5237.170" class="- map/topicref " base="NoTitle">
+            <topicref href="5237.1702.dita" navtitle="" props="5237.170-2" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5237.192.dita" navtitle="" props="5237.192" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5237.2.dita" navtitle="" outputclass="SubPart" props="PART 5237.2" class="- map/topicref " base="NoTitle">
+         <topicref href="5237.204.dita" navtitle="" props="5237.204" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5237.5.dita" navtitle="" outputclass="SubPart" props="PART 5237.5" class="- map/topicref " base="NoTitle">
+         <topicref href="5237.502.dita" navtitle="" props="5237.502" class="- map/topicref " base="NoTitle" />
+         <topicref href="5237.503.dita" navtitle="" props="5237.503" class="- map/topicref " base="NoTitle" />
+         <topicref href="5237.504.dita" navtitle="" props="5237.504" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5237.76.dita" navtitle="" outputclass="SubPart" props="PART 5237.76" class="- map/topicref " base="NoTitle">
+         <topicref href="5237.7602.dita" navtitle="" props="5237.7602" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5237.90.dita" navtitle="" outputclass="SubPart" props="PART 5237.90" class="- map/topicref " base="NoTitle">
+         <topicref href="5237.9000.dita" navtitle="" props="5237.9000" class="- map/topicref " base="NoTitle" />
+      </topicref>
+   </topicref>
+   <topicref href="PART_5239.dita" navtitle="PART 5239 ACQUISITION OF INFORMATION TECHNOLOGY" outputclass="Part" props="PART 5239" class="- map/topicref " base="NoTitle">
+      <topicref href="5239.001.dita" navtitle="" props="5239.001" class="- map/topicref " base="NoTitle" />
+      <topicref href="SUBPART_5239.73.dita" navtitle="" outputclass="SubPart" props="PART 5239.73" class="- map/topicref " base="NoTitle">
+         <topicref href="5239.7304.dita" navtitle="" props="5239.7304" class="- map/topicref " base="NoTitle" />
+      </topicref>
+   </topicref>
+   <topicref href="PART_5241.dita" navtitle="PART 5241 ACQUISITION OF UTILITY SERVICES" outputclass="Part" props="PART 5241" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5241.2.dita" navtitle="" outputclass="SubPart" props="PART 5241.2" class="- map/topicref " base="NoTitle">
+         <topicref href="5241.201.dita" navtitle="" props="5241.201" class="- map/topicref " base="NoTitle" />
+      </topicref>
+   </topicref>
+   <topicref href="PART_5242.dita" navtitle="PART 5242 CONTRACT ADMINISTRATION AND AUDIT SERVICES" outputclass="Part" props="PART 5242" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5242.1.dita" navtitle="" outputclass="SubPart" props="PART 5242.1" class="- map/topicref " base="NoTitle">
+         <topicref href="5242.191.dita" navtitle="" props="5242.191" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5242.6.dita" navtitle="" outputclass="SubPart" props="PART 5242.6" class="- map/topicref " base="NoTitle">
+         <topicref href="5242.602.dita" navtitle="" props="5242.602" class="- map/topicref " base="NoTitle" />
+      </topicref>
+   </topicref>
+   <topicref href="PART_5243.dita" navtitle="PART 5243 CONTRACT MODIFICATIONS" outputclass="Part" props="PART 5243" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5243.2.dita" navtitle="" outputclass="SubPart" props="PART 5243.2" class="- map/topicref " base="NoTitle">
+         <topicref href="5243.201.dita" navtitle="" props="5243.201" class="- map/topicref " base="NoTitle" />
+         <topicref href="5243.204.dita" navtitle="" props="5243.204" class="- map/topicref " base="NoTitle">
+            <topicref href="5243.20470.dita" navtitle="" props="5243.204-70" class="- map/topicref " base="NoTitle">
+               <topicref href="5243.204701.dita" navtitle="" props="5243.204-70-1" class="- map/topicref " base="NoTitle" />
+               <topicref navtitle="" href="5243.204707.dita" audience="" otherprops="" base="NoTitle" props="5243.204-70-7" outputclass="" class="- map/topicref " />
+            </topicref>
+         </topicref>
+      </topicref>
+   </topicref>
+   <topicref href="PART_5245.dita" navtitle="PART 5245 GOVERNMENT PROPERTY" outputclass="Part" props="PART 5245" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5245.1.dita" navtitle="" outputclass="SubPart" props="PART 5245.1" class="- map/topicref " base="NoTitle">
+         <topicref href="5245.102.dita" navtitle="" props="5245.102" class="- map/topicref " base="NoTitle">
+            <topicref href="5245.10371.dita" navtitle="" props="5245.103-71" class="- map/topicref " base="NoTitle" />
+            <topicref href="5245.10374.dita" navtitle="" props="5245.103-74" class="- map/topicref " base="NoTitle" />
+         </topicref>
+      </topicref>
+      <topicref href="SUBPART_5245.6.dita" navtitle="" outputclass="SubPart" props="PART 5245.6" class="- map/topicref " base="NoTitle">
+         <topicref href="5245.602.dita" navtitle="" props="5245.602" class="- map/topicref " base="NoTitle">
+            <topicref href="5245.6023.dita" navtitle="" props="5245.602-3" class="- map/topicref " base="NoTitle" />
+         </topicref>
+      </topicref>
+   </topicref>
+   <topicref href="PART_5246.dita" navtitle="PART 5246 QUALITY ASSURANCE" outputclass="Part" props="PART 5246" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5246.7.dita" navtitle="" outputclass="SubPart" props="PART 5246.7" class="- map/topicref " base="NoTitle">
+         <topicref href="5246.703.dita" navtitle="" props="5246.703" class="- map/topicref " base="NoTitle" />
+         <topicref href="5246.704.dita" navtitle="" props="5246.704" class="- map/topicref " base="NoTitle" />
+         <topicref href="5246.706.dita" navtitle="" props="5246.706" class="- map/topicref " base="NoTitle" />
+      </topicref>
+   </topicref>
+   <topicref href="PART_5248.dita" navtitle="PART 5248 VALUE ENGINEERING" outputclass="Part" props="PART 5248" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5248.1.dita" navtitle="" outputclass="SubPart" props="PART 5248.1" class="- map/topicref " base="NoTitle">
+         <topicref href="5248.103.dita" navtitle="" props="5248.103" class="- map/topicref " base="NoTitle" />
+      </topicref>
+   </topicref>
+   <topicref href="PART_5249.dita" navtitle="PART 5249 TERMINATION OF CONTRACTS" outputclass="Part" props="PART 5249" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5249.4.dita" navtitle="" outputclass="SubPart" props="PART 5249.4" class="- map/topicref " base="NoTitle">
+         <topicref href="5249.402.dita" navtitle="" props="5249.402" class="- map/topicref " base="NoTitle">
+            <topicref href="5249.4028.dita" navtitle="" props="5249.402-8" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5249.403.dita" navtitle="" props="5249.403" class="- map/topicref " base="NoTitle" />
+      </topicref>
+      <topicref href="SUBPART_5249.70.dita" navtitle="" outputclass="SubPart" props="PART 5249.70" class="- map/topicref " base="NoTitle">
+         <topicref href="5249.7001.dita" navtitle="" props="5249.7001" class="- map/topicref " base="NoTitle" />
+      </topicref>
+   </topicref>
+   <topicref href="PART_5250.dita" navtitle="PART 5250 EXTRAORDINARY CONTRACTUAL ACTIONS AND THE SAFETY ACT" outputclass="Part" props="PART 5250" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5250.1.dita" navtitle="" outputclass="SubPart" props="PART 5250.1" class="- map/topicref " base="NoTitle">
+         <topicref href="5250.101.dita" navtitle="" props="5250.101" class="- map/topicref " base="NoTitle">
+            <topicref href="5250.1013.dita" navtitle="" props="5250.101-3" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5250.102.dita" navtitle="" props="5250.102" class="- map/topicref " base="NoTitle">
+            <topicref href="5250.102170.dita" navtitle="" props="5250.102-1-70" class="- map/topicref " base="NoTitle" />
+            <topicref href="5250.1022.dita" navtitle="" props="5250.102-2" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5250.103.dita" navtitle="" props="5250.103" class="- map/topicref " base="NoTitle">
+            <topicref href="5250.1035.dita" navtitle="" props="5250.103-5" class="- map/topicref " base="NoTitle" />
+            <topicref href="5250.1036.dita" navtitle="" props="5250.103-6" class="- map/topicref " base="NoTitle" />
+         </topicref>
+         <topicref href="5250.104.dita" navtitle="" props="5250.104" class="- map/topicref " base="NoTitle">
+            <topicref href="5250.1043.dita" navtitle="" props="5250.104-3" class="- map/topicref " base="NoTitle" />
+         </topicref>
+      </topicref>
+   </topicref>
+   <topicref href="PART_5252.dita" navtitle="PART 5252 SOLICITATION PROVISIONS AND CONTRACT CLAUSES" outputclass="Part" props="PART 5252" class="- map/topicref " base="NoTitle">
+      <topicref href="SUBPART_5252.2.dita" navtitle="" outputclass="SubPart" props="PART 5252.2" class="- map/topicref " base="NoTitle">
+         <topicref href="5252.200.dita" navtitle="" props="5252.200" class="- map/topicref " base="NoTitle">
+            <topicref href="5252.2239000.dita" navtitle="" props="5252.223-9000" class="- map/topicref " base="NoTitle" />
+         </topicref>
+      </topicref>
+   </topicref>
+   <topicref href="Annex-1.dita" navtitle="" props="ANNEX 1" class="- map/topicref " base="NoTitle" />
+   <topicref href="Annex-2.dita" navtitle="" props="ANNEX 2" class="- map/topicref " base="NoTitle" />
+   <topicref href="Annex-3.dita" navtitle="" props="ANNEX 3" class="- map/topicref " base="NoTitle" />
+   <topicref href="Annex-4.dita" navtitle="" props="ANNEX 4" class="- map/topicref " base="NoTitle" />
+   <topicref href="Annex-5.dita" navtitle="" props="ANNEX 5" class="- map/topicref " base="NoTitle" />
+   <topicref href="Annex-6.dita" navtitle="" props="ANNEX 6" class="- map/topicref " base="NoTitle" />
+   <topicref href="Annex-7.dita" navtitle="" props="ANNEX 7" class="- map/topicref " base="NoTitle" />
+   <topicref href="Annex-8.dita" navtitle="" props="ANNEX 8" class="- map/topicref " base="NoTitle" />
+   <topicref href="Annex-9.dita" navtitle="" props="ANNEX 9" class="- map/topicref " base="NoTitle" />
+   <topicref href="Annex-10.dita" navtitle="" props="ANNEX 10" class="- map/topicref " base="NoTitle" />
+   <topicref href="Annex-11.dita" navtitle="" class="- map/topicref " base="NoTitle" />
+   <topicref href="Annex-12.dita" navtitle="" props="ANNEX 12" class="- map/topicref " base="NoTitle" />
+   <topicref href="Annex-13.dita" navtitle="" props="ANNEX 13" class="- map/topicref " base="NoTitle" />
+   <topicref href="Annex-14.dita" navtitle="" class="- map/topicref " base="NoTitle" />
+   <topicref href="Annex-15.dita" navtitle="" props="ANNEX 15" class="- map/topicref " base="NoTitle" />
+   <topicref href="Annex-16.dita" navtitle="" class="- map/topicref " base="NoTitle" />
+   <topicref href="Annex-17.dita" navtitle="" props="ANNEX 17" class="- map/topicref " base="NoTitle" />
+   <topicref href="Annex-18.dita" navtitle="" props="ANNEX 18" class="- map/topicref " base="NoTitle" />
+   <topicref href="Annex-19.dita" navtitle="" props="ANNEX 19" class="- map/topicref " base="NoTitle" />
+   <topicref href="Annex-20.dita" navtitle="" props="ANNEX 20" class="- map/topicref " base="NoTitle" />
+   <topicref href="Annex-21.dita" navtitle="" props="ANNEX 21" class="- map/topicref " base="NoTitle" />
+   <topicref href="Annex-22.dita" navtitle="" props="ANNEX 22" class="- map/topicref " base="NoTitle" />
+   <topicref href="Annex-23.dita" navtitle="" props="ANNEX 23" class="- map/topicref " base="NoTitle" />
+   <topicref href="Annex-24.dita" navtitle="" props="ANNEX 24" class="- map/topicref " base="NoTitle" />
+   <topicref href="Annex-25.dita" navtitle="" props="ANNEX 25" class="- map/topicref " base="NoTitle" />
+</map>

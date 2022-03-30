@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="NMCARS_NMCARS2_topic_72">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5204.805</ph> Storage, handling, and contract files.</title>
+   <conbody>
+      <p id="WBEMPt" outputclass="Normal">(c) Contracts, task and delivery orders and any modifications thereto (and related records or documents, including successful and unsuccessful proposals) shall be retained for 10 years after final payment.</p>
+   </conbody>
+</concept>

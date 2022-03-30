@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="NMCARS_NMCARS2_topic_262">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5222.406-8</ph> Investigations.</title>
+   <conbody>
+      <p id="eRQGkK" outputclass="Normal">(d) <i>Contracting officer's report</i>. (1) For NAVFACENGCOM contracts, the contracting officer's report shall be forwarded to NAVFACENGCOMHQ via email at <xref format="mailto" href="mailto:NAVFAC_Labor_Advisor@navy.mil" scope="external">
+            <u>NAVFAC_Labor_Advisor@navy.mil</u>
+         </xref>. For all other contracts, forward the report to DASN(P) by email at <xref format="mailto" href="mailto:NavyLaborAdvisor@navy.mil" scope="external">
+            <u>NavyLaborAdvisor@navy.mil</u>
+         </xref> with the subject “DFARS 222.406-8 – Labor Standards Compliance: Contracting Officer’s Report.”</p>
+      <p id="zVKXia" outputclass="List2">(2)(iv) Forward the report to the Attorney General of the United States via DASN(P) by email at <xref format="mailto" href="mailto:NavyLaborAdvisor@navy.mil" scope="external">
+            <u>NavyLaborAdvisor@navy.mil</u>
+         </xref> with the subject “DFARS 222.406-8 – Labor Standards Compliance: Contracting Officer’s Report – Attorney General Notification.” DASN(P) will notify the Administrator, Wage and Hour Division.</p>
+   </conbody>
+</concept>

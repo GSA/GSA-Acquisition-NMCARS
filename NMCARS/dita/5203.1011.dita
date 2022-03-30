@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="NMCARS_NMCARS2_topic_49">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5203.101-1</ph> General.</title>
+   <conbody>
+      <p id="TQocRp" outputclass="Normal">(a) DON contracting activities, purchasing offices and CAOs are responsible for ensuring that a single individual performs only one of the following functions:</p>
+      <p id="bkWiMY" outputclass="List2">(1) initiation of the requirement;</p>
+      <p id="AzGSsK" outputclass="List2">(2) award of contract or placement of order; and</p>
+      <p id="wRXJhg" outputclass="List2">(3) receipt, inspection, and acceptance of supplies or services.</p>
+      <p id="cqMkoh" outputclass="Normal">(b) If circumstances preclude an individual from performing a single function, as a minimum, the individual responsible for the award of a contract or placement of an order should not perform the receipt, inspection and acceptance function.</p>
+   </conbody>
+</concept>

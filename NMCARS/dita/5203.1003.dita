@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="NMCARS_NMCARS2_topic_62">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5203.1003</ph> Requirements.</title>
+   <conbody>
+      <p id="xsiIds" outputclass="Normal">(b) <i>Notification of possible contractor violation</i>. In addition to the actions required by FAR 3.1003(b), the contracting officer shall provide a copy of the notification, within 10 days of receipt, to the Acquisition Integrity Office by email at <xref format="mailto" href="mailto:aio@navy.mil" scope="external">
+            <u>aio@navy.mil</u>
+         </xref> with the subject “FAR 3.1003 – Possible Contractor Ethics Violation.”</p>
+   </conbody>
+</concept>
