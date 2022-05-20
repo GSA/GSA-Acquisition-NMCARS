@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="NMCARS_NM_Anex_topic_8">
+<concept id="NMCARS_Annex-8">
    <title outputclass="Ctr 1 heading">
       <ph props="autonumber">ANNEX 8</ph> – PEER REVIEW ROLLING FORECAST</title>
    <conbody>
@@ -14,13 +14,13 @@
          <b>DON Peer Review Rolling Forecast Spreadsheet</b>
       </p>
       <p id="nEeLGR" outputclass="Normal">
-         <image height="246px" href="Graphics/image2.png" width="1000px" />
+         <image  href="Graphics/image2.png" scale="40"/>
       </p>
       <p id="POqspB" outputclass="Normal">
          <i>-continued columns on spreadsheet</i>
       </p>
       <p id="FHsgrO" outputclass="Normal">
-         <image href="Graphics/image3.png" width="1000px" />
+         <image href="Graphics/image3.png" scale="40" />
       </p>
    </conbody>
 </concept>

@@ -2,30 +2,29 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="NMCARS_NMCARS2_topic_455">
+   <topic id="NMCARS_PART_5245">
       <title outputclass="1 heading part Ctr" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 5245</ph> GOVERNMENT PROPERTY</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5245.1.dita#NMCARS_NMCARS2_topic_456">SUBPART 5245.1 — GENERAL</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5245.1.dita#NMCARS_SUBPART_5245.1">SUBPART 5245.1 — GENERAL</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5245.102.dita#NMCARS_NMCARS2_topic_457">5245.102 Policy.</xref>
+                        <xref outputclass="fm:TOC" href="5245.102.dita#NMCARS_5245.102">5245.102 Policy.</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5245.10371.dita#NMCARS_NMCARS2_topic_458">5245.103-71 Transferring Government property accountability.</xref>
+                              <xref outputclass="fm:TOC" href="5245.10371.dita#NMCARS_5245.10371">5245.103-71 Transferring Government property accountability.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5245.10374.dita#NMCARS_NMCARS2_topic_459">5245.103-74 Contracting office responsibilities.</xref>
+                              <xref outputclass="fm:TOC" href="5245.10374.dita#NMCARS_5245.10374">5245.103-74 Contracting office responsibilities.</xref>
                            </p>
                         </li>
                      </ul>
@@ -34,18 +33,17 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5245.6.dita#NMCARS_NMCARS2_topic_460">SUBPART 5245.6 — REPORTING, REUTILIZATION AND DISPOSAL</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5245.6.dita#NMCARS_SUBPART_5245.6">SUBPART 5245.6 — REPORTING, REUTILIZATION AND DISPOSAL</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5245.602.dita#NMCARS_NMCARS2_topic_461">5245.602 Reutilization of Government property.</xref>
+                        <xref outputclass="fm:TOC" href="5245.602.dita#NMCARS_5245.602">5245.602 Reutilization of Government property.</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5245.6023.dita#NMCARS_NMCARS2_topic_462">5245.602-3 Screening.</xref>
+                              <xref outputclass="fm:TOC" href="5245.6023.dita#NMCARS_5245.6023">5245.602-3 Screening.</xref>
                            </p>
                         </li>
                      </ul>

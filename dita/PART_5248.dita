@@ -2,20 +2,19 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="NMCARS_NMCARS2_topic_468">
+   <topic id="NMCARS_PART_5248">
       <title outputclass="1 heading part Ctr" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 5248</ph> VALUE ENGINEERING</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5248.1.dita#NMCARS_NMCARS2_topic_469">SUBPART 5248.1 —POLICIES AND PROCEDURES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5248.1.dita#NMCARS_SUBPART_5248.1">SUBPART 5248.1 —POLICIES AND PROCEDURES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5248.103.dita#NMCARS_NMCARS2_topic_470">5248.103 Processing value engineering change proposals.</xref>
+                        <xref outputclass="fm:TOC" href="5248.103.dita#NMCARS_5248.103">5248.103 Processing value engineering change proposals.</xref>
                      </p>
                   </li>
                </ul>

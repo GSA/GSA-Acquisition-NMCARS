@@ -2,36 +2,36 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="NMCARS_NMCARS2_topic_79">
+   <topic id="NMCARS_PART_5205">
       <title outputclass="Ctr 1 heading part" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 5205</ph> PUBLICIZING CONTRACT ACTIONS</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5205.3.dita#NMCARS_NMCARS2_topic_80">SUBPART 5205.3 — SYNOPSES OF CONTRACT AWARDS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5205.3.dita#NMCARS_SUBPART_5205.3">SUBPART 5205.3 — SYNOPSES OF CONTRACT AWARDS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5205.303.dita#NMCARS_NMCARS2_topic_81">5205.303 Announcement of contract awards.</xref>
+                        <xref outputclass="fm:TOC" href="5205.303.dita#NMCARS_5205.303">5205.303 Announcement of contract awards.</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5205.4.dita#NMCARS_NMCARS2_topic_82">SUBPART 5205.4 — RELEASE OF INFORMATION</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5205.4.dita#NMCARS_SUBPART_5205.4">SUBPART 5205.4 — RELEASE OF INFORMATION</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5205.404.dita#NMCARS_NMCARS2_topic_83">5205.404 Release of long–range acquisition forecasts.</xref>
+                        <xref outputclass="fm:TOC" href="5205.404.dita#NMCARS_5205.404">5205.404 Release of long–range acquisition forecasts.</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5205.4041.dita#NMCARS_NMCARS2_topic_84">5205.404-1 Release procedures.</xref>
+                              <xref outputclass="fm:TOC" href="5205.4041.dita#NMCARS_5205.4041">5205.404-1 Release procedures.</xref>
                            </p>
                         </li>
                      </ul>

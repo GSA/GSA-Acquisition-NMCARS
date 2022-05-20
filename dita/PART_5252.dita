@@ -2,25 +2,24 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="NMCARS_NMCARS2_topic_490">
+   <topic id="NMCARS_PART_5252">
       <title outputclass="1 heading part Ctr" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 5252</ph> SOLICITATION PROVISIONS AND CONTRACT CLAUSES</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5252.2.dita#NMCARS_NMCARS2_topic_491">SUBPART 5252.2 — TEXT OF PROVISIONS AND CLAUSES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5252.2.dita#NMCARS_SUBPART_5252.2">SUBPART 5252.2 — TEXT OF PROVISIONS AND CLAUSES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5252.200.dita#NMCARS_NMCARS2_topic_492">5252.200 Scope of subpart.</xref>
+                        <xref outputclass="fm:TOC" href="5252.200.dita#NMCARS_5252.200">5252.200 Scope of subpart.</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5252.2239000.dita#NMCARS_NMCARS2_topic_493">5252.223-9000 DON ADDITIONAL SAFETY REQUIREMENTS APPLICABLE TO SPECIFIED GOVERNMENT FURNISHED AMMUNITION AND EXPLOSIVES</xref>
+                              <xref outputclass="fm:TOC" href="5252.2239000.dita#NMCARS_5252.2239000">5252.223-9000 DON ADDITIONAL SAFETY REQUIREMENTS APPLICABLE TO SPECIFIED GOVERNMENT FURNISHED AMMUNITION AND EXPLOSIVES</xref>
                            </p>
                         </li>
                      </ul>

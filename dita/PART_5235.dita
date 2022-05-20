@@ -2,36 +2,36 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="NMCARS_NMCARS2_topic_407">
+   <topic id="NMCARS_PART_5235">
       <title outputclass="1 heading part Ctr" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 5235</ph> RESEARCH AND DEVELOPMENT CONTRACTING</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="5235.006.dita#NMCARS_NMCARS2_topic_408">5235.006 Contracting methods and contract type.</xref>
+                  <xref outputclass="fm:TOC" href="5235.006.dita#NMCARS_5235.006">5235.006 Contracting methods and contract type.</xref>
                </p>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="5235.015.dita#NMCARS_NMCARS2_topic_409">5235.015 Contracts for research with educational institutions and nonprofit organizations.</xref>
+                  <xref outputclass="fm:TOC" href="5235.015.dita#NMCARS_5235.015">5235.015 Contracts for research with educational institutions and nonprofit organizations.</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5235.01570.dita#NMCARS_NMCARS2_topic_410">5235.015-70 Special use allowances for research facilities acquired by educational institutions.</xref>
+                        <xref outputclass="fm:TOC" href="5235.01570.dita#NMCARS_5235.01570">5235.015-70 Special use allowances for research facilities acquired by educational institutions.</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="5235.070.dita#NMCARS_NMCARS2_topic_411">5235.070 Indemnification against unusually hazardous risks.</xref>
+                  <xref outputclass="fm:TOC" href="5235.070.dita#NMCARS_5235.070">5235.070 Indemnification against unusually hazardous risks.</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5235.0701.dita#NMCARS_NMCARS2_topic_412">5235.070-1 Indemnification under research and development contracts.</xref>
+                        <xref outputclass="fm:TOC" href="5235.0701.dita#NMCARS_5235.0701">5235.070-1 Indemnification under research and development contracts.</xref>
                      </p>
                   </li>
                </ul>

@@ -2,30 +2,29 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="NMCARS_NMCARS2_topic_172">
+   <topic id="NMCARS_PART_5214">
       <title outputclass="1 Heading Part" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 5214</ph> SEALED BIDDING</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5214.4.dita#NMCARS_NMCARS2_topic_173">SUBPART 5214.4 — OPENING OF BIDS AND AWARD OF CONTRACT</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5214.4.dita#NMCARS_SUBPART_5214.4">SUBPART 5214.4 — OPENING OF BIDS AND AWARD OF CONTRACT</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5214.401.dita#NMCARS_NMCARS2_topic_174">5214.401 Receipt and safeguarding of bids.</xref>
+                        <xref outputclass="fm:TOC" href="5214.401.dita#NMCARS_5214.401">5214.401 Receipt and safeguarding of bids.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5214.407.dita#NMCARS_NMCARS2_topic_175">5214.407 Mistakes in bids.</xref>
+                        <xref outputclass="fm:TOC" href="5214.407.dita#NMCARS_5214.407">5214.407 Mistakes in bids.</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5214.4073.dita#NMCARS_NMCARS2_topic_176">5214.407-3 Other mistakes disclosed before award.</xref>
+                              <xref outputclass="fm:TOC" href="5214.4073.dita#NMCARS_5214.4073">5214.407-3 Other mistakes disclosed before award.</xref>
                            </p>
                         </li>
                      </ul>

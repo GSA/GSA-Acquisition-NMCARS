@@ -2,126 +2,121 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="NMCARS_NMCARS2_topic_284">
+   <topic id="NMCARS_PART_5225">
       <title outputclass="1 heading part Ctr" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 5225</ph> FOREIGN ACQUISITION</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5225.1.dita#NMCARS_NMCARS2_topic_285">SUBPART 5225.1 — BUY AMERICAN ACT–SUPPLIES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5225.1.dita#NMCARS_SUBPART_5225.1">SUBPART 5225.1 — BUY AMERICAN ACT–SUPPLIES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5225.103.dita#NMCARS_NMCARS2_topic_286">5225.103 Exceptions.</xref>
+                        <xref outputclass="fm:TOC" href="5225.103.dita#NMCARS_5225.103">5225.103 Exceptions.</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5225.2.dita#NMCARS_NMCARS2_topic_287">SUBPART 5225.2 —BUY AMERICAN ACT–CONSTRUCTION MATERIALS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5225.2.dita#NMCARS_SUBPART_5225.2">SUBPART 5225.2 —BUY AMERICAN ACT–CONSTRUCTION MATERIALS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5225.202.dita#NMCARS_NMCARS2_topic_288">5225.202 Exceptions.</xref>
+                        <xref outputclass="fm:TOC" href="5225.202.dita#NMCARS_5225.202">5225.202 Exceptions.</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5225.3.dita#NMCARS_NMCARS2_topic_289">SUBPART 5225.3 – Contracts Performed Outside the United States</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5225.3.dita#NMCARS_SUBPART_5225.3">SUBPART 5225.3 – Contracts Performed Outside the United States</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5225.370.dita#NMCARS_NMCARS2_topic_290">5225.370 Contracts requiring performance or delivery in a foreign country.</xref>
+                        <xref outputclass="fm:TOC" href="5225.370.dita#NMCARS_5225.370">5225.370 Contracts requiring performance or delivery in a foreign country.</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5225.4.dita#NMCARS_NMCARS2_topic_291">SUBPART 5225.4 —TRADE AGREEMENTS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5225.4.dita#NMCARS_SUBPART_5225.4">SUBPART 5225.4 —TRADE AGREEMENTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5225.401.dita#NMCARS_NMCARS2_topic_292">5225.401 Exceptions.</xref>
+                        <xref outputclass="fm:TOC" href="5225.401.dita#NMCARS_5225.401">5225.401 Exceptions.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5225.403.dita#NMCARS_NMCARS2_topic_293">5225.403 World Trade Organization Government Procurement Agreement and Free Trade Agreements.</xref>
+                        <xref outputclass="fm:TOC" href="5225.403.dita#NMCARS_5225.403">5225.403 World Trade Organization Government Procurement Agreement and Free Trade Agreements.</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5225.7.dita#NMCARS_NMCARS2_topic_294">SUBPART 5225.7 —PROHIBITED SOURCES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5225.7.dita#NMCARS_SUBPART_5225.7">SUBPART 5225.7 —PROHIBITED SOURCES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5225.702.dita#NMCARS_NMCARS2_topic_295">5225.702 Prohibition on contracting with entities that conduct restricted business operations in Sudan.</xref>
+                        <xref outputclass="fm:TOC" href="5225.702.dita#NMCARS_5225.702">5225.702 Prohibition on contracting with entities that conduct restricted business operations in Sudan.</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5225.7024.dita#NMCARS_NMCARS2_topic_296">5225.702-4 Waiver.</xref>
+                              <xref outputclass="fm:TOC" href="5225.7024.dita#NMCARS_5225.7024">5225.702-4 Waiver.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5225.7034.dita#NMCARS_NMCARS2_topic_297">5225.703-4 Waiver.</xref>
+                              <xref outputclass="fm:TOC" href="5225.7034.dita#NMCARS_5225.7034">5225.703-4 Waiver.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5225.770.dita#NMCARS_NMCARS2_topic_298">5225.770 Prohibition on acquisition of certain items from Communist Chinese military companies.</xref>
+                        <xref outputclass="fm:TOC" href="5225.770.dita#NMCARS_5225.770">5225.770 Prohibition on acquisition of certain items from Communist Chinese military companies.</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5225.7705.dita#NMCARS_NMCARS2_topic_299">5225.770-5 Waiver of prohibition.</xref>
+                              <xref outputclass="fm:TOC" href="5225.7705.dita#NMCARS_5225.7705">5225.770-5 Waiver of prohibition.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5225.771.dita#NMCARS_NMCARS2_topic_300">5225.771 Prohibition on contracting or subcontracting with a firm that is owned or controlled by the government of a country that is a state sponsor of terrorism.</xref>
+                        <xref outputclass="fm:TOC" href="5225.771.dita#NMCARS_5225.771">5225.771 Prohibition on contracting or subcontracting with a firm that is owned or controlled by the government of a country that is a state sponsor of terrorism.</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5225.7713.dita#NMCARS_NMCARS2_topic_301">5225.771-3 Notification.</xref>
+                              <xref outputclass="fm:TOC" href="5225.7713.dita#NMCARS_5225.7713">5225.771-3 Notification.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5225.7714.dita#NMCARS_NMCARS2_topic_302">5225.771-4 Waiver of prohibition.</xref>
+                              <xref outputclass="fm:TOC" href="5225.7714.dita#NMCARS_5225.7714">5225.771-4 Waiver of prohibition.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5225.7723.dita#NMCARS_NMCARS2_topic_303">5225.772-3 Procedures.</xref>
+                              <xref outputclass="fm:TOC" href="5225.7723.dita#NMCARS_5225.7723">5225.772-3 Procedures.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5225.7724.dita#NMCARS_NMCARS2_topic_304">5225.772-4 Exception.</xref>
+                              <xref outputclass="fm:TOC" href="5225.7724.dita#NMCARS_5225.7724">5225.772-4 Exception.</xref>
                            </p>
                         </li>
                      </ul>
@@ -130,52 +125,51 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5225.8.dita#NMCARS_NMCARS2_topic_305">SUBPART 5225.8 —OTHER INTERNATIONAL AGREEMENTS AND COORDINATION</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5225.8.dita#NMCARS_SUBPART_5225.8">SUBPART 5225.8 —OTHER INTERNATIONAL AGREEMENTS AND COORDINATION</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5225.802.dita#NMCARS_NMCARS2_topic_306">5225.802 Procedures.</xref>
+                        <xref outputclass="fm:TOC" href="5225.802.dita#NMCARS_5225.802">5225.802 Procedures.</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5225.80271.dita#NMCARS_NMCARS2_topic_307">5225.802-71 End Use Certificates.</xref>
+                              <xref outputclass="fm:TOC" href="5225.80271.dita#NMCARS_5225.80271">5225.802-71 End Use Certificates.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5225.80290.dita#NMCARS_NMCARS2_topic_308">5225.802-90 Procedures for acquisitions that can be satisfied only by sources outside the United States.</xref>
+                              <xref outputclass="fm:TOC" href="5225.80290.dita#NMCARS_5225.80290">5225.802-90 Procedures for acquisitions that can be satisfied only by sources outside the United States.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5225.871.dita#NMCARS_NMCARS2_topic_309">5225.871 North Atlantic Treaty Organization (NATO) cooperative projects.</xref>
+                        <xref outputclass="fm:TOC" href="5225.871.dita#NMCARS_5225.871">5225.871 North Atlantic Treaty Organization (NATO) cooperative projects.</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5225.8714.dita#NMCARS_NMCARS2_topic_310">5225.871-4 Statutory waivers.</xref>
+                              <xref outputclass="fm:TOC" href="5225.8714.dita#NMCARS_5225.8714">5225.871-4 Statutory waivers.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5225.8717.dita#NMCARS_NMCARS2_topic_311">5225.871-7 Congressional notification.</xref>
+                              <xref outputclass="fm:TOC" href="5225.8717.dita#NMCARS_5225.8717">5225.871-7 Congressional notification.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5225.872.dita#NMCARS_NMCARS2_topic_312">5225.872 Contracting with qualifying country sources.</xref>
+                        <xref outputclass="fm:TOC" href="5225.872.dita#NMCARS_5225.872">5225.872 Contracting with qualifying country sources.</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5225.8723.dita#NMCARS_NMCARS2_topic_313">5225.872-3 Solicitation procedures.</xref>
+                              <xref outputclass="fm:TOC" href="5225.8723.dita#NMCARS_5225.8723">5225.872-3 Solicitation procedures.</xref>
                            </p>
                         </li>
                      </ul>
@@ -184,90 +178,89 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5225.70.dita#NMCARS_NMCARS2_topic_314">SUBPART 5225.70 —AUTHORIZATION ACTS, APPROPRIATIONS ACTS, AND OTHER STATUTORY RESTRICTIONS ON FOREIGN ACQUISITION</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5225.70.dita#NMCARS_SUBPART_5225.70">SUBPART 5225.70 —AUTHORIZATION ACTS, APPROPRIATIONS ACTS, AND OTHER STATUTORY RESTRICTIONS ON FOREIGN ACQUISITION</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5225.7002.dita#NMCARS_NMCARS2_topic_315">5225.7002 Restrictions on food, clothing, fabrics, and hand or measuring tools.</xref>
+                        <xref outputclass="fm:TOC" href="5225.7002.dita#NMCARS_5225.7002">5225.7002 Restrictions on food, clothing, fabrics, and hand or measuring tools.</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5225.70022.dita#NMCARS_NMCARS2_topic_316">5225.7002-2 Exceptions.</xref>
+                              <xref outputclass="fm:TOC" href="5225.70022.dita#NMCARS_5225.70022">5225.7002-2 Exceptions.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5225.7003.dita#NMCARS_NMCARS2_topic_317">5225.7003 Restrictions on acquisitions of specialty metals.</xref>
+                        <xref outputclass="fm:TOC" href="5225.7003.dita#NMCARS_5225.7003">5225.7003 Restrictions on acquisitions of specialty metals.</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5225.70033.dita#NMCARS_NMCARS2_topic_318">5225.7003-3 Exceptions.</xref>
+                              <xref outputclass="fm:TOC" href="5225.70033.dita#NMCARS_5225.70033">5225.7003-3 Exceptions.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5225.7007.dita#NMCARS_NMCARS2_topic_319">5225.7007 Restrictions on anchor and mooring chain.</xref>
+                        <xref outputclass="fm:TOC" href="5225.7007.dita#NMCARS_5225.7007">5225.7007 Restrictions on anchor and mooring chain.</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5225.70072.dita#NMCARS_NMCARS2_topic_320">5225.7007-2 Waiver.</xref>
+                              <xref outputclass="fm:TOC" href="5225.70072.dita#NMCARS_5225.70072">5225.7007-2 Waiver.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5225.7009.dita#NMCARS_NMCARS2_topic_321">5225.7009 Restriction on ball and roller bearings.</xref>
+                        <xref outputclass="fm:TOC" href="5225.7009.dita#NMCARS_5225.7009">5225.7009 Restriction on ball and roller bearings.</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5225.70094.dita#NMCARS_NMCARS2_topic_322">5225.7009-4 Waiver.</xref>
+                              <xref outputclass="fm:TOC" href="5225.70094.dita#NMCARS_5225.70094">5225.7009-4 Waiver.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5225.7011.dita#NMCARS_NMCARS2_topic_323">5225.7011 Restriction on carbon, alloy, and armor steel plate.</xref>
+                        <xref outputclass="fm:TOC" href="5225.7011.dita#NMCARS_5225.7011">5225.7011 Restriction on carbon, alloy, and armor steel plate.</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5225.70112.dita#NMCARS_NMCARS2_topic_324">5225.7011-2 Waiver.</xref>
+                              <xref outputclass="fm:TOC" href="5225.70112.dita#NMCARS_5225.70112">5225.7011-2 Waiver.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5225.7012.dita#NMCARS_NMCARS2_topic_325">5225.7012 (DFARS 225.7012) Restriction on supercomputers.</xref>
+                        <xref outputclass="fm:TOC" href="5225.7012.dita#NMCARS_5225.7012">5225.7012 (DFARS 225.7012) Restriction on supercomputers.</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5225.70122.dita#NMCARS_NMCARS2_topic_326">5225.7012-2 (DFARS 225.7012–2) Waiver.</xref>
+                              <xref outputclass="fm:TOC" href="5225.70122.dita#NMCARS_5225.70122">5225.7012-2 (DFARS 225.7012–2) Waiver.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5225.7018.dita#NMCARS_NMCARS2_topic_327">5225.7018 Restriction on acquisition of certain magnets and tungsten.</xref>
+                        <xref outputclass="fm:TOC" href="5225.7018.dita#NMCARS_5225.7018">5225.7018 Restriction on acquisition of certain magnets and tungsten.</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5225.70184.dita#NMCARS_NMCARS2_topic_328">5225.7018-4 Nonavailability determination.</xref>
+                              <xref outputclass="fm:TOC" href="5225.70184.dita#NMCARS_5225.70184">5225.7018-4 Nonavailability determination.</xref>
                            </p>
                         </li>
                      </ul>
@@ -276,18 +269,17 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5225.73.dita#NMCARS_NMCARS2_topic_329">SUBPART 5225.73 —ACQUISITIONS FOR FOREIGN MILITARY SALES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5225.73.dita#NMCARS_SUBPART_5225.73">SUBPART 5225.73 —ACQUISITIONS FOR FOREIGN MILITARY SALES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5225.7301.dita#NMCARS_NMCARS2_topic_330">5225.7301 General.</xref>
+                        <xref outputclass="fm:TOC" href="5225.7301.dita#NMCARS_5225.7301">5225.7301 General.</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5225.73012.dita#NMCARS_NMCARS2_topic_331">5225.7301-2 Solicitation approval for sole source contracts.</xref>
+                              <xref outputclass="fm:TOC" href="5225.73012.dita#NMCARS_5225.73012">5225.7301-2 Solicitation approval for sole source contracts.</xref>
                            </p>
                         </li>
                      </ul>
@@ -296,26 +288,24 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5225.76.dita#NMCARS_NMCARS2_topic_332">SUBPART 5225.76 —SECONDARY ARAB BOYCOTT OF ISRAEL</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5225.76.dita#NMCARS_SUBPART_5225.76">SUBPART 5225.76 —SECONDARY ARAB BOYCOTT OF ISRAEL</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5225.7604.dita#NMCARS_NMCARS2_topic_333">5225.7604 Waivers.</xref>
+                        <xref outputclass="fm:TOC" href="5225.7604.dita#NMCARS_5225.7604">5225.7604 Waivers.</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5225.77.dita#NMCARS_NMCARS2_topic_334">SUBPART 5225.77 — ACQUISITIONS IN SUPPORT OF OPERATIONS IN AFGHANISTAN</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5225.77.dita#NMCARS_SUBPART_5225.77">SUBPART 5225.77 — ACQUISITIONS IN SUPPORT OF OPERATIONS IN AFGHANISTAN</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5225.7799.dita#NMCARS_NMCARS2_topic_335">5225.7799 Authority to acquire products and services (including construction) from Afghanistan or from countries along a major route of supply to Afghanistan.</xref>
+                        <xref outputclass="fm:TOC" href="5225.7799.dita#NMCARS_5225.7799">5225.7799 Authority to acquire products and services (including construction) from Afghanistan or from countries along a major route of supply to Afghanistan.</xref>
                      </p>
                   </li>
                </ul>
