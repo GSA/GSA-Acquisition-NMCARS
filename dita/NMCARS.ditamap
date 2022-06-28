@@ -455,7 +455,7 @@
          </topicref>
       </topicref>
       <topicref href="SUBPART_5203.2.dita"
-                navtitle="SUBPART 5203.2-- CONTRACTOR GRATUITIES TO GOVERNMENT PERSONNEL"
+         navtitle="SUBPART 5203.2 — CONTRACTOR GRATUITIES TO GOVERNMENT PERSONNEL"
                 outputclass="SubPart"
                 props="SUBPART 5203.2"
                 base="NoTitle"
@@ -659,7 +659,7 @@
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_5204.73.dita"
-                navtitle="SUBPART 5204.73 - SAFEGUARDING COVERED DEFENSE INFORMATION AND CYBER INCIDENT REPORTING"
+         navtitle="SUBPART 5204.73 — SAFEGUARDING COVERED DEFENSE INFORMATION AND CYBER INCIDENT REPORTING"
                 outputclass="SubPart"
                 props="SUBPART 5204.73"
                 base="NoTitle"
@@ -1399,7 +1399,7 @@
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_5212.70.dita"
-                navtitle="SUBPART 5212.70 --- LIMITATION ON CONVERSION OF PROCUREMENT FROM COMMERCIAL ACQUISITION PROCEDURES"
+         navtitle="SUBPART 5212.70 5212.70 — LIMITATION ON CONVERSION OF PROCUREMENT FROM COMMERCIAL ACQUISITION PROCEDURES"
                 outputclass="SubPart"
                 props="SUBPART 5212.70"
                 base="NoTitle"
