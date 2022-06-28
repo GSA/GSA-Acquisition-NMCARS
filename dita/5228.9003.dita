@@ -1,3 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="NMCARS_5228.9003" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">5228.9003</ph> Insurance policies.</title><conbody><p outputclass="Normal">   (a) Insurance policies for leased property shall be issued in the names of the lessee and of the Department of the Navy and contain a loss payable provision as follows:  "Loss, if any, under this policy shall be adjusted with (Lessee) and the proceeds, at the election of the Government, shall be payable to the (Lessee); any proceeds not paid to the (Lessee) shall be payable to the Treasurer of the United States."</p><p outputclass="Normal">   (b) Each insurance policy shall contain a provision for thirty days prior notice to DASN(P) in the event of cancellation of the policy.</p><p outputclass="Normal">   (c) A certificate of insurance or copy of each insurance policy shall be deposited with DASN(P) via hardcopy or by email at <xref href="mailto:Rdaj&amp;as.fct@navy.mil" scope="external" format="mailto"><u>RDAJ&amp;As.fct</u><u>@navy.mil</u></xref> with the subject “[Activity Name] FAR 28.9003 – Insurance Policy Deposit.”</p></conbody></concept>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5228.9003"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5228.9003</ph> Insurance policies.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="Normal" class="- topic/p ">   (a) Insurance policies for leased property shall be issued in the names of the lessee and of the Department of the Navy and contain a loss payable provision as follows:  "Loss, if any, under this policy shall be adjusted with (Lessee) and the proceeds, at the election of the Government, shall be payable to the (Lessee); any proceeds not paid to the (Lessee) shall be payable to the Treasurer of the United States."</p>
+      <p outputclass="Normal" class="- topic/p ">   (b) Each insurance policy shall contain a provision for thirty days prior notice to DASN(P) in the event of cancellation of the policy.</p>
+      <p outputclass="Normal" class="- topic/p ">   (c) A certificate of insurance or copy of each insurance policy shall be deposited with DASN(P) via hardcopy or by email at <xref href="mailto:Rdaj&amp;as.fct@navy.mil"
+               scope="external"
+               format="mailto"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct</u>
+            <u class="+ topic/ph hi-d/u ">@navy.mil</u>
+         </xref> with the subject “[Activity Name] FAR 28.9003 – Insurance Policy Deposit.”</p>
+   </conbody>
+</concept>

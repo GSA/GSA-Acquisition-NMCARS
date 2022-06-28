@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="NMCARS_5215.2045">
-   <title outputclass="Heading 4">
-      <ph props="autonumber">5215.204-5</ph> Part IV––Representations and Instructions.</title>
-   <conbody>
-      <p id="PLUCJz" outputclass="Normal">(c) When a cost realism analysis is to be performed, Section M, Evaluation Factors for Award, should include a notice that the proposed costs may be adjusted, for purposes of proposal evaluation, based upon the results of the cost realism analysis.</p>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5215.2045"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5215.204-5</ph> Part IV––Representations and Instructions.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="PLUCJz" outputclass="Normal" class="- topic/p ">(c) When a cost realism analysis is to be performed, Section M, Evaluation Factors for Award, should include a notice that the proposed costs may be adjusted, for purposes of proposal evaluation, based upon the results of the cost realism analysis.</p>
    </conbody>
 </concept>

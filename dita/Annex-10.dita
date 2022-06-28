@@ -1,39 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="NMCARS_Annex-10">
-   <title outputclass="Ctr 1 heading">
-      <ph props="autonumber">ANNEX 10</ph> – NOTICE OF SUSPECTED VIOLATIONS OF THE GRATUITIES CLAUSE</title>
-   <conbody>
-      <p id="BGYrTf" outputclass="Normal">As required by 5203.203(a), provide a written notice of suspected violations to the Assistant</p>
-      <p id="PclAam" outputclass="Normal">General Counsel (Acquisition Integrity) at <xref format="mailto" href="mailto:aio@navy.mil" scope="external">
-            <u>aio@navy.mil</u>
-         </xref>.</p>
-      <p id="cOIIxv" outputclass="Normal">Include the following information in the notice:</p>
-      <ol otherprops="NL_D:1">
-         <li id="OrLmlx">
-            <p id="bsnupJ" outputclass="List1">
-               <ph props="autonumber" class="- topic/ph ">1. </ph>Name and contact information of the person reporting</p>
-         </li>
-         <li id="fsVzdi">
-            <p id="OtUzLp" outputclass="List1">
-               <ph props="autonumber" class="- topic/ph ">2. </ph>Name of Contractor(s)</p>
-         </li>
-         <li id="YxyDyM">
-            <p id="ElXLeI" outputclass="List1">
-               <ph props="autonumber" class="- topic/ph ">3. </ph>Contract Number (if known) or other information known about the contract, including subject matter and place of performance</p>
-         </li>
-         <li id="xYhRcD">
-            <p id="zPbRkA" outputclass="List1">
-               <ph props="autonumber" class="- topic/ph ">4. </ph>Name and location of Government employee(s) involved with the suspected gratuity offered or provided</p>
-         </li>
-         <li id="FuaSJI">
-            <p id="DeDvMC" outputclass="List1">
-               <ph props="autonumber" class="- topic/ph ">5. </ph>Brief summary of information or events known regarding the suspected gratuity offered or provided (including nature, amount, and/or fair market value of the suspected gratuity, if known)</p>
-         </li>
-         <li id="XsOvwz">
-            <p id="ArkLIo" outputclass="List1">
-               <ph props="autonumber" class="- topic/ph ">6. </ph>How the information was obtained, if relevant</p>
-         </li>
-      </ol>
-   </conbody>
-</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="NMCARS_Annex-10"
+          ditaarch:DITAArchVersion="1.3"
+          class="- topic/topic ">
+      <title outputclass="Ctr 1 heading" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">ANNEX 10</ph> – NOTICE OF SUSPECTED VIOLATIONS OF THE GRATUITIES CLAUSE</title>
+      <body class="- topic/body "/>
+   </topic>
+</dita>

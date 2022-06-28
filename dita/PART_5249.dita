@@ -1,44 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="NMCARS_PART_5249">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="NMCARS_PART_5249"
+          ditaarch:DITAArchVersion="1.3"
+          class="- topic/topic ">
       <title outputclass="Ctr 1 heading part" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 5249</ph> TERMINATION OF CONTRACTS</title>
-      <body>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5249.4.dita#NMCARS_SUBPART_5249.4">SUBPART 5249.4 —TERMINATION FOR DEFAULT</xref>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5249.4.dita#NMCARS_SUBPART_5249.4"
+                        class="- topic/xref ">SUBPART 5249.4 —TERMINATION FOR DEFAULT</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5249.402.dita#NMCARS_5249.402">5249.402 Termination of fixed–price contracts for default.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5249.402.dita#NMCARS_5249.402"
+                              class="- topic/xref ">5249.402 Termination of fixed–price contracts for default.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="5249.4028.dita#NMCARS_5249.4028">5249.402-8 Reporting Information.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5249.4028.dita#NMCARS_5249.4028"
+                                    class="- topic/xref ">5249.402-8 Reporting Information.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5249.403.dita#NMCARS_5249.403">5249.403 Termination of cost–reimbursement contracts for default.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5249.403.dita#NMCARS_5249.403"
+                              class="- topic/xref ">5249.403 Termination of cost–reimbursement contracts for default.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5249.70.dita#NMCARS_SUBPART_5249.70">SUBPART 5249.70 —SPECIAL TERMINATION REQUIREMENTS</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5249.70.dita#NMCARS_SUBPART_5249.70"
+                        class="- topic/xref ">SUBPART 5249.70 —SPECIAL TERMINATION REQUIREMENTS</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5249.7001.dita#NMCARS_5249.7001">5249.7001 Congressional notification on significant contract terminations.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5249.7001.dita#NMCARS_5249.7001"
+                              class="- topic/xref ">5249.7001 Congressional notification on significant contract terminations.</xref>
                      </p>
                   </li>
                </ul>

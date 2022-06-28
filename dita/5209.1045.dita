@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="NMCARS_5209.1045">
-   <title outputclass="Heading 4">
-      <ph props="autonumber">5209.104-5</ph> Representation and certifications regarding responsibility matters.</title>
-   <conbody>
-      <p id="siuLkk" outputclass="Normal">(a)(1) When provided an affirmative response from The Boeing Company (TBC) in paragraph (a)(1) of the provision at 52.209-5, Certification Regarding Responsibility Matters, or paragraph (h) of the provision at 52.212-3 Offeror Representations and Certification—Commercial Items, the contracting officer shall request such additional information from TBC to determine if their affirmative response is solely related to the Deferred Prosecution Agreement between TBC and the United States District Court for the Northern District of Texas, Fort Worth Division, dated January 7, 2021.</p>
-      <p id="cFmAGj" outputclass="List2">(2) If it is determined that the affirmative response from TBC in (a)(1) is solely related to the Deferred Prosecution Agreement between TBC and the United States District Court for the Northern District of Texas, Fort Worth Division, dated January 7, 2021, notwithstanding FAR 9.104-5(a)(2), contracting officers are not required to provide the notification to the Department of the Navy’s Acquisition Integrity Office.</p>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5209.1045"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5209.104-5</ph> Representation and certifications regarding responsibility matters.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="siuLkk" outputclass="Normal" class="- topic/p ">(a)(1) When provided an affirmative response from The Boeing Company (TBC) in paragraph (a)(1) of the provision at 52.209-5, Certification Regarding Responsibility Matters, or paragraph (h) of the provision at 52.212-3 Offeror Representations and Certification—Commercial Items, the contracting officer shall request such additional information from TBC to determine if their affirmative response is solely related to the Deferred Prosecution Agreement between TBC and the United States District Court for the Northern District of Texas, Fort Worth Division, dated January 7, 2021.</p>
+      <p id="cFmAGj" outputclass="List2" class="- topic/p ">(2) If it is determined that the affirmative response from TBC in (a)(1) is solely related to the Deferred Prosecution Agreement between TBC and the United States District Court for the Northern District of Texas, Fort Worth Division, dated January 7, 2021, notwithstanding FAR 9.104-5(a)(2), contracting officers are not required to provide the notification to the Department of the Navy’s Acquisition Integrity Office.</p>
    </conbody>
 </concept>

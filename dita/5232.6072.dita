@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="NMCARS_5232.6072">
-   <title outputclass="Heading 4">
-      <ph props="autonumber">5232.607-2</ph> Deferment of collection.</title>
-   <conbody>
-      <p id="LKtKAW" outputclass="Normal">(c)(2) Information should be submitted with all requests, whether or not an appeal is pending, or a Dispute action filed. In addition, include the following information:</p>
-      <p id="2prn70bx" outputclass="Normal">(a) If applicable, the final decision, the appeal, the status of the appeal, and the name of the DON lead trial attorney.</p>
-      <p id="uc0fj59" outputclass="Normal">(b) The appropriation account(s) that will be credited with the repayment or debited with the liability if the appeal is successful.</p>
-      <p id="hcp5125v" outputclass="Normal">(c) Points of contact at the cognizant paying and contract administration offices.</p>
-      <p id="vbmycorq" outputclass="Normal">(d) Any small business concern representation.</p>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5232.6072"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5232.607-2</ph> Deferment of collection.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="LKtKAW" outputclass="Normal" class="- topic/p ">(c)(2) Information should be submitted with all requests, whether or not an appeal is pending, or a Dispute action filed. In addition, include the following information:</p>
+      <p id="2prn70bx" outputclass="Normal" class="- topic/p ">(a) If applicable, the final decision, the appeal, the status of the appeal, and the name of the DON lead trial attorney.</p>
+      <p id="uc0fj59" outputclass="Normal" class="- topic/p ">(b) The appropriation account(s) that will be credited with the repayment or debited with the liability if the appeal is successful.</p>
+      <p id="hcp5125v" outputclass="Normal" class="- topic/p ">(c) Points of contact at the cognizant paying and contract administration offices.</p>
+      <p id="vbmycorq" outputclass="Normal" class="- topic/p ">(d) Any small business concern representation.</p>
    </conbody>
 </concept>

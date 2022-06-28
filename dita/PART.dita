@@ -1,153 +1,207 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="NMCARS_PART">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="NMCARS_PART"
+          ditaarch:DITAArchVersion="1.3"
+          class="- topic/topic ">
       <title outputclass="1 Heading Part" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART</ph> 5217 SPECIAL CONTRACTING METHODS</title>
-      <body>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5217.1.dita#NMCARS_SUBPART_5217.1">SUBPART 5217.1 — MULTI–YEAR CONTRACTING</xref>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5217.1.dita#NMCARS_SUBPART_5217.1"
+                        class="- topic/xref ">SUBPART 5217.1 — MULTI–YEAR CONTRACTING</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5217.105.dita#NMCARS_5217.105">5217.105 Policy.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5217.105.dita#NMCARS_5217.105"
+                              class="- topic/xref ">5217.105 Policy.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="5217.1051.dita#NMCARS_5217.1051">5217.105-1 Uses.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5217.1051.dita#NMCARS_5217.1051"
+                                    class="- topic/xref ">5217.105-1 Uses.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5217.170.dita#NMCARS_5217.170">5217.170 General.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5217.170.dita#NMCARS_5217.170"
+                              class="- topic/xref ">5217.170 General.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5217.171.dita#NMCARS_5217.171">5217.171 Multiyear contracts for services.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5217.171.dita#NMCARS_5217.171"
+                              class="- topic/xref ">5217.171 Multiyear contracts for services.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5217.172.dita#NMCARS_5217.172">5217.172 Multiyear contracts for supplies.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5217.172.dita#NMCARS_5217.172"
+                              class="- topic/xref ">5217.172 Multiyear contracts for supplies.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="5217.17290.dita#NMCARS_5217.17290">5217.172-90 Multiyear contracts for supplies.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5217.17290.dita#NMCARS_5217.17290"
+                                    class="- topic/xref ">5217.172-90 Multiyear contracts for supplies.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5217.174.dita#NMCARS_5217.174">5217.174 Multiyear contracts for electricity from renewable energy sources.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5217.174.dita#NMCARS_5217.174"
+                              class="- topic/xref ">5217.174 Multiyear contracts for electricity from renewable energy sources.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5217.2.dita#NMCARS_SUBPART_5217.2">SUBPART 5217.2 — OPTIONS</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5217.2.dita#NMCARS_SUBPART_5217.2"
+                        class="- topic/xref ">SUBPART 5217.2 — OPTIONS</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5217.200.dita#NMCARS_5217.200">5217.200 Scope of Subpart.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5217.200.dita#NMCARS_5217.200"
+                              class="- topic/xref ">5217.200 Scope of Subpart.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5217.204.dita#NMCARS_5217.204">5217.204 Contracts.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5217.204.dita#NMCARS_5217.204"
+                              class="- topic/xref ">5217.204 Contracts.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5217.207.dita#NMCARS_5217.207">5217.207 Exercise of Options.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5217.207.dita#NMCARS_5217.207"
+                              class="- topic/xref ">5217.207 Exercise of Options.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5217.5.dita#NMCARS_SUBPART_5217.5">SUBPART 5217.5 — INTERAGENCY ACQUISITIONS</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5217.5.dita#NMCARS_SUBPART_5217.5"
+                        class="- topic/xref ">SUBPART 5217.5 — INTERAGENCY ACQUISITIONS</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5217.502.dita#NMCARS_5217.502">5217.502 Procedures.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5217.502.dita#NMCARS_5217.502"
+                              class="- topic/xref ">5217.502 Procedures.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="5217.5021.dita#NMCARS_5217.5021">5217.502-1 General.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5217.5021.dita#NMCARS_5217.5021"
+                                    class="- topic/xref ">5217.502-1 General.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="5217.5022.dita#NMCARS_5217.5022">5217.502-2 The Economy Act.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5217.5022.dita#NMCARS_5217.5022"
+                                    class="- topic/xref ">5217.502-2 The Economy Act.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5217.7.dita#NMCARS_SUBPART_5217.7">SUBPART 5217.7 — INTERAGENCY ACQUISITIONS: ACQUISITIONS BY NONDEFENSE AGENCIES ON BEHALF OF THE DEPARTMENT OF DEFENSE</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5217.7.dita#NMCARS_SUBPART_5217.7"
+                        class="- topic/xref ">SUBPART 5217.7 — INTERAGENCY ACQUISITIONS: ACQUISITIONS BY NONDEFENSE AGENCIES ON BEHALF OF THE DEPARTMENT OF DEFENSE</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5217.703.dita#NMCARS_5217.703">5217.703 Policy.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5217.703.dita#NMCARS_5217.703"
+                              class="- topic/xref ">5217.703 Policy.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5217.770.dita#NMCARS_5217.770">5217.770 Procedures.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5217.770.dita#NMCARS_5217.770"
+                              class="- topic/xref ">5217.770 Procedures.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5217.74.dita#NMCARS_SUBPART_5217.74">SUBPART 5217.74 — UNDEFINITIZED CONTRACT ACTIONS</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5217.74.dita#NMCARS_SUBPART_5217.74"
+                        class="- topic/xref ">SUBPART 5217.74 — UNDEFINITIZED CONTRACT ACTIONS</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5217.7402.dita#NMCARS_5217.7402">5217.7402 Exceptions.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5217.7402.dita#NMCARS_5217.7402"
+                              class="- topic/xref ">5217.7402 Exceptions.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5217.7404.dita#NMCARS_5217.7404">5217.7404 Limitations.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5217.7404.dita#NMCARS_5217.7404"
+                              class="- topic/xref ">5217.7404 Limitations.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="5217.74043.dita#NMCARS_5217.74043">5217.7404-3 Definitization Schedule.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5217.74043.dita#NMCARS_5217.74043"
+                                    class="- topic/xref ">5217.7404-3 Definitization Schedule.</xref>
                            </p>
-                           <ul otherprops="TOC">
-                              <li>
-                                 <p>
-                                    <xref outputclass="fm:TOC" href="5217.74045.dita#NMCARS_5217.74045">5217.7404-5 Exceptions.</xref>
+                           <ul otherprops="TOC" class="- topic/ul ">
+                              <li class="- topic/li ">
+                                 <p class="- topic/p ">
+                                    <xref outputclass="fm:TOC"
+                                          href="5217.74045.dita#NMCARS_5217.74045"
+                                          class="- topic/xref ">5217.7404-5 Exceptions.</xref>
                                  </p>
                               </li>
                            </ul>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5217.7405.dita#NMCARS_5217.7405">5217.7405 Plans and Reports.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5217.7405.dita#NMCARS_5217.7405"
+                              class="- topic/xref ">5217.7405 Plans and Reports.</xref>
                      </p>
                   </li>
                </ul>

@@ -1,98 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="NMCARS_PART_5206">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="NMCARS_PART_5206"
+          ditaarch:DITAArchVersion="1.3"
+          class="- topic/topic ">
       <title outputclass="1 Heading Part" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 5206</ph> COMPETITION REQUIREMENTS</title>
-      <body>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5206.2.dita#NMCARS_SUBPART_5206.2">SUBPART 5206.2 – FULL AND OPEN COMPETITION AFTER EXCLUSION OF SOURCES</xref>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5206.2.dita#NMCARS_SUBPART_5206.2"
+                        class="- topic/xref ">SUBPART 5206.2 – FULL AND OPEN COMPETITION AFTER EXCLUSION OF SOURCES</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5206.202.dita#NMCARS_5206.202">5206.202 Establishing or maintaining alternative sources.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5206.202.dita#NMCARS_5206.202"
+                              class="- topic/xref ">5206.202 Establishing or maintaining alternative sources.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5206.3.dita#NMCARS_SUBPART_5206.3">SUBPART 5206.3 — OTHER THAN FULL AND OPEN COMPETITION</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5206.3.dita#NMCARS_SUBPART_5206.3"
+                        class="- topic/xref ">SUBPART 5206.3 — OTHER THAN FULL AND OPEN COMPETITION</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5206.302.dita#NMCARS_5206.302">5206.302 Circumstances permitting other than full and open competition.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5206.302.dita#NMCARS_5206.302"
+                              class="- topic/xref ">5206.302 Circumstances permitting other than full and open competition.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="5206.3025.dita#NMCARS_5206.3025">5206.302-5 Authorized or required by statute.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5206.3025.dita#NMCARS_5206.3025"
+                                    class="- topic/xref ">5206.302-5 Authorized or required by statute.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5206.303.dita#NMCARS_5206.303">5206.303 Justifications.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5206.303.dita#NMCARS_5206.303"
+                              class="- topic/xref ">5206.303 Justifications.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="5206.3031.dita#NMCARS_5206.3031">5206.303-1 Requirements.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5206.3031.dita#NMCARS_5206.3031"
+                                    class="- topic/xref ">5206.303-1 Requirements.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="5206.3032.dita#NMCARS_5206.3032">5206.303-2 Content.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5206.3032.dita#NMCARS_5206.3032"
+                                    class="- topic/xref ">5206.303-2 Content.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="5206.30390.dita#NMCARS_5206.30390">5206.303-90 Legal reviews.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5206.30390.dita#NMCARS_5206.30390"
+                                    class="- topic/xref ">5206.303-90 Legal reviews.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="5206.30391.dita#NMCARS_5206.30391">5206.303-91 Bridge Contract Status Update.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5206.30391.dita#NMCARS_5206.30391"
+                                    class="- topic/xref ">5206.303-91 Bridge Contract Status Update.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="5206.30392.dita#NMCARS_5206.30392">5206.303-92 Bridge Contract Reporting.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5206.30392.dita#NMCARS_5206.30392"
+                                    class="- topic/xref ">5206.303-92 Bridge Contract Reporting.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5206.304.dita#NMCARS_5206.304">5206.304 Approval of the justification.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5206.304.dita#NMCARS_5206.304"
+                              class="- topic/xref ">5206.304 Approval of the justification.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5206.305.dita#NMCARS_5206.305">5206.305 Availability of the justification.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5206.305.dita#NMCARS_5206.305"
+                              class="- topic/xref ">5206.305 Availability of the justification.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5206.5.dita#NMCARS_SUBPART_5206.5">SUBPART 5206.5 — COMPETITION ADVOCATES</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5206.5.dita#NMCARS_SUBPART_5206.5"
+                        class="- topic/xref ">SUBPART 5206.5 — COMPETITION ADVOCATES</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5206.501.dita#NMCARS_5206.501">5206.501 Requirement.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5206.501.dita#NMCARS_5206.501"
+                              class="- topic/xref ">5206.501 Requirement.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5206.502.dita#NMCARS_5206.502">5206.502 Duties and responsibilities.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5206.502.dita#NMCARS_5206.502"
+                              class="- topic/xref ">5206.502 Duties and responsibilities.</xref>
                      </p>
                   </li>
                </ul>

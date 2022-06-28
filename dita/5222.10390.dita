@@ -1,3 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="NMCARS_5222.10390" xml:lang="en-US"><title outputclass="Heading 4"><ph props="autonumber">5222.103-90</ph> Exceptions.</title><conbody><p outputclass="Normal">The provisions of FAR 22.103, DFARS 222.103 and 5222.103 of this supplement are not applicable to ballistic missile programs.</p></conbody></concept>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5222.10390"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5222.103-90</ph> Exceptions.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="Normal" class="- topic/p ">The provisions of FAR 22.103, DFARS 222.103 and 5222.103 of this supplement are not applicable to ballistic missile programs.</p>
+   </conbody>
+</concept>

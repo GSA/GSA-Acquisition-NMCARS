@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="NMCARS_5208.001">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">5208.001</ph> General</title>
-   <conbody>
-      <p id="IGQJKU" outputclass="Normal">Regardless of the source of supplies or services to be acquired, competitively procured services defined in Annex 22, Seaport Engineering and Program Management Categories, shall comply with requirements in 5237.102 and Annex 23.</p>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5208.001"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5208.001</ph> General</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="IGQJKU" outputclass="Normal" class="- topic/p ">Regardless of the source of supplies or services to be acquired, competitively procured services defined in Annex 22, Seaport Engineering and Program Management Categories, shall comply with requirements in 5237.102 and Annex 23.</p>
    </conbody>
 </concept>

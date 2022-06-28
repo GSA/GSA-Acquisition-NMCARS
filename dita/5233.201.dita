@@ -1,3 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="NMCARS_5233.201" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">5233.201</ph> Definitions.</title><conbody><p outputclass="Normal">   "Disruption", as used in this part, means the cost effect upon, or the increased cost of performing, the unchanged work due to a change to the contract.</p><p outputclass="Normal">   "Delay", as used in this part with respect to contractors, claims or requests for equitable adjustments, means the time-oriented cost effects or length of a suspension in scheduled contract work or a period of time-oriented cost effects or length of a suspension in scheduled contract work or a period of time a contractor is required to perform beyond the contract delivery or completion date, allegedly due to contractually remediable Government actions or inactions. Delay can be expressed in terms of time or cost or some combination of time and cost.</p></conbody></concept>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5233.201"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5233.201</ph> Definitions.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="Normal" class="- topic/p ">   "Disruption", as used in this part, means the cost effect upon, or the increased cost of performing, the unchanged work due to a change to the contract.</p>
+      <p outputclass="Normal" class="- topic/p ">   "Delay", as used in this part with respect to contractors, claims or requests for equitable adjustments, means the time-oriented cost effects or length of a suspension in scheduled contract work or a period of time-oriented cost effects or length of a suspension in scheduled contract work or a period of time a contractor is required to perform beyond the contract delivery or completion date, allegedly due to contractually remediable Government actions or inactions. Delay can be expressed in terms of time or cost or some combination of time and cost.</p>
+   </conbody>
+</concept>
