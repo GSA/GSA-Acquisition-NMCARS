@@ -1,158 +1,211 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="NMCARS_PART_5222">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="NMCARS_PART_5222"
+          ditaarch:DITAArchVersion="1.3"
+          class="- topic/topic ">
       <title outputclass="1 heading part Ctr" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 5222</ph> APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS</title>
-      <body>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5222.1.dita#NMCARS_SUBPART_5222.1">SUBPART 5222.1 — BASIC LABOR POLICIES</xref>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5222.1.dita#NMCARS_SUBPART_5222.1"
+                        class="- topic/xref ">SUBPART 5222.1 — BASIC LABOR POLICIES</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5222.101.dita#NMCARS_5222.101">5222.101 Labor relations.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5222.101.dita#NMCARS_5222.101"
+                              class="- topic/xref ">5222.101 Labor relations.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="5222.1011.dita#NMCARS_5222.1011">5222.101-1 General.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5222.1011.dita#NMCARS_5222.1011"
+                                    class="- topic/xref ">5222.101-1 General.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="5222.1013.dita#NMCARS_5222.1013">5222.101-3 Labor Disputes.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5222.1013.dita#NMCARS_5222.1013"
+                                    class="- topic/xref ">5222.101-3 Labor Disputes.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5222.102.dita#NMCARS_5222.102">5222.102 Federal and State labor requirements.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5222.102.dita#NMCARS_5222.102"
+                              class="- topic/xref ">5222.102 Federal and State labor requirements.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="5222.1022.dita#NMCARS_5222.1022">5222.102-2 Administration.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5222.1022.dita#NMCARS_5222.1022"
+                                    class="- topic/xref ">5222.102-2 Administration.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5222.103.dita#NMCARS_5222.103">5222.103 Overtime.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5222.103.dita#NMCARS_5222.103"
+                              class="- topic/xref ">5222.103 Overtime.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="5222.1034.dita#NMCARS_5222.1034">5222.103-4 Approvals.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5222.1034.dita#NMCARS_5222.1034"
+                                    class="- topic/xref ">5222.103-4 Approvals.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="5222.10390.dita#NMCARS_5222.10390">5222.103-90 Exceptions.</xref>
-                           </p>
-                        </li>
-                     </ul>
-                  </li>
-               </ul>
-            </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5222.3.dita#NMCARS_SUBPART_5222.3">SUBPART 5222.3 —CONTRACT WORK HOURS AND SAFETY STANDARDS ACT</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5222.302.dita#NMCARS_5222.302">5222.302 Liquidated damages and
-        overtime pay.</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5222.4.dita#NMCARS_SUBPART_5222.4">SUBPART 5222.4 —LABOR STANDARDS FOR CONTRACTS INVOLVING CONSTRUCTION</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5222.406.dita#NMCARS_5222.406">5222.406 Administration and enforcement.</xref>
-                     </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="5222.4061.dita#NMCARS_5222.4061">5222.406-1 Policy.</xref>
-                           </p>
-                        </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="5222.4068.dita#NMCARS_5222.4068">5222.406-8 Investigations.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5222.10390.dita#NMCARS_5222.10390"
+                                    class="- topic/xref ">5222.103-90 Exceptions.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5222.10.dita#NMCARS_SUBPART_5222.10">SUBPART 5222.10 —SERVICE CONTRACT LABOR STANDARDS</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5222.3.dita#NMCARS_SUBPART_5222.3"
+                        class="- topic/xref ">SUBPART 5222.3 —CONTRACT WORK HOURS AND SAFETY STANDARDS ACT</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5222.1006.dita#NMCARS_5222.1006">5222.1006 Solicitation provisions and contract clauses.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5222.302.dita#NMCARS_5222.302"
+                              class="- topic/xref ">5222.302 Liquidated damages and overtime pay.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5222.11.dita#NMCARS_SUBPART_5222.11">SUBPART 5222.11 — PROFESSIONAL EMPLOYEE COMPENSATION</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5222.4.dita#NMCARS_SUBPART_5222.4"
+                        class="- topic/xref ">SUBPART 5222.4 —LABOR STANDARDS FOR CONTRACTS INVOLVING CONSTRUCTION</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5222.1103.dita#NMCARS_5222.1103">5222.1103 Policy, procedures, and solicitation provision.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5222.406.dita#NMCARS_5222.406"
+                              class="- topic/xref ">5222.406 Administration and enforcement.</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5222.4061.dita#NMCARS_5222.4061"
+                                    class="- topic/xref ">5222.406-1 Policy.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5222.4068.dita#NMCARS_5222.4068"
+                                    class="- topic/xref ">5222.406-8 Investigations.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5222.10.dita#NMCARS_SUBPART_5222.10"
+                        class="- topic/xref ">SUBPART 5222.10 —SERVICE CONTRACT LABOR STANDARDS</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5222.1006.dita#NMCARS_5222.1006"
+                              class="- topic/xref ">5222.1006 Solicitation provisions and contract clauses.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5222.70.dita#NMCARS_SUBPART_5222.70">SUBPART 5222.70 —RESTRICTIONS ON THE EMPLOYMENT OF PERSONNEL FOR WORK ON CONSTRUCTION AND SERVICE CONTRACTS IN NONCONTIGUOUS STATES</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5222.11.dita#NMCARS_SUBPART_5222.11"
+                        class="- topic/xref ">SUBPART 5222.11 — PROFESSIONAL EMPLOYEE COMPENSATION</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5222.7003.dita#NMCARS_5222.7003">5222.7003 Waivers.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5222.1103.dita#NMCARS_5222.1103"
+                              class="- topic/xref ">5222.1103 Policy, procedures, and solicitation provision.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5222.74.dita#NMCARS_SUBPART_5222.74">SUBPART 5222.74 —RESTRICTIONS ON THE USE OF MANDATORY ARBITRATION AGREEMENTS</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5222.70.dita#NMCARS_SUBPART_5222.70"
+                        class="- topic/xref ">SUBPART 5222.70 —RESTRICTIONS ON THE EMPLOYMENT OF PERSONNEL FOR WORK ON CONSTRUCTION AND SERVICE CONTRACTS IN NONCONTIGUOUS STATES</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5222.7404.dita#NMCARS_5222.7404">5222.7404 Waiver.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5222.7003.dita#NMCARS_5222.7003"
+                              class="- topic/xref ">5222.7003 Waivers.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5222.90.dita#NMCARS_SUBPART_5222.90">SUBPART 5222.90 — DEPARTMENT OF THE NAVY NON–CONSTRUCTION CONTRACTS CONTAINING CONSTRUCTION WORK</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5222.74.dita#NMCARS_SUBPART_5222.74"
+                        class="- topic/xref ">SUBPART 5222.74 —RESTRICTIONS ON THE USE OF MANDATORY ARBITRATION AGREEMENTS</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5222.9000.dita#NMCARS_5222.9000">5222.9000 Department of the Navy non–construction contracts containing construction work.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5222.7404.dita#NMCARS_5222.7404"
+                              class="- topic/xref ">5222.7404 Waiver.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5222.90.dita#NMCARS_SUBPART_5222.90"
+                        class="- topic/xref ">SUBPART 5222.90 — DEPARTMENT OF THE NAVY NON–CONSTRUCTION CONTRACTS CONTAINING CONSTRUCTION WORK</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5222.9000.dita#NMCARS_5222.9000"
+                              class="- topic/xref ">5222.9000 Department of the Navy non–construction contracts containing construction work.</xref>
                      </p>
                   </li>
                </ul>

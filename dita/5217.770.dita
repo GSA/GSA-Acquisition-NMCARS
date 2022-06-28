@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="NMCARS_5217.770">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">5217.770</ph> Procedures.</title>
-   <conbody>
-      <p id="DQVhCG" outputclass="Normal">HCAs shall establish and maintain procedures, for assisted and direct acquisitions, consistent with approval authorities in this section, for reviewing and approving orders placed for supplies and services under non-DoD contracts when the amount of the order exceeds the simplified acquisition threshold. Approval authorities for assisted and direct acquisitions are:</p>
-      <p id="CbPJcj" outputclass="Normal">(1) Assisted acquisitions.</p>
-      <p id="aUgfok" outputclass="List2">(i) ASN(RDA) is the decision authority for assisted acquisitions exceeding $550,000,000.</p>
-      <p id="TClPqQ" outputclass="List2">(ii) DASN(P) is the decision authority for assisted acquisitions exceeding $50,000,000.</p>
-      <p id="aHYYuB" outputclass="List2">(iii) The HCA is the decision authority for assisted acquisitions at or below $50,000,000. This authority may be delegated; but, for requirements over $5,000,000, decision authority may only be delegated to an official in the Requiring Organization who is a Flag or General Officer; a member of the SES; or, for a requirement arising from a claimant activity without Flag/General Officer/SES, the commanding officer of that activity.</p>
-      <p id="mbQVeh" outputclass="Normal">(2) Direct acquisitions. The business clearance approval official is the decision authority for direct acquisitions.</p>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5217.770"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5217.770</ph> Procedures.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="DQVhCG" outputclass="Normal" class="- topic/p ">HCAs shall establish and maintain procedures, for assisted and direct acquisitions, consistent with approval authorities in this section, for reviewing and approving orders placed for supplies and services under non-DoD contracts when the amount of the order exceeds the simplified acquisition threshold. Approval authorities for assisted and direct acquisitions are:</p>
+      <p id="CbPJcj" outputclass="Normal" class="- topic/p ">(1) Assisted acquisitions.</p>
+      <p id="aUgfok" outputclass="List2" class="- topic/p ">(i) ASN(RDA) is the decision authority for assisted acquisitions exceeding $550,000,000.</p>
+      <p id="TClPqQ" outputclass="List2" class="- topic/p ">(ii) DASN(P) is the decision authority for assisted acquisitions exceeding $50,000,000.</p>
+      <p id="aHYYuB" outputclass="List2" class="- topic/p ">(iii) The HCA is the decision authority for assisted acquisitions at or below $50,000,000. This authority may be delegated; but, for requirements over $5,000,000, decision authority may only be delegated to an official in the Requiring Organization who is a Flag or General Officer; a member of the SES; or, for a requirement arising from a claimant activity without Flag/General Officer/SES, the commanding officer of that activity.</p>
+      <p id="mbQVeh" outputclass="Normal" class="- topic/p ">(2) Direct acquisitions. The business clearance approval official is the decision authority for direct acquisitions.</p>
    </conbody>
 </concept>

@@ -1,44 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="NMCARS_Annex-22">
-   <title outputclass="Ctr 1 heading">
-      <ph props="autonumber">ANNEX 22</ph> – SEAPORT ENGINEERING AND PROGRAM MANAGEMENT CATEGORIES</title>
-   <conbody>
-      <p id="NfOYKK" outputclass="Normal">
-         <b>
-            <i>Engineering Services</i>
-         </b>
-      </p>
-      <p id="tkdomH" outputclass="Normal">This category consists of supporting the application of engineering disciplines to technically support the research and development of new and existing Naval capabilities and systems, technically support development of significant alterations to existing systems, support integration and interface of existing equipment or software into different applications or platforms to support the warfighter, and support evaluation of foreign or non-developmental systems, equipment, and technologies. This category also includes all support required within the area of environmental engineering of U. S. Navy weapon systems and base related infrastructure. Functional areas that are included under the Engineering Services discipline include but, are not limited to the following:</p>
-      <p id="bQIVTN" outputclass="Normal">Engineering, System Engineering, and Safety and Process Engineering Support</p>
-      <p id="RkxIWT" outputclass="Normal">Software Engineering, Development, Programming, and Network Support</p>
-      <p id="BOswLQ" outputclass="Normal">In-Service Engineering, Fleet Introduction, Installation and Checkout and Provisioning Support</p>
-      <p id="VxWgHw" outputclass="Normal">Measurement Facilities, Range, and Instrumentation Support</p>
-      <p id="PxyfCK" outputclass="Normal">Interoperability, Test and Evaluation, Trials Support</p>
-      <p id="RBNoVm" outputclass="Normal">Research and Development Support</p>
-      <p id="dnfJFU" outputclass="Normal">Modeling, Simulation, Stimulation, and Analysis Support</p>
-      <p id="RHRJzR" outputclass="Normal">Prototyping, Pre-Production, Model-Making, and Fabrication Support</p>
-      <p id="srwVgt" outputclass="Normal">System Design Documentation and Technical Data Support</p>
-      <p id="ymynsM" outputclass="Normal">Reliability, Maintainability, and Availability (RM&amp;A) Support</p>
-      <p id="UNVVFM" outputclass="Normal">Inactivation and Disposal Support</p>
-      <p id="GKcQtK" outputclass="Normal">Biochemical Engineering Support</p>
-      <p id="EKESCF" outputclass="Normal">
-         <b>
-            <i>Program Management Services</i>
-         </b>
-      </p>
-      <p id="MFjHoL" outputclass="Normal">This category consists of applying the business, financial management, and technical disciplines required to support planning, organizing, staffing, controlling, and leading team efforts in managing acquisition programs such that the results place a capable and supportable system in the hands of the warfighter when and where it is needed, and does so at an affordable price. This functional area represents an integration of a complex system of differing but related functional disciplines that must work together to achieve program goals through development, production, deployment, operations, support, and disposal.</p>
-      <p id="MxNRES" outputclass="Normal">This category also consists of providing information system software analysis, requirements definition, design, development, test, modification, installation, implementation, quality assurance, training, and documentation to meet the evolving data storage and reporting needs of programs and management. Analyze existing IT and IS databases, web sites, and IT applications and recommend new or improved interfaces and improved management tools that meet new management requirements, or improve management effectiveness and efficiency. Perform maintenance and technical support for Local Area Networks (LAN) and Wide Area Networks (WAN) that are outside the cognizance of the Next Generation (NGEN) and NGEN Recompete (NGEN-R). Modify, implement and maintain web based information systems and links. Develop web-site structure, prepare documentation for population, implement and maintain web sites. Conduct IA analyses, develop, recommend, and implement, monitor, update, and maintain, IA practices, procedures, equipment, algorithms, and hardware that are outside the cognizance of NGEN and NGEN-R. This functional area also provides systems engineering and technical support for establishment, test, upgrade, and operational support of systems, networks, workstations and support equipment hardware and software that are outside the cognizance of NGEN and NGEN-R. Functional areas that are included under the Program Management Services discipline include but, are not limited to the following:</p>
-      <p id="LQgyQk" outputclass="Normal">Financial Analysis and Budget Support</p>
-      <p id="jkStDg" outputclass="Normal">Quality Assurance (QA) Support</p>
-      <p id="MzegAV" outputclass="Normal">Functional and Direct Programmatic Administrative Support</p>
-      <p id="GoOEoI" outputclass="Normal">Professional Development and Training Support</p>
-      <p id="ItCCGa" outputclass="Normal">Analytical and Organizational Assessment Support</p>
-      <p id="CIKvtA" outputclass="Normal">Database Administrators</p>
-      <p id="JmcDMi" outputclass="Normal">Public Affairs and Multimedia Support</p>
-      <p id="jEIPIq" outputclass="Normal">Logistics Support</p>
-      <p id="VyKrvU" outputclass="Normal">Configuration Management (CM) Support</p>
-      <p id="wVMlAX" outputclass="Normal">Information System (IS) Development, Information Assurance (IA), and Information Technology (IT) Support</p>
-      <p id="BHdHZg" outputclass="Normal">Computer Systems Analysts</p>
-   </conbody>
-</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="NMCARS_Annex-22"
+          ditaarch:DITAArchVersion="1.3"
+          class="- topic/topic ">
+      <title outputclass="Ctr 1 heading" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">ANNEX 22</ph> – SEAPORT ENGINEERING AND PROGRAM MANAGEMENT CATEGORIES</title>
+      <body class="- topic/body ">
+         <p id="NfOYKK" outputclass="Normal" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">
+               <i class="+ topic/ph hi-d/i ">Engineering Services</i>
+            </b>
+         </p>
+         <p id="tkdomH" outputclass="Normal" class="- topic/p ">This category consists of supporting the application of engineering disciplines to technically support the research and development of new and existing Naval capabilities and systems, technically support development of significant alterations to existing systems, support integration and interface of existing equipment or software into different applications or platforms to support the warfighter, and support evaluation of foreign or non-developmental systems, equipment, and technologies. This category also includes all support required within the area of environmental engineering of U. S. Navy weapon systems and base related infrastructure. Functional areas that are included under the Engineering Services discipline include but, are not limited to the following:</p>
+         <p id="bQIVTN" outputclass="Normal" class="- topic/p ">Engineering, System Engineering, and Safety and Process Engineering Support</p>
+         <p id="RkxIWT" outputclass="Normal" class="- topic/p ">Software Engineering, Development, Programming, and Network Support</p>
+         <p id="BOswLQ" outputclass="Normal" class="- topic/p ">In-Service Engineering, Fleet Introduction, Installation and Checkout and Provisioning Support</p>
+         <p id="VxWgHw" outputclass="Normal" class="- topic/p ">Measurement Facilities, Range, and Instrumentation Support</p>
+         <p id="PxyfCK" outputclass="Normal" class="- topic/p ">Interoperability, Test and Evaluation, Trials Support</p>
+         <p id="RBNoVm" outputclass="Normal" class="- topic/p ">Research and Development Support</p>
+         <p id="dnfJFU" outputclass="Normal" class="- topic/p ">Modeling, Simulation, Stimulation, and Analysis Support</p>
+         <p id="RHRJzR" outputclass="Normal" class="- topic/p ">Prototyping, Pre-Production, Model-Making, and Fabrication Support</p>
+         <p id="srwVgt" outputclass="Normal" class="- topic/p ">System Design Documentation and Technical Data Support</p>
+         <p id="ymynsM" outputclass="Normal" class="- topic/p ">Reliability, Maintainability, and Availability (RM&amp;A) Support</p>
+         <p id="UNVVFM" outputclass="Normal" class="- topic/p ">Inactivation and Disposal Support</p>
+         <p id="GKcQtK" outputclass="Normal" class="- topic/p ">Biochemical Engineering Support</p>
+         <p id="EKESCF" outputclass="Normal" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">
+               <i class="+ topic/ph hi-d/i ">Program Management Services</i>
+            </b>
+         </p>
+         <p id="MFjHoL" outputclass="Normal" class="- topic/p ">This category consists of applying the business, financial management, and technical disciplines required to support planning, organizing, staffing, controlling, and leading team efforts in managing acquisition programs such that the results place a capable and supportable system in the hands of the warfighter when and where it is needed, and does so at an affordable price. This functional area represents an integration of a complex system of differing but related functional disciplines that must work together to achieve program goals through development, production, deployment, operations, support, and disposal.</p>
+         <p id="MxNRES" outputclass="Normal" class="- topic/p ">This category also consists of providing information system software analysis, requirements definition, design, development, test, modification, installation, implementation, quality assurance, training, and documentation to meet the evolving data storage and reporting needs of programs and management. Analyze existing IT and IS databases, web sites, and IT applications and recommend new or improved interfaces and improved management tools that meet new management requirements, or improve management effectiveness and efficiency. Perform maintenance and technical support for Local Area Networks (LAN) and Wide Area Networks (WAN) that are outside the cognizance of the Next Generation (NGEN) and NGEN Recompete (NGEN-R). Modify, implement and maintain web based information systems and links. Develop web-site structure, prepare documentation for population, implement and maintain web sites. Conduct IA analyses, develop, recommend, and implement, monitor, update, and maintain, IA practices, procedures, equipment, algorithms, and hardware that are outside the cognizance of NGEN and NGEN-R. This functional area also provides systems engineering and technical support for establishment, test, upgrade, and operational support of systems, networks, workstations and support equipment hardware and software that are outside the cognizance of NGEN and NGEN-R. Functional areas that are included under the Program Management Services discipline include but, are not limited to the following:</p>
+         <p id="LQgyQk" outputclass="Normal" class="- topic/p ">Financial Analysis and Budget Support</p>
+         <p id="jkStDg" outputclass="Normal" class="- topic/p ">Quality Assurance (QA) Support</p>
+         <p id="MzegAV" outputclass="Normal" class="- topic/p ">Functional and Direct Programmatic Administrative Support</p>
+         <p id="GoOEoI" outputclass="Normal" class="- topic/p ">Professional Development and Training Support</p>
+         <p id="ItCCGa" outputclass="Normal" class="- topic/p ">Analytical and Organizational Assessment Support</p>
+         <p id="CIKvtA" outputclass="Normal" class="- topic/p ">Database Administrators</p>
+         <p id="JmcDMi" outputclass="Normal" class="- topic/p ">Public Affairs and Multimedia Support</p>
+         <p id="jEIPIq" outputclass="Normal" class="- topic/p ">Logistics Support</p>
+         <p id="VyKrvU" outputclass="Normal" class="- topic/p ">Configuration Management (CM) Support</p>
+         <p id="wVMlAX" outputclass="Normal" class="- topic/p ">Information System (IS) Development, Information Assurance (IA), and Information Technology (IT) Support</p>
+         <p id="BHdHZg" outputclass="Normal" class="- topic/p ">Computer Systems Analysts</p>
+      </body>
+   </topic>
+</dita>

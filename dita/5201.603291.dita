@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="NMCARS_5201.603291">
-   <title outputclass="Heading 4">
-      <ph props="autonumber">5201.603-2-91</ph> Contracting officer warrant issuance to non–DON employee.</title>
-   <conbody>
-      <p id="nLvpRn" outputclass="Normal">Except where a DON activity is designated HCA for a joint-contracting operation, if there is a need to issue a warrant to a non-DON employee, an HCA must submit a waiver request to DASN(P) by email at <xref format="mailto" href="mailto:Policy@navy.mil" scope="external">
-            <u>Policy@navy.mil</u>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5201.603291"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5201.603-2-91</ph> Contracting officer warrant issuance to non–DON employee.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="nLvpRn" outputclass="Normal" class="- topic/p ">Except where a DON activity is designated HCA for a joint-contracting operation, if there is a need to issue a warrant to a non-DON employee, an HCA must submit a waiver request to DASN(P) by email at <xref format="mailto"
+               href="mailto:Policy@navy.mil"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">Policy@navy.mil</u>
          </xref> with the subject “DFARS 201.603-2 – Contracting Officer Warrant Issuance to a non-DON Employee” for approval, using the template in Annex 12, provided the individual is a civilian or military member of the DOD and meets applicable requirements commensurate to the proposed warrant level per 10 U.S.C.§1724.</p>
    </conbody>
 </concept>

@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="NMCARS_5201.108">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">5201.108</ph> FAR conventions.</title>
-   <conbody>
-      <p id="heQPHC" outputclass="Normal">(b) <i>Delegation of authority</i>. The authorities assigned or delegated within NMCARS may be delegated or redelegated, unless otherwise restricted.</p>
-      <p id="GRCIyr" outputclass="Normal">(S-90) When the FAR or DFARS requires submission of a document to an organization outside of the Department of the Navy and the NMCARS directs the submission of that document to DASN(P), DASN(P) assumes the responsibility for complying with the requirement in the FAR or DFARS.</p>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5201.108"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5201.108</ph> FAR conventions.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="heQPHC" outputclass="Normal" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Delegation of authority</i>. The authorities assigned or delegated within NMCARS may be delegated or redelegated, unless otherwise restricted.</p>
+      <p id="GRCIyr" outputclass="Normal" class="- topic/p ">(S-90) When the FAR or DFARS requires submission of a document to an organization outside of the Department of the Navy and the NMCARS directs the submission of that document to DASN(P), DASN(P) assumes the responsibility for complying with the requirement in the FAR or DFARS.</p>
    </conbody>
 </concept>

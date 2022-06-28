@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="NMCARS_5225.80290">
-   <title outputclass="Heading 4">
-      <ph props="autonumber">5225.802-90</ph> Procedures for acquisitions that can be satisfied only by sources outside the United States.</title>
-   <conbody>
-      <p id="IkuCeH" outputclass="Normal">(a) Naval activities having requirements that can be satisfied only by European sources should forward their requisitions to Fleet Logistics Center (FLC) Sigonella for procurements in Southern Europe, the Mediterranean, and Africa; to FLC Sigonella Detachment Bahrain for procurements in the Middle East; or FLC Sigonella Detachment London for procurements in Northern Europe, including the United Kingdom and Iceland. Naval activities having requirements that can be satisfied only by Asian sources should forward their requirements to FLC Yokosuka for procurements in Japan or Korea; or FLC Yokosuka Detachment Singapore for procurements in Asia/Pacific other than Japan or Korea. This does not relieve activities from complying with current Balance of Payments directives.</p>
-      <p id="obiVSC" outputclass="Normal">(b) <i>Exceptions</i>.</p>
-      <p id="kqoVNW" outputclass="List2">(1) The following are exceptions to paragraph (a) above:</p>
-      <p id="ArmLIB" outputclass="List3">(i) Contracts for complete vessels or aircraft.</p>
-      <p id="hUDdUZ" outputclass="List3">(ii) Contracts for equipment requiring servicing by representatives of foreign companies.</p>
-      <p id="oTwvco" outputclass="List3">(iii) Contracts within an activity's authorized purchase authority when material is readily available overseas (outside the contiguous United States).</p>
-      <p id="YJLuQp" outputclass="List3">(iv) Other specific exceptions as may be granted by NAVSUPSYSCOM.</p>
-      <p id="eWPiDj" outputclass="List2">(2) Contracting Officers utilizing any of the above exceptions, prior to negotiating with an overseas supplier, should contact the applicable FLC for assistance and support.</p>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5225.80290"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5225.802-90</ph> Procedures for acquisitions that can be satisfied only by sources outside the United States.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="IkuCeH" outputclass="Normal" class="- topic/p ">(a) Naval activities having requirements that can be satisfied only by European sources should forward their requisitions to Fleet Logistics Center (FLC) Sigonella for procurements in Southern Europe, the Mediterranean, and Africa; to FLC Sigonella Detachment Bahrain for procurements in the Middle East; or FLC Sigonella Detachment London for procurements in Northern Europe, including the United Kingdom and Iceland. Naval activities having requirements that can be satisfied only by Asian sources should forward their requirements to FLC Yokosuka for procurements in Japan or Korea; or FLC Yokosuka Detachment Singapore for procurements in Asia/Pacific other than Japan or Korea. This does not relieve activities from complying with current Balance of Payments directives.</p>
+      <p id="obiVSC" outputclass="Normal" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Exceptions</i>.</p>
+      <p id="kqoVNW" outputclass="List2" class="- topic/p ">(1) The following are exceptions to paragraph (a) above:</p>
+      <p id="ArmLIB" outputclass="List3" class="- topic/p ">(i) Contracts for complete vessels or aircraft.</p>
+      <p id="hUDdUZ" outputclass="List3" class="- topic/p ">(ii) Contracts for equipment requiring servicing by representatives of foreign companies.</p>
+      <p id="oTwvco" outputclass="List3" class="- topic/p ">(iii) Contracts within an activity's authorized purchase authority when material is readily available overseas (outside the contiguous United States).</p>
+      <p id="YJLuQp" outputclass="List3" class="- topic/p ">(iv) Other specific exceptions as may be granted by NAVSUPSYSCOM.</p>
+      <p id="eWPiDj" outputclass="List2" class="- topic/p ">(2) Contracting Officers utilizing any of the above exceptions, prior to negotiating with an overseas supplier, should contact the applicable FLC for assistance and support.</p>
    </conbody>
 </concept>
