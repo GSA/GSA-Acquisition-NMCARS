@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="NMCARS_5215.305"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5215.305</ph> Proposal evaluation.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="ejFecp" outputclass="Normal" class="- topic/p ">(a)(1) <i class="+ topic/ph hi-d/i ">Cost or price evaluation</i>. Methods of evaluation which assign a point score to cost or price and combine it with point scores for other evaluation factors generally should not be used. Point scores can be helpful in summarizing subjective evaluation of technical and other factors but are not needed in evaluating cost or price and tend to obscure the tradeoff between cost/price and other factors, rather than clarifying it. If point scoring of cost/price is utilized, it should be demonstrated that the value of a cost/price point is comparable, in value to the Government, to the value of a non-cost/price point. When a cost realism analysis is performed, the resulting realistic cost estimate should be used in the evaluation of cost, except when using a firm-fixed-price or fixed-price with economic price adjustment type of contract.</p>
-      <p id="xOjzEI" outputclass="List2" class="- topic/p ">(4) <i class="+ topic/ph hi-d/i ">Cost information</i>. The sharing of cost information with the technical evaluation team, and any limitations on the timing and extent of such sharing, should be addressed during the planning for the source selection. HCAs may establish specific procedural requirements for approving, documenting and/or varying from plans related to such sharing.</p>
-      <p id="KGZIcv" outputclass="Normal" class="- topic/p ">(S-90) Approval for use of contractor personnel as evaluators is addressed in FAR Subpart 37.2 and 5237.204. Such contractor personnel shall not rank or recommend one proposal over another, assign any ratings or numerical scores, or otherwise act in a decision-making capacity. Whenever advisory contractor personnel are to be used, a written release shall be obtained from each offeror.</p>
-      <p id="p__Toc221944403" outputclass="Normal" class="- topic/p "/>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="NMCARS_5215.305">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5215.305</ph> Proposal evaluation.</title>
+   <conbody>
+      <p id="ejFecp" outputclass="Normal">(a)(1) <i>Cost or price evaluation</i>. Methods of evaluation which assign a point score to cost or price and combine it with point scores for other evaluation factors generally should not be used. Point scores can be helpful in summarizing subjective evaluation of technical and other factors but are not needed in evaluating cost or price and tend to obscure the tradeoff between cost/price and other factors, rather than clarifying it. If point scoring of cost/price is utilized, it should be demonstrated that the value of a cost/price point is comparable, in value to the Government, to the value of a non-cost/price point. When a cost realism analysis is performed, the resulting realistic cost estimate should be used in the evaluation of cost, except when using a firm-fixed-price or fixed-price with economic price adjustment type of contract.</p>
+      <p id="xOjzEI" outputclass="List2">(4) <i>Cost information</i>. The sharing of cost information with the technical evaluation team, and any limitations on the timing and extent of such sharing, should be addressed during the planning for the source selection. HCAs may establish specific procedural requirements for approving, documenting and/or varying from plans related to such sharing.</p>
+      <p id="KGZIcv" outputclass="Normal">(S-90) Approval for use of contractor personnel as evaluators is addressed in FAR Subpart 37.2 and 5237.204. Such contractor personnel shall not rank or recommend one proposal over another, assign any ratings or numerical scores, or otherwise act in a decision-making capacity. Whenever advisory contractor personnel are to be used, a written release shall be obtained from each offeror.</p>
+      <p id="p__Toc221944403" outputclass="Normal"></p>
    </conbody>
 </concept>

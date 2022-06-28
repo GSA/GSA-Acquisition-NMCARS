@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="NMCARS_5206.502"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5206.502</ph> Duties and responsibilities.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="rvttNZ" outputclass="Normal" class="- topic/p ">(b)(2) The annual competition report shall be submitted via DASN(P) by January 31st of each year by email at <xref format="mailto"
-               href="mailto:RDAJ&amp;As.fct@navy.mil"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct@navy.mil</u>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="NMCARS_5206.502">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5206.502</ph> Duties and responsibilities.</title>
+   <conbody>
+      <p id="rvttNZ" outputclass="Normal">(b)(2) The annual competition report shall be submitted via DASN(P) by January 31st of each year by email at <xref format="mailto" href="mailto:RDAJ&amp;As.fct@navy.mil" scope="external">
+            <u>RDAJ&amp;As.fct@navy.mil</u>
          </xref> with the subject “[Activity Name] FAR 6.502(b) Annual Competition Report.”</p>
-      <p id="mZxLUm" outputclass="List2" class="- topic/p ">(S-90) Competition advocates shall also:</p>
-      <p id="wlIBgx" outputclass="List3" class="- topic/p ">(1) Act as the primary focal points to assist members of the private sector regarding their expressed concerns or complaints in reference to the manner of application or lack of application of competition in the acquisition process; and</p>
-      <p id="HjVxEy" outputclass="List3" class="- topic/p ">(2) Take appropriate action to ensure that valid complaints from the private sector are resolved in a fair and timely manner.</p>
+      <p id="mZxLUm" outputclass="List2">(S-90) Competition advocates shall also:</p>
+      <p id="wlIBgx" outputclass="List3">(1) Act as the primary focal points to assist members of the private sector regarding their expressed concerns or complaints in reference to the manner of application or lack of application of competition in the acquisition process; and</p>
+      <p id="HjVxEy" outputclass="List3">(2) Take appropriate action to ensure that valid complaints from the private sector are resolved in a fair and timely manner.</p>
    </conbody>
 </concept>

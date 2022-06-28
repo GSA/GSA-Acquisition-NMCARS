@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="NMCARS_5216.306"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5216.306</ph> Cost–plus–fixed–fee contracts.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="TFZPPw" outputclass="Normal" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Limitations</i>.</p>
-      <p id="BoEzpe" outputclass="List2" class="- topic/p ">(ii)(A) COMNAVFAC is delegated authority to approve cost-plus-fixed-fee (CPFF) contracts for environmental work only, provided the environmental work is not classified as construction, as defined by 10 U.S.C. 2801.</p>
-      <p id="vXqoUZ" outputclass="List3" class="- topic/p ">(B) Requests for approval of CPFF contracts requiring SECDEF approval shall be routed through NAVFACENGCOM and then via DASN(P) by email at <xref format="mailto"
-               href="mailto:Rdaj&amp;as.fct@navy.mil"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct</u>
-            <u class="+ topic/ph hi-d/u ">@navy.mil</u>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="NMCARS_5216.306">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5216.306</ph> Cost–plus–fixed–fee contracts.</title>
+   <conbody>
+      <p id="TFZPPw" outputclass="Normal">(c) <i>Limitations</i>.</p>
+      <p id="BoEzpe" outputclass="List2">(ii)(A) COMNAVFAC is delegated authority to approve cost-plus-fixed-fee (CPFF) contracts for environmental work only, provided the environmental work is not classified as construction, as defined by 10 U.S.C. 2801.</p>
+      <p id="vXqoUZ" outputclass="List3">(B) Requests for approval of CPFF contracts requiring SECDEF approval shall be routed through NAVFACENGCOM and then via DASN(P) by email at <xref format="mailto" href="mailto:Rdaj&amp;as.fct@navy.mil" scope="external">
+            <u>RDAJ&amp;As.fct</u>
+            <u>@navy.mil</u>
          </xref> with the subject “[Activity Name] DFARS 216.306 – CPFF Contract Approval.”</p>
    </conbody>
 </concept>

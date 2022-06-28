@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="NMCARS_5206.3032"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 4" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5206.303-2</ph> Content.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="GNUkMD" outputclass="Normal" class="- topic/p ">(b)(3) The total estimated dollar value for each acquisition covered by the justification, identified by fiscal year and appropriation.</p>
-      <p id="FeGFXf" outputclass="Normal" class="- topic/p ">(9)(ii) Address the requirements at both FAR 6.302-1(a)(2)(ii) and (a)(2)(iii) as shown in Annex 1.</p>
-      <p id="NiKHGM" outputclass="List2" class="- topic/p ">(iv) The period of performance for each proposed acquisition.</p>
-      <p id="oXsiYX" outputclass="List2" class="- topic/p ">(v) If the justification is a class justification, an expiration date expressed as a calendar date.</p>
-      <p id="GXlhOM" outputclass="Normal" class="- topic/p ">(11) If this is a follow-on to a previously approved J&amp;A, include how the previously stated actions to remove barriers to competition have been accomplished. If not accomplished, explain why and the new plan to accomplish those actions. If the justification is for a bridge contract, include an approved copy of Annex 5.</p>
-      <p id="KpVjYB" outputclass="Normal" class="- topic/p ">(S-90) Format.</p>
-      <p id="ubadhC" outputclass="List2" class="- topic/p ">(a) The required format for a justification is at Annex 1.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="NMCARS_5206.3032">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5206.303-2</ph> Content.</title>
+   <conbody>
+      <p id="GNUkMD" outputclass="Normal">(b)(3) The total estimated dollar value for each acquisition covered by the justification, identified by fiscal year and appropriation.</p>
+      <p id="FeGFXf" outputclass="Normal">(9)(ii) Address the requirements at both FAR 6.302-1(a)(2)(ii) and (a)(2)(iii) as shown in Annex 1.</p>
+      <p id="NiKHGM" outputclass="List2">(iv) The period of performance for each proposed acquisition.</p>
+      <p id="oXsiYX" outputclass="List2">(v) If the justification is a class justification, an expiration date expressed as a calendar date.</p>
+      <p id="GXlhOM" outputclass="Normal">(11) If this is a follow-on to a previously approved J&amp;A, include how the previously stated actions to remove barriers to competition have been accomplished. If not accomplished, explain why and the new plan to accomplish those actions. If the justification is for a bridge contract, include an approved copy of Annex 5.</p>
+      <p id="KpVjYB" outputclass="Normal">(S-90) Format.</p>
+      <p id="ubadhC" outputclass="List2">(a) The required format for a justification is at Annex 1.</p>
    </conbody>
 </concept>

@@ -1,58 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="NMCARS_PART_5231"
-          ditaarch:DITAArchVersion="1.3"
-          class="- topic/topic ">
+<dita>
+   <topic id="NMCARS_PART_5231">
       <title outputclass="1 heading part Ctr" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 5231</ph> CONTRACT COST PRINCIPLES AND PROCEDURES</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5231.1.dita#NMCARS_SUBPART_5231.1"
-                        class="- topic/xref ">SUBPART 5231.1 — APPLICABILITY</xref>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5231.1.dita#NMCARS_SUBPART_5231.1">SUBPART 5231.1 — APPLICABILITY</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5231.109.dita#NMCARS_5231.109"
-                              class="- topic/xref ">5231.109 Advance agreements.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5231.109.dita#NMCARS_5231.109">5231.109 Advance agreements.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5231.2.dita#NMCARS_SUBPART_5231.2"
-                        class="- topic/xref ">SUBPART 5231.2 — CONTRACTS WITH COMMERCIAL ORGANIZATIONS</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5231.2.dita#NMCARS_SUBPART_5231.2">SUBPART 5231.2 — CONTRACTS WITH COMMERCIAL ORGANIZATIONS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5231.205.dita#NMCARS_5231.205"
-                              class="- topic/xref ">5231.205 Selected costs.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5231.205.dita#NMCARS_5231.205">5231.205 Selected costs.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5231.20590.dita#NMCARS_5231.20590"
-                                    class="- topic/xref ">5231.205-90 Shipbuilding capability preservation agreements.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5231.20590.dita#NMCARS_5231.20590">5231.205-90 Shipbuilding capability preservation agreements.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5231.20591.dita#NMCARS_5231.20591"
-                                    class="- topic/xref ">5231.205-91 Compensation for services.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5231.20591.dita#NMCARS_5231.20591">5231.205-91 Compensation for services.</xref>
                            </p>
                         </li>
                      </ul>

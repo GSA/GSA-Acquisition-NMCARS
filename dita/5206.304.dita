@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="NMCARS_5206.304"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5206.304</ph> Approval of the justification.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="wJjdZS" outputclass="Normal" class="- topic/p ">(a)(S-90) Notwithstanding FAR 6.304, DFARS 206.304, the HCA is designated as the approval authority for justifications of 8(a) sole source awards exceeding $100 million. HCA authority may be delegated to the Deputy/Assistant Commander for Contracts, without power of redelegation. See Annex 4 for STRL deviations applicable hereto.</p>
-      <p id="oTMwDX" outputclass="Normal" class="- topic/p ">(a)(1) For contract actions that would negate the use of SeaPort, the justification shall be approved by the advocate for competition for the procuring activity.</p>
-      <p id="aslrex" outputclass="List2" class="- topic/p ">(2) DON activities with contracting authority in excess of $700,000 may be considered “procuring activities” solely for the purpose of enabling their competition advocate to exercise this approval authority.</p>
-      <p id="tZbxqn" outputclass="List2" class="- topic/p ">(4) Justifications for ASN(RDA) approval must be submitted via DASN(P) by email at <xref format="mailto"
-               href="mailto:RDAJ&amp;As.fct@navy.mil"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct@navy.mil</u>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="NMCARS_5206.304">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5206.304</ph> Approval of the justification.</title>
+   <conbody>
+      <p id="wJjdZS" outputclass="Normal">(a)(S-90) Notwithstanding FAR 6.304, DFARS 206.304, the HCA is designated as the approval authority for justifications of 8(a) sole source awards exceeding $100 million. HCA authority may be delegated to the Deputy/Assistant Commander for Contracts, without power of redelegation. See Annex 4 for STRL deviations applicable hereto.</p>
+      <p id="oTMwDX" outputclass="Normal">(a)(1) For contract actions that would negate the use of SeaPort, the justification shall be approved by the advocate for competition for the procuring activity.</p>
+      <p id="aslrex" outputclass="List2">(2) DON activities with contracting authority in excess of $700,000 may be considered “procuring activities” solely for the purpose of enabling their competition advocate to exercise this approval authority.</p>
+      <p id="tZbxqn" outputclass="List2">(4) Justifications for ASN(RDA) approval must be submitted via DASN(P) by email at <xref format="mailto" href="mailto:RDAJ&amp;As.fct@navy.mil" scope="external">
+            <u>RDAJ&amp;As.fct@navy.mil</u>
          </xref> with the subject “[Activity Name] DFARS 206.304(a)(4) – J&amp;A Approval – Other Than Full and Open Competition”. The signature page shall be submitted electronically as a .pdf file. The body of the justification shall be submitted electronically as both Word and .pdf files.</p>
-      <p id="SXHncO" outputclass="List3" class="- topic/p ">(i) The applicable Acquisition Strategy (or STRAP or MOPAS-S if no Acquisition Strategy exists) shall be submitted with the justification. The documents should be reviewed concurrent with preparation of the justification and updated if required. Justifications and planning documentation should be consistent and any unavoidable discrepancies highlighted and explained within the document.</p>
-      <p id="UuoNfA" outputclass="List3" class="- topic/p ">(ii) Historic justification information shall be submitted with the proposed justification.</p>
+      <p id="SXHncO" outputclass="List3">(i) The applicable Acquisition Strategy (or STRAP or MOPAS-S if no Acquisition Strategy exists) shall be submitted with the justification. The documents should be reviewed concurrent with preparation of the justification and updated if required. Justifications and planning documentation should be consistent and any unavoidable discrepancies highlighted and explained within the document.</p>
+      <p id="UuoNfA" outputclass="List3">(ii) Historic justification information shall be submitted with the proposed justification.</p>
    </conbody>
 </concept>

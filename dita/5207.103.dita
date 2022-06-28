@@ -1,338 +1,307 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="NMCARS_5207.103"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5207.103</ph> Agency–head responsibilities.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="xkUmgr" outputclass="Normal" class="- topic/p ">(d)(i) An acquisition program is a directed, funded effort that provides a new, improved, or continuing materiel, weapon or information system, or service capability in response to an approved need.</p>
-      <p id="NKlbtf" outputclass="Normal" class="- topic/p ">(ii) Notwithstanding the DFARS exemption for one-time buys, streamlined acquisition plans (STRAPs) are required for the following categories of acquisitions meeting the thresholds in DFARS 207.103(d)(i):</p>
-      <ol class="- topic/ol ">
-         <li id="HWtHwS" class="- topic/li ">
-            <p id="wuzFWN" outputclass="List1" class="- topic/p ">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="NMCARS_5207.103">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5207.103</ph> Agency–head responsibilities.</title>
+   <conbody>
+      <p id="xkUmgr" outputclass="Normal">(d)(i) An acquisition program is a directed, funded effort that provides a new, improved, or continuing materiel, weapon or information system, or service capability in response to an approved need.</p>
+      <p id="NKlbtf" outputclass="Normal">(ii) Notwithstanding the DFARS exemption for one-time buys, streamlined acquisition plans (STRAPs) are required for the following categories of acquisitions meeting the thresholds in DFARS 207.103(d)(i):</p>
+      <ol>
+         <li id="HWtHwS">
+            <p id="wuzFWN" outputclass="List1">
                <ph props="autonumber" class="- topic/ph ">(A) </ph>Military construction;</p>
          </li>
-         <li id="oLkPYI" class="- topic/li ">
-            <p id="vOTJGX" outputclass="List1" class="- topic/p ">
+         <li id="oLkPYI">
+            <p id="vOTJGX" outputclass="List1">
                <ph props="autonumber" class="- topic/ph ">(B) </ph>Commercial items;</p>
          </li>
-         <li id="WQbIpX" class="- topic/li ">
-            <p id="sRpFvy" outputclass="List1" class="- topic/p ">
+         <li id="WQbIpX">
+            <p id="sRpFvy" outputclass="List1">
                <ph props="autonumber" class="- topic/ph ">(C) </ph>Spare and repair parts;</p>
          </li>
-         <li id="XAHVZa" class="- topic/li ">
-            <p id="rarKjy" outputclass="List1" class="- topic/p ">
+         <li id="XAHVZa">
+            <p id="rarKjy" outputclass="List1">
                <ph props="autonumber" class="- topic/ph ">(D) </ph>Items of supply that are managed on a national basis where requirements are computed in accordance with established DOD/DON inventory management policy/regulation;</p>
          </li>
-         <li id="VuFfEg" class="- topic/li ">
-            <p id="MpKkhJ" outputclass="List1" class="- topic/p ">
+         <li id="VuFfEg">
+            <p id="MpKkhJ" outputclass="List1">
                <ph props="autonumber" class="- topic/ph ">(E) </ph>Overhaul and/or modification of naval vessels, small vessels and crafts (including MSC vessels/crafts);</p>
          </li>
-         <li id="HOywki" class="- topic/li ">
-            <p id="ezEubH" outputclass="List1" class="- topic/p ">
+         <li id="HOywki">
+            <p id="ezEubH" outputclass="List1">
                <ph props="autonumber" class="- topic/ph ">(F) </ph>Overhaul and/or modification of engines;</p>
          </li>
-         <li id="BpZvmL" class="- topic/li ">
-            <p id="qlAEiX" outputclass="List1" class="- topic/p ">
+         <li id="BpZvmL">
+            <p id="qlAEiX" outputclass="List1">
                <ph props="autonumber" class="- topic/ph ">(G) </ph>Operation and maintenance of weapon test/training ranges;</p>
          </li>
-         <li id="VppVZY" class="- topic/li ">
-            <p id="AvPFxf" outputclass="List1" class="- topic/p ">
+         <li id="VppVZY">
+            <p id="AvPFxf" outputclass="List1">
                <ph props="autonumber" class="- topic/ph ">(H) </ph>Ocean towage;</p>
          </li>
-         <li id="DJBsxk" class="- topic/li ">
-            <p id="YwYoyV" outputclass="List1" class="- topic/p ">
+         <li id="DJBsxk">
+            <p id="YwYoyV" outputclass="List1">
                <ph props="autonumber" class="- topic/ph ">(I) </ph>Commercial activities;</p>
          </li>
-         <li id="RHHWSo" class="- topic/li ">
-            <p id="VvCqYF" outputclass="List1" class="- topic/p ">
+         <li id="RHHWSo">
+            <p id="VvCqYF" outputclass="List1">
                <ph props="autonumber" class="- topic/ph ">(J) </ph>Architect-engineer;</p>
          </li>
-         <li id="ZpRqSw" class="- topic/li ">
-            <p id="mjMLzn" outputclass="List1" class="- topic/p ">
+         <li id="ZpRqSw">
+            <p id="mjMLzn" outputclass="List1">
                <ph props="autonumber" class="- topic/ph ">(K) </ph>Major station maintenance and repair; and</p>
          </li>
-         <li id="MTHysm" class="- topic/li ">
-            <p id="p__Hlk66440300" outputclass="List1 Normal" class="- topic/p ">
+         <li id="MTHysm">
+            <p id="p__Hlk66440300" outputclass="List1 Normal">
                <ph props="autonumber" class="- topic/ph ">(L) </ph>Component overhaul/maintenance/repair at the depot, intermediate or organizational levels.</p>
          </li>
       </ol>
-      <p id="QlLZuO" outputclass="Normal" class="- topic/p ">(e) Notwithstanding the DFARS requirement to write some acquisition plans on a program basis, STRAPs may be written on either an individual or program basis. STRAPs are required for task and delivery orders where the value for the order requires an AP (see Table 5207-1 below). The level of detail expected for each document shall be commensurate with the complexity, total planned value, and performance risk of the procurement.</p>
-      <p id="jinjdo" outputclass="Normal" class="- topic/p ">(i) Acquisition planners shall ensure that the assigned small business specialist is afforded the opportunity to participate actively in the acquisition planning process.</p>
-      <p id="JvFpSW" outputclass="Normal" class="- topic/p ">(j)(i) DASN(P) is the approval authority for APs that include individual contract actions with an estimated value of $250,000,000 or more, including options, except if the contract action is included in a current acquisition strategy for an ACAT program approved by the milestone decision authority.</p>
-      <p id="eZOqTY" outputclass="List2" class="- topic/p ">(ii) Table 5207-1, STRAP/Management and Oversight Process for the Acquisition of Services – Streamlined (MOPAS-S) Requirements and Approvals, provides the approval requirements. The values depicted are the estimated contract value inclusive of options. See Annex 4 for STRL deviations applicable hereto.</p>
-      <p id="ZoCiBj" outputclass="List2" class="- topic/p ">(iii) When DASN(P) or the Navy Senior Services Manager (SSM) is the approving official, a HCA, Program Executive Officer (PEO), or Direct Reporting Program Manager’s (DRPM) signature recommending approval is also required.</p>
-      <p id="JZShAy" outputclass="List2" class="- topic/p ">(iv) Submit STRAPs, including revisions to the plans, requiring DASN(P) or the Navy SSM review and approval by email at <xref format="mailto"
-               href="mailto:RDAJ&amp;As.fct@navy.mil"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct</u>
-            <u class="+ topic/ph hi-d/u ">@navy.mil</u>
+      <p id="QlLZuO" outputclass="Normal">(e) Notwithstanding the DFARS requirement to write some acquisition plans on a program basis, STRAPs may be written on either an individual or program basis. STRAPs are required for task and delivery orders where the value for the order requires an AP (see Table 5207-1 below). The level of detail expected for each document shall be commensurate with the complexity, total planned value, and performance risk of the procurement.</p>
+      <p id="jinjdo" outputclass="Normal">(i) Acquisition planners shall ensure that the assigned small business specialist is afforded the opportunity to participate actively in the acquisition planning process.</p>
+      <p id="JvFpSW" outputclass="Normal">(j)(i) DASN(P) is the approval authority for APs that include individual contract actions with an estimated value of $250,000,000 or more, including options, except if the contract action is included in a current acquisition strategy for an ACAT program approved by the milestone decision authority.</p>
+      <p id="eZOqTY" outputclass="List2">(ii) Table 5207-1, STRAP/Management and Oversight Process for the Acquisition of Services – Streamlined (MOPAS-S) Requirements and Approvals, provides the approval requirements. The values depicted are the estimated contract value inclusive of options. See Annex 4 for STRL deviations applicable hereto.</p>
+      <p id="ZoCiBj" outputclass="List2">(iii) When DASN(P) or the Navy Senior Services Manager (SSM) is the approving official, a HCA, Program Executive Officer (PEO), or Direct Reporting Program Manager’s (DRPM) signature recommending approval is also required.</p>
+      <p id="JZShAy" outputclass="List2">(iv) Submit STRAPs, including revisions to the plans, requiring DASN(P) or the Navy SSM review and approval by email at <xref format="mailto" href="mailto:RDAJ&amp;As.fct@navy.mil" scope="external">
+            <u>RDAJ&amp;As.fct</u>
+            <u>@navy.mil</u>
          </xref> with the subject “[Activity Name] NMCARS 5207.103 – STRAP Review and Approval.”</p>
-      <p id="QFuixe" outputclass="Normal" class="- topic/p ">(l)(i) The required formats for the STRAPs are as follows (see Table 5207-1, STRAP/MOPAS-S Requirements and Approvals, for their required use)--</p>
-      <p id="YslGjt" outputclass="List2" class="- topic/p ">(A) Annex 17 - Program STRAP (PSTRAP) for supplies;</p>
-      <p id="GZfCim" outputclass="List2" class="- topic/p ">(B) Annex 18 - Individual STRAP (ISTRAP) for supplies;</p>
-      <p id="Qajncx" outputclass="List2" class="- topic/p ">(C) Annex 19 - Program STRAP that includes services valued over the simplified acquisition threshold (SAT) (PSTRAP-M);</p>
-      <p id="czVlSc" outputclass="List2" class="- topic/p ">(D) Annex 20 – Individual STRAP that includes services valued over the SAT (ISTRAP-M).</p>
-      <p id="YIjkDi" outputclass="Normal" class="- topic/p ">(ii) The required format for use for services can be found in Annex 21 – MOPAS-S for services. See 5237.170-2 and 5237.503 for further details.</p>
-      <p id="GcVYlr" outputclass="Normal" class="- topic/p ">(iii) No changes are authorized to Annexes 17-21 for actions requiring DASN(P) or the Navy SSM review and approval. HCAs, without power of delegation, shall approve any modifications to Annexes 17 - 21 that are approved at the Activity level. Copies of the approval to modify any STRAP or MOPAS-S formats and the modified document shall be provided by email at <xref format="mailto"
-               href="mailto:RDAJ&amp;As.fct@navy.mil"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct</u>
-            <u class="+ topic/ph hi-d/u ">@navy.mil</u>
+      <p id="QFuixe" outputclass="Normal">(l)(i) The required formats for the STRAPs are as follows (see Table 5207-1, STRAP/MOPAS-S Requirements and Approvals, for their required use)--</p>
+      <p id="YslGjt" outputclass="List2">(A) Annex 17 - Program STRAP (PSTRAP) for supplies;</p>
+      <p id="GZfCim" outputclass="List2">(B) Annex 18 - Individual STRAP (ISTRAP) for supplies;</p>
+      <p id="Qajncx" outputclass="List2">(C) Annex 19 - Program STRAP that includes services valued over the simplified acquisition threshold (SAT) (PSTRAP-M);</p>
+      <p id="czVlSc" outputclass="List2">(D) Annex 20 – Individual STRAP that includes services valued over the SAT (ISTRAP-M).</p>
+      <p id="YIjkDi" outputclass="Normal">(ii) The required format for use for services can be found in Annex 21 – MOPAS-S for services. See 5237.170-2 and 5237.503 for further details.</p>
+      <p id="GcVYlr" outputclass="Normal">(iii) No changes are authorized to Annexes 17-21 for actions requiring DASN(P) or the Navy SSM review and approval. HCAs, without power of delegation, shall approve any modifications to Annexes 17 - 21 that are approved at the Activity level. Copies of the approval to modify any STRAP or MOPAS-S formats and the modified document shall be provided by email at <xref format="mailto" href="mailto:RDAJ&amp;As.fct@navy.mil" scope="external">
+            <u>RDAJ&amp;As.fct</u>
+            <u>@navy.mil</u>
          </xref> with the subject “[Activity Name] NMCARS 5207.105 – Modification to the STRAP/MOPAS-S” within 10 days of approval.</p>
-      <p id="GQcEpZ" outputclass="Normal" class="- topic/p ">(iv) Any revisions to previously approved acquisition plans shall be submitted in the streamlined format. STRAPs shall be updated when changes occur. Revisions and updates shall be sent to the original approver for signature unless changes in the funding amounts correspond to a new dollar threshold level that changes the approving authority.</p>
-      <p id="ZyyNPe" outputclass="normal Ctr" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">Table 5207-1 - STRAP/MOPAS-S Requirements and Approvals.</b>
+      <p id="GQcEpZ" outputclass="Normal">(iv) Any revisions to previously approved acquisition plans shall be submitted in the streamlined format. STRAPs shall be updated when changes occur. Revisions and updates shall be sent to the original approver for signature unless changes in the funding amounts correspond to a new dollar threshold level that changes the approving authority.</p>
+      <p id="ZyyNPe" outputclass="normal Ctr">
+         <b>Table 5207-1 - STRAP/MOPAS-S Requirements and Approvals.</b>
       </p>
-      <table colsep="1" rowsep="1" class="- topic/table ">
-         <tgroup cols="7" colsep="1" class="- topic/tgroup ">
-            <colspec colname="1"
-                     colnum="1"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="2"
-                     colnum="2"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="3"
-                     colnum="3"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="4"
-                     colnum="4"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="5"
-                     colnum="5"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="6"
-                     colnum="6"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="7"
-                     colnum="7"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <tbody class="- topic/tbody ">
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="p__Hlk66439973" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Acquisition Type</b>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="7" colsep="1">
+            <colspec colname="1" colnum="1" />
+            <colspec colname="2" colnum="2" />
+            <colspec colname="3" colnum="3" />
+            <colspec colname="4" colnum="4" />
+            <colspec colname="5" colnum="5" />
+            <colspec colname="6" colnum="6" />
+            <colspec colname="7" colnum="7" />
+            <tbody>
+               <row rowsep="1">
+                  <entry>
+                     <p id="p__Hlk66439973">
+                        <b>Acquisition Type</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="NMfQfH" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">&gt;</b>
-                        <b class="+ topic/ph hi-d/b ">SAT</b>
-                        <b class="+ topic/ph hi-d/b ">&lt;</b>
-                        <b class="+ topic/ph hi-d/b ">$10M</b>
+                  <entry>
+                     <p id="NMfQfH">
+                        <b>&gt;</b>
+                        <b>SAT</b>
+                        <b>&lt;</b>
+                        <b>$10M</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="pgwKBY" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">$10M</b>
-                        <b class="+ topic/ph hi-d/b ">&lt;</b>
-                        <b class="+ topic/ph hi-d/b ">$25M</b>
+                  <entry>
+                     <p id="pgwKBY">
+                        <b>$10M</b>
+                        <b>&lt;</b>
+                        <b>$25M</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="zJTQcC" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">$25M</b>
+                  <entry>
+                     <p id="zJTQcC">
+                        <b>$25M</b>
                      </p>
-                     <p id="txNERD" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">&lt;</b>
-                        <b class="+ topic/ph hi-d/b ">$50M</b>
-                     </p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="DkiIFY" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">$50M</b>
-                     </p>
-                     <p id="IXWyxU" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">&lt;</b>
-                        <b class="+ topic/ph hi-d/b ">$</b>
-                        <b class="+ topic/ph hi-d/b ">250</b>
-                        <b class="+ topic/ph hi-d/b ">M</b>
+                     <p id="txNERD">
+                        <b>&lt;</b>
+                        <b>$50M</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="tfsUHa" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <u class="+ topic/ph hi-d/u ">&gt;</u>
+                  <entry>
+                     <p id="DkiIFY">
+                        <b>$50M</b>
+                     </p>
+                     <p id="IXWyxU">
+                        <b>&lt;</b>
+                        <b>$</b>
+                        <b>250</b>
+                        <b>M</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="tfsUHa">
+                        <b>
+                           <u>&gt;</u>
                         </b>
-                        <b class="+ topic/ph hi-d/b ">$</b>
-                        <b class="+ topic/ph hi-d/b ">250</b>
-                        <b class="+ topic/ph hi-d/b ">M</b>
+                        <b>$</b>
+                        <b>250</b>
+                        <b>M</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="popyrU" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Reference</b>
+                  <entry>
+                     <p id="popyrU">
+                        <b>Reference</b>
                      </p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="zzloAJ" class="- topic/p ">Development</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="zzloAJ">Development</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="AkPgjd" class="- topic/p ">Not Applicable</p>
+                  <entry>
+                     <p id="AkPgjd">Not Applicable</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="LFIAud" class="- topic/p ">*ISTRAP-M or</p>
-                     <p id="IOPWCP" class="- topic/p ">PSTRAP-M</p>
+                  <entry>
+                     <p id="LFIAud">*ISTRAP-M or</p>
+                     <p id="IOPWCP">PSTRAP-M</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="tuDIUI" class="- topic/p ">*ISTRAP-M or</p>
-                     <p id="qoHmQI" class="- topic/p ">PSTRAP-M</p>
+                  <entry>
+                     <p id="tuDIUI">*ISTRAP-M or</p>
+                     <p id="qoHmQI">PSTRAP-M</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="SJagSb" class="- topic/p ">*ISTRAP-M</p>
-                     <p id="RQuLOA" class="- topic/p ">or</p>
-                     <p id="JoTWRO" class="- topic/p ">PSTRAP-M</p>
+                  <entry>
+                     <p id="SJagSb">*ISTRAP-M</p>
+                     <p id="RQuLOA">or</p>
+                     <p id="JoTWRO">PSTRAP-M</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="igCBfN" class="- topic/p ">#ISTRAP-M</p>
-                     <p id="oyJJnS" class="- topic/p ">or</p>
-                     <p id="SnyvBj" class="- topic/p ">PSTRAP-M</p>
+                  <entry>
+                     <p id="igCBfN">#ISTRAP-M</p>
+                     <p id="oyJJnS">or</p>
+                     <p id="SnyvBj">PSTRAP-M</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="zwstjN" class="- topic/p ">DFARS 207.103(d)(i)(A)</p>
-                  </entry>
-               </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="dxLfGD" class="- topic/p ">Production <u class="+ topic/ph hi-d/u ">&gt;</u>$50M/program or <u class="+ topic/ph hi-d/u ">&gt;</u>$25M/FY</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="AbRxSB" class="- topic/p ">Not Applicable</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="LXmoqe" class="- topic/p ">Not Applicable</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="FsTAfn" class="- topic/p ">*ISTRAP or PSTRAP</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="eZzoGZ" class="- topic/p ">*ISTRAP or PSTRAP</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="joExFf" class="- topic/p ">#ISTRAP or PSTRAP</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="VbxExL" class="- topic/p ">DFARS 207.103(d)(i)(B)</p>
+                  <entry>
+                     <p id="zwstjN">DFARS 207.103(d)(i)(A)</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="aQUPde" class="- topic/p ">Production <u class="+ topic/ph hi-d/u ">&gt;</u>$50M/program or <u class="+ topic/ph hi-d/u ">&gt;</u>$25M/FY with Services over the SAT</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="dxLfGD">Production <u>&gt;</u>$50M/program or <u>&gt;</u>$25M/FY</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="lnuRwj" class="- topic/p ">Not Applicable</p>
+                  <entry>
+                     <p id="AbRxSB">Not Applicable</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="DbiQvD" class="- topic/p ">Not Applicable</p>
+                  <entry>
+                     <p id="LXmoqe">Not Applicable</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="PVCaZm" class="- topic/p ">*ISTRAP-M or</p>
-                     <p id="VLGOPm" class="- topic/p ">PSTRAP-M</p>
+                  <entry>
+                     <p id="FsTAfn">*ISTRAP or PSTRAP</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="mNYyIV" class="- topic/p ">*ISTRAP-M orPSTRAP-M</p>
+                  <entry>
+                     <p id="eZzoGZ">*ISTRAP or PSTRAP</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="TwzosO" class="- topic/p ">#ISTRAP-M or PSTRAP-M</p>
+                  <entry>
+                     <p id="joExFf">#ISTRAP or PSTRAP</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="fbgdRc" class="- topic/p ">DFARS 207.103(d)(i)(B)</p>
-                  </entry>
-               </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="lCMJXr" class="- topic/p ">Services <u class="+ topic/ph hi-d/u ">&gt;</u>$50M/program or <u class="+ topic/ph hi-d/u ">&gt;</u>$25M/FY</p>
-                     <p id="rzwUce" class="- topic/p ">(Not subject to DoDI 5000.74)</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="MhARol" class="- topic/p ">Not Applicable</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="Niewhj" class="- topic/p ">Not Applicable</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="vJQvSy" class="- topic/p ">*ISTRAP-M or</p>
-                     <p id="SEpoDQ" class="- topic/p ">PSTRAP-M</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="HzJkFy" class="- topic/p ">*ISTRAP-M orPSTRAP-M</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="duFflN" class="- topic/p ">^ISTRAP-M or</p>
-                     <p id="ZQZTHL" class="- topic/p ">PSTRAP-M</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="piYbpt" class="- topic/p ">DFARS 207.103(d)(i)(B)</p>
+                  <entry>
+                     <p id="VbxExL">DFARS 207.103(d)(i)(B)</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="ZNTkAy" class="- topic/p ">Services</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="aQUPde">Production <u>&gt;</u>$50M/program or <u>&gt;</u>$25M/FY with Services over the SAT</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="xDhiwU" class="- topic/p ">*MOPAS-S</p>
+                  <entry>
+                     <p id="lnuRwj">Not Applicable</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="PaJaBS" class="- topic/p ">*MOPAS-S</p>
+                  <entry>
+                     <p id="DbiQvD">Not Applicable</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="yfbNnn" class="- topic/p ">*MOPAS-S</p>
+                  <entry>
+                     <p id="PVCaZm">*ISTRAP-M or</p>
+                     <p id="VLGOPm">PSTRAP-M</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="vXGKfa" class="- topic/p ">*ISTRAP-M orPSTRAP-M</p>
+                  <entry>
+                     <p id="mNYyIV">*ISTRAP-M orPSTRAP-M</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="rbOyVs" class="- topic/p ">^ISTRAP-M or</p>
-                     <p id="mktZwM" class="- topic/p ">PSTRAP-M</p>
+                  <entry>
+                     <p id="TwzosO">#ISTRAP-M or PSTRAP-M</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="rIOIRU" class="- topic/p ">NMCARS 5237.503</p>
+                  <entry>
+                     <p id="fbgdRc">DFARS 207.103(d)(i)(B)</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="zvgNUY" class="- topic/p ">Assisted Acquisition for Services</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="lCMJXr">Services <u>&gt;</u>$50M/program or <u>&gt;</u>$25M/FY</p>
+                     <p id="rzwUce">(Not subject to DoDI 5000.74)</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="NoxjVv" class="- topic/p ">*MOPAS-S</p>
+                  <entry>
+                     <p id="MhARol">Not Applicable</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="qIxqAt" class="- topic/p ">*MOPAS-S</p>
+                  <entry>
+                     <p id="Niewhj">Not Applicable</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="yuvYfP" class="- topic/p ">*MOPAS-S</p>
+                  <entry>
+                     <p id="vJQvSy">*ISTRAP-M or</p>
+                     <p id="SEpoDQ">PSTRAP-M</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="BLtief" class="- topic/p ">^ISTRAP-M orPSTRAP-M</p>
+                  <entry>
+                     <p id="HzJkFy">*ISTRAP-M orPSTRAP-M</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="npasfF" class="- topic/p ">^ISTRAP-M or</p>
-                     <p id="hDGQaF" class="- topic/p ">PSTRAP-M</p>
+                  <entry>
+                     <p id="duFflN">^ISTRAP-M or</p>
+                     <p id="ZQZTHL">PSTRAP-M</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="eMVZmR" class="- topic/p ">NMCARS 5237.503</p>
+                  <entry>
+                     <p id="piYbpt">DFARS 207.103(d)(i)(B)</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="ZNTkAy">Services</p>
+                  </entry>
+                  <entry>
+                     <p id="xDhiwU">*MOPAS-S</p>
+                  </entry>
+                  <entry>
+                     <p id="PaJaBS">*MOPAS-S</p>
+                  </entry>
+                  <entry>
+                     <p id="yfbNnn">*MOPAS-S</p>
+                  </entry>
+                  <entry>
+                     <p id="vXGKfa">*ISTRAP-M orPSTRAP-M</p>
+                  </entry>
+                  <entry>
+                     <p id="rbOyVs">^ISTRAP-M or</p>
+                     <p id="mktZwM">PSTRAP-M</p>
+                  </entry>
+                  <entry>
+                     <p id="rIOIRU">NMCARS 5237.503</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="zvgNUY">Assisted Acquisition for Services</p>
+                  </entry>
+                  <entry>
+                     <p id="NoxjVv">*MOPAS-S</p>
+                  </entry>
+                  <entry>
+                     <p id="qIxqAt">*MOPAS-S</p>
+                  </entry>
+                  <entry>
+                     <p id="yuvYfP">*MOPAS-S</p>
+                  </entry>
+                  <entry>
+                     <p id="BLtief">^ISTRAP-M orPSTRAP-M</p>
+                  </entry>
+                  <entry>
+                     <p id="npasfF">^ISTRAP-M or</p>
+                     <p id="hDGQaF">PSTRAP-M</p>
+                  </entry>
+                  <entry>
+                     <p id="eMVZmR">NMCARS 5237.503</p>
                   </entry>
                </row>
             </tbody>
          </tgroup>
       </table>
-      <p id="uXCDqy" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">Approving Authority Legend:</b>
+      <p id="uXCDqy" outputclass="Normal">
+         <b>Approving Authority Legend:</b>
       </p>
-      <p id="UAOnQe" outputclass="Normal" class="- topic/p ">* = HCA/PEO/DRPM ^ = Navy Senior Services Manager # = DASN(P)</p>
+      <p id="UAOnQe" outputclass="Normal">* = HCA/PEO/DRPM ^ = Navy Senior Services Manager # = DASN(P)</p>
    </conbody>
 </concept>

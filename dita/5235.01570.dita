@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="NMCARS_5235.01570"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5235.015-70</ph> Special use allowances for research facilities acquired by educational institutions.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="dyyOIq" outputclass="Normal" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Policy.</i>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="NMCARS_5235.01570">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5235.015-70</ph> Special use allowances for research facilities acquired by educational institutions.</title>
+   <conbody>
+      <p id="dyyOIq" outputclass="Normal">(b) <i>Policy.</i>
       </p>
-      <p id="ULqrFb" outputclass="List2" class="- topic/p ">(S-90)(1) Contracts providing for a special use allowance for acquisitions or construction of research facilities shall specify:</p>
-      <p id="puexCg" outputclass="List3" class="- topic/p ">(A) that plans, specifications and major changes thereto shall be subject to approval by the Government;</p>
-      <p id="OOreug" outputclass="List3" class="- topic/p ">(B) that the work shall be subject to approval by the Government for conformity to approved plans and specifications; and</p>
-      <p id="TBwhqf" outputclass="List3" class="- topic/p ">(C) that the NAVFACENGCOM shall be the authorized representative of the sponsoring contracting activity for such purposes.</p>
-      <p id="yvzdco" outputclass="List2" class="- topic/p ">(2) Except as otherwise directed or authorized in the approval, the contract may also provide for up to a 15% increase in the amount subject to the special use allowance to cover changes in the work or any difference between estimated and actual cost of the work. Any such increase may be made subject to the approval of the sponsoring contracting activity. If more than a 15% increase is required, the further approval of the HCA is required.</p>
+      <p id="ULqrFb" outputclass="List2">(S-90)(1) Contracts providing for a special use allowance for acquisitions or construction of research facilities shall specify:</p>
+      <p id="puexCg" outputclass="List3">(A) that plans, specifications and major changes thereto shall be subject to approval by the Government;</p>
+      <p id="OOreug" outputclass="List3">(B) that the work shall be subject to approval by the Government for conformity to approved plans and specifications; and</p>
+      <p id="TBwhqf" outputclass="List3">(C) that the NAVFACENGCOM shall be the authorized representative of the sponsoring contracting activity for such purposes.</p>
+      <p id="yvzdco" outputclass="List2">(2) Except as otherwise directed or authorized in the approval, the contract may also provide for up to a 15% increase in the amount subject to the special use allowance to cover changes in the work or any difference between estimated and actual cost of the work. Any such increase may be made subject to the approval of the sponsoring contracting activity. If more than a 15% increase is required, the further approval of the HCA is required.</p>
    </conbody>
 </concept>

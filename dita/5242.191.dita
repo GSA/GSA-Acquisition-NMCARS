@@ -1,21 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="NMCARS_5242.191"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5242.191</ph> Audit resolution and disposition.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p class="- topic/p ">   (a) Resolution of findings/recommendations in reportable contract audit reports, as defined in DOD Instruction 7640.02, other than pre-award audits, is required within six months of report </p>
-      <p outputclass="Normal" class="- topic/p ">issuance. When an audit’s findings/recommendations are resolved, they shall be supported, in the official contract file, by a negotiation memorandum, if applicable; a memorandum for the record; or other appropriate specific written documentation in the file. Disposition, including fund recovery actions, shall take place as soon as possible after resolution.</p>
-      <p outputclass="Normal" class="- topic/p ">   (b) HCAs are responsible for establishing procedures to accomplish audit resolution and disposition within the required times and to comply with the DOD Instruction 7640.02, Policy for Follow-Up on Contract Audit Reports. Semiannual (March 31 and September 30 of each year) reporting requirements shall be conducted through routine and timely entry of resolved, unresolved, dispositioned, or in litigation or investigation and document forward date within the CAFU DCMA eTools system at <xref href="http://www.dcma.mil"
-               scope="external"
-               format="mil"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">www.dcma.mil</u>
-         </xref>. If the resolution and disposition of reportable contract audit reports become over-age, documentation of actions taken to achieve resolution and disposition shall be recorded within the CAFU DCMA eTools system monthly. DASN(P) PA&amp;BT is the DON liaison. </p>
-   </conbody>
-</concept>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="NMCARS_5242.191" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">5242.191</ph> Audit resolution and disposition.</title><conbody><p>   (a) Resolution of findings/recommendations in reportable contract audit reports, as defined in DOD Instruction 7640.02, other than pre-award audits, is required within six months of report </p><p outputclass="Normal">issuance. When an audit’s findings/recommendations are resolved, they shall be supported, in the official contract file, by a negotiation memorandum, if applicable; a memorandum for the record; or other appropriate specific written documentation in the file. Disposition, including fund recovery actions, shall take place as soon as possible after resolution.</p><p outputclass="Normal">   (b) HCAs are responsible for establishing procedures to accomplish audit resolution and disposition within the required times and to comply with the DOD Instruction 7640.02, Policy for Follow-Up on Contract Audit Reports. Semiannual (March 31 and September 30 of each year) reporting requirements shall be conducted through routine and timely entry of resolved, unresolved, dispositioned, or in litigation or investigation and document forward date within the CAFU DCMA eTools system at <xref href="http://www.dcma.mil" scope="external" format="mil"><u>www.dcma.mil</u></xref>. If the resolution and disposition of reportable contract audit reports become over-age, documentation of actions taken to achieve resolution and disposition shall be recorded within the CAFU DCMA eTools system monthly. DASN(P) PA&amp;BT is the DON liaison. </p></conbody></concept>

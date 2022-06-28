@@ -1,152 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="NMCARS_PART_5237"
-          ditaarch:DITAArchVersion="1.3"
-          class="- topic/topic ">
+<dita>
+   <topic id="NMCARS_PART_5237">
       <title outputclass="Ctr 1 heading part" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 5237</ph> SERVICE CONTRACTING</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5237.1.dita#NMCARS_SUBPART_5237.1"
-                        class="- topic/xref ">SUBPART 5237.1 — SERVICE CONTRACTS GENERAL</xref>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5237.1.dita#NMCARS_SUBPART_5237.1">SUBPART 5237.1 — SERVICE CONTRACTS GENERAL</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5237.102.dita#NMCARS_5237.102"
-                              class="- topic/xref ">5237.102 Policy.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5237.102.dita#NMCARS_5237.102">5237.102 Policy.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5237.10271.dita#NMCARS_5237.10271"
-                                    class="- topic/xref ">5237.102-71 Limitations on service contracts for military flight simulators.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5237.10271.dita#NMCARS_5237.10271">5237.102-71 Limitations on service contracts for military flight simulators.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5237.103.dita#NMCARS_5237.103"
-                              class="- topic/xref ">5237.103 Contracting officer responsibility.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5237.103.dita#NMCARS_5237.103">5237.103 Contracting officer responsibility.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5237.104.dita#NMCARS_5237.104"
-                              class="- topic/xref ">5237.104 Personal services contracts.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5237.104.dita#NMCARS_5237.104">5237.104 Personal services contracts.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5237.170.dita#NMCARS_5237.170"
-                              class="- topic/xref ">5237.170 Approval of contracts and task orders for services.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5237.170.dita#NMCARS_5237.170">5237.170 Approval of contracts and task orders for services.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5237.1702.dita#NMCARS_5237.1702"
-                                    class="- topic/xref ">5237.170-2 Approval requirements.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5237.1702.dita#NMCARS_5237.1702">5237.170-2 Approval requirements.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5237.192.dita#NMCARS_5237.192"
-                              class="- topic/xref ">5237.192 Services Acquisition Workshops (SAWs).</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5237.192.dita#NMCARS_5237.192">5237.192 Services Acquisition Workshops (SAWs).</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5237.2.dita#NMCARS_SUBPART_5237.2"
-                        class="- topic/xref ">SUBPART 5237.2 — ADVISORY AND ASSISTANCE SERVICES</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5237.2.dita#NMCARS_SUBPART_5237.2">SUBPART 5237.2 — ADVISORY AND ASSISTANCE SERVICES</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5237.204.dita#NMCARS_5237.204"
-                              class="- topic/xref ">5237.204 Guidelines for determining availability of personnel.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5237.204.dita#NMCARS_5237.204">5237.204 Guidelines for determining availability of personnel.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5237.5.dita#NMCARS_SUBPART_5237.5"
-                        class="- topic/xref ">SUBPART 5237.5 — MANAGEMENT OVERSIGHT OF SERVICE CONTRACTS</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5237.5.dita#NMCARS_SUBPART_5237.5">SUBPART 5237.5 — MANAGEMENT OVERSIGHT OF SERVICE CONTRACTS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5237.502.dita#NMCARS_5237.502"
-                              class="- topic/xref ">5237.502 Exclusions.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5237.502.dita#NMCARS_5237.502">5237.502 Exclusions.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5237.503.dita#NMCARS_5237.503"
-                              class="- topic/xref ">5237.503 Agency–head responsibilities.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5237.503.dita#NMCARS_5237.503">5237.503 Agency–head responsibilities.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5237.504.dita#NMCARS_5237.504"
-                              class="- topic/xref ">5237.504 Contracting official’s responsibilities.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5237.504.dita#NMCARS_5237.504">5237.504 Contracting official’s responsibilities.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5237.76.dita#NMCARS_SUBPART_5237.76"
-                        class="- topic/xref ">SUBPART 5237.76 — CONTINUATION OF ESSENTIAL CONTRACTOR SERVICES</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5237.76.dita#NMCARS_SUBPART_5237.76">SUBPART 5237.76 — CONTINUATION OF ESSENTIAL CONTRACTOR SERVICES</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5237.7602.dita#NMCARS_5237.7602"
-                              class="- topic/xref ">5237.7602 Policy.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5237.7602.dita#NMCARS_5237.7602">5237.7602 Policy.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5237.90.dita#NMCARS_SUBPART_5237.90"
-                        class="- topic/xref ">SUBPART 5237.90 —CONTRACTOR GUARD SERVICES</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5237.90.dita#NMCARS_SUBPART_5237.90">SUBPART 5237.90 —CONTRACTOR GUARD SERVICES</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5237.9000.dita#NMCARS_5237.9000"
-                              class="- topic/xref ">5237.9000 Contracting for contractor guard services.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5237.9000.dita#NMCARS_5237.9000">5237.9000 Contracting for contractor guard services.</xref>
                      </p>
                   </li>
                </ul>
