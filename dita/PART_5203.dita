@@ -1,140 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="NMCARS_PART_5203"
-          ditaarch:DITAArchVersion="1.3"
-          class="- topic/topic ">
-      <title outputclass="1 Heading Part" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 5203</ph> IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5203.1.dita#NMCARS_SUBPART_5203.1"
-                        class="- topic/xref ">SUBPART 5203.1 — SAFEGUARDS</xref>
+<dita>
+   <topic id="NMCARS_PART_5203">
+      <title class="- topic/title " outputclass="1 Heading Part">
+         <ph class="- topic/ph " props="autonumber">PART 5203</ph> IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5203.1.dita#NMCARS_SUBPART_5203.1">SUBPART 5203.1 — SAFEGUARDS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5203.101.dita#NMCARS_5203.101"
-                              class="- topic/xref ">5203.101 Standards of conduct.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5203.101.dita#NMCARS_5203.101">5203.101 Standards of conduct.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5203.1011.dita#NMCARS_5203.1011"
-                                    class="- topic/xref ">5203.101-1 General.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5203.1011.dita#NMCARS_5203.1011">5203.101-1 General.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5203.104.dita#NMCARS_5203.104"
-                              class="- topic/xref ">5203.104 Procurement integrity.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5203.104.dita#NMCARS_5203.104">5203.104 Procurement integrity.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5203.1047.dita#NMCARS_5203.1047"
-                                    class="- topic/xref ">5203.104-7 Violations or possible violations.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5203.1047.dita#NMCARS_5203.1047">5203.104-7 Violations or possible violations.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5203.2.dita#NMCARS_SUBPART_5203.2"
-                        class="- topic/xref ">SUBPART 5203.2 — CONTRACTOR GRATUITIES TO GOVERNMENT PERSONNEL</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5203.2.dita#NMCARS_SUBPART_5203.2">SUBPART 5203.2 — CONTRACTOR GRATUITIES TO GOVERNMENT PERSONNEL</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5203.203.dita#NMCARS_5203.203"
-                              class="- topic/xref ">5203.203 Reporting suspected violations of the Gratuities clause.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5203.203.dita#NMCARS_5203.203">5203.203 Reporting suspected violations of the Gratuities clause.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5203.204.dita#NMCARS_5203.204"
-                              class="- topic/xref ">5203.204 Treatment of violations.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5203.204.dita#NMCARS_5203.204">5203.204 Treatment of violations.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5203.6.dita#NMCARS_SUBPART_5203.6"
-                        class="- topic/xref ">SUBPART 5203.6 — CONTRACTS WITH GOVERNMENT EMPLOYEES OR ORGANIZATIONS OWNED OR CONTROLLED BY THEM</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5203.6.dita#NMCARS_SUBPART_5203.6">SUBPART 5203.6 — CONTRACTS WITH GOVERNMENT EMPLOYEES OR ORGANIZATIONS OWNED OR CONTROLLED BY THEM</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5203.602.dita#NMCARS_5203.602"
-                              class="- topic/xref ">5203.602 Exceptions.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5203.602.dita#NMCARS_5203.602">5203.602 Exceptions.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5203.8.dita#NMCARS_SUBPART_5203.8"
-                        class="- topic/xref ">SUBPART 5203.8 — LIMITATIONS ON THE PAYMENT OF FUNDS TO INFLUENCE FEDERAL TRANSACTIONS</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5203.8.dita#NMCARS_SUBPART_5203.8">SUBPART 5203.8 — LIMITATIONS ON THE PAYMENT OF FUNDS TO INFLUENCE FEDERAL TRANSACTIONS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5203.806.dita#NMCARS_5203.806"
-                              class="- topic/xref ">5203.806 Processing suspected violations.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5203.806.dita#NMCARS_5203.806">5203.806 Processing suspected violations.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5203.9.dita#NMCARS_SUBPART_5203.9"
-                        class="- topic/xref ">SUBPART 5203.9 — WHISTLEBLOWER PROTECTIONS FOR CONTRACTOR EMPLOYEES</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5203.9.dita#NMCARS_SUBPART_5203.9">SUBPART 5203.9 — WHISTLEBLOWER PROTECTIONS FOR CONTRACTOR EMPLOYEES</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5203.903.dita#NMCARS_5203.903"
-                              class="- topic/xref ">5203.903 Policy.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5203.903.dita#NMCARS_5203.903">5203.903 Policy.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5203.10.dita#NMCARS_SUBPART_5203.10"
-                        class="- topic/xref ">SUBPART 5203.10 — CONTRACTOR CODE OF BUSINESS ETHICS AND CONDUCT</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5203.10.dita#NMCARS_SUBPART_5203.10">SUBPART 5203.10 — CONTRACTOR CODE OF BUSINESS ETHICS AND CONDUCT</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5203.1003.dita#NMCARS_5203.1003"
-                              class="- topic/xref ">5203.1003 Requirements.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5203.1003.dita#NMCARS_5203.1003">5203.1003 Requirements.</xref>
                      </p>
                   </li>
                </ul>

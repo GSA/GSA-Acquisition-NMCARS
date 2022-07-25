@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="NMCARS_Annex-4"
-          ditaarch:DITAArchVersion="1.3"
-          class="- topic/topic ">
-      <title outputclass="Ctr 1 heading" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">ANNEX 4</ph> – SUMMARY OF IMPLEMENTATION OF FISCAL YEAR 2017 NATIONAL
+<dita>
+   <topic id="NMCARS_Annex-4">
+      <title class="- topic/title " outputclass="Ctr 1 heading">
+         <ph class="- topic/ph " props="autonumber">ANNEX 4</ph> – SUMMARY OF IMPLEMENTATION OF FISCAL YEAR 2017 NATIONAL
       DEFENSE AUTHORIZATION ACT SECTION 233 PILOT PROGRAM FOR THE ENHANCEMENT OF THE RESEARCH,
       DEVELOPMENT, TEST, AND EVALUATION CENTERS</title>
-      <body class="- topic/body ">
+      <body>
          <p id="seRjGH" outputclass="Normal" class="- topic/p ">This Annex memorializes ASN(RDA) approved initiatives
          under FY17 NDAA Section 233 Pilot Program for the Enhancement of the Research, Development,
          Test, and Evaluation Centers. The FY17 NDAA Section 233 directs the military departments to

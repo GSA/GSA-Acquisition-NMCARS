@@ -1,44 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="NMCARS_PART_5236"
-          ditaarch:DITAArchVersion="1.3"
-          class="- topic/topic ">
-      <title outputclass="Ctr 1 heading part" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 5236</ph> CONSTRUCTION AND ARCHITECT–ENGINEER CONTRACTS</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5236.2.dita#NMCARS_SUBPART_5236.2"
-                        class="- topic/xref ">SUBPART 5236.2 — SPECIAL ASPECTS OF CONTRACTING FOR CONSTRUCTION</xref>
+<dita>
+   <topic id="NMCARS_PART_5236">
+      <title class="- topic/title " outputclass="Ctr 1 heading part">
+         <ph class="- topic/ph " props="autonumber">PART 5236</ph> CONSTRUCTION AND ARCHITECT–ENGINEER CONTRACTS</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5236.2.dita#NMCARS_SUBPART_5236.2">SUBPART 5236.2 — SPECIAL ASPECTS OF CONTRACTING FOR CONSTRUCTION</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5236.270.dita#NMCARS_5236.270"
-                              class="- topic/xref ">5236.270 Expediting construction contracts.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5236.270.dita#NMCARS_5236.270">5236.270 Expediting construction contracts.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5236.6.dita#NMCARS_SUBPART_5236.6"
-                        class="- topic/xref ">SUBPART 5236.6 — ARCHITECT–ENGINEER SERVICES</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5236.6.dita#NMCARS_SUBPART_5236.6">SUBPART 5236.6 — ARCHITECT–ENGINEER SERVICES</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5236.601.dita#NMCARS_5236.601"
-                              class="- topic/xref ">5236.601 Policy.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5236.601.dita#NMCARS_5236.601">5236.601 Policy.</xref>
                      </p>
                   </li>
                </ul>

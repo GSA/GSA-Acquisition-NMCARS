@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="NMCARS_Annex-16"
-          ditaarch:DITAArchVersion="1.3"
-          class="- topic/topic ">
-      <title outputclass="Ctr 1 heading" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph "/>ANNEX 16 – STATEMENT OF WORK LANGUAGE IMPLEMENTING “THE DIB” MEMO</title>
-      <body class="- topic/body ">
+<dita>
+   <topic id="NMCARS_Annex-16">
+      <title class="- topic/title " outputclass="Ctr 1 heading">
+         <ph class="- topic/ph " props="autonumber"/> ANNEX 16 – STATEMENT OF WORK LANGUAGE IMPLEMENTING “THE DIB” MEMO</title>
+      <body>
          <p id="mlEgDY" outputclass="Normal" class="- topic/p ">The following SOW language shall be used to supplement DFARS Clause 252.204-7012 entitled, “Safeguarding Covered Defense Information and Cyber Incident Reporting” where the Department of the Navy Program Manager, Program Executive Officer or Chief of Naval Research, in coordination with Resource Sponsor, determines that the risk to a critical program and/or technology warrants its inclusion.</p>
       </body>
    </topic>

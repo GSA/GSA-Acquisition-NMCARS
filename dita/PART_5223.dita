@@ -1,92 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="NMCARS_PART_5223"
-          ditaarch:DITAArchVersion="1.3"
-          class="- topic/topic ">
-      <title outputclass="1 heading part Ctr" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 5223</ph> ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG–FREE WORKPLACE</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5223.3.dita#NMCARS_SUBPART_5223.3"
-                        class="- topic/xref ">SUBPART 5223.3 — HAZARDOUS MATERIAL IDENTIFICATION AND MATERIAL SAFETY DATA</xref>
+<dita>
+   <topic id="NMCARS_PART_5223">
+      <title class="- topic/title " outputclass="1 heading part Ctr">
+         <ph class="- topic/ph " props="autonumber">PART 5223</ph> ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG–FREE WORKPLACE</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5223.3.dita#NMCARS_SUBPART_5223.3">SUBPART 5223.3 — HAZARDOUS MATERIAL IDENTIFICATION AND MATERIAL SAFETY DATA</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5223.370.dita#NMCARS_5223.370"
-                              class="- topic/xref ">5223.370 Safety precautions for ammunitions and explosives.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5223.370.dita#NMCARS_5223.370">5223.370 Safety precautions for ammunitions and explosives.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5223.3703.dita#NMCARS_5223.3703"
-                                    class="- topic/xref ">5223.370-3 Policy.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5223.3703.dita#NMCARS_5223.3703">5223.370-3 Policy.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5223.3705.dita#NMCARS_5223.3705"
-                                    class="- topic/xref ">5223.370-5 Contract clauses.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5223.3705.dita#NMCARS_5223.3705">5223.370-5 Contract clauses.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5223.4.dita#NMCARS_SUBPART_5223.4"
-                        class="- topic/xref ">SUBPART 5223.4 — USE OF RECOVERED MATERIALS AND BIOBASED PRODUCTS</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5223.4.dita#NMCARS_SUBPART_5223.4">SUBPART 5223.4 — USE OF RECOVERED MATERIALS AND BIOBASED PRODUCTS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5223.406.dita#NMCARS_5223.406"
-                              class="- topic/xref ">5223.406 Solicitation provision and contract clauses.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5223.406.dita#NMCARS_5223.406">5223.406 Solicitation provision and contract clauses.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5223.5.dita#NMCARS_SUBPART_5223.5"
-                        class="- topic/xref ">SUBPART 5223.5 — DRUG–FREE WORKPLACE</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5223.5.dita#NMCARS_SUBPART_5223.5">SUBPART 5223.5 — DRUG–FREE WORKPLACE</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5223.506.dita#NMCARS_5223.506"
-                              class="- topic/xref ">5223.506 Suspension of payments, termination of contract, and debarment and suspension actions.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5223.506.dita#NMCARS_5223.506">5223.506 Suspension of payments, termination of contract, and debarment and suspension actions.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5223.8.dita#NMCARS_SUBPART_5223.8"
-                        class="- topic/xref ">SUBPART 5223.8 — OZONE DEPLETING SUBSTANCES</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5223.8.dita#NMCARS_SUBPART_5223.8">SUBPART 5223.8 — OZONE DEPLETING SUBSTANCES</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5223.803.dita#NMCARS_5223.803"
-                              class="- topic/xref ">5223.803 Policy.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5223.803.dita#NMCARS_5223.803">5223.803 Policy.</xref>
                      </p>
                   </li>
                </ul>

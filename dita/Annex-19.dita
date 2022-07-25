@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="NMCARS_Annex-19"
-          ditaarch:DITAArchVersion="1.3"
-          class="- topic/topic ">
-      <title outputclass="Ctr 1 heading" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">ANNEX 19</ph> – PROGRAM STREAMLINED ACQUISITION PLAN WITH SERVICES (PSTRAP–M)</title>
-      <body class="- topic/body ">
+<dita>
+   <topic id="NMCARS_Annex-19">
+      <title class="- topic/title " outputclass="Ctr 1 heading">
+         <ph class="- topic/ph " props="autonumber">ANNEX 19</ph> – PROGRAM STREAMLINED ACQUISITION PLAN WITH SERVICES (PSTRAP–M)</title>
+      <body>
          <p id="yvcGbd" outputclass="Ctr normal" class="- topic/p ">(Classification: UNCLASSIFIED/FOR OFFICIAL USE ONLY)</p>
          <p id="kdBeZI" outputclass="Normal" class="- topic/p ">Acquisition Plan Number: __________ Rev: _______</p>
          <p id="VMTyFy" outputclass="Normal" class="- topic/p ">Program Title: ________________________________________________ ACAT_____</p>

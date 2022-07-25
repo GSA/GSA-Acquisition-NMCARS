@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="NMCARS_Annex-18"
-          ditaarch:DITAArchVersion="1.3"
-          class="- topic/topic ">
-      <title outputclass="Ctr 1 heading" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">ANNEX 18</ph> – INDIVIDUAL STREAMLINED ACQUISITION PLAN (ISTRAP)</title>
-      <body class="- topic/body ">
+<dita>
+   <topic id="NMCARS_Annex-18">
+      <title class="- topic/title " outputclass="Ctr 1 heading">
+         <ph class="- topic/ph " props="autonumber">ANNEX 18</ph> – INDIVIDUAL STREAMLINED ACQUISITION PLAN (ISTRAP)</title>
+      <body>
          <p id="QLXUek" outputclass="Ctr normal" class="- topic/p ">(Classification: If not classified, must be FOR OFFICIAL USE ONLY.)</p>
          <p id="sDhGPv" outputclass="Normal" class="- topic/p ">Acquisition Plan Number: __________ Rev: _______</p>
          <p id="izFfmx" outputclass="Normal" class="- topic/p ">Program Title: ________________________________________________ ACAT_____</p>

@@ -1,44 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="NMCARS_PART_5227"
-          ditaarch:DITAArchVersion="1.3"
-          class="- topic/topic ">
-      <title outputclass="1 heading part Ctr" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 5227</ph> PATENTS, DATA AND COPYRIGHTS</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5227.70.dita#NMCARS_SUBPART_5227.70"
-                        class="- topic/xref ">SUBPART 5227.70 —INFRINGEMENT CLAIMS, LICENSES, AND ASSIGNMENTS</xref>
+<dita>
+   <topic id="NMCARS_PART_5227">
+      <title class="- topic/title " outputclass="1 heading part Ctr">
+         <ph class="- topic/ph " props="autonumber">PART 5227</ph> PATENTS, DATA AND COPYRIGHTS</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5227.70.dita#NMCARS_SUBPART_5227.70">SUBPART 5227.70 —INFRINGEMENT CLAIMS, LICENSES, AND ASSIGNMENTS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5227.7013.dita#NMCARS_5227.7013"
-                              class="- topic/xref ">5227.7013 Recordation.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5227.7013.dita#NMCARS_5227.7013">5227.7013 Recordation.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5227.90.dita#NMCARS_SUBPART_5227.90"
-                        class="- topic/xref ">SUBPART 5227.90 —TRADEMARK RIGHTS UNDER GOVERNMENT CONTRACTS</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5227.90.dita#NMCARS_SUBPART_5227.90">SUBPART 5227.90 —TRADEMARK RIGHTS UNDER GOVERNMENT CONTRACTS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5227.9001.dita#NMCARS_5227.9001"
-                              class="- topic/xref ">5227.9001 Trademarks.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5227.9001.dita#NMCARS_5227.9001">5227.9001 Trademarks.</xref>
                      </p>
                   </li>
                </ul>

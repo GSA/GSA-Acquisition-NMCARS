@@ -1,42 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="NMCARS_PART_5246"
-          ditaarch:DITAArchVersion="1.3"
-          class="- topic/topic ">
-      <title outputclass="Ctr 1 heading part" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 5246</ph> QUALITY ASSURANCE</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5246.7.dita#NMCARS_SUBPART_5246.7"
-                        class="- topic/xref ">SUBPART 5246.7 – WARRANTIES</xref>
+<dita>
+   <topic id="NMCARS_PART_5246">
+      <title class="- topic/title " outputclass="Ctr 1 heading part">
+         <ph class="- topic/ph " props="autonumber">PART 5246</ph> QUALITY ASSURANCE</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5246.7.dita#NMCARS_SUBPART_5246.7">SUBPART 5246.7 – WARRANTIES</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5246.703.dita#NMCARS_5246.703"
-                              class="- topic/xref ">5246.703 Criteria for use of warranties.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5246.703.dita#NMCARS_5246.703">5246.703 Criteria for use of warranties.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5246.704.dita#NMCARS_5246.704"
-                              class="- topic/xref ">5246.704 Authority for use of warranties.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5246.704.dita#NMCARS_5246.704">5246.704 Authority for use of warranties.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5246.706.dita#NMCARS_5246.706"
-                              class="- topic/xref ">5246.706 Warranty terms and conditions.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5246.706.dita#NMCARS_5246.706">5246.706 Warranty terms and conditions.</xref>
                      </p>
                   </li>
                </ul>
