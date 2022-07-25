@@ -1,32 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="NMCARS_NMCARS2_topic_420">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">5237.102</ph> Policy.</title>
-   <conbody>
-      <p id="HajsFU" outputclass="Normal">The consideration of using SeaPort to satisfy the requirements for the functional areas shown in Annex 22 is mandatory with the following exceptions:</p>
-      <ol otherprops="NL_B:1">
-         <li id="MWfXBs">
-            <p id="ewecVK" outputclass="List1">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5237.102"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5237.102</ph> Policy.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="HajsFU" outputclass="Normal" class="- topic/p ">The consideration of using SeaPort to satisfy the requirements for the functional areas shown in Annex 22 is mandatory with the following exceptions:</p>
+      <ol otherprops="NL_B:1" class="- topic/ol ">
+         <li id="MWfXBs" class="- topic/li ">
+            <p id="ewecVK" outputclass="List1" class="- topic/p ">
                <ph props="autonumber" class="- topic/ph ">1) </ph>Actions approved pursuant to authorities at FAR 6.302-1 through -7.</p>
          </li>
-         <li id="dGaGDw">
-            <p id="kibzzW" outputclass="List1">
+         <li id="dGaGDw" class="- topic/li ">
+            <p id="kibzzW" outputclass="List1" class="- topic/p ">
                <ph props="autonumber" class="- topic/ph ">2) </ph>Actions with values below the Simplified Acquisition Threshold.</p>
          </li>
-         <li id="fnGhga">
-            <p id="MubZkA" outputclass="List1">
+         <li id="fnGhga" class="- topic/li ">
+            <p id="MubZkA" outputclass="List1" class="- topic/p ">
                <ph props="autonumber" class="- topic/ph ">3) </ph>Actions set aside for 8(a) participants.</p>
          </li>
-         <li id="diCRkV">
-            <p id="yEkjYg" outputclass="List1">
+         <li id="diCRkV" class="- topic/li ">
+            <p id="yEkjYg" outputclass="List1" class="- topic/p ">
                <ph props="autonumber" class="- topic/ph ">4) </ph>Actions for Commercial Items under Part 12.</p>
          </li>
-         <li id="xnjisI">
-            <p id="LxTuJg" outputclass="List1 Normal">
+         <li id="xnjisI" class="- topic/li ">
+            <p id="LxTuJg" outputclass="List1 Normal" class="- topic/p ">
                <ph props="autonumber" class="- topic/ph ">5) </ph>Actions using Simplified Acquisition Procedures under Part 13.</p>
          </li>
       </ol>
-      <p id="iu0s0l02" outputclass="List1 Normal">(a)(1) Personal Medical services contracts are included as an exemption from performance-based acquisition methods.</p>
+      <p id="iu0s0l02" outputclass="List1 Normal" class="- topic/p ">(a)(1) Personal Medical services contracts are included as an exemption from performance-based acquisition methods.</p>
    </conbody>
 </concept>

@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="NMCARS_NMCARS2_topic_195">
-   <title outputclass="Heading 4">
-      <ph props="autonumber">5215.406-3</ph> Documenting the negotiation.</title>
-   <conbody>
-      <p id="ABoqYs" outputclass="Normal">(a) The pre-negotiation and post-negotiation BCM together constitute the documentation required by FAR 15.406 and DFARS 215.406 and should provide all the information required therein.</p>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5215.4063"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5215.406-3</ph> Documenting the negotiation.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="ABoqYs" outputclass="Normal" class="- topic/p ">(a) The pre-negotiation and post-negotiation BCM together constitute the documentation required by FAR 15.406 and DFARS 215.406 and should provide all the information required therein.</p>
    </conbody>
 </concept>

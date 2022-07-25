@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="NMCARS_NMCARS2_topic_346">
-   <title outputclass="Heading 4">
-      <ph props="autonumber">5228.301-91</ph> Payment of claims to third parties.</title>
-   <conbody>
-      <p id="HMDPxR" outputclass="Normal">The following procedure shall be used in making all payments under contracts in which the Government assumes the risk of liability to third parties and such liability is not compensated for by insurance or otherwise:</p>
-      <p id="QXGgPK" outputclass="Normal">(a) If any suit or action is filed or any claim is made against the contractor pursuant to the clause at FAR 52.228-7, Insurance--Liability to Third Persons, for loss of or damage to property, death or bodily injury arising out of performance of a contract, the contracting officer, in consultation with legal counsel, shall submit the following information via the HCA to DASN(P) for a determination as to whether the Government has assumed liability for the claim and if so, the amount to be paid:</p>
-      <p id="GxaGGf" outputclass="List2">(1) statements of all pertinent facts;</p>
-      <p id="zyfotB" outputclass="List2">(2) the contracting officer's recommendation as to the action to be taken with respect to the claim; and</p>
-      <p id="DXEzKf" outputclass="List2">(3) the proposed payment amount.</p>
-      <p id="PXasYj" outputclass="Normal">(b) Unless DASN(P) advises otherwise within 30 calendar days after receipt of the information from the contracting officer, the third party may be paid the proposed payment amount unless pursuant to appeal by the contractor under the Disputes clause, a different amount is allowed.</p>
-      <p id="WAhHsE" outputclass="Normal">(c) If DASN(P) determines that the Government did not assume liability, the contracting officer will be notified and no payment shall be made, unless pursuant to appeal by the contractor under the Disputes clause, a different decision is made.</p>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5228.30191"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5228.301-91</ph> Payment of claims to third parties.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="HMDPxR" outputclass="Normal" class="- topic/p ">The following procedure shall be used in making all payments under contracts in which the Government assumes the risk of liability to third parties and such liability is not compensated for by insurance or otherwise:</p>
+      <p id="QXGgPK" outputclass="Normal" class="- topic/p ">(a) If any suit or action is filed or any claim is made against the contractor pursuant to the clause at FAR 52.228-7, Insurance--Liability to Third Persons, for loss of or damage to property, death or bodily injury arising out of performance of a contract, the contracting officer, in consultation with legal counsel, shall submit the following information via the HCA to DASN(P) for a determination as to whether the Government has assumed liability for the claim and if so, the amount to be paid:</p>
+      <p id="GxaGGf" outputclass="List2" class="- topic/p ">(1) statements of all pertinent facts;</p>
+      <p id="zyfotB" outputclass="List2" class="- topic/p ">(2) the contracting officer's recommendation as to the action to be taken with respect to the claim; and</p>
+      <p id="DXEzKf" outputclass="List2" class="- topic/p ">(3) the proposed payment amount.</p>
+      <p id="PXasYj" outputclass="Normal" class="- topic/p ">(b) Unless DASN(P) advises otherwise within 30 calendar days after receipt of the information from the contracting officer, the third party may be paid the proposed payment amount unless pursuant to appeal by the contractor under the Disputes clause, a different amount is allowed.</p>
+      <p id="WAhHsE" outputclass="Normal" class="- topic/p ">(c) If DASN(P) determines that the Government did not assume liability, the contracting officer will be notified and no payment shall be made, unless pursuant to appeal by the contractor under the Disputes clause, a different decision is made.</p>
    </conbody>
 </concept>

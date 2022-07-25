@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="NMCARS_NM_Anex_topic_11">
-   <title outputclass="1 heading Ctr">
-      <ph props="autonumber"> </ph>ANNEX 11 – [RESERVED]</title>
-   <conbody>
-      <p id="Ngu0YD"></p>
-   </conbody>
-</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="NMCARS_Annex-11">
+      <title class="- topic/title " outputclass="1 heading Ctr">
+         <ph class="- topic/ph " props="autonumber"/> ANNEX 11 – [RESERVED]</title>
+      <body>
+         <p id="Ngu0YD" class="- topic/p "/>
+      </body>
+   </topic>
+</dita>

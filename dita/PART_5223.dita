@@ -2,30 +2,29 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="NMCARS_NMCARS2_topic_273">
-      <title outputclass="1 heading part Ctr" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 5223</ph> ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG–FREE WORKPLACE</title>
+   <topic id="NMCARS_PART_5223">
+      <title class="- topic/title " outputclass="1 heading part Ctr">
+         <ph class="- topic/ph " props="autonumber">PART 5223</ph> ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG–FREE WORKPLACE</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5223.3.dita#NMCARS_NMCARS2_topic_274">SUBPART 5223.3 — HAZARDOUS MATERIAL IDENTIFICATION AND MATERIAL SAFETY DATA</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5223.3.dita#NMCARS_SUBPART_5223.3">SUBPART 5223.3 — HAZARDOUS MATERIAL IDENTIFICATION AND MATERIAL SAFETY DATA</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5223.370.dita#NMCARS_NMCARS2_topic_275">5223.370 Safety precautions for ammunitions and explosives.</xref>
+                        <xref outputclass="fm:TOC" href="5223.370.dita#NMCARS_5223.370">5223.370 Safety precautions for ammunitions and explosives.</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5223.3703.dita#NMCARS_NMCARS2_topic_276">5223.370-3 Policy.</xref>
+                              <xref outputclass="fm:TOC" href="5223.3703.dita#NMCARS_5223.3703">5223.370-3 Policy.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5223.3705.dita#NMCARS_NMCARS2_topic_277">5223.370-5 Contract clauses.</xref>
+                              <xref outputclass="fm:TOC" href="5223.3705.dita#NMCARS_5223.3705">5223.370-5 Contract clauses.</xref>
                            </p>
                         </li>
                      </ul>
@@ -34,39 +33,36 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5223.4.dita#NMCARS_NMCARS2_topic_278">SUBPART 5223.4 — USE OF RECOVERED MATERIALS AND BIOBASED PRODUCTS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5223.4.dita#NMCARS_SUBPART_5223.4">SUBPART 5223.4 — USE OF RECOVERED MATERIALS AND BIOBASED PRODUCTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5223.406.dita#NMCARS_NMCARS2_topic_279">5223.406 Solicitation provision and contract clauses.</xref>
+                        <xref outputclass="fm:TOC" href="5223.406.dita#NMCARS_5223.406">5223.406 Solicitation provision and contract clauses.</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5223.5.dita#NMCARS_NMCARS2_topic_280">SUBPART 5223.5 — DRUG–FREE WORKPLACE</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5223.5.dita#NMCARS_SUBPART_5223.5">SUBPART 5223.5 — DRUG–FREE WORKPLACE</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5223.506.dita#NMCARS_NMCARS2_topic_281">5223.506 Suspension of payments, termination of contract, and debarment and suspension actions.</xref>
+                        <xref outputclass="fm:TOC" href="5223.506.dita#NMCARS_5223.506">5223.506 Suspension of payments, termination of contract, and debarment and suspension actions.</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5223.8.dita#NMCARS_NMCARS2_topic_282">SUBPART 5223.8 — OZONE DEPLETING SUBSTANCES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5223.8.dita#NMCARS_SUBPART_5223.8">SUBPART 5223.8 — OZONE DEPLETING SUBSTANCES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5223.803.dita#NMCARS_NMCARS2_topic_283">5223.803 Policy.</xref>
+                        <xref outputclass="fm:TOC" href="5223.803.dita#NMCARS_5223.803">5223.803 Policy.</xref>
                      </p>
                   </li>
                </ul>

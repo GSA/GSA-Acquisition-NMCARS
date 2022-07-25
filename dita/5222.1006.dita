@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="NMCARS_NMCARS2_topic_264">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">5222.1006</ph> Solicitation provisions and contract clauses.</title>
-   <conbody>
-      <p id="zqVmLr" outputclass="Normal">(c)(1) The <xref format="aspx" href="http://www.secnav.navy.mil/rda/OneSource/Pages/Contract%20Labor%20Standards%20and%20Relations/Contract-Labor-Standards-Relations.aspx" scope="external">
-            <u>Desk Guide for Service Contract Price Adjustments</u>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5222.1006"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5222.1006</ph> Solicitation provisions and contract clauses.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="zqVmLr" outputclass="Normal" class="- topic/p ">(c)(1) The <xref format="aspx"
+               href="http://www.secnav.navy.mil/rda/OneSource/Pages/Contract%20Labor%20Standards%20and%20Relations/Contract-Labor-Standards-Relations.aspx"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">Desk Guide for Service Contract Price Adjustments</u>
          </xref> contains DON guidance on processing price adjustments under FAR 52.222-43 and FAR 52.222-44 that result from:</p>
-      <p id="AuNLle" outputclass="List2">(i) Changes in wage determinations issued under the Service Contract Labor Standards statute, or</p>
-      <p id="Nkqvcv" outputclass="List2">(ii) Amendments changing the minimum wage required by the Fair Labor Standards Act.</p>
-      <p id="NvfZLX" outputclass="Normal">(S-90) The DON’s Price Adjustment Calculation Tool (PACT) is available to automate the calculation of Service Contract Labor Standards price adjustments and streamline the process for contractors and contracting officers. PACT is available at <xref format="aspx" href="https://www.secnav.navy.mil/rda/OneSource/Pages/PACT/PACT.aspx" scope="external">
-            <u>https://www.secnav.navy.mil/rda/OneSource/Pages/PACT/PACT.aspx</u>
+      <p id="AuNLle" outputclass="List2" class="- topic/p ">(i) Changes in wage determinations issued under the Service Contract Labor Standards statute, or</p>
+      <p id="Nkqvcv" outputclass="List2" class="- topic/p ">(ii) Amendments changing the minimum wage required by the Fair Labor Standards Act.</p>
+      <p id="NvfZLX" outputclass="Normal" class="- topic/p ">(S-90) The DON’s Price Adjustment Calculation Tool (PACT) is available to automate the calculation of Service Contract Labor Standards price adjustments and streamline the process for contractors and contracting officers. PACT is available at <xref format="aspx"
+               href="https://www.secnav.navy.mil/rda/OneSource/Pages/PACT/PACT.aspx"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">https://www.secnav.navy.mil/rda/OneSource/Pages/PACT/PACT.aspx</u>
          </xref>.</p>
    </conbody>
 </concept>

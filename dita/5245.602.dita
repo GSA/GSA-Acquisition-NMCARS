@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="NMCARS_NMCARS2_topic_461">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">5245.602</ph> Reutilization of Government property.</title>
-   <conbody>
-      <p id="5ksXiB"></p>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5245.602"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5245.602</ph> Reutilization of Government property.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="5ksXiB" class="- topic/p "/>
    </conbody>
 </concept>

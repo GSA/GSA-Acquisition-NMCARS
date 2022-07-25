@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="NMCARS_NMCARS2_topic_194">
-   <title outputclass="Heading 4">
-      <ph props="autonumber">5215.406-1</ph> Prenegotiation objectives.</title>
-   <conbody>
-      <p id="zWuBVq" outputclass="Normal">(a) The following tenets are central to development of the pre-negotiation objectives and shall be addressed for each cost element and for each position (e.g., Contractor’s proposed position, DCAA or other Government pricing or technical recommendations, independent Government objective or position) presented in the pre-negotiation BCM narrative:</p>
-      <p id="DTIlfk" outputclass="List2">(i) What is the estimate;</p>
-      <p id="ZITScJ" outputclass="List2">(ii) What is the estimate based on;</p>
-      <p id="DOReIt" outputclass="List2">(iii) How was the estimate derived; and</p>
-      <p id="kKDeVc" outputclass="List2">(iv) Why is the estimate reasonable?</p>
-      <p id="pHybyQ" outputclass="Normal">(b)(ii) <i>Adjudication Procedures.</i> When the Director, Defense Contract Audit Agency (DCAA)</p>
-      <p id="yAOmBV" outputclass="Normal">elevates an audit disagreement to DPC pertaining to a Navy contract(s), the CCO shall provide notification to DASN(P) by email at <xref format="mailto" href="mailto:Rdaj&amp;as.fct@navy.mil" scope="external">
-            <u>RDAJ&amp;As.fct</u>
-            <u>@navy.mil</u>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5215.4061"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5215.406-1</ph> Prenegotiation objectives.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="zWuBVq" outputclass="Normal" class="- topic/p ">(a) The following tenets are central to development of the pre-negotiation objectives and shall be addressed for each cost element and for each position (e.g., Contractor’s proposed position, DCAA or other Government pricing or technical recommendations, independent Government objective or position) presented in the pre-negotiation BCM narrative:</p>
+      <p id="DTIlfk" outputclass="List2" class="- topic/p ">(i) What is the estimate;</p>
+      <p id="ZITScJ" outputclass="List2" class="- topic/p ">(ii) What is the estimate based on;</p>
+      <p id="DOReIt" outputclass="List2" class="- topic/p ">(iii) How was the estimate derived; and</p>
+      <p id="kKDeVc" outputclass="List2" class="- topic/p ">(iv) Why is the estimate reasonable?</p>
+      <p id="pHybyQ" outputclass="Normal" class="- topic/p ">(b)(ii) <i class="+ topic/ph hi-d/i ">Adjudication Procedures.</i> When the Director, Defense Contract Audit Agency (DCAA)</p>
+      <p id="yAOmBV" outputclass="Normal" class="- topic/p ">elevates an audit disagreement to DPC pertaining to a Navy contract(s), the CCO shall provide notification to DASN(P) by email at <xref format="mailto"
+               href="mailto:Rdaj&amp;as.fct@navy.mil"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct</u>
+            <u class="+ topic/ph hi-d/u ">@navy.mil</u>
          </xref> with the subject “[Activity Name] PGI 215.406-1 - DCAA Audit Disagreement.” The email should provide relevant details of the disagreement and the contracting officer’s position in the body of the email or attachments.</p>
    </conbody>
 </concept>

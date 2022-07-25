@@ -1,36 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="NMCARS_NMCARS2_topic_10">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">5201.170</ph> Peer reviews.</title>
-   <conbody>
-      <p id="GptFTF">(a)(1) When Peer Reviews are required to be conducted by the Office of the Principal Director, Defense Pricing and Contracting (DPC), the Head of the Contracting Activity (HCA) shall request the review from DPC with a courtesy copy to DASN(P) by email at <xref format="mailto" href="mailto:RDAJ&amp;As.fct@navy.mil" scope="external">
-            <u>RDAJ&amp;As.fct</u>
-            <u>@navy.mil</u>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5201.170"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5201.170</ph> Peer reviews.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="GptFTF" class="- topic/p ">(a)(1) When Peer Reviews are required to be conducted by the Office of the Principal Director, Defense Pricing and Contracting (DPC), the Head of the Contracting Activity (HCA) shall request the review from DPC with a courtesy copy to DASN(P) by email at <xref format="mailto"
+               href="mailto:RDAJ&amp;As.fct@navy.mil"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct</u>
+            <u class="+ topic/ph hi-d/u ">@navy.mil</u>
          </xref>
-         <ph>
-            <u>,</u>
+         <ph class="- topic/ph ">
+            <u class="+ topic/ph hi-d/u ">,</u>
          </ph> at least 10 business days prior to the anticipated review.</p>
-      <p id="YDqALS" outputclass="List2">(2<i>)</i> HCAs shall submit the quarterly rolling forecast of acquisitions requiring peer reviews by</p>
-      <p id="RqEETy">DASN(P) or DPC, in the format prescribed by Annex 8, Peer Review Rolling Forecast.</p>
-      <p id="cYVYGf" outputclass="Normal">Submit the required information to DASN(P) via email to <xref format="mailto" href="mailto:RDAJ&amp;As.fct@navy.mil" scope="external">RDAJ&amp;As.fct@navy.mil</xref> with the subject “[Activity Name] DFARS 201.170 - Peer Review Rolling Forecast” by March 10, June 10, September 10, and December 10. Negative reports are required.</p>
-      <p id="paULqb" outputclass="Normal">(b) The HCA shall be responsible for conducting and approving peer reviews unless the approval authority is DASN(P) or DPC. Peer reviews shall be performed on solicitations and contracts with</p>
-      <p id="oqkNei">estimated values at $50,000,000 or more (including options). For peer reviews with estimated values greater than $250,000,000, including options, the HCA shall establish a Peer Review Board. The Board shall include contracting personnel at the grade of GS-14 (or equivalent) or higher, from another HCA at the equivalent or higher echelon level. Performance Based Logistics (PBL) acquisitions with an estimated value greater than the approval authority defined in FAR 6.304(a)(4), whether sole source or competitive, shall have a DASN(P) Peer Review. Submit the PBL peer review package to DASN(P) by email at <xref format="mailto" href="mailto:RDAJ&amp;As.fct@navy.mil" scope="external">
-            <u>RDAJ&amp;As.fct@navy.mil</u>
+      <p id="YDqALS" outputclass="List2" class="- topic/p ">(2<i class="+ topic/ph hi-d/i ">)</i> HCAs shall submit the quarterly rolling forecast of acquisitions requiring peer reviews by</p>
+      <p id="RqEETy" class="- topic/p ">DASN(P) or DPC, in the format prescribed by Annex 8, Peer Review Rolling Forecast.</p>
+      <p id="cYVYGf" outputclass="Normal" class="- topic/p ">Submit the required information to DASN(P) via email to <xref format="mailto"
+               href="mailto:RDAJ&amp;As.fct@navy.mil"
+               scope="external"
+               class="- topic/xref ">RDAJ&amp;As.fct@navy.mil</xref> with the subject “[Activity Name] DFARS 201.170 - Peer Review Rolling Forecast” by March 10, June 10, September 10, and December 10. Negative reports are required.</p>
+      <p id="paULqb" outputclass="Normal" class="- topic/p ">(b) The HCA shall be responsible for conducting and approving peer reviews unless the approval authority is DASN(P) or DPC. Peer reviews shall be performed on solicitations and contracts with</p>
+      <p id="oqkNei" class="- topic/p ">estimated values at $50,000,000 or more (including options). For peer reviews with estimated values greater than $250,000,000, including options, the HCA shall establish a Peer Review Board. The Board shall include contracting personnel at the grade of GS-14 (or equivalent) or higher, from another HCA at the equivalent or higher echelon level. Performance Based Logistics (PBL) acquisitions with an estimated value greater than the approval authority defined in FAR 6.304(a)(4), whether sole source or competitive, shall have a DASN(P) Peer Review. Submit the PBL peer review package to DASN(P) by email at <xref format="mailto"
+               href="mailto:RDAJ&amp;As.fct@navy.mil"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct@navy.mil</u>
          </xref> with the subject “[Activity Name] DFARS 201.170 –DASN(P) PBL Peer Review”. See Annex 4 for Science Technology Reinvention Laboratory (STRL) deviations applicable hereto.</p>
-      <p id="myWHAf" outputclass="List2">(1) Except for procurements for major defense acquisition programs (MDAPs) valued at or above $1,000,000,000 for which the Under Secretary of Defense for Acquisition and Sustainment (USD(A&amp;S)) is the milestone decision authority or procurements designated by USD(A&amp;S) as requiring a DPC conducted peer review, preaward peer reviews of solicitations for competitive</p>
-      <p id="FmnMWc" outputclass="List2">procurements valued at $250,000,000 or greater are required as follows:</p>
-      <p id="CPKxtg" outputclass="List3">(i) Services. The HCA shall establish a Peer Review Board and conduct peer reviews for competitive procurements and/or contract actions valued at $250,000,000 or greater.</p>
-      <p id="OJsWnk" outputclass="List3">(ii) Supplies. The HCA shall establish procedures to conduct peer reviews.</p>
-      <p id="XgqxLU" outputclass="List2">(2) Except for contract actions designated by USD(A&amp;S) as requiring a DPC conducted peer review, preaward peer reviews for noncompetitive procurements valued at less than $1,000,000,000 are required as follows:</p>
-      <p id="HwLKRG" outputclass="List3">(i) Services. The HCA shall establish a Peer Review Board and conduct peer reviews for non-competitive procurements and/or contract actions valued at $250,000,000.</p>
-      <p id="yXjugP" outputclass="List3">(ii) Supplies. The HCA shall establish procedures to conduct peer reviews.</p>
-      <p id="ekLkBU" outputclass="List2">(3) The HCA shall establish postaward peer reviews of all contracts for services. Peer reviews shall be conducted at the midpoint to allow sufficient time to finalize the disposition of the peer review recommendations prior to exercise of an option.</p>
-      <p id="mxsWRt" outputclass="Normal">(S-90) The HCA shall provide a copy of the peer review reports valued at $250,000,000 or greater within 15 days of completion of the peer review to DASN(P) by email at <xref format="mailto" href="mailto:RDAJ&amp;As.fct@navy.mil" scope="external">
-            <u>RDAJ&amp;As.fct@navy.mil</u>
+      <p id="myWHAf" outputclass="List2" class="- topic/p ">(1) Except for procurements for major defense acquisition programs (MDAPs) valued at or above $1,000,000,000 for which the Under Secretary of Defense for Acquisition and Sustainment (USD(A&amp;S)) is the milestone decision authority or procurements designated by USD(A&amp;S) as requiring a DPC conducted peer review, preaward peer reviews of solicitations for competitive</p>
+      <p id="FmnMWc" outputclass="List2" class="- topic/p ">procurements valued at $250,000,000 or greater are required as follows:</p>
+      <p id="CPKxtg" outputclass="List3" class="- topic/p ">(i) Services. The HCA shall establish a Peer Review Board and conduct peer reviews for competitive procurements and/or contract actions valued at $250,000,000 or greater.</p>
+      <p id="OJsWnk" outputclass="List3" class="- topic/p ">(ii) Supplies. The HCA shall establish procedures to conduct peer reviews.</p>
+      <p id="XgqxLU" outputclass="List2" class="- topic/p ">(2) Except for contract actions designated by USD(A&amp;S) as requiring a DPC conducted peer review, preaward peer reviews for noncompetitive procurements valued at less than $1,000,000,000 are required as follows:</p>
+      <p id="HwLKRG" outputclass="List3" class="- topic/p ">(i) Services. The HCA shall establish a Peer Review Board and conduct peer reviews for non-competitive procurements and/or contract actions valued at $250,000,000.</p>
+      <p id="yXjugP" outputclass="List3" class="- topic/p ">(ii) Supplies. The HCA shall establish procedures to conduct peer reviews.</p>
+      <p id="ekLkBU" outputclass="List2" class="- topic/p ">(3) The HCA shall establish postaward peer reviews of all contracts for services. Peer reviews shall be conducted at the midpoint to allow sufficient time to finalize the disposition of the peer review recommendations prior to exercise of an option.</p>
+      <p id="mxsWRt" outputclass="Normal" class="- topic/p ">(S-90) The HCA shall provide a copy of the peer review reports valued at $250,000,000 or greater within 15 days of completion of the peer review to DASN(P) by email at <xref format="mailto"
+               href="mailto:RDAJ&amp;As.fct@navy.mil"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct@navy.mil</u>
          </xref> with the subject “[Activity Name] NMCARS 5201.170(b) - Peer Review Report.”</p>
-      <p id="GXVSjP" outputclass="Normal">(S-91) If a waiver from the peer review process is desired, submit the procurement history, rationale and specific circumstances surrounding the request, including impact to the program if a waiver from the peer review process is not granted, approved by the Deputy/Assistant Commander for Contracts of the cognizant HCA, without power of redelegation, to DASN(P) by email at <xref format="mailto" href="mailto:RDAJ&amp;As.fct@navy.mil" scope="external">
-            <u>RDAJ&amp;As.fct@navy.mil</u>
+      <p id="GXVSjP" outputclass="Normal" class="- topic/p ">(S-91) If a waiver from the peer review process is desired, submit the procurement history, rationale and specific circumstances surrounding the request, including impact to the program if a waiver from the peer review process is not granted, approved by the Deputy/Assistant Commander for Contracts of the cognizant HCA, without power of redelegation, to DASN(P) by email at <xref format="mailto"
+               href="mailto:RDAJ&amp;As.fct@navy.mil"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct@navy.mil</u>
          </xref> with the subject “[Activity Name] NMCARS 5201.170(b)(S-91) - Peer Review Waiver Request.”</p>
    </conbody>
 </concept>

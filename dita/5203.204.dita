@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="NMCARS_NMCARS2_topic_54">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">5203.204</ph> Treatment of violations.</title>
-   <conbody>
-      <p id="XmZFDm" outputclass="Normal">(a)(i) Authority to provide notices, conduct hearings, and make findings of fact and conclusions of law concerning alleged violations of the Gratuities clause, including whether a violation of the Gratuities clause has occurred, has been delegated to the AGC(AI), without power of redelegation.</p>
-      <p id="TYriVJ" outputclass="List2">(ii) Notification.</p>
-      <p id="DXTkMy" outputclass="List3">(A) If the AGC (AI) determines that there is credible evidence that a violation of the Gratuities clause has occurred, he or she may commence a proceeding pursuant to this Subpart by providing written notice to the contractor alleged to be liable for the purported violation.</p>
-      <p id="fumVKX" outputclass="List3">(B) The AGC (AI) shall ensure that the notice to the contractor is delivered by hand or sent by registered or certified mail, or another, similar commercial means. The contractor has 30 calendar days from receipt of notice to request a hearing.</p>
-      <p id="XIVyHa" outputclass="Normal">(b) Hearing. The AGC (AI) shall schedule any hearing for a date not later than 15 calendar days after the AGC (AI)’s receipt of the contractor’s request, unless the contractor requests a later date not to be more than 30 calendar days after the AGC (AI)’s receipt of the hearing request.</p>
-      <p id="GFsCgX" outputclass="Normal">(c) If the AGC (AI) has determined that a violation has occurred, authority to determine whether to terminate the contractor’s right to proceed under the contract, and, if so, whether to assess exemplary damages and in what amount, has been delegated to DASN(P). The AGC (AI) shall make recommendations to DASN(P) with respect to terminating the contractor’s right to proceed under the contract and assessing exemplary damages.</p>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5203.204"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5203.204</ph> Treatment of violations.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="XmZFDm" outputclass="Normal" class="- topic/p ">(a)(i) Authority to provide notices, conduct hearings, and make findings of fact and conclusions of law concerning alleged violations of the Gratuities clause, including whether a violation of the Gratuities clause has occurred, has been delegated to the AGC(AI), without power of redelegation.</p>
+      <p id="TYriVJ" outputclass="List2" class="- topic/p ">(ii) Notification.</p>
+      <p id="DXTkMy" outputclass="List3" class="- topic/p ">(A) If the AGC (AI) determines that there is credible evidence that a violation of the Gratuities clause has occurred, he or she may commence a proceeding pursuant to this Subpart by providing written notice to the contractor alleged to be liable for the purported violation.</p>
+      <p id="fumVKX" outputclass="List3" class="- topic/p ">(B) The AGC (AI) shall ensure that the notice to the contractor is delivered by hand or sent by registered or certified mail, or another, similar commercial means. The contractor has 30 calendar days from receipt of notice to request a hearing.</p>
+      <p id="XIVyHa" outputclass="Normal" class="- topic/p ">(b) Hearing. The AGC (AI) shall schedule any hearing for a date not later than 15 calendar days after the AGC (AI)’s receipt of the contractor’s request, unless the contractor requests a later date not to be more than 30 calendar days after the AGC (AI)’s receipt of the hearing request.</p>
+      <p id="GFsCgX" outputclass="Normal" class="- topic/p ">(c) If the AGC (AI) has determined that a violation has occurred, authority to determine whether to terminate the contractor’s right to proceed under the contract, and, if so, whether to assess exemplary damages and in what amount, has been delegated to DASN(P). The AGC (AI) shall make recommendations to DASN(P) with respect to terminating the contractor’s right to proceed under the contract and assessing exemplary damages.</p>
    </conbody>
 </concept>

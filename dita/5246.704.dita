@@ -1,3 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="NMCARS_NMCARS2_topic_466" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">5246.704</ph> Authority for use of warranties.</title><conbody><p outputclass="Normal">   (S-90) Notwithstanding DFARS 246.704 (1) and (2) and in accordance with 10 U.S.C. 7318, chief of the contracting office approval is not required for the use of a warranty for new construction shipbuilding for which funds are expended from the Shipbuilding and Conversion, Navy account and the contract is effective on or after the date of enactment of the National Defense Authorization for FY2018. </p></conbody></concept>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5246.704"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5246.704</ph> Authority for use of warranties.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="Normal" class="- topic/p ">   (S-90) Notwithstanding DFARS 246.704 (1) and (2) and in accordance with 10 U.S.C. 7318, chief of the contracting office approval is not required for the use of a warranty for new construction shipbuilding for which funds are expended from the Shipbuilding and Conversion, Navy account and the contract is effective on or after the date of enactment of the National Defense Authorization for FY2018. </p>
+   </conbody>
+</concept>

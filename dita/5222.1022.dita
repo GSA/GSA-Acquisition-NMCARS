@@ -1,24 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="NMCARS_NMCARS2_topic_253">
-   <title outputclass="Heading 4">
-      <ph props="autonumber">5222.102-2</ph> Administration.</title>
-   <conbody>
-      <p id="qUoLkJ" outputclass="Normal">
-         <ph>(c)(1)</ph> The Contracting Officer shall refer questions from DOL or other interested
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5222.1022"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5222.102-2</ph> Administration.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="qUoLkJ" outputclass="Normal" class="- topic/p ">
+         <ph class="- topic/ph ">(c)(1)</ph> The Contracting Officer shall refer questions from DOL or other interested
          parties regarding the application of labor laws to government acquisitions under FAR Part
          22 and its corresponding contract clauses, to the Navy Labor Advisor in DASN(P) by email at
-            <xref format="mailto" href="mailto:NavyLaborAdvisor@navy.mil" scope="external">
-            <u>NavyLaborAdvisor@navy.mil</u>
-         </xref>, or for NAVFAC contracts, to the NAVFACENGCOM Labor Advisor by email at <xref format="mailto" href="mailto:navfac_labor_advisor@navy.mil" scope="external">
-            <u>NAVFAC_Labor_Advisor@navy.mil</u>
+            <xref format="mailto"
+               href="mailto:NavyLaborAdvisor@navy.mil"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">NavyLaborAdvisor@navy.mil</u>
+         </xref>, or for NAVFAC contracts, to the NAVFACENGCOM Labor Advisor by email at <xref format="mailto"
+               href="mailto:navfac_labor_advisor@navy.mil"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">NAVFAC_Labor_Advisor@navy.mil</u>
          </xref>.</p>
-      <p id="iGEbDQ" outputclass="List2">(2) When a contracting officer receives a complaint or
+      <p id="iGEbDQ" outputclass="List2" class="- topic/p ">(2) When a contracting officer receives a complaint or
          other indication of violation of the labor standards in a service or supply contract, the
          complaint shall be referred promptly to the nearest office of DOL, making every effort to
          maintain the confidentiality of the complainant except to DOL and directing any related
-         questions to the Navy Labor Advisor in DASN(P) by email at <xref format="file" href="mailto:navylaboradvisor@navy.mil" scope="external">
-            <u>NavyLaborAdvisor@navy.mil</u>
+         questions to the Navy Labor Advisor in DASN(P) by email at <xref format="file"
+               href="mailto:navylaboradvisor@navy.mil"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">NavyLaborAdvisor@navy.mil</u>
          </xref>.</p>
    </conbody>
 </concept>
