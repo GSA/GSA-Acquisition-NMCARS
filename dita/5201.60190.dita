@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="NMCARS_5201.60190"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="NMCARS_5201.60190" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <title outputclass="Heading 4" class="- topic/title ">
       <ph props="autonumber" class="- topic/ph ">5201.601-90</ph> Department of the Navy authorities and responsibilities.</title>
    <conbody class="- topic/body  concept/conbody ">
-      <p id="xMSztm" outputclass="Normal" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">General</i>. DON HCAs are responsible for establishing adequate and effective internal controls to carefully manage and closely oversee the execution of delegated contracting authority for assigned contracting mission functions. This includes proactively working with requirements and program personnel during acquisition planning to facilitate the timely submission of requirements to the appropriate contracting activity for contract action in a manner which promotes and permits maximum competition. In conjunction with executing assigned contracting missions, there are certain types of procurements for which authority resides solely with the DON HCA as described in paragraph (c) below, unless authority is delegated in writing to another DON HCA and accepted by the receiving DON HCA to execute those procurements. Delegation of DON contracting authority applies only within the DON. Requirements executed outside of the DON shall follow the appropriate governing rules/regulations/policies (e.g., The Economy Act, Assisted Acquisition, FAR Part 17). At a minimum, DON HCAs shall address the following requirements and how they will be met in the contracting activity’s procedures for delegation of contracting</p>
-      <p id="IrNINA" outputclass="Normal" class="- topic/p ">authority:</p>
+      <p id="xMSztm" outputclass="Normal" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">General</i>. DON HCAs are responsible for establishing adequate and effective internal
+         controls to carefully manage and closely oversee the execution of delegated contracting
+         authority for assigned contracting mission functions. This includes proactively working
+         with requirements and program personnel during acquisition planning to facilitate the
+         timely submission of requirements to the appropriate contracting activity for contract
+         action in a manner which promotes and permits maximum competition. In conjunction with
+         executing assigned contracting missions, there are certain types of procurements for which
+         authority resides solely with the DON HCA as described in paragraph (c) below, unless
+         authority is delegated in writing to another DON HCA and accepted by the receiving DON HCA
+         to execute those procurements. Delegation of DON contracting authority applies only within
+         the DON. Requirements executed outside of the DON shall follow the appropriate governing
+         rules/regulations/policies (e.g., The Economy Act, Assisted Acquisition, FAR Part 17). At a
+         minimum, DON HCAs shall address the following requirements and how they will be met in the
+         contracting activity’s procedures for delegation of contracting authority:</p>
       <p id="XrNrpQ" outputclass="List2" class="- topic/p ">(1) Tracking of all contracting authority that has been delegated and any limitations on the contracting authority.</p>
       <p id="ZtnwrG" outputclass="List2" class="- topic/p ">(2) Tracking of delegations received from HCAs.</p>
       <p id="GJIONi" outputclass="List2" class="- topic/p ">(3) Ensuring contracting authority delegations are made, in writing from DON HCA to DON HCA, without power of redelegation, to include:</p>
@@ -18,11 +27,14 @@
       <p id="cTlLRb" outputclass="List3" class="- topic/p ">(C) The extent to which the HCA delegated authority may be redelegated to contracting offices not under the cognizance of the receiving HCA unless specifically requested.</p>
       <p id="weZTqS" outputclass="List3" class="- topic/p ">(D) Ensuring the delegated contracting authority is being executed and administered in accordance with the delegation of authority and contracting regulations, rules, and procedures.</p>
       <p id="KCzYsd" outputclass="Normal" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">HCA responsibilities and limitations</i>. Each HCA is solely responsible for executing its delegated contracting authority for assigned acquisition programs and cognizant areas of responsibilities subject to any established limitation. An HCA has authority to procure supplies and services to support all organic requirements, such as those set forth in SECNAVINST 5400.15, unless such procurements fall within the scope of unique contracting responsibilities assigned to another HCA. See Annex 4 for STRL deviations applicable hereto.</p>
-      <p id="WROXcc" outputclass="Normal" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">HCA</i>
-         <i class="+ topic/ph hi-d/i ">unique contracting authorities</i>
-         <i class="+ topic/ph hi-d/i ">.</i>The assigned responsibilities of the DON contracting activities are as follows:</p>
+      <p id="WROXcc" outputclass="Normal" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">HCA
+            unique contracting authorities</i>. The assigned responsibilities of the DON contracting
+         activities are as follows:</p>
       <p id="POjMZK" outputclass="List2" class="- topic/p ">(1) Deputy Assistant Secretary of the Navy (Procurement) (DASN(P)) has the following overarching responsibilities:</p>
-      <p id="lZZERR" outputclass="List3" class="- topic/p ">(A) Serves as the principal advisor and executive agent to ASN(RDA), who serves as the Navy Acquisition Executive and Senior Procurement Executive.</p>
+      <p id="lZZERR" outputclass="List3" class="- topic/p ">(A) Serves as the principal advisor and
+         executive agent to <ph rev="CHANGE 18-22 JULY 11, 2022" class="- topic/ph ">Assistant Secretary of the Navy
+            (Research, Development &amp; Acquisition (ASN(RDA)),</ph> who serves as the Navy
+         Acquisition Executive and Senior Procurement Executive. </p>
       <p id="pxFTgM" outputclass="List3" class="- topic/p ">(B) Exercises plenary contracting authority on behalf of the Department, including approving, revising or denying DON Activity contracting responsibilities.</p>
       <p id="tSMbMd" outputclass="List3" class="- topic/p ">(C) Reviews and processes Justification and Approvals (J&amp;As) requiring ASN(RDA) approval.</p>
       <p id="UgsWLD" outputclass="List3" class="- topic/p ">(D) Reviews and processes acquisition documents (e.g. acquisition plans, acquisition strategies for services, Determination and Findings (D&amp;Fs)) requiring DASN(P) or higher-level approval.</p>

@@ -8,10 +8,12 @@
    <title outputclass="Heading 3" class="- topic/title ">
       <ph props="autonumber" class="- topic/ph ">5203.1003</ph> Requirements.</title>
    <conbody class="- topic/body  concept/conbody ">
-      <p id="xsiIds" outputclass="Normal" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Notification of possible contractor violation</i>. In addition to the actions required by FAR 3.1003(b), the contracting officer shall provide a copy of the notification, within 10 days of receipt, to the Acquisition Integrity Office by email at <xref format="mailto"
-               href="mailto:aio@navy.mil"
-               scope="external"
-               class="- topic/xref ">
+      <p id="xsiIds" outputclass="Normal" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i "
+            >Notification of possible contractor violation</i>. In addition to the actions required
+         by FAR 3.1003(b), the contracting officer shall provide a copy of the notification, within
+         10 days of receipt, to <ph rev="CHANGE 18-22 JULY 11, 2022" class="- topic/ph ">the
+            AIO</ph> by email at <xref format="mailto" href="mailto:aio@navy.mil" scope="external"
+            class="- topic/xref ">
             <u class="+ topic/ph hi-d/u ">aio@navy.mil</u>
          </xref> with the subject “FAR 3.1003 – Possible Contractor Ethics Violation.”</p>
    </conbody>

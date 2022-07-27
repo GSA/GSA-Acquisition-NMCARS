@@ -6,14 +6,118 @@
       <title class="- topic/title " outputclass="1 heading Ctr">
          <ph class="- topic/ph " props="autonumber">ANNEX 15</ph> – UAC/RATIFICATION REPORT</title>
       <body>
-         <p id="GqfYcg" outputclass="Normal" class="- topic/p ">
+         <p id="GqfYcg" outputclass="Normal" class="- topic/p " rev="CHANGE 18-22 JULY 11, 2022">
             <b class="+ topic/ph hi-d/b ">Format</b>
-            <b class="+ topic/ph hi-d/b ">.</b> A formatted spreadsheet is available on the ASN(RDA) website at <xref format="aspx"
-                  href="https://www.secnav.navy.mil/rda/DASN-P/Pages/NMCARS.aspx"
-                  scope="external"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">https://www.secnav.navy.mil/rda/DASN-P/Pages/NMCARS.aspx</u>
-            </xref>.</p>
+            <b class="+ topic/ph hi-d/b ">.</b> A formatted spreadsheet is available on the website
+            identified at NMCARS <xref href="5201.1053.dita">5201.105-3</xref>.</p>
+         <p>
+            <table id="table_cs1_syc_35b" rev="CHANGE 18-22 JULY 11, 2022">
+               <tgroup cols="2">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <tbody>
+                     <row>
+                        <entry><b>Field Name</b></entry>
+                        <entry><b>Description</b></entry>
+                     </row>
+                     <row>
+                        <entry>Ratification Number</entry>
+                        <entry>
+                           <p>The numbering format shall consist of (e.g. First reported FY16 NAVSEA
+                              action: N00024-16-UAC-001):</p>
+                           <p outputclass="List3"> (A) Organization Unit Identification Code-; </p>
+                           <p outputclass="List3"> (B) FY when UAC reported-; </p>
+                           <p outputclass="List3"> (C) The acronym ”UAC”-;</p>
+                           <p outputclass="List3"> (D) A consecutive 3-digit numeric identifier.</p>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry>Status</entry>
+                        <entry>Open or Closed. No other entries are acceptable. If an action was
+                           initially reported as a UAC and later determined to not be a ratification
+                           action, the item should be reported as closed. </entry>
+                     </row>
+                     <row>
+                        <entry>Date Opened</entry>
+                        <entry>The date the item was determined to be a UAC. Acceptable dates
+                           include the date: an invoice is received; an employee reports the action;
+                           or, the date the action is determined to be a UAC.</entry>
+                     </row>
+                     <row>
+                        <entry>Date Closed</entry>
+                        <entry>The date the ratification is complete or, if not a ratification, the
+                           date the item is deemed as other than a ratifiable action. Acceptable
+                           dates are the date of the order, contract/modification, or credit card
+                           action.</entry>
+                     </row>
+                     <row>
+                        <entry>HCA</entry>
+                        <entry>
+                           <p>The HCA reporting the UAC. Acceptable entries are: HQMC I&amp;L, MCSC,
+                              MSC, NAVAIR, NAVFAC, NAVSEA, NAVSUP,</p>
+                           <p>ONR, NAVWAR, or SSP.</p>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry>NAVSUP BSO</entry>
+                        <entry>For use by NAVSUP only. All others leave blank.</entry>
+                     </row>
+                     <row>
+                        <entry>Person Committing the UAC</entry>
+                        <entry>The name of the person committing the UAC.</entry>
+                     </row>
+                     <row>
+                        <entry>Contractor </entry>
+                        <entry>The name of the contractor performing the UAC.</entry>
+                     </row>
+                     <row>
+                        <entry>Contractor’s CAGE</entry>
+                        <entry>The Contractor’s CAGE code.</entry>
+                     </row>
+                     <row>
+                        <entry>Previous UAC? </entry>
+                        <entry>Yes or No. Answer based on whether or not the person or contactor
+                           committing or performing the UAC has done so previously.</entry>
+                     </row>
+                     <row>
+                        <entry>Disciplinary Action?</entry>
+                        <entry>Yes or No.</entry>
+                     </row>
+                     <row>
+                        <entry>Product and Service Code (PSC)</entry>
+                        <entry>The applicable PSC associated with the product/service
+                           provided/received in the ratification.</entry>
+                     </row>
+                     <row>
+                        <entry>Description</entry>
+                        <entry>A short description of the product/service involved and the
+                           circumstances involved in performing the UAC. </entry>
+                     </row>
+                     <row>
+                        <entry>Amount Reported</entry>
+                        <entry>Dollar amount of the reported UAC. </entry>
+                     </row>
+                     <row>
+                        <entry>Amount Ratified</entry>
+                        <entry>Dollar amount of the ratification (if ratified). </entry>
+                     </row>
+                     <row>
+                        <entry>Contracting Officer</entry>
+                        <entry>Contracting Officer’s name. </entry>
+                     </row>
+                     <row>
+                        <entry>Ratifying Official</entry>
+                        <entry>Ratifying Official’s name.</entry>
+                     </row>
+                     <row>
+                        <entry>Additional Info</entry>
+                        <entry>Any clarifying or explanatory information deemed necessary by the
+                           reporting activity.</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </p>
       </body>
    </topic>
 </dita>

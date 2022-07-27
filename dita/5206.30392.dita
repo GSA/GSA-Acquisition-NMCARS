@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="NMCARS_5206.30392"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="NMCARS_5206.30392" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <title outputclass="Heading 4" class="- topic/title ">
       <ph props="autonumber" class="- topic/ph ">5206.303-92</ph> Bridge Contract Reporting.</title>
    <conbody class="- topic/body  concept/conbody ">
-      <p id="qufjZU" outputclass="Normal" class="- topic/p ">Data on bridge contract use shall be reported by HCAs to DASN(P). Reports shall be submitted 30 days after the end of each quarter, in the format prescribed by Annex 5. The required Excel file for reporting can be found on the ASN(RDA) website. Negative reports are required. Reports shall be submitted via email to <xref format="mailto"
-               href="mailto:seniorservicesmanage.fct@navy.mil"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">seniorservicesmanage.fct@navy.mil</u>
-         </xref> with the subject “NMCARS 5206.303-92 - Bridge Contract Report by [Command Name]”.</p>
+      <p id="qufjZU" outputclass="Normal" class="- topic/p ">Data on bridge contract use shall be
+         reported by HCAs to DASN(P). Reports shall be submitted <ph rev="CHANGE 18-22 JULY 11, 2022" class="- topic/ph ">15 days after the end of each quarter. The required
+            Excel file for reporting can be found at the location identified at NMCARS 5201.105-3.
+            Negative reports are required.</ph> Reports shall be submitted via email to <xref format="mailto" href="mailto:seniorservicesmanage.fct@navy.mil" scope="external" class="- topic/xref ">seniorservicesmanage.fct@navy.mil</xref> with the subject “NMCARS
+         5206.303-92 - Bridge Contract Report by [Command Name]”.</p>
    </conbody>
 </concept>

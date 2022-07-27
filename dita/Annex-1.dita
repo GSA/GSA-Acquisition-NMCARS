@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="NMCARS_Annex-1">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
+   <topic id="NMCARS_Annex-1" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic ">
       <title class="- topic/title " outputclass="Ctr 1 heading">
          <ph class="- topic/ph " props="autonumber">ANNEX 1</ph> – JUSTIFICATION AND APPROVAL</title>
-      <body>
+      <body class="- topic/body ">
          <p id="bfAAVf" outputclass=" Ctr" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">[Letter Head]</b>
          </p>
@@ -51,17 +51,64 @@
          <p id="LGxyBP" class="- topic/p ">_____________________________________________________________________________</p>
          <p id="YIQQhZ" class="- topic/p "/>
          <p id="KYeCij" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">[Identify the supplies and services to be acquired, the estimated value, and the funding planned for the acquisition. Major items and associated quantities should be identified. Summarize long lists of items. Other items may be identified generically by logical groupings, such as "ancillary repair services" or "intermediate-level test equipment." Option quantities should be separately identified. Briefly address the period of performance or completion date.]</b>
+            <b class="+ topic/ph hi-d/b "><ph rev="CHANGE 18-22 JULY 11, 2022" class="- topic/ph ">[Identify the
+                  supplies and services to be acquired, the estimated value (rounded to the nearest
+                  $1M), and the appropriation and funding amounts planned for the acquisition. Major
+                  items and associated quantities should be identified. Summarize long lists of
+                  items. Other items may be identified generically by logical groupings, such as
+                  “ancillary repair services” or “intermediate-level test equipment.” Option
+                  quantities should be separately identified. Briefly address the period of
+                  performance or completion date.]</ph></b>
          </p>
          <p id="Ppxopu" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">[Funding amounts should represent the estimated dollar value of the procurement and should be identified by fiscal year and appropriation. If several different types or years of funds are planned, consider providing the information in a chart format, such as the one below.]</b>
+            <b class="+ topic/ph hi-d/b "><ph rev="CHANGE 18-22 JULY 11, 2022" class="- topic/ph ">[Funding amounts
+                  should represent the estimated dollar value of the procurement and should be
+                  summed and identified by fiscal year range and appropriation. If several different
+                  types or years of funds are planned, consider providing the information in a chart
+                  format, such as the one below. Round all estimates to the nearest $1M. ]</ph></b>
          </p>
          <p id="kdRtWE" outputclass=" Ctr" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">
                <u class="+ topic/ph hi-d/u ">Estimated Dollar Value</u>
             </b>
          </p>
-         <p id="JzkQdf" class="- topic/p ">4. <u class="+ topic/ph hi-d/u ">Statutory Authority Permitting Other Than Full and Open Competition</u>. _____________________________________________________________________________</p>
+         <p class="- topic/p ">
+            <table id="table_crn_g53_35b" class="- topic/table ">
+               <tgroup cols="2" class="- topic/tgroup ">
+                  <colspec colnum="1" colname="col1" rowheader="headers" class="- topic/colspec "/>
+                  <colspec colnum="2" colname="col2" rowheader="headers" class="- topic/colspec "/>
+                  <tbody class="- topic/tbody ">
+                     <row class="- topic/row ">
+                        <entry class="- topic/entry "> </entry>
+                        <entry class="- topic/entry ">
+                           <p class="- topic/p ">FYXX – XY</p>
+                           <p class="- topic/p ">Total</p>
+                        </entry>
+                     </row>
+                     <row class="- topic/row ">
+                        <entry class="- topic/entry ">RDT&amp;E</entry>
+                        <entry class="- topic/entry "> </entry>
+                     </row>
+                     <row class="- topic/row ">
+                        <entry class="- topic/entry ">OPN</entry>
+                        <entry class="- topic/entry "> </entry>
+                     </row>
+                     <row class="- topic/row ">
+                        <entry class="- topic/entry ">O&amp;MN</entry>
+                        <entry class="- topic/entry "> </entry>
+                     </row>
+                     <row class="- topic/row ">
+                        <entry class="- topic/entry ">Total</entry>
+                        <entry class="- topic/entry "> </entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </p>
+         <p id="JzkQdf" class="- topic/p ">4. <u class="+ topic/ph hi-d/u ">Statutory Authority
+               Permitting Other Than Full and Open Competition</u>.</p>
+         <p class="- topic/p ">
+            _____________________________________________________________________________</p>
          <p id="DCOWwD" class="- topic/p ">_____________________________________________________________________________</p>
          <p id="zELMAL" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">[Use one of the following:</b>
@@ -108,9 +155,26 @@
             <b class="+ topic/ph hi-d/b ">[If the explanation is based (whether fully or partially) on the lack of a performance specification, technical data package, specifications, engineering descriptions, a statement of work, or a purchase description suitable for full and open competition, explain why such a document has not been developed or is not available.]</b>
          </p>
          <p id="upzkFd" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">[When the basis of the sole source justification is due to being a follow-on acquisition as implemented in FAR 6.302-1(a)(2)(</b>
+            <b class="+ topic/ph hi-d/b ">[When the basis of the sole source justification is due to
+               being a follow-on acquisition as implemented in FAR 6.302-1(a)(2)(</b>
             <b class="+ topic/ph hi-d/b ">ii)(</b>
-            <b class="+ topic/ph hi-d/b ">supplies) or (iii)(services), provide:</b>
+            <b class="+ topic/ph hi-d/b ">supplies) or (iii)(services), provide:</b></p>
+         <p class="- topic/p ">
+            <ul id="ul_dpd_553_35b" class="- topic/ul ">
+               <li class="- topic/li "><b class="+ topic/ph hi-d/b ">A statement as to whether or not the original contract award was
+                  competed.</b></li>
+               <li class="- topic/li "><b class="+ topic/ph hi-d/b ">An estimate of the cost to the Government that would be duplicated and an
+                     explanation of how the estimate was derived. The estimated cost can be based on
+                     the initial set-up costs, past actuals or estimates. The intent is not a
+                     detailed analysis but a trackable basis for drawing the conclusion that the
+                     estimated cost is so high that it will not be recouped through
+                  competition.</b></li>
+               <li class="- topic/li ">An estimate of the length of the delay and an explanation of how the estimate was
+                  derived and why a delay of this length is unacceptable. The intent is to indicate
+                  if the time frame is prohibitive and would not support the program requirements.
+                  As indicated in FAR 6.301(c), this rationale does not apply when there is a lack
+                  of advance planning by the requiring activity.]</li>
+            </ul>
          </p>
          <p id="yRoAKd" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">[When the use of other than full and open competition is necessitated by an unusual or compelling urgency under the authority of 10 U.S.C. 2304(c)(2) as implemented in FAR 6.302-2, provide the estimated cost, data or other rationale to demonstrate the extent and nature of the harm the Government will suffer, or would have suffered, if the contracting activity could not limit competition.]</b>
@@ -121,46 +185,84 @@
          <p id="uDAaGJ" class="- topic/p ">6. <u class="+ topic/ph hi-d/u ">Description of Efforts Made to Solicit Offers from as Many Offerors as Practicable</u>.</p>
          <p id="xsGdXS" class="- topic/p ">_____________________________________________________________________________</p>
          <p id="ILZElH" class="- topic/p ">_____________________________________________________________________________</p>
-         <p id="wZazng" class="- topic/p "/>
          <p id="FMYnWX" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">[At a minimum, address:</b>
+            <b class="+ topic/ph hi-d/b ">[At a minimum, address:</b></p>
+         <p class="- topic/p ">
+            <ul id="ul_xx2_gv3_35b" class="- topic/ul ">
+               <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Any other sources that have expressed interest. If these included any
+                     respondent that is not identified in the J&amp;A as a potential source, explain
+                     on what basis the activity concluded that the respondent would be unable to
+                     satisfy the requirements of the proposed contract. </b></li>
+               <li class="- topic/li "><b class="+ topic/ph hi-d/b ">If a synopsis of the proposed procurement was not published in SAM, explain
+                     why not, including the applicable FAR 5.202 regulatory exception.</b></li>
+               <li class="- topic/li "><b class="+ topic/ph hi-d/b ">If the synopsis did not state that the proposed contract action is for
+                     supplies or services for which the Government intends to solicit and negotiate
+                     with only one source under the authority of FAR 6.302, explain why
+                  not.</b></li>
+               <li class="- topic/li ">If market research was conducted in accordance with FAR Part 10, describe how the
+                  market research was conducted and what the results were. If no market research was
+                  conducted, explain why not.</li>
+               <li class="- topic/li "><b class="+ topic/ph hi-d/b ">If using the authority at FAR 6.302-1, identify when the request for
+                     information or a sources sought notice was posted and include the results of
+                     the responses.]</b></li>
+            </ul>
          </p>
-         <p id="tTdacv" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">
-               <u class="+ topic/ph hi-d/u ">Examples</u>
-            </i>
-            <i class="+ topic/ph hi-d/i ">: (</i>
-            <i class="+ topic/ph hi-d/i ">i</i>
-            <i class="+ topic/ph hi-d/i ">) The proposed contract was synopsized on the SAM website on July 6, 2005</i>
+         <p id="tTdacv" class="- topic/p "><i class="+ topic/ph hi-d/i ">Examples : (i) The proposed
+               contract was synopsized on the SAM website on July 6, 2005 and only EFG Corporation
+               expressed an interest in this requirement. No additional market research was
+               conducted because it is not practicable, for the reasons discussed in paragraph 5
+               above, for any company other than EFG to provide the required supplies and
+               services.</i>
          </p>
-         <p id="Abtbsv" outputclass="Normal" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">and only EFG Corporation expressed an interest in this requirement. No additional market research was conducted because it is not practicable, for the reasons discussed in paragraph 5 above, for any company other than EFG to provide the required supplies and services.</i>
+         <p id="KeIkGW" class="- topic/p " outputclass="List3"><i class="+ topic/ph hi-d/i ">(ii) The proposed contract was
+               synopsized on the SAM website on July 6, 2005. In addition to EFG Corporation,
+               responses were received from BBCC Company and from AGW Ltd. Representatives of the
+               Program Office and the contracting officer held discussions with BBCC and AGW.
+               Subsequently, both companies, based on a better understanding of the Navy's
+               requirements, indicated in writing they were no longer interested in pursuing a prime
+               contract. No additional market research was conducted because it is not practicable,
+               for the reasons discussed in paragraph 5 above, for any company other than EFG to
+               provide the required supplies and services.</i>
          </p>
-         <p id="KeIkGW" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">ii) The proposed contract was synopsized on the SAM website on July 6, 2005. In</i>
+         <p id="uAajSF" class="- topic/p " outputclass="List3">
+            <i class="+ topic/ph hi-d/i ">(iii) The proposed contract was synopsized on the SAM website on July 6, 2005 and no
+               other potential sources expressed an interest in this requirement. In an effort to
+               identify competitive interest, the Naval ABC Command, Industrial Sources Division, as
+               part of their market research, provides more than 850 commercial entities, on an
+               annual basis, a listing of items for which it is seeking competitive sources, as well
+               as instructions for obtaining source approval information. Additionally, the
+               availability of the listing is periodically publicized in SAM and feedback is
+               requested regarding market capabilities.To date, no other companies have expressed
+               interest in becoming qualified to compete for the items to be acquired under the
+               proposed contract.</i>
          </p>
-         <p id="BQjlsr" outputclass="Normal" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">addition to EFG Corporation, responses were received from BBCC Company and from AGW Ltd. Representatives of the Program Office and the contracting officer held discussions with BBCC and AGW. Subsequently, both companies, based on a better understanding of the Navy's requirements, indicated in writing they were no longer interested in pursuing a prime contract. No additional market research was conducted because it is not practicable, for the reasons discussed in paragraph 5 above, for any company other than EFG to provide the required supplies and services.</i>
+         <p id="dsgZlX" class="- topic/p " outputclass="List3"><i class="+ topic/ph hi-d/i "> (iv) NAVCOM's ABC Division, the
+               Navy's Center of Excellence for XYZ systems, maintains in-depth knowledge of XYZ
+               technology developments and the XYZ industrial base. This includes insight into
+               technologies that individual companies are focused on and their technical and
+               production capabilities. ABC Division representatives maintain this knowledge through
+               routine review of industry journals and attendance at industry symposia and
+               conferences. They also periodically visit industry facilities for briefings on
+               companies' IR&amp;D efforts. Based on its knowledge and expertise, ABC Division has
+               determined that no companies other than RST Corporation have the knowledge and
+               technical capability required to provide the XYZ-24 systems. The lack of any
+               responses to a synopsis of the planned contract published on the SAM website on June
+               5, 2005 validates ABC Division's determination.</i>
          </p>
-         <p id="uAajSF" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">(iii) The proposed contract was synopsized on the SAM website on July 6, 2005 and no</i>
-         </p>
-         <p id="NSPQod" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">other potential sources expressed an interest in this requirement. In an effort to identify competitive interest, the Naval ABC Command, Industrial Sources Division, as part of their market research, provides more than 850 commercial entities, on an annual basis, a listing of items for which it is seeking competitive sources, as well as instructions for obtaining source approval information. Additionally, the availability of the listing is periodically publicized in</i>
-         </p>
-         <p id="CSwbhq" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">SAM and feedback is requested regarding market capabilities.To date, no other companies have</i>
-         </p>
-         <p id="WSYYXK" outputclass="Normal" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">expressed interest in becoming qualified to compete for the items to be acquired under the proposed contract.</i>
-         </p>
-         <p id="dsgZlX" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">(iv) NAVCOM's ABC Division, the Navy's Center of Excellence for XYZ systems, maintains in-depth knowledge of XYZ technology developments and the XYZ industrial base. This includes insight into technologies that individual companies are focused on and their technical and production capabilities. ABC Division representatives maintain this knowledge through routine review of industry journals and attendance at industry symposia and conferences. They also periodically visit industry facilities for briefings on companies' IR&amp;D efforts. Based on its knowledge and expertise, ABC Division has determined that no companies other than RST Corporation have the knowledge and technical capability required to provide the XYZ-24 systems. The lack of any responses to a synopsis of the planned contract published on the</i>
-         </p>
-         <p id="DqltPP" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">SAM website on June 5, 2005 validates ABC Division's determination.</i>
-         </p>
-         <p id="epqyGi" outputclass="Normal" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">(v) Members of activity's technical, logistics and contracting community outside the contiguous United States conduct market research on a continual basis. Annually they visit each site where system maintenance and component repairs are performed. During these visits, they meet with local contractors and on-site government representatives to review current capabilities and potential changes in system maintenance/repair requirements. Based on information gathered during their most recent visits, the activity outside the contiguous United States has determined that only the current contractors are capable of meeting the Navy's requirements.A synopsis of these planned contracts has not been published. In accordance with FAR 5.202(a)(12), a synopsis is not required when the contract action is by a Defense agency and the proposed contract action will be made and performed outside the United States and its outlying areas, and only local sources will be solicited.</i>
+         <p id="epqyGi" outputclass="List3" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">(v) Members of activity's technical, logistics and
+               contracting community outside the contiguous United States conduct market research on
+               a continual basis. Annually they visit each site where system maintenance and
+               component repairs are performed. During these visits, they meet with local
+               contractors and on-site government representatives to review current capabilities and
+               potential changes in system maintenance/repair requirements. Based on information
+               gathered during their most recent visits, the activity outside the contiguous United
+               States has determined that only the current contractors are capable of meeting the
+               Navy's requirements.A synopsis of these planned contracts has not been published. In
+               accordance with FAR 5.202(a)(12), a synopsis is not required when the contract action
+               is by a Defense agency and the proposed contract action will be made and performed
+               outside the United States and its outlying areas, and only local sources will be
+               solicited.</i>
          </p>
          <p id="zFcHME" class="- topic/p ">7. <u class="+ topic/ph hi-d/u ">Determination of Fair and Reasonable Cost</u>. The Contracting Officer has determined the anticipated cost to the Government of the supplies/services covered by this J&amp;A will be fair and reasonable.</p>
          <p id="ZHrimG" class="- topic/p ">_____________________________________________________________________________</p>
@@ -175,17 +277,18 @@
             <b class="+ topic/ph hi-d/b ">[If there is currently no reasonable likelihood of future competition, use the following or similar language:</b>
          </p>
          <p id="TloCYt" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">For the reasons set forth in Paragraph 5, NAVSYSCOM has no plans at this time to compete</i>
-         </p>
-         <p id="qbbGBs" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">future contracts for the types of supplies/services covered by this document. If another potential</i>
-         </p>
-         <p id="WYCNBE" outputclass="Normal" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">source emerges, NAVSYSCOM will assess whether competition for future requirements is feasible.</i>
-            <b class="+ topic/ph hi-d/b ">
-               <i class="+ topic/ph hi-d/i ">]</i>
-            </b>
-         </p>
+            <i class="+ topic/ph hi-d/i ">For the reasons set forth in Paragraph 5, NAVSYSCOM has no plans at this time to
+               compete future contracts for the types of supplies/services covered by this document.
+               If another potential source emerges, NAVSYSCOM will assess whether competition for
+               future requirements is feasible.]</i></p>
+         <p rev="CHANGE 18-22 JULY 11, 2022" class="- topic/p "><b class="+ topic/ph hi-d/b ">[Where applicable to a follow-on non-competitive
+               procurement, include the following language, along with a copy of the previous
+               J&amp;A in accordance with DFARS PGI 206.304(a)(S-70)): </b></p>
+         <p rev="CHANGE 18-22 JULY 11, 2022" class="- topic/p "><i class="+ topic/ph hi-d/i ">“As this is a follow-on for supplies and services
+               previously awarded on a non-competitive basis, in accordance with DFARS PGI
+               206.304(a)(S-70)(i), the prior J&amp;A was provided to the approval authority for
+               review. Approval of this J&amp;A signifies the approval authority has made the
+               determination required by DFARS PGI 206.304(a)(S-70)(ii).”]</i></p>
          <p id="TufxYz" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">[Discuss any actions the activity plans to take to change conditions that would preclude the use of full and open competition for acquiring the same or similar supplies or services in the future. In addition to acquiring a validated technical data package, such actions might include, for example, development of a performance specification, use of reverse engineering to develop a second source or, after justifying noncompetitive procurement of emergency supplies/services on the basis of unusual and compelling urgency, using competition to award contract vehicles for requirements at quantities greater than the emergent need, or for similar items if needed to meet future emergency situations.]</b>
          </p>
@@ -196,32 +299,46 @@
             <b class="+ topic/ph hi-d/b ">[If the Government anticipates acquiring a technical data package or developing a performance specification that will support competition, use the following or similar language:</b>
          </p>
          <p id="KezNqF" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">The Government (or Program Office) expects to obtain a technical data package or develop a performance specification that will support competition for future acquisitions of the same or similar items.</i>
-            <b class="+ topic/ph hi-d/b ">
-               <i class="+ topic/ph hi-d/i ">]</i>
-            </b>
+            <i class="+ topic/ph hi-d/i ">The Government (or Program Office) expects to obtain a
+               technical data package or develop a performance specification that will support
+               competition for future acquisitions of the same or similar items.]</i>
          </p>
          <p id="pWeshA" outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">[New page]</b>
          </p>
          <p id="nDQczQ" outputclass=" Right" class="- topic/p ">J&amp;A No. xxxxxxxx</p>
          <p id="Gnbmbm" outputclass=" Ctr" class="- topic/p ">CERTIFICATIONS AND APPROVAL</p>
-         <p id="BjdSpr" class="- topic/p ">TECHNICAL/REQUIREMENTS CERTIFICATION</p>
+         <p id="BjdSpr" class="- topic/p " outputclass="Ctr">TECHNICAL/REQUIREMENTS
+            CERTIFICATION</p>
          <p id="KvwxLv" class="- topic/p ">I certify that the facts and representations under my cognizance which are included in this Justification and its supporting acquisition planning documents, except as noted herein are complete and accurate to the best of my knowledge and belief.</p>
          <p id="rdjHfg" class="- topic/p ">Technical Cognizance:</p>
-         <p id="zmElBa" class="- topic/p "/>
+         <p class="- topic/p ">_____________________ __________________ ___________ __________</p>
+         <p class="- topic/p "> Signature                                Name (Printed)            Phone No.
+            Date</p>
          <p id="cu3fbgdn" class="- topic/p ">Requirements Cognizance:</p>
+         <p class="- topic/p ">_____________________ __________________ ___________ __________</p>
+         <p class="- topic/p "> Signature                                Name (Printed)            Phone No.
+            Date</p>
          <p id="ANpPxZ" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">[Note that this page includes certification that the acquisition planning documents are complete and accurate. If a single individual has cognizance over both technical and requirements information included in the J&amp;A, use of only one signature line is encouraged and "Technical Cognizance:" and Requirements Cognizance:" above the signature lines may also be deleted.]</b>
          </p>
          <p id="HLLOpi" class="- topic/p ">LEGAL SUFFICIENCY REVIEW</p>
          <p id="HDzREu" class="- topic/p ">I have determined this Justification is legally sufficient.</p>
+         <p class="- topic/p ">_____________________ __________________ ___________ __________</p>
+         <p class="- topic/p "> Signature                                Name (Printed)            Phone No.
+            Date</p>
          <p id="XTScEk" class="- topic/p ">CONTRACTING OFFICER CERTIFICATION</p>
          <p id="lxglij" class="- topic/p ">I certify that this Justification is accurate and complete to the best of my knowledge and belief.</p>
+         <p class="- topic/p ">_____________________ __________________ ___________ __________</p>
+         <p class="- topic/p "> Signature                                Name (Printed)            Phone No.
+            Date</p>
          <p id="PQCTtb" class="- topic/p ">[Insert title of Approving Official. If Senior Procurement Executive of the Navy is the Approving Official, insert, “SENIOR PROCUREMENT EXECUTIVE”] APPROVAL</p>
-         <p id="QhlRGl" class="- topic/p ">Upon the basis of the above justification, I hereby approve, as [insert title of the Approving Official], the solicitation of the proposed procurement(s) described herein using other than full</p>
-         <p id="WVhcxj" outputclass="Normal" class="- topic/p ">and open competition, pursuant to the authority of 10 U.S.C. 2304(c)(x)(provide appropriate citation).</p>
-         <p id="FmGmVZ" class="- topic/p "/>
+         <p id="QhlRGl" class="- topic/p ">Upon the basis of the above justification, I hereby
+            approve, as [insert title of the Approving Official], the solicitation of the proposed
+            procurement(s) described herein using other than full and open competition, pursuant to
+            the authority of 10 U.S.C. 2304(c)(x)(provide appropriate citation).</p>
+         <p class="- topic/p ">______________________________ _______________</p>
+         <p class="- topic/p "> [Print Name of Approving Official]             Date </p>
          <p id="5niu23c9" outputclass=" Ctr" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">Action memos are only required when requested. Format is provided below.</b>
          </p>
@@ -264,11 +381,12 @@
          <p id="RlIFae" outputclass="Normal" class="- topic/p ">(J&amp;A) 22567 FOR LEAD YARD SERVICES FOR VIRGINIA CLASS SUBMARINES</p>
          <p id="rIxrxx" outputclass="Normal" class="- topic/p ">ASN(RDA) approval is required for the J&amp;A <b class="+ topic/ph hi-d/b ">[or state CJ&amp;A, if applicable]</b> at Tab A.</p>
          <p id="TKxUfb" outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">[Briefly describe what the J&amp;A covers, in terms of the type of contract action(s) involved,</b>
-         </p>
-         <p id="OacNSj" outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">the identity of the planned contractor[s], the supplies or services to be acquired including quantities by fiscal year for major items, the total estimated value of the contract, with funding summary, and identification of the planning document (e.g., the Streamlined Acquisition Plan (STRAP)/Strategy) that supports the procurement. If none, explain why not.]</b>
-         </p>
+            <b class="+ topic/ph hi-d/b ">[Briefly describe what the J&amp;A covers, in terms of the type of contract action(s)
+               involved, the identity of the planned contractor[s], the supplies or services to be
+               acquired including quantities by fiscal year for major items, the total estimated
+               value of the contract, with funding summary, and identification of the planning
+               document (e.g., the Streamlined Acquisition Plan (STRAP)/Strategy) that supports the
+               procurement. If none, explain why not.]</b></p>
          <p id="qPuqJY" outputclass="Normal" class="- topic/p ">
             <i class="+ topic/ph hi-d/i ">Example: This J&amp;A covers award of a contract to ABC Aircraft Company, a fully owned subsidiary of DEF Company, for the SDD phase of the XYZ Program. This effort will include the design and development of an air vehicle, including two Ground Test Vehicles and five Engineering Development models, testing, engineering studies and related supplies and services. The estimated total value of the contract is $X,XB and will be funded with FY06 through FY11 RDT&amp;E funds. The planned contract is supported by NAVAIR Acquisition Strategy 050-03-01, approved by USD(AT&amp;L) on SEP 5, 2005.</i>
          </p>
@@ -278,9 +396,13 @@
          <p id="HUfIBS" outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">[In a few sentences, summarize the rationale set forth in Paragraph 5 of the J&amp;A for using other than full and open competition. Address other information necessary to provide a context for the procurement and facilitate understanding of the proposed business approach. Additional information might explain, for example, that:</b>
          </p>
-         <p id="SOprmD" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">under a prior contract the program experienced significant cost savings when it broke out the requirements covered by the planned contract from a larger system integration contract,</b>
-         </p>
+         <ul id="ul_wyd_wz3_35b" class="- topic/ul ">
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">the planned contract is a final buyout of the requirement, </b></li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">the sole source was determined through a prior competitive down-selection, under
+                  a prior contract the program experienced significant cost savings when it broke
+                  out the requirements covered by the planned contract from a larger system
+                  integration contract,] </b></li>
+         </ul>
          <p id="LQqVXV" class="- topic/p ">
             <i class="+ topic/ph hi-d/i ">Example: PRP is the sole designer, developer and manufacturer of the XX-46 series radar system and is the only contractor with the requisite knowledge, experience and technical data that can meet the Government’s requirements on a timely basis.</i>
          </p>
@@ -293,6 +415,11 @@
          </p>
          <p id="yhmm32bn" class="- topic/p ">[<b class="+ topic/ph hi-d/b ">Briefly explain any differences between information included in the J&amp;A and information in the supporting Acquisition Strategy/Plan and explain the rationale for these differences. Pay particular attention to differences in quantities and funding levels. Also, note any significant congressional or other programmatic issues. These may include, for example:</b>
          </p>
+         <ul id="ul_ttm_b1j_35b" class="- topic/ul ">
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">pending legislation that could impact the procurement,</b></li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">known congressional concerns with the acquisition strategy, or </b></li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">recent test results that might delay the program.]</b></li>
+         </ul>
          <p id="ZSkZcm" outputclass="Normal" class="- topic/p ">
             <i class="+ topic/ph hi-d/i ">Example:</i>
             <i class="+ topic/ph hi-d/i ">Last month, the PEO/PM met with Senator Smith's staff to discuss the feasibility of using the XYZ system to meet our requirements in lieu of the ABC system. Although the PM provided a detailed explanation of why this would not be feasible, it's possible that Senator Smith will contact you directly to discuss this subject further. The PM is prepared to provide you with a briefing, as necessary.</i>
