@@ -15,6 +15,720 @@
          restate information within the BCM. Additionally, as this Annex outlines the minimum
          content that will facilitate validation with regulations, HCAs may add documentation
          requirements; the table below is NOT all-inclusive.</p>
+         <p class="- topic/p " id="asdwei1">
+            <table colsep="1" rowsep="1" class="- topic/table ">
+               <tgroup cols="2" colsep="1" class="- topic/tgroup ">
+                  <colspec colname="1"
+                           colnum="1"
+                           rowheader="headers"
+                           class="- topic/colspec "/>
+                  <colspec colname="2"
+                           colnum="2"
+                           rowheader="headers"
+                           class="- topic/colspec "/>
+                  <thead class="- topic/thead ">
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="pEfrjX" class="- topic/p ">
+                              <b class="+ topic/ph hi-d/b ">DOCUMENT/APPROVAL CONTENT</b>
+                           </p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="waeMEY" class="- topic/p ">
+                              <b class="+ topic/ph hi-d/b ">Reference(s)</b>
+                           </p>
+                           <p id="eUniAw" class="- topic/p ">
+                              <b class="+ topic/ph hi-d/b ">(as applicable)</b>
+                           </p>
+                        </entry>
+                     </row>
+                  </thead>
+                  <tbody class="- topic/tbody ">
+                     <row rowsep="1" class="- topic/row ">
+                        <entry nameend="2" namest="1" class="- topic/entry ">
+                           <p id="djecKS" class="- topic/p ">
+                              <b class="+ topic/ph hi-d/b ">PRE-NEGOTIATION</b>
+                           </p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="cpfEaI" class="- topic/p ">Procurement Request</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="AkyjcV" class="- topic/p ">FAR part 11</p>
+                           <p id="TOcTzo" class="- topic/p ">DFARS part 211</p>
+                           <p id="MTUtUq" class="- topic/p ">NMCARS part 5211</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="mDUxxD" class="- topic/p ">Acquisition Strategy</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="dNXeJP" class="- topic/p ">FAR 34.004</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="qczHer" class="- topic/p ">Acquisition Plan (STRAP/MOPAS-S)</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="xinllL" class="- topic/p ">NMCARS 5207.103</p>
+                           <p id="LvboOj" class="- topic/p ">NMCARS 5237.503</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="iFZPGQ" class="- topic/p ">Contract Type Rationale</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="ngncxP" class="- topic/p ">FAR 16.102(d)</p>
+                           <p id="zZnBie" class="- topic/p ">FAR 16.103(d)</p>
+                           <p id="LRvGww" class="- topic/p ">DFARS 216.102</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="sMLTEi" class="- topic/p ">Synopsis or an Approved Waiver</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="cxjaNl" class="- topic/p ">FAR 5.202</p>
+                           <p id="qBwkwl" class="- topic/p ">FAR 5.203</p>
+                           <p id="DjUxVb" class="- topic/p ">FAR 5.204</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="ZKrUJp" class="- topic/p ">Determinations and Findings (D&amp;F) to Establish or Maintain
+                        Alternative Sources</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="VGnaMM" class="- topic/p ">FAR 6.202</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="aZpMZh" class="- topic/p ">Justification for Other Than Full and Open Competition</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="QHnYnr" class="- topic/p ">FAR 6.303</p>
+                           <p id="joTYEA" class="- topic/p ">DFARS PGI 206.302-1</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="MxIYWz" class="- topic/p ">HCA Documentation for Non-Competitive Requirement under an
+                        International Agreement</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="ijUlhn" class="- topic/p ">DFARS 206.302-4(c)</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="BMaRkB" class="- topic/p ">Bundling Contract Requirements</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="elCHJR" class="- topic/p ">FAR 7.107-3</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="qBgDRb" class="- topic/p ">Determination to Consolidate Contract Requirements</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="DIsXAs" class="- topic/p ">FAR 7.107-2</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="ygZZsn" class="- topic/p ">Determination to Contract for Non-Commercial Services of Certain
+                        Products or Services</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="dyuUaY" class="- topic/p ">DFARS 212.272</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="whLENh" class="- topic/p ">D&amp;F to Use Commercial T&amp;M or LH Contract</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="tNghla" class="- topic/p ">FAR 12.207</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="xqAHcy" class="- topic/p ">Source Selection Plan</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="VWaNaG" class="- topic/p ">DFARS 215.303</p>
+                           <p id="nlVwYt" class="- topic/p ">DoD Source Selection Procedures</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="xTtxrQ" class="- topic/p ">D&amp;F to Use T&amp;M or LH Type Contract</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="gpjOCK" class="- topic/p ">FAR 16.601(d)(1)</p>
+                           <p id="StAZQQ" class="- topic/p ">FAR 16.602</p>
+                           <p id="CtVeoK" class="- topic/p ">DFARS 216.601(d)(i)(A)</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="CjYdRR" class="- topic/p ">D&amp;F to Use Incentive or Award Fee Contract</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="DcVLHL" class="- topic/p ">FAR 16.401(d)</p>
+                           <p id="jjZXxd" class="- topic/p ">DFARS 216.401(d) NMCARS 5216.401(d)</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="lgnbLq" class="- topic/p ">D&amp;F for Cost Type Research and Development in Excess of
+                        $25M</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="KmwdvK" class="- topic/p ">DFARS 235.006(b)(i)</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="pjWJHo" class="- topic/p ">Determination for Fixed Price Development for Non-MDAP</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="cvHXUW" class="- topic/p ">DFARS 235.006(b)(iii)(A)(3)</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="sFxpmo" class="- topic/p ">Determination to Make Single Award for IDIQ Estimated to Exceed
+                        $100M (including all options)</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="kKAwvQ" class="- topic/p ">FAR 16.504(c)(1)(ii)(D) DFARS 216.504(c)</p>
+                           <p id="lQzXBl" class="- topic/p ">NMCARS 5216.504(c)</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="VVvahj" class="- topic/p ">Determination to Make Single Award for IDIQ Advisory and
+                        Assistance Services Over Three Years and $15M</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="JnyoTk" class="- topic/p ">FAR 16.504(c)(2)</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="RsRDev" class="- topic/p ">HCA Approval for Cost-Reimbursement Contracts in Excess of
+                        $25M</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="MmbIIl" class="- topic/p ">DFARS 216.301-3</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="caUTxT" class="- topic/p ">Use of Contract Terms in Excess of Five Years</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="WWfOPY" class="- topic/p ">FAR 17.204(e)</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="QBfFBe" class="- topic/p ">Use of Non-DoD Contract Vehicle</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="nOUyAh" class="- topic/p ">DFARS 217.770</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="itgbEh" class="- topic/p ">DD Form 2579 Small Business Coordination Record</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="fsACcP" class="- topic/p ">DFARS 219.201</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="JPhLzL" class="- topic/p ">Determination of Personal/Non-Personal Services</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="NEvoWn" class="- topic/p ">FAR 37.103</p>
+                           <p id="YvMKNo" class="- topic/p ">DFARS PGI 237.503</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="gVEJhx" class="- topic/p ">Approval for Non-Performance Based Acquisition</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="jYkGOu" class="- topic/p ">DFARS 237.170-2</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="QyFyfn" class="- topic/p ">Government-Furnished Property Compliance Checklist</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="zzWQED" class="- topic/p ">NMCARS 5245.103-74</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="VxxcDJ" class="- topic/p ">Approval to Use Warranty</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="AkoLFm" class="- topic/p ">DFARS 246.704</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="HKgpEh" class="- topic/p ">Draft/Planning Solicitation(s); Offerors Comments &amp;
+                        Government Response to Offerors; Other Exchanges with Industry Before
+                        Receipt of Proposal</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="yByzpD" class="- topic/p ">FAR 15.201</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="awtkqq" class="- topic/p ">Wage Rate Determination (SF-98/98A)</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="jdtNvb" class="- topic/p ">DFARS 222.1008</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="DAXQPf" class="- topic/p ">Market Research Documentation</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="vnfQAN" class="- topic/p ">FAR part 10</p>
+                           <p id="GEzvYJ" class="- topic/p ">DFARS part 210</p>
+                           <p id="WBnXDV" class="- topic/p ">DFARS 237.102-78</p>
+                           <p id="rRurLx" class="- topic/p ">DFARS PGI 215.371-2</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="NncfSA" class="- topic/p ">Independent Government Cost Estimate</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="bsIyBV" class="- topic/p ">FAR 4.803(a)(7)</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="imJIbJ" class="- topic/p ">Approval of FAR/DFARS/NMCARS Deviations</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="IkvgAQ" class="- topic/p ">FAR subpart 1.4</p>
+                           <p id="cJZEga" class="- topic/p ">DFARS subpart 201.4 NMCARS subpart 5201.4</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="ITiuJO" class="- topic/p ">Undefinitized Contract Action and Undefinitized Change Order
+                        Approval</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="JPsNcK" class="- topic/p ">DFARS 217.74</p>
+                           <p id="CDVOXo" class="- topic/p ">NMCARS 5243.201</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="ewEksZ" class="- topic/p ">Unusual Contract Financing Clauses</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="ugIWmk" class="- topic/p ">FAR part 32</p>
+                           <p id="pDcObJ" class="- topic/p ">DFARS part 232</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="PZWtmF" class="- topic/p ">Justification for Oral Solicitation</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="gAcpTL" class="- topic/p ">FAR 15.203(f)</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="ilgzFy" class="- topic/p ">Tailoring of Provisions and Clauses for Use in Commercial Item
+                        Acquisition (waiver)</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="LNLOis" class="- topic/p ">FAR subpart 12.3</p>
+                           <p id="iBnZLM" class="- topic/p ">DFARS subpart 212.3</p>
+                           <p id="oWgMRF" class="- topic/p ">NMCARS subpart 5212.3</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="wCbUEw" class="- topic/p ">Solicitation/Request for Proposal</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="zpgbCC" class="- topic/p ">FAR 15.203</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="naiqNY" class="- topic/p ">Amendments to RFP</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="zEfMcV" class="- topic/p ">FAR 15.206</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="iHwoIE" class="- topic/p ">Combined Synopsis and Solicitations for Commercial Item
+                        Acquisitions</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="XCQsIr" class="- topic/p ">FAR 12.603</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="dIqRrn" class="- topic/p ">Contractor Proposal(s)</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="VrhOaY" class="- topic/p "/>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="QYgdvr" class="- topic/p ">DCAA Report(s)</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="cpmdMs" class="- topic/p "/>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="roUKIG" class="- topic/p ">ACO Report(s)</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="ovoLej" class="- topic/p "/>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="CeiuNw" class="- topic/p ">Technical Evaluation Report(s)</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="FzzxUP" class="- topic/p ">FAR 15.305(a)(3)</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="ugcKmP" class="- topic/p ">Price/Cost Evaluation Report</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="uSoRCR" class="- topic/p ">FAR 15.305(a)(1)</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="nScFTA" class="- topic/p ">Past Performance Evaluation Report</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="GkCkkH" class="- topic/p ">FAR 15.305(a)(2)</p>
+                           <p id="ZjpAxU" class="- topic/p ">DFARS 215.305(a)(2)</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="sVBWct" class="- topic/p ">Small Business Participation Evaluation Report</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="VWjvQp" class="- topic/p ">DFARS 215.304(c)(i)</p>
+                           <p id="BLhGvE" class="- topic/p ">DoD Source Selection Procedures</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="VrwfEi" class="- topic/p ">Subcontracting Plan Evaluation Report</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="rJsbBl" class="- topic/p ">FAR 19.702(a)</p>
+                           <p id="vDJUlt" class="- topic/p ">FAR 19.704</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="cpculH" class="- topic/p ">Competitive Range Determination</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="XNyVRv" class="- topic/p ">FAR 15.306(c)</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="ZQVrMA" class="- topic/p ">Evaluation of Transportation Costs (DD Form 1654)</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="PoCmKU" class="- topic/p ">FAR 47.306</p>
+                           <p id="EZubiw" class="- topic/p ">DFARS 247.301-71</p>
+                           <p id="awUfTz" class="- topic/p ">DFARS 247.372</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="TJHHrG" class="- topic/p ">Cost Accounting Standards Waivers</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="WVIFFj" class="- topic/p ">FAR 30.201-5</p>
+                           <p id="pOcRNA" class="- topic/p ">DFARS 230.201-5</p>
+                           <p id="iLeMpN" class="- topic/p ">NMCARS 5230.201-5</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="DwzXOa" class="- topic/p ">Make or Buy (Program, Evaluation, Approval)</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="KrQOkD" class="- topic/p ">FAR 15.407-2</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="YqANGs" class="- topic/p ">Compliance with FAR Subpart 4.21 – Prohibition on Contracting
+                        for Certain Telecommunications and Video Surveillance Services or Equipment
+                        - Requirements</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="GXjWrI" class="- topic/p ">FAR provision 52.204-24</p>
+                           <p id="NHUsnH" class="- topic/p ">FAR provision 52.204-26</p>
+                           <p id="SaZjBs" class="- topic/p ">FAR clause 52.204-25</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="mzRQdF" class="- topic/p ">Exemptions Requested to Buy American, Berry Amendment, Specialty
+                        Metals Restrictions, or Other Requirements of the Solicitation</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="EcleRQ" class="- topic/p ">DFARS subpart 225.70</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="vYdIKu" class="- topic/p ">Contracting Officer Determination and Basis for Pass-Through
+                        Charges</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="tvPCVn" class="- topic/p ">FAR 15.404-1(h)</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="ETEwaT" class="- topic/p ">Contractor’s Estimating System Determined Acceptable by ACO</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="ZLkmOl" class="- topic/p ">DFARS 215.407-5</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="ORqqqn" class="- topic/p ">Pre‑Award Disclosure Statement ‑ Cost Accounting Practices and
+                        Certification and Determined Current, Accurate, and Complete by ACO</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="dqCsuo" class="- topic/p ">FAR clause 52.230-1</p>
+                           <p id="QNfQzd" class="- topic/p ">FAR 30.202-6</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="pTTiuF" class="- topic/p ">Contractor’s Accounting System Determined Adequate by
+                        CAO/DCAA</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="PhAWNa" class="- topic/p ">FAR 16.301-3</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="vocMZr" class="- topic/p ">Contractor Purchasing System Determined to be Approved by the
+                        ACO</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="ffFhRx" class="- topic/p ">FAR 44.305</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="qnBqwu" class="- topic/p ">Property System Reviewed for Acceptability by ACO</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="aeqcbg" class="- topic/p ">FAR 45.105</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="XcRJAn" class="- topic/p ">SAM Exclusions Verification for All Offerors</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="oNFeCE" class="- topic/p ">FAR 9.405(e)(1)</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="qmXALq" class="- topic/p ">Certification Regarding Responsibility Matters and Delinquent
+                        Tax Liability or a Felony Conviction under Federal Law</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="FYzBVI" class="- topic/p ">FAR 9.104-5</p>
+                           <p id="lddpFd" class="- topic/p ">FAR provision 52.209-5</p>
+                           <p id="nyqxyb" class="- topic/p ">FAR provision 52.212-3(h) FAR provision 52.209-11</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="dDWHJI" class="- topic/p ">Pre-Negotiation Objective - Four Tenets:</p>
+                           <p id="DsHBlf" class="- topic/p ">1. What is the estimate,</p>
+                           <p id="jrMsLB" class="- topic/p ">2. What is the estimate based on,</p>
+                           <p id="eDIqWp" class="- topic/p ">3. How was the estimate derived, and</p>
+                           <p id="tUltEu" class="- topic/p ">4. Why is the estimate reasonable?</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="kxiGuk" class="- topic/p "/>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="DamfSh" class="- topic/p ">Part 15 Negotiation Documentation Requirements</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="QpPGzy" class="- topic/p ">FAR 15.406-3</p>
+                           <p id="tMthuG" class="- topic/p ">DFARS 215.406-3</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry nameend="2" namest="1" class="- topic/entry ">
+                           <p id="sayrQV" class="- topic/p ">
+                              <b class="+ topic/ph hi-d/b ">POST-NEGOTIATION</b>
+                           </p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="kXLRMF" class="- topic/p ">Award With or Without Discussions</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="FFMSlp" class="- topic/p ">FAR 15.306(a)(3)</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="EyryMW" class="- topic/p ">HCA Waiver of Cost or Pricing Data</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="KqEOws" class="- topic/p ">FAR 15.403-1(c)(4)</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="EgIriZ" class="- topic/p ">Certificate of Current Cost or Pricing Data</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="UEAlXm" class="- topic/p ">FAR 15.406-2</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="AwpHwM" class="- topic/p ">Subcontracting Plan Determined Adequate</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="mDkIJY" class="- topic/p ">FAR 19.705-4</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="Mqdeom" class="- topic/p ">Approval of SDB Subcontracting Goal Less Than 5%</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="DQtZqj" class="- topic/p ">DFARS 219.705-4</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="htKafg" class="- topic/p ">SBIR/STTR Phase III Award Contracting Officer Affirmation</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="mOFNRc" class="- topic/p ">NMCARS 5206.302-5(b)</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="PQBxGx" class="- topic/p ">EEO Compliance Requested/Obtained</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="QMHSsL" class="- topic/p ">FAR 22.805</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="vUkXWY" class="- topic/p ">Determination of Responsibility and Financial Stability</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="aIyTWC" class="- topic/p ">FAR 9.103</p>
+                           <p id="QATcsP" class="- topic/p ">FAR 9.104-1</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="otCqkl" class="- topic/p ">SAM Exclusions Verification for Successful Offeror</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="psAuAB" class="- topic/p ">FAR 9.405(e)(4)</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="COsNRA" class="- topic/p ">Certification Regarding Responsibility Matters and Delinquent
+                        Tax Liability or a Felony Conviction under Federal Law for Successful
+                        Offeror</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="fBNJWo" class="- topic/p ">FAR 9.104-5</p>
+                           <p id="NEVMYD" class="- topic/p ">FAR provision 52.209-5</p>
+                           <p id="JBdPgl" class="- topic/p ">FAR provision 52.212-3(h) FAR provision 52.209-11</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="QFyNQv" class="- topic/p ">VETS-4212 Filing Verification for Awardee (Non-Commercial Items
+                        that Exceed the SAT)</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="qkbhQO" class="- topic/p ">FAR 22.1302(b)</p>
+                           <p id="BNixan" class="- topic/p ">FAR 22.1304</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="xOKVlo" class="- topic/p ">Part 15 Negotiation Documentation Requirements</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="UKCyhb" class="- topic/p ">FAR 15.406-3</p>
+                           <p id="bRssUz" class="- topic/p ">DFARS 215.406-3</p>
+                        </entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </p>
       </body>
    </topic>
 </dita>
