@@ -12,7 +12,7 @@
                   <xref outputclass="fm:TOC" href="SUBPART_5212.1.dita#NMCARS_SUBPART_5212.1">SUBPART 5212.1 — ACQUISITION OF COMMERCIAL ITEMS – GENERAL</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="CHANGE 18-22 JULY 11, 2022">
                      <p>
                         <xref outputclass="fm:TOC" href="5212.102.dita#NMCARS_5212.102">5212.102 Applicability.</xref>
                      </p>
@@ -24,19 +24,19 @@
                   <xref outputclass="fm:TOC" href="SUBPART_5212.2.dita#NMCARS_SUBPART_5212.2">SUBPART 5212.2 — SPECIAL REQUIREMENTS FOR THE ACQUISITION OF COMMERCIAL ITEMS</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="CHANGE 18-22 JULY 11, 2022">
                      <p>
                         <xref outputclass="fm:TOC" href="5212.207.dita#NMCARS_5212.207">5212.207 Contract type.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
+            <li rev="CHANGE 18-22 JULY 11, 2022">
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5212.3.dita#NMCARS_SUBPART_5212.3">SUBPART 5212.3 — SOLICITATION PROVISIONS AND CLAUSES FOR THE ACQUISITION OF COMMERCIAL ITEMS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5212.3.dita#NMCARS_SUBPART_5212.3">SUBPART 5212.3 — SOLICITATION PROVISIONS AND CONTRACT CLAUSES FOR THE ACQUISITION OF COMMERCIAL ITEMS</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="CHANGE 18-22 JULY 11, 2022">
                      <p>
                         <xref outputclass="fm:TOC" href="5212.302.dita#NMCARS_5212.302">5212.302 Tailoring of provisions and clauses for the acquisition of commercial items.</xref>
                      </p>
@@ -57,15 +57,8 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5212.70.dita#NMCARS_SUBPART_5212.70">SUBPART 5212.70 — LIMITATION ON CONVERSION OF PROCUREMENT FROM COMMERCIAL ACQUISITION PROCEDURES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5212.90.dita#NMCARS_SUBPART_5212.90">SUBPART 5212.90 — DEFENSE COMMERCIAL SOLUTIONS OPENING</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5212.7001.dita#NMCARS_5212.7001">5212.7001 Procedures</xref>
-                     </p>
-                  </li>
-               </ul>
             </li>
          </ul>
       </body>

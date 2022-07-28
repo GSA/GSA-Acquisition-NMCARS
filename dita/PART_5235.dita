@@ -7,7 +7,7 @@
          <ph class="- topic/ph " props="autonumber">PART 5235</ph> RESEARCH AND DEVELOPMENT CONTRACTING</title>
       <body>
          <ul otherprops="TOC">
-            <li>
+            <li rev="CHANGE 18-22 JULY 11, 2022">
                <p>
                   <xref outputclass="fm:TOC" href="5235.006.dita#NMCARS_5235.006">5235.006 Contracting methods and contract type.</xref>
                </p>
@@ -29,7 +29,7 @@
                   <xref outputclass="fm:TOC" href="5235.070.dita#NMCARS_5235.070">5235.070 Indemnification against unusually hazardous risks.</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="CHANGE 18-22 JULY 11, 2022">
                      <p>
                         <xref outputclass="fm:TOC" href="5235.0701.dita#NMCARS_5235.0701">5235.070-1 Indemnification under research and development contracts.</xref>
                      </p>

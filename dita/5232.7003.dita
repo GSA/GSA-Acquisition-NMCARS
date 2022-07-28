@@ -10,11 +10,16 @@
       <ph props="autonumber" class="- topic/ph ">5232.7003</ph> Policy.</title>
    <conbody class="- topic/body  concept/conbody ">
       <p outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">   </b>(b)<b class="+ topic/ph hi-d/b "> </b>Contracting officers shall obtain DASN(P) approval prior to providing temporary alternative methods of submission of payment requests and receiving reports. Submit the request for approval to DASN(P) by email at <xref href="mailto:Rdaj&amp;as.fct@navy.mil"
-               scope="external"
-               format="mailto"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct@navy.mil</u>
-         </xref> with the subject “[Activity Name] DFARS 232.7002(a)(4) – Contractor Request for Submission of Payment Requests and Receiving Reports in Non-electronic Form.”</p>
+         <b class="+ topic/ph hi-d/b "> </b>(b)<b class="+ topic/ph hi-d/b "> </b>Contracting
+         officers shall obtain DASN(P) approval prior to providing temporary alternative methods of
+         submission of payment requests and receiving reports. Submit the request for approval to
+         DASN(P) by email at <ph class="- topic/ph " rev="CHANGE 18-22 JULY 11, 2022">
+            <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+         </ph> with the subject
+         “[Activity Name] DFARS 232.7002(a)(4) – Contractor Request for Submission of Payment
+         Requests and Receiving Reports in Non-electronic Form.”</p>
    </conbody>
 </concept>

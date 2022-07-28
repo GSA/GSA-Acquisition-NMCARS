@@ -9,12 +9,13 @@
    <title outputclass="Heading 4" class="- topic/title ">
       <ph props="autonumber" class="- topic/ph ">5225.871-7</ph> Congressional notification.</title>
    <conbody class="- topic/body  concept/conbody ">
-      <p outputclass="Normal" class="- topic/p ">    (a)(1) Submit proposed Congressional notices via DASN(P) by email at <xref href="mailto:Rdaj&amp;as.fct@navy.mil"
-               scope="external"
-               format="mailto"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct</u>
-            <u class="+ topic/ph hi-d/u ">@navy.mil</u>
-         </xref> with the subject “[Activity Name] DFARS 225.871-7 - NATO Cooperative Projects Statutory Waiver.” </p>
+      <p outputclass="Normal" class="- topic/p "> (a)(1) Submit proposed Congressional notices via
+         DASN(P) by email at <ph class="- topic/ph " rev="CHANGE 18-22 JULY 11, 2022">
+            <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+         </ph> with the subject
+         “[Activity Name] DFARS 225.871-7 - NATO Cooperative Projects Statutory Waiver.” </p>
    </conbody>
 </concept>

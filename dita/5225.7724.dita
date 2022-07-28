@@ -9,9 +9,14 @@
    <title outputclass="Heading 4" class="- topic/title ">
       <ph props="autonumber" class="- topic/ph ">5225.772-4</ph> Exception.</title>
    <conbody class="- topic/body  concept/conbody ">
-      <p outputclass="Normal" class="- topic/p ">   (b) Submit exception requests via DASN(P) by email at <xref href="mailto:Rdaj&amp;as.fct@navy.mil"
-               scope="external"
-               format="mailto"
-               class="- topic/xref ">RDAJ&amp;As.fct@navy.mil</xref> with the subject “[Activity Name] DFARS 225.772-4 – “Certain Commercial Satellite Services Exception Request.”</p>
+      <p outputclass="Normal" class="- topic/p "> (b) Submit exception requests via DASN(P) by email
+         at <ph class="- topic/ph " rev="CHANGE 18-22 JULY 11, 2022">
+            <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+         </ph> with the subject
+         “[Activity Name] DFARS 225.772-4 – “Certain Commercial Satellite Services Exception
+         Request.”</p>
    </conbody>
 </concept>

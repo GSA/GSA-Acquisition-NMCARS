@@ -17,7 +17,7 @@
                         <xref outputclass="fm:TOC" href="5232.202.dita#NMCARS_5232.202">5232.202 General.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li>
+                        <li rev="CHANGE 18-22 JULY 11, 2022">
                            <p>
                               <xref outputclass="fm:TOC" href="5232.2021.dita#NMCARS_5232.2021">5232.202-1 Policy.</xref>
                            </p>
@@ -31,7 +31,7 @@
                   <xref outputclass="fm:TOC" href="SUBPART_5232.4.dita#NMCARS_SUBPART_5232.4">SUBPART 5232.4 — ADVANCE PAYMENTS FOR NON–COMMERCIAL ITEMS</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="CHANGE 18-22 JULY 11, 2022">
                      <p>
                         <xref outputclass="fm:TOC" href="5232.402.dita#NMCARS_5232.402">5232.402 General.</xref>
                      </p>
@@ -48,7 +48,7 @@
                         <xref outputclass="fm:TOC" href="5232.501.dita#NMCARS_5232.501">5232.501 General.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li>
+                        <li rev="CHANGE 18-22 JULY 11, 2022">
                            <p>
                               <xref outputclass="fm:TOC" href="5232.5012.dita#NMCARS_5232.5012">5232.501-2 Unusual progress payments.</xref>
                            </p>
@@ -86,7 +86,7 @@
                   <xref outputclass="fm:TOC" href="SUBPART_5232.70.dita#NMCARS_SUBPART_5232.70">SUBPART 5232.70 — ELECTRONIC SUBMISSION AND PROCESSING OF PAYMENT REQUESTS AND RECEIVING REPORTS</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="CHANGE 18-22 JULY 11, 2022">
                      <p>
                         <xref outputclass="fm:TOC" href="5232.7003.dita#NMCARS_5232.7003">5232.7003 Policy.</xref>
                      </p>

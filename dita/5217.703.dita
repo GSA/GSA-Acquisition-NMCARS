@@ -9,17 +9,24 @@
    <title outputclass="Heading 3" class="- topic/title ">
       <ph props="autonumber" class="- topic/ph ">5217.703</ph> Policy.</title>
    <conbody class="- topic/body  concept/conbody ">
-      <p outputclass="Normal" class="- topic/p ">   (c) Submit nondefense agency certifications of compliance to DPC within 40 days of the beginning of the fiscal year via DASN(P) by email at <xref href="mailto:RDAJ&amp;As.fct@navy.mil"
-               scope="external"
-               format="mailto"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct@navy.mil</u>
-         </xref> with the subject “[Activity Name] FAR 17.703 - Annual Nondefense Agency Certifications Report.”</p>
-      <p outputclass="Normal" class="- topic/p ">   (e) The HCA is the approval authority, without power of redelegation, for written determinations. Submit a copy of the signed written determination to DASN(P) by email at <xref href="mailto:RDAJ&amp;As.fct@navy.mil"
-               scope="external"
-               format="mailto"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct@navy.mil</u>
-         </xref> with the subject “[Activity Name] FAR 17.703 – Section 801 Subsection(b)(2) FY 2008 NDAA Waiver Determination.”  </p>
+      <p outputclass="Normal" class="- topic/p "> (c) Submit nondefense agency certifications of
+         compliance to DPC within 40 days of the beginning of the fiscal year via DASN(P) by email
+         at <ph class="- topic/ph " rev="CHANGE 18-22 JULY 11, 2022">
+            <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+         </ph> with the subject
+         “[Activity Name] FAR 17.703 - Annual Nondefense Agency Certifications Report.”</p>
+      <p outputclass="Normal" class="- topic/p "> (e) The HCA is the approval authority, without
+         power of redelegation, for written determinations. Submit a copy of the signed written
+         determination to DASN(P) by email at <ph class="- topic/ph " rev="CHANGE 18-22 JULY 11, 2022">
+            <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+         </ph> with the subject
+         “[Activity Name] FAR 17.703 – Section 801 Subsection(b)(2) FY 2008 NDAA Waiver
+         Determination.” </p>
    </conbody>
 </concept>

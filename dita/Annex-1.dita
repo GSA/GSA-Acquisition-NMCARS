@@ -95,10 +95,19 @@
             </b>
          </p>
          <p class="- topic/p ">
-            <table id="table_crn_g53_35b" class="- topic/table " colsep="1" rowsep="1">
+            <table id="table_crn_g53_35b"
+                   class="- topic/table "
+                   colsep="1"
+                   rowsep="1">
                <tgroup cols="2" class="- topic/tgroup ">
-                  <colspec colnum="1" colname="col1" rowheader="headers" class="- topic/colspec "/>
-                  <colspec colnum="2" colname="col2" rowheader="headers" class="- topic/colspec "/>
+                  <colspec colnum="1"
+                           colname="col1"
+                           rowheader="headers"
+                           class="- topic/colspec "/>
+                  <colspec colnum="2"
+                           colname="col2"
+                           rowheader="headers"
+                           class="- topic/colspec "/>
                   <thead>
                      <row class="- topic/row ">
                         <entry class="- topic/entry "/>

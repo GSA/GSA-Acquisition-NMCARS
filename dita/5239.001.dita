@@ -10,12 +10,14 @@
       <ph props="autonumber" class="- topic/ph ">5239.001</ph> Applicability.</title>
    <conbody class="- topic/body  concept/conbody ">
       <p outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">   </b>(a) All requests for DOD CIO approval of acquisition of a data server farm, data center or information systems technology used in a data center shall be submitted to DASN(P) by email at <xref href="mailto:Rdaj&amp;as.fct@navy.mil"
-               scope="external"
-               format="mailto"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct</u>
-            <u class="+ topic/ph hi-d/u ">@navy.mil</u>
-         </xref> with the subject “[Activity Name] FAR 39.001 - Data Farm/Center IT Approval.”</p>
+         <b class="+ topic/ph hi-d/b "> </b>(a) All requests for DOD CIO approval of acquisition of
+         a data server farm, data center or information systems technology used in a data center
+         shall be submitted to DASN(P) by email at <ph class="- topic/ph " rev="CHANGE 18-22 JULY 11, 2022">
+            <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+         </ph> with the subject
+         “[Activity Name] FAR 39.001 - Data Farm/Center IT Approval.”</p>
    </conbody>
 </concept>

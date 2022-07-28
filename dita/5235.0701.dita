@@ -10,12 +10,13 @@
       <ph props="autonumber" class="- topic/ph ">5235.070-1</ph> Indemnification under research and development contracts.</title>
    <conbody class="- topic/body  concept/conbody ">
       <p outputclass="Normal" class="- topic/p ">   (a) DASN(P) is the approval authority.</p>
-      <p outputclass="Normal" class="- topic/p ">   (b) Submit requests for indemnification approval to DASN(P) by email at <xref href="mailto:Rdaj&amp;as.fct@navy.mil"
-               scope="external"
-               format="mailto"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct</u>
-            <u class="+ topic/ph hi-d/u ">@navy.mil</u>
-         </xref> with the subject “[Activity Name] DFARS 235.070-1 – Indemnification Request under R&amp;D Contracts.”   </p>
+      <p outputclass="Normal" class="- topic/p "> (b) Submit requests for indemnification approval
+         to DASN(P) by email at <ph class="- topic/ph " rev="CHANGE 18-22 JULY 11, 2022">
+            <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+         </ph> with the subject
+         “[Activity Name] DFARS 235.070-1 – Indemnification Request under R&amp;D Contracts.” </p>
    </conbody>
 </concept>

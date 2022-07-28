@@ -4,7 +4,7 @@
 <dita>
    <topic id="NMCARS_Annex-14">
       <title class="- topic/title " outputclass="Ctr 1 heading">
-         <ph class="- topic/ph " props="autonumber"/> – REPORTS</title>
+         <ph class="- topic/ph " props="autonumber">Annex 14</ph> – REPORTS</title>
       <body>
          <p class="- topic/p " id="olQ7o">
             <table colsep="1" rowsep="1" class="- topic/table ">
@@ -107,13 +107,12 @@
                            <p id="BaUkPA" class="- topic/p ">31 Aug</p>
                         </entry>
                         <entry class="- topic/entry ">
-                           <p id="rayRSc" class="- topic/p ">DASN(P) by email to <xref format="mailto"
-                                    href="mailto:policy@navy.mil"
+                           <p id="rayRSc" class="- topic/p ">DASN(P) by email to</p>
+                           <p class="- topic/p ">
+                              <xref href="mailto:Policy@navy.mil"
+                                    format="html"
                                     scope="external"
-                                    class="- topic/xref ">
-                                 <u class="+ topic/ph hi-d/u ">Policy@navy.mil</u>
-                              </xref>
-                              <ph class="- topic/ph "/>
+                                    class="- topic/xref ">Policy@navy.mil </xref>
                            </p>
                         </entry>
                      </row>
@@ -140,13 +139,14 @@
                            <p id="DfXoSY" class="- topic/p ">1 Oct</p>
                         </entry>
                         <entry class="- topic/entry ">
-                           <p id="QYVlxF" class="- topic/p ">DASN(P) by email to <xref format="mailto"
-                                    href="mailto:Rdaj&amp;as.fct@navy.mil"
-                                    scope="external"
-                                    class="- topic/xref ">
-                                 <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct</u>
-                                 <u class="+ topic/ph hi-d/u ">@navy.mil</u>
-                              </xref>
+                           <p id="QYVlxF" class="- topic/p ">DASN(P) by email to</p>
+                           <p class="- topic/p ">
+                              <ph rev="CHANGE 18-22 JULY 11, 2022" class="- topic/ph ">
+                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                                       format="html"
+                                       scope="external"
+                                       class="- topic/xref ">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+                              </ph>
                            </p>
                         </entry>
                      </row>
@@ -173,13 +173,14 @@
                            <p id="fIHewH" class="- topic/p ">30 Jan</p>
                         </entry>
                         <entry class="- topic/entry ">
-                           <p id="svVqeL" class="- topic/p ">DASN(P) by email to <xref format="mailto"
-                                    href="mailto:Rdaj&amp;as.fct@navy.mil"
-                                    scope="external"
-                                    class="- topic/xref ">
-                                 <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct</u>
-                                 <u class="+ topic/ph hi-d/u ">@navy.mil</u>
-                              </xref>
+                           <p id="svVqeL" class="- topic/p ">DASN(P) by email to</p>
+                           <p class="- topic/p ">
+                              <ph rev="CHANGE 18-22 JULY 11, 2022" class="- topic/ph ">
+                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                                       format="html"
+                                       scope="external"
+                                       class="- topic/xref ">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+                              </ph>
                            </p>
                         </entry>
                      </row>
@@ -206,13 +207,14 @@
                            <p id="BpzadP" class="- topic/p ">1 Dec</p>
                         </entry>
                         <entry class="- topic/entry ">
-                           <p id="vEOjcn" class="- topic/p ">DASN(P) by email to <xref format="mailto"
-                                    href="mailto:policy@navy.mil"
-                                    scope="external"
-                                    class="- topic/xref ">
-                                 <u class="+ topic/ph hi-d/u ">Policy@navy.mil</u>
-                              </xref>
-                              <ph class="- topic/ph "/>
+                           <p id="vEOjcn" class="- topic/p ">DASN(P) by email to</p>
+                           <p class="- topic/p ">
+                              <ph rev="CHANGE 18-22 JULY 11, 2022" class="- topic/ph ">
+                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                                       format="html"
+                                       scope="external"
+                                       class="- topic/xref ">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+                              </ph>
                            </p>
                         </entry>
                      </row>
@@ -239,13 +241,14 @@
                            <p id="lYyVho" class="- topic/p ">20 June</p>
                         </entry>
                         <entry class="- topic/entry ">
-                           <p id="YnWVlz" class="- topic/p ">DASN(P) by email to <xref format="mailto"
-                                    href="mailto:Rdaj&amp;as.fct@navy.mil"
-                                    scope="external"
-                                    class="- topic/xref ">
-                                 <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct</u>
-                                 <u class="+ topic/ph hi-d/u ">@navy.mil</u>
-                              </xref>
+                           <p id="YnWVlz" class="- topic/p ">DASN(P) by email to</p>
+                           <p class="- topic/p ">
+                              <ph rev="CHANGE 18-22 JULY 11, 2022" class="- topic/ph ">
+                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                                       format="html"
+                                       scope="external"
+                                       class="- topic/xref ">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+                              </ph>
                            </p>
                         </entry>
                      </row>
@@ -272,13 +275,14 @@
                            <p id="QPQuRS" class="- topic/p ">31 Jan</p>
                         </entry>
                         <entry class="- topic/entry ">
-                           <p id="WuWGfa" class="- topic/p ">DASN(P) by email to <xref format="mailto"
-                                    href="mailto:Rdaj&amp;as.fct@navy.mil"
-                                    scope="external"
-                                    class="- topic/xref ">
-                                 <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct</u>
-                                 <u class="+ topic/ph hi-d/u ">@navy.mil</u>
-                              </xref>
+                           <p id="WuWGfa" class="- topic/p ">DASN(P) by email to</p>
+                           <p class="- topic/p ">
+                              <ph rev="CHANGE 18-22 JULY 11, 2022" class="- topic/ph ">
+                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                                       format="html"
+                                       scope="external"
+                                       class="- topic/xref ">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+                              </ph>
                            </p>
                         </entry>
                      </row>
@@ -305,13 +309,14 @@
                            <p id="OHKfiR" class="- topic/p ">31 Oct</p>
                         </entry>
                         <entry class="- topic/entry ">
-                           <p id="kZZdyw" class="- topic/p ">DASN(P) by email to <xref format="mailto"
-                                    href="mailto:Rdaj&amp;as.fct@navy.mil"
-                                    scope="external"
-                                    class="- topic/xref ">
-                                 <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct</u>
-                                 <u class="+ topic/ph hi-d/u ">@navy.mil</u>
-                              </xref>
+                           <p id="kZZdyw" class="- topic/p ">DASN(P) by email to</p>
+                           <p class="- topic/p ">
+                              <ph rev="CHANGE 18-22 JULY 11, 2022" class="- topic/ph ">
+                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                                       format="html"
+                                       scope="external"
+                                       class="- topic/xref ">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+                              </ph>
                            </p>
                         </entry>
                      </row>
@@ -338,13 +343,14 @@
                            <p id="mHQgKV" class="- topic/p ">15 Dec</p>
                         </entry>
                         <entry class="- topic/entry ">
-                           <p id="lhTceK" class="- topic/p ">DASN(P) by email to <xref format="mailto"
-                                    href="mailto:Rdaj&amp;as.fct@navy.mil"
-                                    scope="external"
-                                    class="- topic/xref ">
-                                 <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct</u>
-                                 <u class="+ topic/ph hi-d/u ">@navy.mil</u>
-                              </xref>
+                           <p id="lhTceK" class="- topic/p ">DASN(P) by email to </p>
+                           <p class="- topic/p ">
+                              <ph rev="CHANGE 18-22 JULY 11, 2022" class="- topic/ph ">
+                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                                       format="html"
+                                       scope="external"
+                                       class="- topic/xref ">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+                              </ph>
                            </p>
                         </entry>
                      </row>
@@ -371,13 +377,14 @@
                            <p id="xMSFIq" class="- topic/p ">Within 40 days of the beginning of the fiscal year</p>
                         </entry>
                         <entry class="- topic/entry ">
-                           <p id="gnxzYd" class="- topic/p ">DASN(P) by email to <xref format="mailto"
-                                    href="mailto:Rdaj&amp;as.fct@navy.mil"
-                                    scope="external"
-                                    class="- topic/xref ">
-                                 <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct</u>
-                                 <u class="+ topic/ph hi-d/u ">@navy.mil</u>
-                              </xref>
+                           <p id="gnxzYd" class="- topic/p ">DASN(P) by email to</p>
+                           <p class="- topic/p ">
+                              <ph rev="CHANGE 18-22 JULY 11, 2022" class="- topic/ph ">
+                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                                       format="html"
+                                       scope="external"
+                                       class="- topic/xref ">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+                              </ph>
                            </p>
                         </entry>
                      </row>
@@ -404,13 +411,14 @@
                            <p id="NYyZAb" class="- topic/p ">15 Oct</p>
                         </entry>
                         <entry class="- topic/entry ">
-                           <p id="SdhGna" class="- topic/p ">DASN(P) by email to <xref format="mailto"
-                                    href="mailto:Rdaj&amp;as.fct@navy.mil"
-                                    scope="external"
-                                    class="- topic/xref ">
-                                 <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct</u>
-                                 <u class="+ topic/ph hi-d/u ">@navy.mil</u>
-                              </xref>
+                           <p id="SdhGna" class="- topic/p ">DASN(P) by email to</p>
+                           <p class="- topic/p ">
+                              <ph rev="CHANGE 18-22 JULY 11, 2022" class="- topic/ph ">
+                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                                       format="html"
+                                       scope="external"
+                                       class="- topic/xref ">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+                              </ph>
                            </p>
                         </entry>
                      </row>
@@ -437,13 +445,14 @@
                            <p id="oeiQLO" class="- topic/p ">15 Nov</p>
                         </entry>
                         <entry class="- topic/entry ">
-                           <p id="PYsjxU" class="- topic/p ">DASN(P) by email to <xref format="mailto"
-                                    href="mailto:Rdaj&amp;as.fct@navy.mil"
-                                    scope="external"
-                                    class="- topic/xref ">
-                                 <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct</u>
-                                 <u class="+ topic/ph hi-d/u ">@navy.mil</u>
-                              </xref>
+                           <p id="PYsjxU" class="- topic/p ">DASN(P) by email to</p>
+                           <p class="- topic/p ">
+                              <ph rev="CHANGE 18-22 JULY 11, 2022" class="- topic/ph ">
+                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                                       format="html"
+                                       scope="external"
+                                       class="- topic/xref ">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+                              </ph>
                            </p>
                         </entry>
                      </row>
@@ -471,13 +480,14 @@
                            <p id="brOKAN" class="- topic/p ">31 Oct</p>
                         </entry>
                         <entry class="- topic/entry ">
-                           <p id="qBqwFT" class="- topic/p ">DASN(P) by email to <xref format="mailto"
-                                    href="mailto:Rdaj&amp;as.fct@navy.mil"
-                                    scope="external"
-                                    class="- topic/xref ">
-                                 <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct</u>
-                                 <u class="+ topic/ph hi-d/u ">@navy.mil</u>
-                              </xref>
+                           <p id="qBqwFT" class="- topic/p ">DASN(P) by email to</p>
+                           <p class="- topic/p ">
+                              <ph rev="CHANGE 18-22 JULY 11, 2022" class="- topic/ph ">
+                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                                       format="html"
+                                       scope="external"
+                                       class="- topic/xref ">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+                              </ph>
                            </p>
                         </entry>
                      </row>
@@ -507,7 +517,9 @@
                            <p id="uLkXKh" class="- topic/p ">15 Oct</p>
                         </entry>
                         <entry class="- topic/entry ">
-                           <p id="QrINJU" class="- topic/p ">DASN(P) by email to <xref format="mailto"
+                           <p id="QrINJU" class="- topic/p ">DASN(P) by email to</p>
+                           <p class="- topic/p ">
+                              <xref format="mailto"
                                     href="mailto:Policy@navy.mil"
                                     scope="external"
                                     class="- topic/xref ">
@@ -545,12 +557,14 @@
                            <p id="WktogP" class="- topic/p ">10 Dec</p>
                         </entry>
                         <entry class="- topic/entry ">
-                           <p id="idACiF" class="- topic/p ">DASN(P) by email to <xref format="mailto"
-                                    href="mailto:Rdaj&amp;as.fct@navy.mil"
-                                    scope="external"
-                                    class="- topic/xref ">
-                                 <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct@navy.mil</u>
-                              </xref>
+                           <p id="idACiF" class="- topic/p ">DASN(P) by email to</p>
+                           <p class="- topic/p ">
+                              <ph rev="CHANGE 18-22 JULY 11, 2022" class="- topic/ph ">
+                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                                       format="html"
+                                       scope="external"
+                                       class="- topic/xref ">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+                              </ph>
                            </p>
                         </entry>
                      </row>
@@ -616,7 +630,9 @@
                            <p id="IUGggb" class="- topic/p ">30 Oct</p>
                         </entry>
                         <entry class="- topic/entry ">
-                           <p id="aEPWrc" class="- topic/p ">DASN(P) by email to <xref format="mailto"
+                           <p id="aEPWrc" class="- topic/p ">DASN(P) by email to</p>
+                           <p class="- topic/p ">
+                              <xref format="mailto"
                                     href="mailto:seniorservicesmanage.fct@navy.mil"
                                     scope="external"
                                     class="- topic/xref ">
@@ -652,7 +668,9 @@
                            <p id="VkJief" class="- topic/p ">30 Nov</p>
                         </entry>
                         <entry class="- topic/entry ">
-                           <p id="CSJHXr" class="- topic/p ">DASN(P) by email to <xref format="mailto"
+                           <p id="CSJHXr" class="- topic/p ">DASN(P) by email to</p>
+                           <p class="- topic/p ">
+                              <xref format="mailto"
                                     href="mailto:Policy@navy.mil"
                                     scope="external"
                                     class="- topic/xref ">
@@ -691,12 +709,14 @@
                            <p id="vIPPbo" class="- topic/p ">30 Oct</p>
                         </entry>
                         <entry class="- topic/entry ">
-                           <p id="vfIwMz" class="- topic/p ">DASN(P) by email <xref format="mailto"
-                                    href="mailto:RDAJ&amp;As.fct@navy.mil"
-                                    scope="external"
-                                    class="- topic/xref ">
-                                 <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct@navy.mil</u>
-                              </xref>
+                           <p id="vfIwMz" class="- topic/p ">DASN(P) by email</p>
+                           <p class="- topic/p ">
+                              <ph rev="CHANGE 18-22 JULY 11, 2022" class="- topic/ph ">
+                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                                       format="html"
+                                       scope="external"
+                                       class="- topic/xref ">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+                              </ph>
                            </p>
                         </entry>
                      </row>
@@ -723,12 +743,14 @@
                            <p id="cdliMF" class="- topic/p ">By the 15th of each month</p>
                         </entry>
                         <entry class="- topic/entry ">
-                           <p id="RYbWnc" class="- topic/p ">DASN(P) by email <xref format="mailto"
-                                    href="mailto:RDAJ&amp;As.fct@navy.mil"
-                                    scope="external"
-                                    class="- topic/xref ">
-                                 <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct@navy.mil</u>
-                              </xref>
+                           <p id="RYbWnc" class="- topic/p ">DASN(P) by email</p>
+                           <p class="- topic/p ">
+                              <ph rev="CHANGE 18-22 JULY 11, 2022" class="- topic/ph ">
+                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                                       format="html"
+                                       scope="external"
+                                       class="- topic/xref ">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+                              </ph>
                            </p>
                         </entry>
                      </row>

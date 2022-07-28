@@ -48,21 +48,21 @@
                   <xref outputclass="fm:TOC" href="SUBPART_5223.5.dita#NMCARS_SUBPART_5223.5">SUBPART 5223.5 — DRUG–FREE WORKPLACE</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="CHANGE 18-22 JULY 11, 2022">
                      <p>
                         <xref outputclass="fm:TOC" href="5223.506.dita#NMCARS_5223.506">5223.506 Suspension of payments, termination of contract, and debarment and suspension actions.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
+            <li rev="CHANGE 18-22 JULY 11, 2022">
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5223.8.dita#NMCARS_SUBPART_5223.8">SUBPART 5223.8 — OZONE DEPLETING SUBSTANCES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5223.8.dita#NMCARS_SUBPART_5223.8">SUBPART 5223.8 — OZONE-DEPLETING SUBSTANCES AND GREENHOUSE GASES</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="CHANGE 18-22 JULY 11, 2022">
                      <p>
-                        <xref outputclass="fm:TOC" href="5223.803.dita#NMCARS_5223.803">5223.803 Policy.</xref>
+                        <xref outputclass="fm:TOC" href="5223.802.dita#NMCARS_5223.802">5223.802 Policy.</xref>
                      </p>
                   </li>
                </ul>

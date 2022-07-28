@@ -5,9 +5,10 @@
          id="NMCARS_SUBPART_5219.5"
          xml:lang="en-US"
          ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 2 Subpart" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">SUBPART 5219.5</ph> — SET–ASIDES
-        FOR SMALL BUSINESS</title>
-   <conbody class="- topic/body  concept/conbody "/>
+         class="- topic/topic concept/concept "
+         rev="CHANGE 18-22 JULY 11, 2022">
+  <title outputclass="Heading 2 Subpart" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">SUBPART 5219.5</ph> — SMALL BUSINESS TOTAL
+    SET-ASIDES, PARTIAL SET-ASIDES, AND RESERVES</title>
+  <conbody class="- topic/body  concept/conbody "/>
 </concept>

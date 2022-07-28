@@ -37,9 +37,14 @@
                               <xref outputclass="fm:TOC" href="5201.1052.dita#NMCARS_5201.1052">5201.105-2 Arrangement of regulations.</xref>
                            </p>
                         </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5201.1053.dita#NMCARS_5201.1053">5201.105-3 Copies.</xref>
+                           </p>
+                        </li>
                      </ul>
                   </li>
-                  <li>
+                  <li rev="CHANGE 18-22 JULY 11, 2022">
                      <p>
                         <xref outputclass="fm:TOC" href="5201.107.dita#NMCARS_5201.107">5201.107 Certifications.</xref>
                      </p>
@@ -49,7 +54,7 @@
                         <xref outputclass="fm:TOC" href="5201.108.dita#NMCARS_5201.108">5201.108 FAR conventions.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="CHANGE 18-22 JULY 11, 2022">
                      <p>
                         <xref outputclass="fm:TOC" href="5201.170.dita#NMCARS_5201.170">5201.170 Peer reviews.</xref>
                      </p>
@@ -97,7 +102,7 @@
                         <xref outputclass="fm:TOC" href="5201.303.dita#NMCARS_5201.303">5201.303 Publication and codification.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="CHANGE 18-22 JULY 11, 2022">
                      <p>
                         <xref outputclass="fm:TOC" href="5201.304.dita#NMCARS_5201.304">5201.304 Agency control and compliance procedures.</xref>
                      </p>
@@ -136,7 +141,7 @@
                         <xref outputclass="fm:TOC" href="5201.601.dita#NMCARS_5201.601">5201.601 General.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li>
+                        <li rev="CHANGE 18-22 JULY 11, 2022">
                            <p>
                               <xref outputclass="fm:TOC" href="5201.60190.dita#NMCARS_5201.60190">5201.601-90 Department of the Navy authorities and responsibilities.</xref>
                            </p>
@@ -202,7 +207,7 @@
                               <xref outputclass="fm:TOC" href="5201.6911.dita#NMCARS_5201.6911">5201.691-1 Purpose.</xref>
                            </p>
                         </li>
-                        <li>
+                        <li rev="CHANGE 18-22 JULY 11, 2022">
                            <p>
                               <xref outputclass="fm:TOC" href="5201.6912.dita#NMCARS_5201.6912">5201.691-2 Responsibilities.</xref>
                            </p>

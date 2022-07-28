@@ -9,11 +9,15 @@
    <title outputclass="Heading 4" class="- topic/title ">
       <ph props="autonumber" class="- topic/ph ">5237.170-2</ph> Approval requirements.</title>
    <conbody class="- topic/body  concept/conbody ">
-      <p outputclass="Normal" class="- topic/p ">   (a) <i class="+ topic/ph hi-d/i ">Acquisition of services through a contract or task order that is not performance based.</i> When acquisition of services through a contract or task order that is not performance based will be used, </p>
-      <p outputclass="Normal" class="- topic/p ">the rationale shall be documented in the contract file. </p>
-      <p outputclass="Normal" class="- topic/p ">   (b)  <i class="+ topic/ph hi-d/i ">Acquisition of services through use of a contract or task order issued by a non-DOD agency. </i>
-      </p>
-      <p outputclass="Normal" class="- topic/p ">In addition to the requirements in 5237.5, comply with the review and approval requirements in 5217.770 when acquiring services through use of a contract or task order issued by a non-DoD agency.</p>
-      <p id="p__Toc221944606" outputclass="Normal" class="- topic/p "> </p>
+      <p outputclass="Normal" class="- topic/p "> (a) <i class="+ topic/ph hi-d/i ">Acquisition of
+            services through a contract or task order that is not performance based.</i>
+         <ph rev="CHANGE 18-22 JULY 11, 2022">Notwithstanding DFARS 237.170-2(a), when acquisition
+            of services through a contract or task</ph> order that is not performance based will be
+         used, the rationale shall be documented in the contract file. </p>
+      <p outputclass="Normal" class="- topic/p "> (b) <i class="+ topic/ph hi-d/i ">Acquisition of
+            services through use of a contract or task order issued by a non-DOD agency.</i> In
+         addition to the requirements in 5237.5, comply with the review and approval requirements in
+         5217.770 when acquiring services through use of a contract or task order issued by a
+         non-DoD agency.</p>
    </conbody>
 </concept>

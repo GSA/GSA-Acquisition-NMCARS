@@ -19,14 +19,26 @@
                   </li>
                </ul>
             </li>
-            <li>
+            <li rev="CHANGE 18-22 JULY 11, 2022">
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5242.6.dita#NMCARS_SUBPART_5242.6">SUBPART 5242.6 — CORPORATE ADMINISTRATIVE CONTRACTING OFFICER</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5242.6.dita#NMCARS_SUBPART_5242.11">SUBPART 5242.11 — PRODUCTION SURVEILLANCE AND REPORTING</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li rev="CHANGE 18-22 JULY 11, 2022">
+                     <p>
+                        <xref outputclass="fm:TOC" href="5242.602.dita#NMCARS_5242.602">5242.602 Assignment and location.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li rev="CHANGE 18-22 JULY 11, 2022">
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5242.11.dita#NMCARS_SUBPART_5242.11">SUBPART 5242.11 — PRODUCTION SURVEILLANCE AND REPORTING</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5242.602.dita#NMCARS_5242.602">5242.602 Assignment and location.</xref>
+                        <xref outputclass="fm:TOC" href="5242.1105.dita#NMCARS_5242.1105">5242.1105 Assignment of criticality designator.</xref>
                      </p>
                   </li>
                </ul>

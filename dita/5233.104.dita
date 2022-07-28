@@ -9,12 +9,15 @@
    <title outputclass="Heading 3" class="- topic/title ">
       <ph props="autonumber" class="- topic/ph ">5233.104</ph> Protests to GAO.</title>
    <conbody class="- topic/body  concept/conbody ">
-      <p outputclass="Normal" class="- topic/p ">   (g) HCAs shall consult with DASN(P) before any final decision is reached not to implement GAO's recommendations. Concurrent with the submission to the Comptroller General, a copy of the report shall be provided to DASN(P) by email at <xref href="mailto:Rdaj&amp;as.fct@navy.mil"
-               scope="external"
-               format="mailto"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct</u>
-            <u class="+ topic/ph hi-d/u ">@navy.mil</u>
-         </xref> with the subject “[Activity Name] FAR 33.104 – GAO Protest Recommendation Decision.”</p>
+      <p outputclass="Normal" class="- topic/p "> (g) HCAs shall consult with DASN(P) before any
+         final decision is reached not to implement GAO's recommendations. Concurrent with the
+         submission to the Comptroller General, a copy of the report shall be provided to DASN(P) by
+         email at <ph class="- topic/ph " rev="CHANGE 18-22 JULY 11, 2022">
+            <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+         </ph> with the subject
+         “[Activity Name] FAR 33.104 – GAO Protest Recommendation Decision.”</p>
    </conbody>
 </concept>

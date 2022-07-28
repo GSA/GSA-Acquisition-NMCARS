@@ -10,12 +10,14 @@
    <conbody class="- topic/body  concept/conbody ">
       <p id="TFZPPw" outputclass="Normal" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Limitations</i>.</p>
       <p id="BoEzpe" outputclass="List2" class="- topic/p ">(ii)(A) COMNAVFAC is delegated authority to approve cost-plus-fixed-fee (CPFF) contracts for environmental work only, provided the environmental work is not classified as construction, as defined by 10 U.S.C. 2801.</p>
-      <p id="vXqoUZ" outputclass="List3" class="- topic/p ">(B) Requests for approval of CPFF contracts requiring SECDEF approval shall be routed through NAVFACENGCOM and then via DASN(P) by email at <xref format="mailto"
-               href="mailto:Rdaj&amp;as.fct@navy.mil"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct</u>
-            <u class="+ topic/ph hi-d/u ">@navy.mil</u>
-         </xref> with the subject “[Activity Name] DFARS 216.306 – CPFF Contract Approval.”</p>
+      <p id="vXqoUZ" outputclass="List3" class="- topic/p ">(B) Requests for approval of CPFF
+         contracts requiring SECDEF approval shall be routed through NAVFACENGCOM and then via
+         DASN(P) by email at <ph class="- topic/ph " rev="CHANGE 18-22 JULY 11, 2022">
+            <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+         </ph> with the subject
+         “[Activity Name] DFARS 216.306 – CPFF Contract Approval.”</p>
    </conbody>
 </concept>

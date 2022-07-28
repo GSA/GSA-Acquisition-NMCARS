@@ -17,12 +17,12 @@
                         <xref outputclass="fm:TOC" href="5233.103.dita#NMCARS_5233.103">5233.103 Protests to the agency.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="CHANGE 18-22 JULY 11, 2022">
                      <p>
                         <xref outputclass="fm:TOC" href="5233.104.dita#NMCARS_5233.104">5233.104 Protests to GAO.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="CHANGE 18-22 JULY 11, 2022">
                      <p>
                         <xref outputclass="fm:TOC" href="5233.170.dita#NMCARS_5233.170">5233.170 Briefing requirement for protested acquisitions valued at $1 billion or more.</xref>
                      </p>
@@ -73,7 +73,7 @@
                   <xref outputclass="fm:TOC" href="SUBPART_5233.90.dita#NMCARS_SUBPART_5233.90">SUBPART 5233.90 — PROCEDURES</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="CHANGE 18-22 JULY 11, 2022">
                      <p>
                         <xref outputclass="fm:TOC" href="5233.9001.dita#NMCARS_5233.9001">5233.9001 Claims approval requirements.</xref>
                      </p>

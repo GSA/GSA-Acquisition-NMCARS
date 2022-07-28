@@ -9,12 +9,17 @@
    <title outputclass="Heading 3" class="- topic/title ">
       <ph props="autonumber" class="- topic/ph ">5231.109</ph> Advance agreements.</title>
    <conbody class="- topic/body  concept/conbody ">
-      <p outputclass="Normal" class="- topic/p ">   (a) Since advance agreements often deal with issues that are complex and/or unprecedented and may require FAR/DFARS deviations, activities contemplating negotiation of advance agreements on the treatment of special or unusual costs shall consult with DASN(P) before entering into any negotiations.   (g) Copies of all negotiated advance agreements shall be forwarded to DASN(P) within 15 days of their execution, together with appropriate supporting documents by email at <xref href="mailto:Rdaj&amp;as.fct@navy.mil"
-               scope="external"
-               format="mailto"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct</u>
-            <u class="+ topic/ph hi-d/u ">@navy.mil</u>
-         </xref> with the subject “[Activity Name] FAR 31.109 – Negotiated Advance Agreement.”</p>
+      <p outputclass="Normal" class="- topic/p "> (a) Since advance agreements often deal with
+         issues that are complex and/or unprecedented and may require FAR/DFARS deviations,
+         activities contemplating negotiation of advance agreements on the treatment of special or
+         unusual costs shall consult with DASN(P) before entering into any negotiations. (g) Copies
+         of all negotiated advance agreements shall be forwarded to DASN(P) within 15 days of their
+         execution, together with appropriate supporting documents by email at <ph class="- topic/ph " rev="CHANGE 18-22 JULY 11, 2022">
+            <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+         </ph> with the subject
+         “[Activity Name] FAR 31.109 – Negotiated Advance Agreement.”</p>
    </conbody>
 </concept>

@@ -8,14 +8,29 @@
    <title outputclass="Heading 3" class="- topic/title ">
       <ph props="autonumber" class="- topic/ph ">5217.204</ph> Contracts.</title>
    <conbody class="- topic/body  concept/conbody ">
-      <p id="MGJwyS" outputclass="Normal" class="- topic/p ">(e)(i) Approval for use of contract terms in excess of the limitations specified in FAR 17.204(e) shall be supported by a written determination and obtained prior to solicitation. Approval shall be at a level not lower than the CCO or to a Flag/General Officer/SES, who is a member of the Contracting Community, without power of redelegation. This requirement is waived if due to the use of FAR Clause 52.217-8, “Option to Extend Services” and pricing was included in the contract. To establish an ordering period in excess of 10 years, in accordance with DFARS 217.204(e)(i)(C), a determination shall be executed by ASN(RDA). Submit such requests with a copy of the approved AS, STRAP, or MOPAS-S via DASN(P) by email at <xref format="mailto"
-               href="mailto:Rdaj&amp;as.fct@navy.mil"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct</u>
-            <u class="+ topic/ph hi-d/u ">@navy.mil</u>
-         </xref>
-         <ph class="- topic/ph "> </ph>with the subject “[Activity Name] DFARS 217.204 – Contract Term &gt; 10 Years D&amp;F Review and Approval.”</p>
-      <p id="oAHmmQ" outputclass="List2" class="- topic/p ">(iii) The senior procurement executive has provided this approval, via ASN(RDA) memorandum dated January 11, 2016 entitled, “Approval to Extend the Performance Period of SeaPort and SeaPort-e Task and Delivery Orders Issued Under SeaPort and SeaPort-e Indefinite Delivery, Indefinite Quantity Contracts,” for task or delivery orders issued on or before December 31, 2019 under the Naval Sea Systems Command’s SeaPort IDIQ contracts.</p>
+      <p id="MGJwyS" outputclass="Normal" class="- topic/p ">(e)(i) Approval for use of contract
+         terms in excess of the limitations specified in FAR 17.204(e) shall be supported by a
+         written determination and obtained prior to solicitation. Approval shall be at a level not
+         lower than the CCO or to a Flag/General Officer/SES, who is a member of the Contracting
+         Community, without power of redelegation. This requirement is waived if due to the use of
+         FAR Clause 52.217-8, “Option to Extend Services” and pricing was included in the contract.
+         To establish an ordering period in excess of 10 years, in accordance with DFARS
+         217.204(e)(i)(C), a determination shall be executed by ASN(RDA). Submit such requests with
+         a copy of the approved AS, STRAP, or MOPAS-S via DASN(P) by email at <ph class="- topic/ph " rev="CHANGE 18-22 JULY 11, 2022">
+            <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+         </ph>
+         <ph class="- topic/ph "> </ph>with the subject “[Activity Name] DFARS 217.204 – Contract
+         Term &gt; 10 Years D&amp;F Review and Approval.”</p>
+      <p id="oAHmmQ" outputclass="List2" class="- topic/p ">(iii) The senior procurement executive
+         has provided this approval, via ASN(RDA) memorandum dated January 11, 2016 entitled,
+         “Approval to Extend the Performance Period of SeaPort and SeaPort-e Task and Delivery
+         Orders Issued Under SeaPort and SeaPort-e Indefinite Delivery, Indefinite Quantity
+         Contracts,” for task or delivery orders issued on or before December 31, 2019 under the
+         Naval Sea Systems Command’s SeaPort IDIQ <ph rev="CHANGE 18-22 JULY 11, 2022" class="- topic/ph ">indefinite
+            delivery, indefinite quantity (IDIQ) contracts.</ph>
+      </p>
    </conbody>
 </concept>

@@ -8,18 +8,32 @@
    <title outputclass="Heading 4" class="- topic/title ">
       <ph props="autonumber" class="- topic/ph ">5209.406-3</ph> Procedures.</title>
    <conbody class="- topic/body  concept/conbody ">
-      <p id="TmqPXs" outputclass="Normal" class="- topic/p ">(i) Refer all matters to AGC(AI).</p>
-      <p id="yfOELE" outputclass="Normal" class="- topic/p ">(ii)(D) Entity Identifier reports should also be included for all known affiliates, subsidiaries, or parent firms.</p>
-      <p id="fOLwwi" outputclass="Normal" class="- topic/p ">(ii)(E)(2) Whether to apply limitations to the suspension or debarment and provide a recommendation for debarment or suspension action in the case of any subsidiaries and the officers thereof.</p>
-      <p id="kMEGYV" outputclass="Normal" class="- topic/p ">(iii)(A) In cases involving indictments, forward reports within 15 calendar days after the indictment is filed.</p>
-      <p id="tNCyAJ" outputclass="Normal" class="- topic/p ">(iv)(S-90) Contracting officers shall report when the contractor receives a rating of “Unsatisfactory” in any evaluation area of Past Performance under a DON contract to the DON AIO. When the contracting officer issues a show cause or cure notice, the cognizant contracting officer shall submit a copy of the issuance to the DON Acquisition Integrity Office AIO within five days by email at <xref format="mailto"
+      <p id="TmqPXs" outputclass="Normal" class="- topic/p ">(i) Refer all matters to AGC(AI) <ph rev="CHANGE 18-22 JULY 11, 2022">in accordance with PGI 209.406-3.</ph>
+      </p>
+      <p id="yfOELE"
+         outputclass="List2"
+         class="- topic/p "
+         rev="CHANGE 18-22 JULY 11, 2022">
+         (ii)(G) If Government employees are implicated in the underlying conduct that led to the
+         referral, the names and current addresses of the employees, disciplinary action taken and
+         the current employment status of each individual. </p>
+      <p id="fOLwwi"
+         outputclass="List3"
+         class="- topic/p "
+         rev="CHANGE 18-22 JULY 11, 2022">(H) If
+         no disciplinary action was taken against Government employees involved in the wrongdoing,
+         and the contractor or contractor personnel are recommended for debarment or suspension, a
+         statement explaining why no disciplinary action was taken against the Government
+         employee(s), and why debarment or suspension is appropriate under the circumstances.</p>
+      <p id="tNCyAJ" outputclass="List2" class="- topic/p ">(iv)(S-90) Contracting officers shall
+         report when the contractor receives a rating of “Unsatisfactory” in any evaluation area of
+         Past Performance under a DON contract to the DON AIO. When the contracting officer issues a
+         show cause or cure notice, the cognizant contracting officer shall submit a copy of the
+         issuance to the DON Acquisition Integrity Office AIO within five days by email at <xref format="mailto"
                href="mailto:aio@navy.mil"
                scope="external"
                class="- topic/xref ">
             <u class="+ topic/ph hi-d/u ">aio@navy.mil</u>
          </xref> with the subject “PGI 209.406-3 - Poor Performance Referral."</p>
-      <p id="mBKqVw" outputclass="Normal" class="- topic/p ">(iv)(E) The summary shall also include comments regarding the U.S. Attorney’s positions on release of any investigative reports included in the report.</p>
-      <p id="dCxgHR" outputclass="Normal" class="- topic/p ">(S-90)(i) If Government employees are implicated in the underlying conduct that led to the referral, the names and current addresses of the employees, disciplinary action taken and the current employment status of each individual.</p>
-      <p id="vybGgj" outputclass="List2" class="- topic/p ">(ii) If no disciplinary action was taken against Government employees involved in the wrongdoing, and the contractor or contractor personnel are recommended for debarment or suspension, a statement explaining why no disciplinary action was taken against the Government employee(s), and why debarment or suspension is appropriate under the circumstances.</p>
    </conbody>
 </concept>

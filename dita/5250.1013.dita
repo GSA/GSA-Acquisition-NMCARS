@@ -9,11 +9,14 @@
    <title outputclass="Heading 4" class="- topic/title ">
       <ph props="autonumber" class="- topic/ph ">5250.101-3</ph> Records.</title>
    <conbody class="- topic/body  concept/conbody ">
-      <p outputclass="Normal" class="- topic/p ">   (1)(iii) HCAs are the officials responsible for preparation and submission of the required records. Forward records to DASN(P) by email at <xref href="mailto:Rdaj&amp;as.fct@navy.mil"
-               scope="external"
-               format="mailto"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct@navy.mil</u>
-         </xref> with the subject “[Activity Name] FAR 50.101-3, Request for Relief.” </p>
+      <p outputclass="Normal" class="- topic/p "> (1)(iii) HCAs are the officials responsible for
+         preparation and submission of the required records. Forward records to DASN(P) by email at
+            <ph rev="CHANGE 18-22 JULY 11, 2022" class="- topic/ph ">
+            <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+         </ph> with
+         the subject “[Activity Name] FAR 50.101-3, Request for Relief.” </p>
    </conbody>
 </concept>

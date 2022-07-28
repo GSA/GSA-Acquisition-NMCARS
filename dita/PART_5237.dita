@@ -17,7 +17,7 @@
                         <xref outputclass="fm:TOC" href="5237.102.dita#NMCARS_5237.102">5237.102 Policy.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li>
+                        <li rev="CHANGE 18-22 JULY 11, 2022">
                            <p>
                               <xref outputclass="fm:TOC" href="5237.10271.dita#NMCARS_5237.10271">5237.102-71 Limitations on service contracts for military flight simulators.</xref>
                            </p>
@@ -39,16 +39,16 @@
                         <xref outputclass="fm:TOC" href="5237.170.dita#NMCARS_5237.170">5237.170 Approval of contracts and task orders for services.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li>
+                        <li rev="CHANGE 18-22 JULY 11, 2022">
                            <p>
                               <xref outputclass="fm:TOC" href="5237.1702.dita#NMCARS_5237.1702">5237.170-2 Approval requirements.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
+                  <li rev="CHANGE 18-22 JULY 11, 2022">
                      <p>
-                        <xref outputclass="fm:TOC" href="5237.192.dita#NMCARS_5237.192">5237.192 Services Acquisition Workshops (SAWs).</xref>
+                        <xref outputclass="fm:TOC" href="5237.192.dita#NMCARS_5237.192">5237.192 Services Acquisition Workshops.</xref>
                      </p>
                   </li>
                </ul>

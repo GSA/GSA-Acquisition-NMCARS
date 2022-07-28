@@ -8,13 +8,17 @@
    <title outputclass="Heading 3" class="- topic/title ">
       <ph props="autonumber" class="- topic/ph ">5215.300</ph> Scope of subpart.</title>
    <conbody class="- topic/body  concept/conbody ">
-      <p id="GoRjNP" outputclass="Normal" class="- topic/p ">Submit request for waivers of DPC mandated source selection requirements in paragraph 1.2 of the DOD Source Selection Procedures Guide (DFARS PGI Subpart 215.3) to DASN(P) by email at <xref format="mailto"
-               href="mailto:Rdaj&amp;as.fct@navy.mil"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct</u>
-            <u class="+ topic/ph hi-d/u ">@navy.mil</u>
-         </xref>
-         <ph class="- topic/ph "> </ph>with the subject “[Activity Name] DFARS PGI 215.3 “Source Selection Procedures Waiver.” DPC is the approval authority for acquisitions $1B or greater. DASN(P) is the approval authority for acquisitions below $1B. See Annex 4 for STRL deviations applicable hereto.</p>
+      <p id="GoRjNP" outputclass="Normal" class="- topic/p ">Submit request for waivers of DPC
+         mandated source selection requirements in paragraph 1.2 of the DOD Source Selection
+         Procedures Guide (DFARS PGI Subpart 215.3) to DASN(P) by email at <ph class="- topic/ph " rev="CHANGE 18-22 JULY 11, 2022">
+            <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+         </ph>
+         <ph class="- topic/ph "> </ph>with the subject “[Activity Name] DFARS PGI 215.3 “Source
+         Selection Procedures Waiver.” DPC is the approval authority for acquisitions $1B or
+         greater. DASN(P) is the approval authority for acquisitions below $1B. See Annex 4 for STRL
+         deviations applicable hereto.</p>
    </conbody>
 </concept>
