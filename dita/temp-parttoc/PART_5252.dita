@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="NMCARS_PART_5252">
+      <title class="- topic/title " outputclass="1 heading part Ctr">
+         <ph class="- topic/ph " props="autonumber">PART 5252</ph> SOLICITATION PROVISIONS AND CONTRACT CLAUSES</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5252.2.dita#NMCARS_SUBPART_5252.2">SUBPART 5252.2 — TEXT OF PROVISIONS AND CLAUSES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5252.200.dita#NMCARS_5252.200">5252.200 Scope of subpart.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5252.2239000.dita#NMCARS_5252.2239000">5252.223-9000 DON ADDITIONAL SAFETY REQUIREMENTS APPLICABLE TO SPECIFIED GOVERNMENT FURNISHED AMMUNITION AND EXPLOSIVES</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

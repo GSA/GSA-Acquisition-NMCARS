@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5207.7002"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5207.7002</ph> Authority to acquire additional quantities of end items.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="znlEoy" outputclass="Normal" class="- topic/p ">Determinations for use of this authority shall be prepared as Determinations and Findings (D&amp;Fs) (see FAR Subpart 1.7) for approval by ASN(RDA). Submit determinations via DASN(P) by email at <xref format="mailto"
+               href="mailto:Rdaj&amp;as.fct@navy.mil"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct</u>
+            <u class="+ topic/ph hi-d/u ">@navy.mil</u>
+         </xref> with the subject “[Activity Name] DFARS 207.7002 - Acquisition of Additional Quantities of End Items D&amp;F Review and Approval.” Proposed determinations shall include a review by the activity comptroller.</p>
+   </conbody>
+</concept>
