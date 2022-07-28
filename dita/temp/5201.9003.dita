@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5201.9003"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5201.9003</ph> Applicability</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="WvrVIm" outputclass="Normal" class="- topic/p ">(a) Business clearance requirements apply to the contract actions identified below. HCAs may expand this list, as appropriate.</p>
+      <p id="UxprGL" outputclass="List2" class="- topic/p ">(1) Contracts (including task and delivery orders issued against indefinite-delivery contracts and basic ordering agreements; however, see the exceptions at (b)(3) and (b)(4) for task and delivery orders).</p>
+      <p id="kRSIpY" outputclass="List2" class="- topic/p ">(2) Contract modifications not within the scope or under the terms of an existing contract with the exception of modifications to actions listed in paragraph (b).</p>
+      <p id="DuyOFH" outputclass="List2" class="- topic/p ">(3) Undefinitized contract actions (see DFARS Subpart 217.74).</p>
+      <p id="VpeqcB" outputclass="List2" class="- topic/p ">(4) Modifications that set or change a contract price, including definitization of any undefinitized or unpriced contract actions, change orders, engineering change proposals, value engineering change proposals, over and above work, settlement of claims, or requests for equitable adjustment.</p>
+      <p id="cCvVzw" outputclass="List2" class="- topic/p ">(5) Retroactive pricing after completion, including final price determination.</p>
+      <p id="FDlnku" outputclass="List2" class="- topic/p ">(6) Advance agreements on special or unusual cost items (see 5231.109.)</p>
+      <p id="hwVgMF" outputclass="List2" class="- topic/p ">(7) Actions that result in the establishment, modification, or rescission of a guarantee of performance on a government contract by a third party.</p>
+      <p id="wzxRNk" outputclass="Normal" class="- topic/p ">(b) The following contract actions do not require a business clearance, but the file must include the rationale for award, sufficiently documented, as prescribed by HCA procedures:</p>
+      <p id="pDHZSb" outputclass="List2" class="- topic/p ">(1) Contract actions awarded under FAR Part 13, Simplified Acquisition Procedures;</p>
+      <p id="tdiktL" outputclass="List2" class="- topic/p ">(2) Contract actions awarded under FAR Part 14, Sealed Bidding;</p>
+      <p id="QsrCCk" outputclass="List2" class="- topic/p ">(3) Task orders or delivery orders issued under FAR Subpart 8.4, Federal Supply Schedules; or</p>
+      <p id="Hvliwr" outputclass="List2" class="- topic/p ">(4) Task orders or delivery orders issued on a firm-fixed price basis against indefinite-delivery type contracts for:</p>
+      <p id="XtcqFH" outputclass="List3" class="- topic/p ">(i) Supplies for which unit prices are established in the contract; or</p>
+      <p id="EGlSXj" outputclass="List3" class="- topic/p ">(ii) Services for which unit prices are established in the contract for specific tasks to be performed and where a statement of work/statement of objectives/performance work statement is not required.</p>
+   </conbody>
+</concept>

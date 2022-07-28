@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="NMCARS_Annex-25">
+      <title class="- topic/title " outputclass="Ctr 1 heading">
+         <ph class="- topic/ph " props="autonumber">ANNEX 25</ph> – LONG RANGE ACQUISITION FORECAST</title>
+      <body>
+         <p id="yepIti" outputclass="Normal" class="- topic/p ">Pursuant to <xref href="5205.404.dita" class="- topic/xref "/>, the template below shall be used in reporting
+            the long range acquisition forecast. The electronic version of this template is
+            available <ph rev="CHANGE 18-22 JULY 11, 2022" class="- topic/ph ">on the website identified at NMCARS <xref href="5201.1053.dita" class="- topic/xref "/>.</ph>
+         </p>
+         <p id="jHXlVJ" outputclass="Normal" class="- topic/p ">
+            <image height="26.09mm"
+                   href="Graphics/image6.png"
+                   width="165.10mm"
+                   placement="inline"
+                   class="- topic/image "/>
+         </p>
+      </body>
+   </topic>
+</dita>

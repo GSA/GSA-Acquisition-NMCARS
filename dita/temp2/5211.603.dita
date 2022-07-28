@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5211.603"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5211.603</ph> Procedures.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="vEeibB" outputclass="Normal" class="- topic/p ">(b) In accordance with DOD Manual 4400.1-M, DON activities shall, under the Defense Priorities and Allocations System (DPAS):</p>
+      <p id="gUoIMY" outputclass="List2" class="- topic/p ">(1) Use the DX rating for:</p>
+      <ol class="- topic/ol ">
+         <li id="KtWHTo" class="- topic/li ">
+            <p id="mQWwtN" outputclass="List1" class="- topic/p ">
+               <ph props="autonumber" class="- topic/ph ">(A) </ph>Program 390;</p>
+         </li>
+         <li id="SyutFO" class="- topic/li ">
+            <p id="NfaNdZ" outputclass="List1" class="- topic/p ">
+               <ph props="autonumber" class="- topic/ph ">(B) </ph>Integrated Ballistic Missile Defense System;</p>
+         </li>
+         <li id="pPsRhr" class="- topic/li ">
+            <p id="bykiQl" outputclass="List1" class="- topic/p ">
+               <ph props="autonumber" class="- topic/ph ">(C) </ph>Presidential Helicopter Programs (VH-92-A, VH-3D and VH-60N);</p>
+         </li>
+         <li id="nrDUMy" class="- topic/li ">
+            <p id="QoNEXy" outputclass="List1" class="- topic/p ">
+               <ph props="autonumber" class="- topic/ph ">(D) </ph>Fleet Ballistic Missile Weapon Systems, Trident System including the Cruise Missile Submarines/SSGN, and submarines with the Trident II SWS Missile - Ohio Class Submarines/SSBN, Columbia Class Submarines (formerly Ohio Replacement Class)/SSBN (X), and all future submarines that carry the Trident Missile;</p>
+         </li>
+         <li id="FwcGEz" class="- topic/li ">
+            <p id="AruKWU" outputclass="List1" class="- topic/p ">
+               <ph props="autonumber" class="- topic/ph ">(E) </ph>Program 341;</p>
+         </li>
+         <li id="IBwbiN" class="- topic/li ">
+            <p id="EaYTXz" outputclass="List1" class="- topic/p ">
+               <ph props="autonumber" class="- topic/ph ">(F) </ph>E-6B Command, Control and Communications Aircraft Program;</p>
+         </li>
+         <li id="hcgPMs" class="- topic/li ">
+            <p id="PihiGW" outputclass="List1" class="- topic/p ">
+               <ph props="autonumber" class="- topic/ph ">(G) </ph>Space-Based Infrared System High; Intercontinental Ballistic Missile;</p>
+         </li>
+         <li id="UdztUY" class="- topic/li ">
+            <p id="ZPrEhF" outputclass="List1" class="- topic/p ">
+               <ph props="autonumber" class="- topic/ph ">(H) </ph>Minuteman II;</p>
+         </li>
+         <li id="RgWjiF" class="- topic/li ">
+            <p id="vfdCfM" outputclass="List1" class="- topic/p ">
+               <ph props="autonumber" class="- topic/ph ">(I) </ph>B-2 Stealth Bomber;</p>
+         </li>
+         <li id="ExKSSq" class="- topic/li ">
+            <p id="pAsEbU" outputclass="List1 Normal" class="- topic/p ">
+               <ph props="autonumber" class="- topic/ph ">(J) </ph>Presidential Aircraft (VC-25A and VC-25B Presidential Aircraft Recapitalization).</p>
+         </li>
+      </ol>
+      <p id="rzgxdS" outputclass="Normal" class="- topic/p ">(f) HCAs are responsible for establishing procedures for rated orders.</p>
+      <p id="URjuXx" outputclass="Normal" class="- topic/p ">(g) Each Contracting Activity has an assigned DPAS Officer to provide guidance and resolve questions associated with DPAS. <ph class="- topic/ph ">
+            <u class="+ topic/ph hi-d/u ">Contact the Contracting Activity’s Policy office for DPAS point of contact information</u>
+            <u class="+ topic/ph hi-d/u ">.</u>
+            <u class="+ topic/ph hi-d/u "/>
+         </ph>
+      </p>
+      <p id="xFXRIG" outputclass="Normal" class="- topic/p ">
+         <ph class="- topic/ph "> </ph>
+      </p>
+   </conbody>
+</concept>

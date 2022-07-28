@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="NMCARS_PART_5245">
+      <title class="- topic/title " outputclass="1 heading part Ctr">
+         <ph class="- topic/ph " props="autonumber">PART 5245</ph> GOVERNMENT PROPERTY</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5245.1.dita#NMCARS_SUBPART_5245.1">SUBPART 5245.1 — GENERAL</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li rev="CHANGE 18-22 JULY 11, 2022">
+                     <p>
+                        <xref outputclass="fm:TOC" href="5245.102.dita#NMCARS_5245.102">5245.102 Policy.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5245.10371.dita#NMCARS_5245.10371">5245.103-71 Transferring Government property accountability.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5245.10374.dita#NMCARS_5245.10374">5245.103-74 Contracting office responsibilities.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5245.6.dita#NMCARS_SUBPART_5245.6">SUBPART 5245.6 — REPORTING, REUTILIZATION AND DISPOSAL</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5245.602.dita#NMCARS_5245.602">5245.602 Reutilization of Government property.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5245.6023.dita#NMCARS_5245.6023">5245.602-3 Screening.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

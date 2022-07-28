@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="NMCARS_Annex-2">
+      <title class="- topic/title " outputclass="1 heading Ctr">
+         <ph class="- topic/ph " props="autonumber">ANNEX 2</ph> – BUSINESS CLEARANCE REQUIRED
+      CONTENT</title>
+      <body>
+         <p id="KmRfCD" outputclass="Normal" class="- topic/p ">In developing business clearance memoranda and/or BCM
+         templates, HCAs shall include all required content and compliances as outlined in the
+         following table unless the HCA notifies DASN(P) otherwise per 5201.9002(b). When addressing
+         a minimum requirement, HCAs may reference previously approved documentation (e.g., source
+         selection plan, acquisition strategy/plan, Justification &amp; Approval, etc.) rather than
+         restate information within the BCM. Additionally, as this Annex outlines the minimum
+         content that will facilitate validation with regulations, HCAs may add documentation
+         requirements; the table below is NOT all-inclusive.</p>
+         <p class="- topic/p " id="asdwei1" rev="CHANGE 18-22 JULY 11, 2022">
+            <table id="table_k5p_blr_35b">
+               <tgroup cols="2">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <thead>
+                     <row>
+                        <entry>
+                           <b>DOCUMENT/APPROVAL CONTENT</b>
+                        </entry>
+                        <entry>
+                           <p>
+                              <b>Reference(s) </b>
+                           </p>
+                           <p>
+                              <b>(as applicable)</b>
+                           </p>
+                        </entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry namest="col1" nameend="col2">
+                           <b>PRE-NEGOTIATION</b>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry>Procurement Request</entry>
+                        <entry>
+                           <p>FAR part 11</p>
+                           <p>DFARS part 211</p>
+                           <p>NMCARS part 5211</p>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry>Acquisition Strategy</entry>
+                        <entry>FAR 34.004</entry>
+                     </row>
+                     <row>
+                        <entry>Acquisition Plan (STRAP/MOPAS-S) </entry>
+                        <entry>
+                           <p>NMCARS 5207.103</p>
+                           <p>NMCARS 5237.503</p>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry>Contract Type Rationale </entry>
+                        <entry>
+                           <p>FAR 16.102(d)</p>
+                           <p>FAR 16.103(d) </p>
+                           <p>DFARS 216.102</p>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry>Synopsis or an Approved Waiver</entry>
+                        <entry>
+                           <p>FAR 5.202</p>
+                           <p>FAR 5.203</p>
+                           <p>FAR 5.204</p>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry>Determinations and Findings (D&amp;F) to Establish or Maintain
+                           Alternative Sources </entry>
+                        <entry>FAR 6.202</entry>
+                     </row>
+                     <row>
+                        <entry>Justification for Other Than Full and Open Competition </entry>
+                        <entry>
+                           <p>FAR 6.303</p>
+                           <p>DFARS PGI 206.302-1</p>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry>HCA Documentation for Non-Competitive Requirement under an
+                           International Agreement </entry>
+                        <entry>DFARS 206.302-4(c)</entry>
+                     </row>
+                     <row>
+                        <entry>Bundling Contract Requirements </entry>
+                        <entry>FAR 7.107-3</entry>
+                     </row>
+                     <row>
+                        <entry>Determination to Consolidate Contract Requirements </entry>
+                        <entry>FAR 7.107-2</entry>
+                     </row>
+                     <row>
+                        <entry>Determination to Contract for Certain Non-Commercial Products and
+                           Services </entry>
+                        <entry>DFARS 212.272</entry>
+                     </row>
+                     <row>
+                        <entry>D&amp;F to Use Commercial T&amp;M or LH Contract</entry>
+                        <entry>FAR 12.207</entry>
+                     </row>
+                     <row>
+                        <entry>Source Selection Plan </entry>
+                        <entry>
+                           <p>DFARS 215.303 </p>
+                           <p>DoD Source Selection Procedures</p>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry>D&amp;F to Use T&amp;M or LH Type Contract </entry>
+                        <entry>
+                           <p>FAR 16.601(d)(1) </p>
+                           <p>FAR 16.602 </p>
+                           <p>DFARS 216.601(d)(i)(A)</p>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry>D&amp;F to Use Incentive or Award Fee Contract </entry>
+                        <entry>
+                           <p>FAR 16.401(d) </p>
+                           <p>DFARS 216.401(d) NMCARS 5216.401(d)</p>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry>D&amp;F for Cost Type Research and Development in Excess of $25M </entry>
+                        <entry>DFARS 235.006(b)(i)</entry>
+                     </row>
+                     <row>
+                        <entry>Determination for Fixed Price Development for Non-MDAP</entry>
+                        <entry>DFARS 235.006(b)(iii)(A)(3)</entry>
+                     </row>
+                     <row>
+                        <entry>Determination to Make Single Award for IDIQ Estimated to Exceed $100M
+                           (including all options) </entry>
+                        <entry>
+                           <p>FAR 16.504(c)(1)(ii)(D) DFARS 216.504(c)</p>
+                           <p>NMCARS 5216.504(c)</p>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry>Determination to Make Single Award for IDIQ Advisory and Assistance
+                           Services Over Three Years and $15M </entry>
+                        <entry>FAR 16.504(c)(2)</entry>
+                     </row>
+                     <row>
+                        <entry>HCA Approval for Cost-Reimbursement Contracts in Excess of $25M </entry>
+                        <entry>DFARS 216.301-3</entry>
+                     </row>
+                     <row>
+                        <entry>Use of Contract Terms in Excess of Five Years </entry>
+                        <entry>FAR 17.204(e)</entry>
+                     </row>
+                     <row>
+                        <entry>Use of Non-DoD Contract Vehicle </entry>
+                        <entry>DFARS 217.770</entry>
+                     </row>
+                     <row>
+                        <entry>DD Form 2579 Small Business Coordination Record </entry>
+                        <entry>DFARS 219.201</entry>
+                     </row>
+                     <row>
+                        <entry>Determination of Personal/Non‑Personal Services </entry>
+                        <entry>
+                           <p>FAR 37.103</p>
+                           <p>DFARS PGI 237.503</p>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry>Approval for Non-Performance Based Acquisition </entry>
+                        <entry>DFARS 237.170-2</entry>
+                     </row>
+                     <row>
+                        <entry>Government-Furnished Property Compliance Checklist </entry>
+                        <entry>NMCARS 5245.103-74</entry>
+                     </row>
+                     <row>
+                        <entry>Approval to Use Warranty</entry>
+                        <entry>DFARS 246.704</entry>
+                     </row>
+                     <row>
+                        <entry>Draft/Planning Solicitation(s); Offerors Comments &amp; Government
+                           Response to Offerors; Other Exchanges with Industry Before Receipt of
+                           Proposal</entry>
+                        <entry>FAR 15.201</entry>
+                     </row>
+                     <row>
+                        <entry>Wage Rate Determination (SF-98/98A)</entry>
+                        <entry>DFARS 222.1008</entry>
+                     </row>
+                     <row>
+                        <entry>Market Research Documentation</entry>
+                        <entry>
+                           <p>FAR part 10 </p>
+                           <p>DFARS part 210 </p>
+                           <p>DFARS 237.102-78</p>
+                           <p>DFARS PGI 215.371-2</p>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry>Independent Government Cost Estimate </entry>
+                        <entry>FAR 4.803(a)(7)</entry>
+                     </row>
+                     <row>
+                        <entry>Approval of FAR/DFARS/NMCARS Deviations </entry>
+                        <entry>
+                           <p>FAR subpart 1.4 </p>
+                           <p>DFARS subpart 201.4 NMCARS subpart 5201.4</p>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry>Undefinitized Contract Action and Undefinitized Change Order
+                           Approval</entry>
+                        <entry>
+                           <p>DFARS 217.74 </p>
+                           <p>NMCARS 5243.201</p>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry>Unusual Contract Financing Clauses </entry>
+                        <entry>
+                           <p>FAR part 32</p>
+                           <p>DFARS part 232</p>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry>Justification for Oral Solicitation</entry>
+                        <entry>FAR 15.203(f)</entry>
+                     </row>
+                     <row>
+                        <entry>Tailoring of Provisions and Clauses for Use in Commercial Item
+                           Acquisitions (waiver)</entry>
+                        <entry>
+                           <p>FAR subpart 12.3</p>
+                           <p>DFARS subpart 212.3</p>
+                           <p>NMCARS subpart 5212.3</p>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry>Solicitation/Request for Proposal</entry>
+                        <entry>FAR 15.203</entry>
+                     </row>
+                     <row>
+                        <entry>Amendments to RFP</entry>
+                        <entry>FAR 15.206</entry>
+                     </row>
+                     <row>
+                        <entry>Combined Synopsis and Solicitations for Commercial Item Acquisitions </entry>
+                        <entry>FAR 12.603</entry>
+                     </row>
+                     <row>
+                        <entry>Contractor Proposal(s)</entry>
+                        <entry/>
+                     </row>
+                     <row>
+                        <entry>DCAA Report(s)</entry>
+                        <entry/>
+                     </row>
+                     <row>
+                        <entry>ACO Report(s)</entry>
+                        <entry/>
+                     </row>
+                     <row>
+                        <entry>Technical Evaluation Report(s)</entry>
+                        <entry>FAR 15.305(a)(3)</entry>
+                     </row>
+                     <row>
+                        <entry>Price/Cost Evaluation Report</entry>
+                        <entry>FAR 15.305(a)(1)</entry>
+                     </row>
+                     <row>
+                        <entry>Past Performance Evaluation Report</entry>
+                        <entry>
+                           <p>FAR 15.305(a)(2)</p>
+                           <p>DFARS 215.305(a)(2)</p>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry>Small Business Participation Evaluation Report</entry>
+                        <entry>
+                           <p>DFARS 215.304(c)(i) </p>
+                           <p>DoD Source Selection Procedures</p>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry>Subcontracting Plan Evaluation Report</entry>
+                        <entry>
+                           <p>FAR 19.702(a) </p>
+                           <p>FAR 19.704</p>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry>Competitive Range Determination</entry>
+                        <entry>FAR 15.306(c)</entry>
+                     </row>
+                     <row>
+                        <entry>Evaluation of Transportation Costs (DD Form 1654)</entry>
+                        <entry>
+                           <p>FAR 47.306</p>
+                           <p>DFARS 247.301-71</p>
+                           <p>DFARS 247.372</p>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry>Cost Accounting Standards Waivers</entry>
+                        <entry>
+                           <p>FAR 30.201-5</p>
+                           <p>DFARS 230.201-5</p>
+                           <p>NMCARS 5230.201-5</p>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry>Make or Buy (Program, Evaluation, Approval)</entry>
+                        <entry>FAR 15.407-2</entry>
+                     </row>
+                     <row>
+                        <entry>Compliance with FAR Subpart 4.21 – Prohibition on Contracting for
+                           Certain Telecommunications and Video Surveillance Services or Equipment -
+                           Requirements</entry>
+                        <entry>
+                           <p>FAR provision 52.204-24</p>
+                           <p>FAR provision 52.204-26</p>
+                           <p>FAR clause 52.204-25</p>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry>Exemptions Requested to Buy American, Berry Amendment, Specialty
+                           Metals Restrictions, or Other Requirements of the Solicitation </entry>
+                        <entry>DFARS subpart 225.70</entry>
+                     </row>
+                     <row>
+                        <entry>Contracting Officer Determination and Basis for Pass-Through
+                           Charges</entry>
+                        <entry>FAR 15.404-1(h)</entry>
+                     </row>
+                     <row>
+                        <entry>Contractor’s Estimating System Determined Acceptable by ACO</entry>
+                        <entry>DFARS 215.407-5</entry>
+                     </row>
+                     <row>
+                        <entry>Pre‑Award Disclosure Statement ‑ Cost Accounting Practices and
+                           Certification and Determined Current, Accurate, and Complete by
+                           ACO</entry>
+                        <entry>
+                           <p>FAR clause 52.230-1</p>
+                           <p>FAR 30.202-6</p>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry>Contractor’s Accounting System Determined Adequate by
+                           CAO/DCAA</entry>
+                        <entry>FAR 16.301-3</entry>
+                     </row>
+                     <row>
+                        <entry>Contractor Purchasing System Determined to be Approved by the
+                           ACO</entry>
+                        <entry>FAR 44.305</entry>
+                     </row>
+                     <row>
+                        <entry>Property System Reviewed for Acceptability by ACO</entry>
+                        <entry>FAR 45.105</entry>
+                     </row>
+                     <row>
+                        <entry>SAM Exclusions Verification for All Offerors</entry>
+                        <entry>FAR 9.405(e)(1)</entry>
+                     </row>
+                     <row>
+                        <entry>Certification Regarding Responsibility Matters and Delinquent Tax
+                           Liability or a Felony Conviction under Federal Law </entry>
+                        <entry>
+                           <p>FAR 9.104-5 </p>
+                           <p>FAR provision 52.209-5</p>
+                           <p>FAR provision 52.212-3(h) FAR provision 52.209-11</p>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry>
+                           <p>Pre-Negotiation Objective - Four Tenets:</p>
+                           <p>1. What is the estimate,</p>
+                           <p>2. What is the estimate based on,</p>
+                           <p>3. How was the estimate derived, and</p>
+                           <p>4. Why is the estimate reasonable?</p>
+                        </entry>
+                        <entry/>
+                     </row>
+                     <row>
+                        <entry>Part 15 Negotiation Documentation Requirements</entry>
+                        <entry>
+                           <p>FAR 15.406-3</p>
+                           <p>DFARS 215.406-3</p>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry namest="col1" nameend="col2">
+                           <b>POST-NEGOTIATION</b>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry>Award With or Without Discussions </entry>
+                        <entry>FAR 15.306(a)(3)</entry>
+                     </row>
+                     <row>
+                        <entry>HCA Waiver of Cost or Pricing Data</entry>
+                        <entry>FAR 15.403-1(c)(4)</entry>
+                     </row>
+                     <row>
+                        <entry>Certificate of Current Cost or Pricing Data</entry>
+                        <entry>FAR 15.406-2</entry>
+                     </row>
+                     <row>
+                        <entry>Subcontracting Plan Determined Adequate</entry>
+                        <entry>FAR 19.705-4</entry>
+                     </row>
+                     <row>
+                        <entry>Approval of SDB Subcontracting Goal Less Than 5% </entry>
+                        <entry>DFARS 219.705-4</entry>
+                     </row>
+                     <row>
+                        <entry>SBIR/STTR Phase III Award Contracting Officer Affirmation</entry>
+                        <entry>NMCARS 5206.302-5(b)</entry>
+                     </row>
+                     <row>
+                        <entry>EEO Compliance Requested/Obtained</entry>
+                        <entry>FAR 22.805</entry>
+                     </row>
+                     <row>
+                        <entry>Determination of Responsibility and Financial Stability</entry>
+                        <entry>
+                           <p>FAR 9.103</p>
+                           <p>FAR 9.104-1</p>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry>SAM Exclusions Verification for Successful Offeror </entry>
+                        <entry>FAR 9.405(e)(4)</entry>
+                     </row>
+                     <row>
+                        <entry>Certification Regarding Responsibility Matters and Delinquent Tax
+                           Liability or a Felony Conviction under Federal Law for Successful
+                           Offeror</entry>
+                        <entry>
+                           <p>FAR 9.104-5</p>
+                           <p>FAR provision 52.209-5</p>
+                           <p>FAR provision 52.212-3(h) FAR provision 52.209-11</p>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry>VETS-4212 Filing Verification for Awardee (Non-Commercial Items that
+                           Exceed the SAT)</entry>
+                        <entry>
+                           <p>FAR 22.1302(b)</p>
+                           <p>FAR 22.1304</p>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry>Part 15 Negotiation Documentation Requirements </entry>
+                        <entry>
+                           <p>FAR 15.406-3</p>
+                           <p>DFARS 215.406-3</p>
+                        </entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </p>
+      </body>
+   </topic>
+</dita>

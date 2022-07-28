@@ -6,7 +6,7 @@
 <?Fm BoolCondExpr "DITA-Topicref" State 0?>
 <?Fm TagBoolCondExpr Default%20Expression?>
 <?Fm ShowAll False?>
-<?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE ?>
+<?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <map title="NMCARS" outputclass="dod">
@@ -17,7 +17,8 @@
              audience="Volume_I"
              otherprops="NoProp"
              base="NoTitle"
-             xtrf="subtopic">
+             xtrf="subtopic"
+             props="">
       <topicref navtitle="Navy Marine Corps Acquisition Regulation Supplement"
                 href="Cover_1.dita"
                 outputclass="subtopic"
@@ -25,7 +26,8 @@
                 otherprops="NoProp"
                 base="NoTitle"
                 xtrf="subtopic"
-                xtrc="Cover_1.html"/>
+                xtrc="Cover_1.html"
+                props=""/>
    </topicref>
    
       

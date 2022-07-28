@@ -6,7 +6,7 @@
 <?Fm BoolCondExpr "DITA-Topicref" State 0?>
 <?Fm TagBoolCondExpr Default%20Expression?>
 <?Fm ShowAll False?>
-<?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE ?>
+<?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <map title="NMCARS" outputclass="dod">
@@ -17,7 +17,8 @@
              audience="Volume_I"
              otherprops="NoProp"
              base="NoTitle"
-             xtrf="subtopic">
+             xtrf="subtopic"
+             props="">
       <topicref navtitle="Navy Marine Corps Acquisition Regulation Supplement"
                 href="Cover_1.dita"
                 outputclass="subtopic"
@@ -25,7 +26,8 @@
                 otherprops="NoProp"
                 base="NoTitle"
                 xtrf="subtopic"
-                xtrc="Cover_1.html"/>
+                xtrc="Cover_1.html"
+                props=""/>
    </topicref>
    <topicref navtitle="PART 5201 FEDERAL ACQUISITION REGULATIONS SYSTEM"
              href="PART_5201.dita"
@@ -36,7 +38,7 @@
              xtrf="Part"
              tables="0"
              figures="0">
-      <topicref navtitle="SUBPART 5201.1 —PURPOSE, AUTHORITY, ISSUANCE"
+      <topicref navtitle="SUBPART 5201.1 â€”PURPOSE, AUTHORITY, ISSUANCE"
                 href="SUBPART_5201.1.dita"
                 outputclass="SubPart"
                 props="SUBPART 5201.1"
@@ -99,6 +101,8 @@
             <topicref href="5201.1053.dita"
                       props="5201.105-3"
                       audience="NMCARS_5201.1053"
+                      xtrc="NMCARS_5201.1053.html"
+                      navtitle="5201.105-3 Copies."
                       tables="0"
                       figures="0"/>
          </topicref>
@@ -154,7 +158,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5201.2 —ADMINISTRATION"
+      <topicref navtitle="SUBPART 5201.2 â€”ADMINISTRATION"
                 href="SUBPART_5201.2.dita"
                 outputclass="SubPart"
                 props="SUBPART 5201.2"
@@ -186,7 +190,7 @@
                       figures="0"/>
          </topicref>
       </topicref>
-      <topicref navtitle="SUBPART 5201.3 —AGENCY ACQUISITION REGULATIONS"
+      <topicref navtitle="SUBPART 5201.3 â€”AGENCY ACQUISITION REGULATIONS"
                 href="SUBPART_5201.3.dita"
                 outputclass="SubPart"
                 props="SUBPART 5201.3"
@@ -217,7 +221,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5201.4 —DEVIATIONS FROM THE FAR"
+      <topicref navtitle="SUBPART 5201.4 â€”DEVIATIONS FROM THE FAR"
                 href="SUBPART_5201.4.dita"
                 outputclass="SubPart"
                 props="SUBPART 5201.4"
@@ -258,7 +262,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5201.6 — CAREER DEVELOPMENT, CONTRACTING AUTHORITY, AND RESPONSIBILITIES"
+      <topicref navtitle="SUBPART 5201.6 â€” CAREER DEVELOPMENT, CONTRACTING AUTHORITY, AND RESPONSIBILITIES"
                 href="SUBPART_5201.6.dita"
                 outputclass="SubPart"
                 props="SUBPART 5201.6"
@@ -360,7 +364,7 @@
                       xtrc="NMCARS_5201.603290.html"
                       tables="0"
                       figures="0"/>
-            <topicref navtitle="5201.603-2-91 Contracting officer warrant issuance to non–DON employee."
+            <topicref navtitle="5201.603-2-91 Contracting officer warrant issuance to nonâ€“DON employee."
                       href="5201.603291.dita"
                       outputclass="subtopic"
                       props="5201.603-2-91"
@@ -413,7 +417,7 @@
                       figures="0"/>
          </topicref>
       </topicref>
-      <topicref navtitle="SUBPART 5201.90 — BUSINESS CLEARANCE"
+      <topicref navtitle="SUBPART 5201.90 â€” BUSINESS CLEARANCE"
                 href="SUBPART_5201.90.dita"
                 outputclass="SubPart"
                 props="SUBPART 5201.90"
@@ -474,7 +478,7 @@
              xtrf="Part"
              tables="0"
              figures="0">
-      <topicref navtitle="SUBPART 5202.1 —DEFINITIONS"
+      <topicref navtitle="SUBPART 5202.1 â€”DEFINITIONS"
                 href="SUBPART_5202.1.dita"
                 outputclass="SubPart"
                 props="SUBPART 5202.1"
@@ -491,6 +495,7 @@
                    base="NoTitle"
                    xtrf="subtopic"
                    xtrc="NMCARS2-SUBPART_5201.1_Definitions.html"
+                   props=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -504,7 +509,7 @@
              xtrf="Part"
              tables="0"
              figures="0">
-      <topicref navtitle="SUBPART 5203.1 — SAFEGUARDS"
+      <topicref navtitle="SUBPART 5203.1 â€” SAFEGUARDS"
                 href="SUBPART_5203.1.dita"
                 outputclass="SubPart"
                 props="SUBPART 5203.1"
@@ -557,7 +562,7 @@
                       figures="0"/>
          </topicref>
       </topicref>
-      <topicref navtitle="SUBPART 5203.2 — CONTRACTOR GRATUITIES TO GOVERNMENT PERSONNEL"
+      <topicref navtitle="SUBPART 5203.2 â€” CONTRACTOR GRATUITIES TO GOVERNMENT PERSONNEL"
                 href="SUBPART_5203.2.dita"
                 outputclass="SubPart"
                 props="SUBPART 5203.2"
@@ -588,7 +593,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5203.6 — CONTRACTS WITH GOVERNMENT EMPLOYEES OR ORGANIZATIONS OWNED OR CONTROLLED BY THEM"
+      <topicref navtitle="SUBPART 5203.6 â€” CONTRACTS WITH GOVERNMENT EMPLOYEES OR ORGANIZATIONS OWNED OR CONTROLLED BY THEM"
                 href="SUBPART_5203.6.dita"
                 outputclass="SubPart"
                 props="SUBPART 5203.6"
@@ -609,7 +614,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5203.8 — LIMITATIONS ON THE PAYMENT OF FUNDS TO INFLUENCE FEDERAL TRANSACTIONS"
+      <topicref navtitle="SUBPART 5203.8 â€” LIMITATIONS ON THE PAYMENT OF FUNDS TO INFLUENCE FEDERAL TRANSACTIONS"
                 href="SUBPART_5203.8.dita"
                 outputclass="SubPart"
                 props="SUBPART 5203.8"
@@ -630,7 +635,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5203.9 — WHISTLEBLOWER PROTECTIONS FOR CONTRACTOR EMPLOYEES"
+      <topicref navtitle="SUBPART 5203.9 â€” WHISTLEBLOWER PROTECTIONS FOR CONTRACTOR EMPLOYEES"
                 href="SUBPART_5203.9.dita"
                 outputclass="SubPart"
                 props="SUBPART 5203.9"
@@ -651,7 +656,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5203.10 — CONTRACTOR CODE OF BUSINESS ETHICS AND CONDUCT"
+      <topicref navtitle="SUBPART 5203.10 â€” CONTRACTOR CODE OF BUSINESS ETHICS AND CONDUCT"
                 href="SUBPART_5203.10.dita"
                 outputclass="SubPart"
                 props="SUBPART 5203.10"
@@ -682,7 +687,7 @@
              xtrf="Part"
              tables="0"
              figures="0">
-      <topicref navtitle="SUBPART 5204.2 — CONTRACT DISTRIBUTION"
+      <topicref navtitle="SUBPART 5204.2 â€” CONTRACT DISTRIBUTION"
                 href="SUBPART_5204.2.dita"
                 outputclass="SubPart"
                 props="SUBPART 5204.2"
@@ -714,7 +719,7 @@
                       figures="0"/>
          </topicref>
       </topicref>
-      <topicref navtitle="SUBPART 5204.6 — CONTRACT REPORTING"
+      <topicref navtitle="SUBPART 5204.6 â€” CONTRACT REPORTING"
                 href="SUBPART_5204.6.dita"
                 outputclass="SubPart"
                 props="SUBPART 5204.6"
@@ -735,7 +740,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5204.8 —GOVERNMENT CONTRACT FILES"
+      <topicref navtitle="SUBPART 5204.8 â€”GOVERNMENT CONTRACT FILES"
                 href="SUBPART_5204.8.dita"
                 outputclass="SubPart"
                 props="SUBPART 5204.8"
@@ -777,7 +782,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5204.21 – PROHIBITION ON CONTRACTING FOR CERTAIN TELECOMMUNICATIONS AND VIDEO SURVEILLANCE SERVICES OR EQUIPMENT"
+      <topicref navtitle="SUBPART 5204.21 â€“ PROHIBITION ON CONTRACTING FOR CERTAIN TELECOMMUNICATIONS AND VIDEO SURVEILLANCE SERVICES OR EQUIPMENT"
                 href="SUBPART_5204.21.dita"
                 outputclass="SubPart"
                 props="SUBPART 5204.21"
@@ -808,7 +813,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5204.73 — SAFEGUARDING COVERED DEFENSE INFORMATION AND CYBER INCIDENT REPORTING"
+      <topicref navtitle="SUBPART 5204.73 â€” SAFEGUARDING COVERED DEFENSE INFORMATION AND CYBER INCIDENT REPORTING"
                 href="SUBPART_5204.73.dita"
                 outputclass="SubPart"
                 props="SUBPART 5204.73"
@@ -850,7 +855,7 @@
              xtrf="Part"
              tables="0"
              figures="0">
-      <topicref navtitle="SUBPART 5205.3 — SYNOPSES OF CONTRACT AWARDS"
+      <topicref navtitle="SUBPART 5205.3 â€” SYNOPSES OF CONTRACT AWARDS"
                 href="SUBPART_5205.3.dita"
                 outputclass="SubPart"
                 props="SUBPART 5205.3"
@@ -871,7 +876,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5205.4 — RELEASE OF INFORMATION"
+      <topicref navtitle="SUBPART 5205.4 â€” RELEASE OF INFORMATION"
                 href="SUBPART_5205.4.dita"
                 outputclass="SubPart"
                 props="SUBPART 5205.4"
@@ -881,7 +886,7 @@
                 xtrc="NMCARS_SUBPART_5205.4.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="5205.404 Release of long–range acquisition forecasts."
+         <topicref navtitle="5205.404 Release of longâ€“range acquisition forecasts."
                    href="5205.404.dita"
                    outputclass="subtopic"
                    props="5205.404"
@@ -913,7 +918,7 @@
              xtrf="Part"
              tables="0"
              figures="0">
-      <topicref navtitle="SUBPART 5206.2 – FULL AND OPEN COMPETITION AFTER EXCLUSION OF SOURCES"
+      <topicref navtitle="SUBPART 5206.2 â€“ FULL AND OPEN COMPETITION AFTER EXCLUSION OF SOURCES"
                 href="SUBPART_5206.2.dita"
                 outputclass="SubPart"
                 props="SUBPART 5206.2"
@@ -934,7 +939,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5206.3 — OTHER THAN FULL AND OPEN COMPETITION"
+      <topicref navtitle="SUBPART 5206.3 â€” OTHER THAN FULL AND OPEN COMPETITION"
                 href="SUBPART_5206.3.dita"
                 outputclass="SubPart"
                 props="SUBPART 5206.3"
@@ -1047,7 +1052,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5206.5 — COMPETITION ADVOCATES"
+      <topicref navtitle="SUBPART 5206.5 â€” COMPETITION ADVOCATES"
                 href="SUBPART_5206.5.dita"
                 outputclass="SubPart"
                 props="SUBPART 5206.5"
@@ -1088,7 +1093,7 @@
              xtrf="Part"
              tables="0"
              figures="0">
-      <topicref navtitle="SUBPART 5207.1 — ACQUISITION PLANS"
+      <topicref navtitle="SUBPART 5207.1 â€” ACQUISITION PLANS"
                 href="SUBPART_5207.1.dita"
                 outputclass="SubPart"
                 props="SUBPART 5207.1"
@@ -1098,7 +1103,7 @@
                 xtrc="NMCARS_SUBPART_5207.1.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="5207.103 Agency–head responsibilities."
+         <topicref navtitle="5207.103 Agencyâ€“head responsibilities."
                    href="5207.103.dita"
                    outputclass="subtopic"
                    props="5207.103"
@@ -1160,7 +1165,7 @@
                       figures="0"/>
          </topicref>
       </topicref>
-      <topicref navtitle="SUBPART 5207.2 — PLANNING FOR THE PURCHASE OF SUPPLIES IN ECONOMIC QUANTITIES"
+      <topicref navtitle="SUBPART 5207.2 â€” PLANNING FOR THE PURCHASE OF SUPPLIES IN ECONOMIC QUANTITIES"
                 href="SUBPART_5207.2.dita"
                 outputclass="SubPart"
                 props="SUBPART 5207.2"
@@ -1181,7 +1186,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5207.5 — INHERENTLY GOVERNMENTAL FUNCTIONS"
+      <topicref navtitle="SUBPART 5207.5 â€” INHERENTLY GOVERNMENTAL FUNCTIONS"
                 href="SUBPART_5207.5.dita"
                 outputclass="SubPart"
                 props="SUBPART 5207.5"
@@ -1202,7 +1207,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5207.70 — BUY–TO–BUDGET – ADDITIONAL QUANTITIES OF END ITEMS"
+      <topicref navtitle="SUBPART 5207.70 â€” BUYâ€“TOâ€“BUDGET â€“ ADDITIONAL QUANTITIES OF END ITEMS"
                 href="SUBPART_5207.70.dita"
                 outputclass="SubPart"
                 props="SUBPART 5207.70"
@@ -1243,7 +1248,7 @@
                 xtrc="NMCARS_5208.001.html"
                 tables="0"
                 figures="0"/>
-      <topicref navtitle="SUBPART 5208.4 — FEDERAL SUPPLY SCHEDULES"
+      <topicref navtitle="SUBPART 5208.4 â€” FEDERAL SUPPLY SCHEDULES"
                 href="SUBPART_5208.4.dita"
                 outputclass="SubPart"
                 props="SUBPART 5208.4"
@@ -1275,7 +1280,7 @@
                       figures="0"/>
          </topicref>
       </topicref>
-      <topicref navtitle="SUBPART 5208.7 — ACQUISITION FROM NONPROFIT AGENCIES EMPLOYING PEOPLE WHO ARE BLIND OR SEVERELY DISABLED"
+      <topicref navtitle="SUBPART 5208.7 â€” ACQUISITION FROM NONPROFIT AGENCIES EMPLOYING PEOPLE WHO ARE BLIND OR SEVERELY DISABLED"
                 href="SUBPART_5208.7.dita"
                 outputclass="SubPart"
                 props="SUBPART 5208.7"
@@ -1296,7 +1301,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5208.70 — COORDINATED ACQUISITION"
+      <topicref navtitle="SUBPART 5208.70 â€” COORDINATED ACQUISITION"
                 href="SUBPART_5208.70.dita"
                 outputclass="SubPart"
                 props="SUBPART 5208.70"
@@ -1317,7 +1322,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5208.74 — ENTERPRISE SOFTWARE AGREEMENTS"
+      <topicref navtitle="SUBPART 5208.74 â€” ENTERPRISE SOFTWARE AGREEMENTS"
                 href="SUBPART_5208.74.dita"
                 outputclass="SubPart"
                 props="SUBPART 5208.74"
@@ -1348,7 +1353,7 @@
              xtrf="Part"
              tables="0"
              figures="0">
-      <topicref navtitle="SUBPART 5209.1 — RESPONSIBLE PROSPECTIVE CONTRACTORS"
+      <topicref navtitle="SUBPART 5209.1 â€” RESPONSIBLE PROSPECTIVE CONTRACTORS"
                 href="SUBPART_5209.1.dita"
                 outputclass="SubPart"
                 props="SUBPART 5209.1"
@@ -1400,7 +1405,7 @@
                       figures="0"/>
          </topicref>
       </topicref>
-      <topicref navtitle="SUBPART 5209.4 — DEBARMENT, SUSPENSION AND INELIGIBILITY"
+      <topicref navtitle="SUBPART 5209.4 â€” DEBARMENT, SUSPENSION AND INELIGIBILITY"
                 href="SUBPART_5209.4.dita"
                 outputclass="SubPart"
                 props="SUBPART 5209.4"
@@ -1494,7 +1499,7 @@
                       figures="0"/>
          </topicref>
       </topicref>
-      <topicref navtitle="SUBPART 5209.5 — ORGANIZATIONAL AND CONSULTANT CONFLICTS OF INTEREST"
+      <topicref navtitle="SUBPART 5209.5 â€” ORGANIZATIONAL AND CONSULTANT CONFLICTS OF INTEREST"
                 href="SUBPART_5209.5.dita"
                 outputclass="SubPart"
                 props="SUBPART 5209.5"
@@ -1545,7 +1550,7 @@
              xtrf="Part"
              tables="0"
              figures="0">
-      <topicref navtitle="SUBPART 5211.1 — SELECTING AND DEVELOPING REQUIREMENTS DOCUMENTS"
+      <topicref navtitle="SUBPART 5211.1 â€” SELECTING AND DEVELOPING REQUIREMENTS DOCUMENTS"
                 href="SUBPART_5211.1.dita"
                 outputclass="SubPart"
                 props="SUBPART 5211.1"
@@ -1566,7 +1571,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5211.2 — USING AND MAINTAINING REQUIREMENTS DOCUMENTS"
+      <topicref navtitle="SUBPART 5211.2 â€” USING AND MAINTAINING REQUIREMENTS DOCUMENTS"
                 href="SUBPART_5211.2.dita"
                 outputclass="SubPart"
                 props="SUBPART 5211.2"
@@ -1598,7 +1603,7 @@
                       figures="0"/>
          </topicref>
       </topicref>
-      <topicref navtitle="SUBPART 5211.6 — PRIORITIES AND ALLOCATIONS"
+      <topicref navtitle="SUBPART 5211.6 â€” PRIORITIES AND ALLOCATIONS"
                 href="SUBPART_5211.6.dita"
                 outputclass="SubPart"
                 props="SUBPART 5211.6"
@@ -1629,7 +1634,7 @@
              xtrf="Part"
              tables="0"
              figures="0">
-      <topicref navtitle="SUBPART 5212.1 — ACQUISITION OF COMMERCIAL ITEMS – GENERAL"
+      <topicref navtitle="SUBPART 5212.1 â€” ACQUISITION OF COMMERCIAL ITEMS â€“ GENERAL"
                 href="SUBPART_5212.1.dita"
                 outputclass="SubPart"
                 props="SUBPART 5212.1"
@@ -1650,7 +1655,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5212.2 — SPECIAL REQUIREMENTS FOR THE ACQUISITION OF COMMERCIAL ITEMS"
+      <topicref navtitle="SUBPART 5212.2 â€” SPECIAL REQUIREMENTS FOR THE ACQUISITION OF COMMERCIAL ITEMS"
                 href="SUBPART_5212.2.dita"
                 outputclass="SubPart"
                 props="SUBPART 5212.2"
@@ -1671,7 +1676,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5212.3 — SOLICITATION PROVISIONS AND CLAUSES FOR THE ACQUISITION OF COMMERCIAL ITEMS"
+      <topicref navtitle="SUBPART 5212.3 â€” SOLICITATION PROVISIONS AND CLAUSES FOR THE ACQUISITION OF COMMERCIAL ITEMS"
                 href="SUBPART_5212.3.dita"
                 outputclass="SubPart"
                 props="SUBPART 5212.3"
@@ -1692,7 +1697,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5212.4 — CONTRACT ADMINISTRATION AND AUDIT SERVICES"
+      <topicref navtitle="SUBPART 5212.4 â€” CONTRACT ADMINISTRATION AND AUDIT SERVICES"
                 href="SUBPART_5212.4.dita"
                 outputclass="SubPart"
                 props="SUBPART 5212.4"
@@ -1715,7 +1720,10 @@
       </topicref>
       <topicref href="SUBPART_5212.90.dita"
                 props="SUBPART 5212.90"
+                outputclass="subtopic"
                 audience="NMCARS_SUBPART_5212.90"
+                xtrc="NMCARS_SUBPART_5212.90.html"
+                navtitle="SUBPART 5212.90 â€” DEFENSE COMMERCIAL SOLUTIONS       OPENING"
                 tables="0"
                 figures="0"/>
    </topicref>
@@ -1738,7 +1746,7 @@
                 xtrc="NMCARS_5213.000.html"
                 tables="0"
                 figures="0"/>
-      <topicref navtitle="SUBPART 5213.2 ACTIONS AT OR BELOW THE SIMPLIFIED MICRO–PURCHASE THRESHOLD"
+      <topicref navtitle="SUBPART 5213.2 ACTIONS AT OR BELOW THE SIMPLIFIED MICROâ€“PURCHASE THRESHOLD"
                 href="SUBPART_5213.2.dita"
                 outputclass="SubPart"
                 props="SUBPART 5213.2"
@@ -1759,7 +1767,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5213.3 — SIMPLIFIED ACQUISITION METHODS"
+      <topicref navtitle="SUBPART 5213.3 â€” SIMPLIFIED ACQUISITION METHODS"
                 href="SUBPART_5213.3.dita"
                 outputclass="SubPart"
                 props="SUBPART 5213.3"
@@ -1822,7 +1830,7 @@
              xtrf="Part"
              tables="0"
              figures="0">
-      <topicref navtitle="SUBPART 5214.4 — OPENING OF BIDS AND AWARD OF CONTRACT"
+      <topicref navtitle="SUBPART 5214.4 â€” OPENING OF BIDS AND AWARD OF CONTRACT"
                 href="SUBPART_5214.4.dita"
                 outputclass="SubPart"
                 props="SUBPART 5214.4"
@@ -1874,7 +1882,7 @@
              xtrf="Part"
              tables="0"
              figures="0">
-      <topicref navtitle="SUBPART 5215.2 — SOLICITATION AND RECEIPT OF PROPOSALS AND INFORMATION"
+      <topicref navtitle="SUBPART 5215.2 â€” SOLICITATION AND RECEIPT OF PROPOSALS AND INFORMATION"
                 href="SUBPART_5215.2.dita"
                 outputclass="SubPart"
                 props="SUBPART 5215.2"
@@ -1894,7 +1902,7 @@
                    xtrc="NMCARS_5215.204.html"
                    tables="0"
                    figures="0">
-            <topicref navtitle="5215.204-5 Part IV––Representations and Instructions."
+            <topicref navtitle="5215.204-5 Part IVâ€“â€“Representations and Instructions."
                       href="5215.2045.dita"
                       outputclass="subtopic"
                       props="5215.204-5"
@@ -1906,7 +1914,7 @@
                       figures="0"/>
          </topicref>
       </topicref>
-      <topicref navtitle="SUBPART 5215.3 — SOURCE SELECTION"
+      <topicref navtitle="SUBPART 5215.3 â€” SOURCE SELECTION"
                 href="SUBPART_5215.3.dita"
                 outputclass="SubPart"
                 props="SUBPART 5215.3"
@@ -1967,7 +1975,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5215.4 — CONTRACT PRICING"
+      <topicref navtitle="SUBPART 5215.4 â€” CONTRACT PRICING"
                 href="SUBPART_5215.4.dita"
                 outputclass="SubPart"
                 props="SUBPART 5215.4"
@@ -2060,7 +2068,7 @@
                       figures="0"/>
          </topicref>
       </topicref>
-      <topicref navtitle="SUBPART 5215.6 — UNSOLICITED PROPOSALS"
+      <topicref navtitle="SUBPART 5215.6 â€” UNSOLICITED PROPOSALS"
                 href="SUBPART_5215.6.dita"
                 outputclass="SubPart"
                 props="SUBPART 5215.6"
@@ -2091,7 +2099,7 @@
              xtrf="Part"
              tables="0"
              figures="0">
-      <topicref navtitle="SUBPART 5216.2 — FIXED–PRICE CONTRACTS"
+      <topicref navtitle="SUBPART 5216.2 â€” FIXEDâ€“PRICE CONTRACTS"
                 href="SUBPART_5216.2.dita"
                 outputclass="SubPart"
                 props="SUBPART 5216.2"
@@ -2101,7 +2109,7 @@
                 xtrc="NMCARS_SUBPART_5216.2.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="5216.202-90 Firm–fixed–price contracts."
+         <topicref navtitle="5216.202-90 Firmâ€“fixedâ€“price contracts."
                    href="5216.20290.dita"
                    outputclass="subtopic"
                    props="5216.202-90"
@@ -2112,7 +2120,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5216.3 — COST–REIMBURSEMENT CONTRACTS"
+      <topicref navtitle="SUBPART 5216.3 â€” COSTâ€“REIMBURSEMENT CONTRACTS"
                 href="SUBPART_5216.3.dita"
                 outputclass="SubPart"
                 props="SUBPART 5216.3"
@@ -2122,7 +2130,7 @@
                 xtrc="NMCARS_SUBPART_5216.3.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="5216.306 Cost–plus–fixed–fee contracts."
+         <topicref navtitle="5216.306 Costâ€“plusâ€“fixedâ€“fee contracts."
                    href="5216.306.dita"
                    outputclass="subtopic"
                    props="5216.306"
@@ -2133,7 +2141,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5216.4 — INCENTIVE CONTRACTS"
+      <topicref navtitle="SUBPART 5216.4 â€” INCENTIVE CONTRACTS"
                 href="SUBPART_5216.4.dita"
                 outputclass="SubPart"
                 props="SUBPART 5216.4"
@@ -2154,7 +2162,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5216.5 — INDEFINITE–DELIVERY CONTRACTS"
+      <topicref navtitle="SUBPART 5216.5 â€” INDEFINITEâ€“DELIVERY CONTRACTS"
                 href="SUBPART_5216.5.dita"
                 outputclass="SubPart"
                 props="SUBPART 5216.5"
@@ -2164,7 +2172,7 @@
                 xtrc="NMCARS_SUBPART_5216.5.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="5216.504 Indefinite–quantity contracts."
+         <topicref navtitle="5216.504 Indefiniteâ€“quantity contracts."
                    href="5216.504.dita"
                    outputclass="subtopic"
                    props="5216.504"
@@ -2205,7 +2213,7 @@
              xtrf="Part"
              tables="0"
              figures="0">
-      <topicref navtitle="SUBPART 5217.1 — MULTI–YEAR CONTRACTING"
+      <topicref navtitle="SUBPART 5217.1 â€” MULTIâ€“YEAR CONTRACTING"
                 href="SUBPART_5217.1.dita"
                 outputclass="SubPart"
                 props="SUBPART 5217.1"
@@ -2288,7 +2296,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5217.2 — OPTIONS"
+      <topicref navtitle="SUBPART 5217.2 â€” OPTIONS"
                 href="SUBPART_5217.2.dita"
                 outputclass="SubPart"
                 props="SUBPART 5217.2"
@@ -2329,7 +2337,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5217.5 — INTERAGENCY ACQUISITIONS"
+      <topicref navtitle="SUBPART 5217.5 â€” INTERAGENCY ACQUISITIONS"
                 href="SUBPART_5217.5.dita"
                 outputclass="SubPart"
                 props="SUBPART 5217.5"
@@ -2371,7 +2379,7 @@
                       figures="0"/>
          </topicref>
       </topicref>
-      <topicref navtitle="SUBPART 5217.7 — INTERAGENCY ACQUISITIONS: ACQUISITIONS BY NONDEFENSE AGENCIES ON BEHALF OF THE DEPARTMENT OF DEFENSE"
+      <topicref navtitle="SUBPART 5217.7 â€” INTERAGENCY ACQUISITIONS: ACQUISITIONS BY NONDEFENSE AGENCIES ON BEHALF OF THE DEPARTMENT OF DEFENSE"
                 href="SUBPART_5217.7.dita"
                 outputclass="SubPart"
                 props="SUBPART 5217.7"
@@ -2402,7 +2410,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5217.74 — UNDEFINITIZED CONTRACT ACTIONS"
+      <topicref navtitle="SUBPART 5217.74 â€” UNDEFINITIZED CONTRACT ACTIONS"
                 href="SUBPART_5217.74.dita"
                 outputclass="SubPart"
                 props="SUBPART 5217.74"
@@ -2475,7 +2483,7 @@
              xtrf="Part"
              tables="0"
              figures="0">
-      <topicref navtitle="SUBPART 5219.2 — POLICIES"
+      <topicref navtitle="SUBPART 5219.2 â€” POLICIES"
                 href="SUBPART_5219.2.dita"
                 outputclass="SubPart"
                 props="SUBPART 5219.2"
@@ -2517,7 +2525,7 @@
                       figures="0"/>
          </topicref>
       </topicref>
-      <topicref navtitle="SUBPART 5219.4 — COOPERATION WITH THE SMALL BUSINESS ADMINISTRATION"
+      <topicref navtitle="SUBPART 5219.4 â€” COOPERATION WITH THE SMALL BUSINESS ADMINISTRATION"
                 href="5219.4.dita"
                 outputclass="SubPart"
                 props="SUBPART 5219.4"
@@ -2538,7 +2546,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5219.5 — SMALL BUSINESS TOTAL SET-ASIDES, PARTIAL SET-ASIDES, AND RESERVES"
+      <topicref navtitle="SUBPART 5219.5 â€” SMALL BUSINESS TOTAL SET-ASIDES, PARTIAL SET-ASIDES, AND RESERVES"
                 href="SUBPART_5219.5.dita"
                 outputclass="SubPart"
                 props="SUBPART 5219.5"
@@ -2559,7 +2567,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5219.7 —THE SMALL BUSINESS SUBCONTRACTING PROGRAM"
+      <topicref navtitle="SUBPART 5219.7 â€”THE SMALL BUSINESS SUBCONTRACTING PROGRAM"
                 href="SUBPART_5219.7.dita"
                 outputclass="SubPart"
                 props="SUBPART 5219.7"
@@ -2591,7 +2599,7 @@
                       figures="0"/>
          </topicref>
       </topicref>
-      <topicref navtitle="SUBPART 5219.8 —CONTRACTING WITH THE SMALL BUSINESS ADMINISTRATION (THE 8(a) PROGRAM)"
+      <topicref navtitle="SUBPART 5219.8 â€”CONTRACTING WITH THE SMALL BUSINESS ADMINISTRATION (THE 8(a) PROGRAM)"
                 href="SUBPART_5219.8.dita"
                 outputclass="SubPart"
                 props="SUBPART 5219.8"
@@ -2643,7 +2651,7 @@
              xtrf="Part"
              tables="0"
              figures="0">
-      <topicref navtitle="SUBPART 5222.1 — BASIC LABOR POLICIES"
+      <topicref navtitle="SUBPART 5222.1 â€” BASIC LABOR POLICIES"
                 href="SUBPART_5222.1.dita"
                 outputclass="SubPart"
                 props="SUBPART 5222.1"
@@ -2737,7 +2745,7 @@
                       figures="0"/>
          </topicref>
       </topicref>
-      <topicref navtitle="SUBPART 5222.3 —CONTRACT WORK HOURS AND SAFETY STANDARDS ACT"
+      <topicref navtitle="SUBPART 5222.3 â€”CONTRACT WORK HOURS AND SAFETY STANDARDS ACT"
                 href="SUBPART_5222.3.dita"
                 outputclass="SubPart"
                 props="SUBPART 5222.3"
@@ -2758,7 +2766,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5222.4 —LABOR STANDARDS FOR CONTRACTS INVOLVING CONSTRUCTION"
+      <topicref navtitle="SUBPART 5222.4 â€”LABOR STANDARDS FOR CONTRACTS INVOLVING CONSTRUCTION"
                 href="SUBPART_5222.4.dita"
                 outputclass="SubPart"
                 props="SUBPART 5222.4"
@@ -2800,7 +2808,7 @@
                       figures="0"/>
          </topicref>
       </topicref>
-      <topicref navtitle="SUBPART 5222.10 —SERVICE CONTRACT LABOR STANDARDS"
+      <topicref navtitle="SUBPART 5222.10 â€”SERVICE CONTRACT LABOR STANDARDS"
                 href="SUBPART_5222.10.dita"
                 outputclass="SubPart"
                 props="SUBPART 5222.10"
@@ -2821,7 +2829,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5222.11 — PROFESSIONAL EMPLOYEE COMPENSATION"
+      <topicref navtitle="SUBPART 5222.11 â€” PROFESSIONAL EMPLOYEE COMPENSATION"
                 href="SUBPART_5222.11.dita"
                 outputclass="SubPart"
                 props="SUBPART 5222.11"
@@ -2842,7 +2850,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5222.70 —RESTRICTIONS ON THE EMPLOYMENT OF PERSONNEL FOR WORK ON CONSTRUCTION AND SERVICE CONTRACTS IN NONCONTIGUOUS STATES"
+      <topicref navtitle="SUBPART 5222.70 â€”RESTRICTIONS ON THE EMPLOYMENT OF PERSONNEL FOR WORK ON CONSTRUCTION AND SERVICE CONTRACTS IN NONCONTIGUOUS STATES"
                 href="SUBPART_5222.70.dita"
                 outputclass="SubPart"
                 props="SUBPART 5222.70"
@@ -2863,7 +2871,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5222.74 —RESTRICTIONS ON THE USE OF MANDATORY ARBITRATION AGREEMENTS"
+      <topicref navtitle="SUBPART 5222.74 â€”RESTRICTIONS ON THE USE OF MANDATORY ARBITRATION AGREEMENTS"
                 href="SUBPART_5222.74.dita"
                 outputclass="SubPart"
                 props="SUBPART 5222.74"
@@ -2884,7 +2892,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5222.90 — DEPARTMENT OF THE NAVY NON–CONSTRUCTION CONTRACTS CONTAINING CONSTRUCTION WORK"
+      <topicref navtitle="SUBPART 5222.90 â€” DEPARTMENT OF THE NAVY NONâ€“CONSTRUCTION CONTRACTS CONTAINING CONSTRUCTION WORK"
                 href="SUBPART_5222.90.dita"
                 outputclass="SubPart"
                 props="SUBPART 5222.90"
@@ -2894,7 +2902,7 @@
                 xtrc="NMCARS_SUBPART_5222.90.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="5222.9000 Department of the Navy non–construction contracts containing construction work."
+         <topicref navtitle="5222.9000 Department of the Navy nonâ€“construction contracts containing construction work."
                    href="5222.9000.dita"
                    outputclass="subtopic"
                    props="5222.9000"
@@ -2906,7 +2914,7 @@
                    figures="0"/>
       </topicref>
    </topicref>
-   <topicref navtitle="PART 5223 ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG–FREE WORKPLACE"
+   <topicref navtitle="PART 5223 ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUGâ€“FREE WORKPLACE"
              href="PART_5223.dita"
              outputclass="Part"
              props="PART 5223"
@@ -2915,7 +2923,7 @@
              xtrf="Part"
              tables="0"
              figures="0">
-      <topicref navtitle="SUBPART 5223.3 — HAZARDOUS MATERIAL IDENTIFICATION AND MATERIAL SAFETY DATA"
+      <topicref navtitle="SUBPART 5223.3 â€” HAZARDOUS MATERIAL IDENTIFICATION AND MATERIAL SAFETY DATA"
                 href="SUBPART_5223.3.dita"
                 outputclass="SubPart"
                 props="SUBPART 5223.3"
@@ -2957,7 +2965,7 @@
                       figures="0"/>
          </topicref>
       </topicref>
-      <topicref navtitle="SUBPART 5223.4 — USE OF RECOVERED MATERIALS AND BIOBASED PRODUCTS"
+      <topicref navtitle="SUBPART 5223.4 â€” USE OF RECOVERED MATERIALS AND BIOBASED PRODUCTS"
                 href="SUBPART_5223.4.dita"
                 outputclass="SubPart"
                 props="SUBPART 5223.4"
@@ -2978,7 +2986,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5223.5 — DRUG–FREE WORKPLACE"
+      <topicref navtitle="SUBPART 5223.5 â€” DRUGâ€“FREE WORKPLACE"
                 href="SUBPART_5223.5.dita"
                 outputclass="SubPart"
                 props="SUBPART 5223.5"
@@ -2999,7 +3007,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5223.8 —OZONE-DEPLETING SUBSTANCES AND GREENHOUSE GASES"
+      <topicref navtitle="SUBPART 5223.8 â€”OZONE-DEPLETING SUBSTANCES AND GREENHOUSE GASES"
                 href="SUBPART_5223.8.dita"
                 outputclass="SubPart"
                 props="SUBPART 5223.8"
@@ -3030,7 +3038,7 @@
              xtrf="Part"
              tables="0"
              figures="0">
-      <topicref navtitle="SUBPART 5225.1 — BUY AMERICAN ACT–SUPPLIES"
+      <topicref navtitle="SUBPART 5225.1 â€” BUY AMERICAN ACTâ€“SUPPLIES"
                 href="SUBPART_5225.1.dita"
                 outputclass="SubPart"
                 props="SUBPART 5225.1"
@@ -3051,7 +3059,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5225.2 —BUY AMERICAN ACT–CONSTRUCTION MATERIALS"
+      <topicref navtitle="SUBPART 5225.2 â€”BUY AMERICAN ACTâ€“CONSTRUCTION MATERIALS"
                 href="SUBPART_5225.2.dita"
                 outputclass="SubPart"
                 props="SUBPART 5225.2"
@@ -3072,7 +3080,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5225.3 – Contracts Performed Outside the United States"
+      <topicref navtitle="SUBPART 5225.3 â€“ Contracts Performed Outside the United States"
                 href="SUBPART_5225.3.dita"
                 outputclass="SubPart"
                 props="SUBPART 5225.3"
@@ -3093,7 +3101,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5225.4 —TRADE AGREEMENTS"
+      <topicref navtitle="SUBPART 5225.4 â€”TRADE AGREEMENTS"
                 href="SUBPART_5225.4.dita"
                 outputclass="SubPart"
                 props="SUBPART 5225.4"
@@ -3124,7 +3132,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5225.7 —PROHIBITED SOURCES"
+      <topicref navtitle="SUBPART 5225.7 â€”PROHIBITED SOURCES"
                 href="SUBPART_5225.7.dita"
                 outputclass="SubPart"
                 props="SUBPART 5225.7"
@@ -3189,8 +3197,8 @@
          <topicref navtitle="5225.771 Prohibition on contracting or subcontracting with a firm that is owned or controlled by the government of a country that is a state sponsor of terrorism."
                    href="5225.771.dita"
                    outputclass="subtopic"
-                   props="5225.771"
-                   audience="NMCARS_5225.772"
+                   props="5225.772Prohibitiononacquisitionofcertainforeigncommercialsatelliteservices."
+                   audience="NMCARS_5225.771"
                    base="NoTitle"
                    xtrf="subtopic"
                    xtrc="NMCARS_5225.771.html"
@@ -3218,8 +3226,10 @@
                       figures="0"/>
          </topicref>
          <topicref href="5225.772.dita"
-                   props="5225.772"
+                   props="5225.772Prohibitiononacquisitionofcertainforeigncommercialsatelliteservices."
                    audience="NMCARS_5225.772"
+                   xtrc="NMCARS_5225.772.html"
+                   navtitle="5225.772 Prohibition on acquisition of certain       foreign commercial satellite services."
                    tables="0"
                    figures="0">
             <topicref navtitle="5225.772-3 Procedures."
@@ -3244,7 +3254,7 @@
                       figures="0"/>
          </topicref>
       </topicref>
-      <topicref navtitle="SUBPART 5225.8 —OTHER INTERNATIONAL AGREEMENTS AND COORDINATION"
+      <topicref navtitle="SUBPART 5225.8 â€”OTHER INTERNATIONAL AGREEMENTS AND COORDINATION"
                 href="SUBPART_5225.8.dita"
                 outputclass="SubPart"
                 props="SUBPART 5225.8"
@@ -3338,7 +3348,7 @@
                       figures="0"/>
          </topicref>
       </topicref>
-      <topicref navtitle="SUBPART 5225.70 —AUTHORIZATION ACTS, APPROPRIATIONS ACTS, AND OTHER STATUTORY RESTRICTIONS ON FOREIGN ACQUISITION"
+      <topicref navtitle="SUBPART 5225.70 â€”AUTHORIZATION ACTS, APPROPRIATIONS ACTS, AND OTHER STATUTORY RESTRICTIONS ON FOREIGN ACQUISITION"
                 href="SUBPART_5225.70.dita"
                 outputclass="SubPart"
                 props="SUBPART 5225.70"
@@ -3463,7 +3473,7 @@
                    xtrc="NMCARS_5225.7012.html"
                    tables="0"
                    figures="0">
-            <topicref navtitle="5225.7012-2 (DFARS 225.7012–2) Waiver."
+            <topicref navtitle="5225.7012-2 (DFARS 225.7012â€“2) Waiver."
                       href="5225.70122.dita"
                       outputclass="subtopic"
                       props="5225.7012-2"
@@ -3496,7 +3506,7 @@
                       figures="0"/>
          </topicref>
       </topicref>
-      <topicref navtitle="SUBPART 5225.73 —ACQUISITIONS FOR FOREIGN MILITARY SALES"
+      <topicref navtitle="SUBPART 5225.73 â€”ACQUISITIONS FOR FOREIGN MILITARY SALES"
                 href="SUBPART_5225.73.dita"
                 outputclass="SubPart"
                 props="SUBPART 5225.73"
@@ -3528,7 +3538,7 @@
                       figures="0"/>
          </topicref>
       </topicref>
-      <topicref navtitle="SUBPART 5225.76 —SECONDARY ARAB BOYCOTT OF ISRAEL"
+      <topicref navtitle="SUBPART 5225.76 â€”SECONDARY ARAB BOYCOTT OF ISRAEL"
                 href="SUBPART_5225.76.dita"
                 outputclass="SubPart"
                 props="SUBPART 5225.76"
@@ -3549,7 +3559,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5225.77 — ACQUISITIONS IN SUPPORT OF OPERATIONS IN AFGHANISTAN"
+      <topicref navtitle="SUBPART 5225.77 â€” ACQUISITIONS IN SUPPORT OF OPERATIONS IN AFGHANISTAN"
                 href="SUBPART_5225.77.dita"
                 outputclass="SubPart"
                 props="SUBPART 5225.77"
@@ -3580,7 +3590,7 @@
              xtrf="Part"
              tables="0"
              figures="0">
-      <topicref navtitle="SUBPART 5227.70 —INFRINGEMENT CLAIMS, LICENSES, AND ASSIGNMENTS"
+      <topicref navtitle="SUBPART 5227.70 â€”INFRINGEMENT CLAIMS, LICENSES, AND ASSIGNMENTS"
                 href="SUBPART_5227.70.dita"
                 outputclass="SubPart"
                 props="SUBPART 5227.70"
@@ -3601,7 +3611,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5227.90 —TRADEMARK RIGHTS UNDER GOVERNMENT CONTRACTS"
+      <topicref navtitle="SUBPART 5227.90 â€”TRADEMARK RIGHTS UNDER GOVERNMENT CONTRACTS"
                 href="SUBPART_5227.90.dita"
                 outputclass="SubPart"
                 props="SUBPART 5227.90"
@@ -3632,7 +3642,7 @@
              xtrf="Part"
              tables="0"
              figures="0">
-      <topicref navtitle="SUBPART 5228.3 —INSURANCE"
+      <topicref navtitle="SUBPART 5228.3 â€”INSURANCE"
                 href="SUBPART_5228.3.dita"
                 outputclass="SubPart"
                 props="SUBPART 5228.3"
@@ -3673,7 +3683,7 @@
                       tables="0"
                       figures="0"/>
          </topicref>
-         <topicref navtitle="5228.305 Overseas workers' compensation and war–hazard insurance."
+         <topicref navtitle="5228.305 Overseas workers' compensation and warâ€“hazard insurance."
                    href="5228.305.dita"
                    outputclass="subtopic"
                    props="5228.305"
@@ -3683,7 +3693,7 @@
                    xtrc="NMCARS_5228.305.html"
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5228.307 Insurance under cost–reimbursement contracts."
+         <topicref navtitle="5228.307 Insurance under costâ€“reimbursement contracts."
                    href="5228.307.dita"
                    outputclass="subtopic"
                    props="5228.307"
@@ -3715,7 +3725,7 @@
                       figures="0"/>
          </topicref>
       </topicref>
-      <topicref navtitle="SUBPART 5228.90 —INSURANCE UNDER LEASES"
+      <topicref navtitle="SUBPART 5228.90 â€”INSURANCE UNDER LEASES"
                 href="SUBPART_5228.90.dita"
                 outputclass="SubPart"
                 props="SUBPART 5228.90"
@@ -3776,7 +3786,7 @@
              xtrf="Part"
              tables="0"
              figures="0">
-      <topicref navtitle="SUBPART 5229.3 —STATE AND LOCAL TAXES"
+      <topicref navtitle="SUBPART 5229.3 â€”STATE AND LOCAL TAXES"
                 href="SUBPART_5229.3.dita"
                 outputclass="SubPart"
                 props="SUBPART 5229.3"
@@ -3807,7 +3817,7 @@
              xtrf="Part"
              tables="0"
              figures="0">
-      <topicref navtitle="SUBPART 5230.2 —CAS PROGRAM REQUIREMENTS"
+      <topicref navtitle="SUBPART 5230.2 â€”CAS PROGRAM REQUIREMENTS"
                 href="SUBPART_5230.2.dita"
                 outputclass="SubPart"
                 props="SUBPART 5230.2"
@@ -3870,7 +3880,7 @@
              xtrf="Part"
              tables="0"
              figures="0">
-      <topicref navtitle="SUBPART 5231.1 — APPLICABILITY"
+      <topicref navtitle="SUBPART 5231.1 â€” APPLICABILITY"
                 href="SUBPART_5231.1.dita"
                 outputclass="SubPart"
                 props="SUBPART 5231.1"
@@ -3891,7 +3901,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5231.2 — CONTRACTS WITH COMMERCIAL ORGANIZATIONS"
+      <topicref navtitle="SUBPART 5231.2 â€” CONTRACTS WITH COMMERCIAL ORGANIZATIONS"
                 href="SUBPART_5231.2.dita"
                 outputclass="SubPart"
                 props="SUBPART 5231.2"
@@ -3943,7 +3953,7 @@
              xtrf="Part"
              tables="0"
              figures="0">
-      <topicref navtitle="SUBPART 5232.2 — COMMERCIAL ITEM PURCHASE FINANCING"
+      <topicref navtitle="SUBPART 5232.2 â€” COMMERCIAL ITEM PURCHASE FINANCING"
                 href="SUBPART_5232.2.dita"
                 outputclass="SubPart"
                 props="SUBPART 5232.2"
@@ -3975,7 +3985,7 @@
                       figures="0"/>
          </topicref>
       </topicref>
-      <topicref navtitle="SUBPART 5232.4 — ADVANCE PAYMENTS FOR NON–COMMERCIAL ITEMS"
+      <topicref navtitle="SUBPART 5232.4 â€” ADVANCE PAYMENTS FOR NONâ€“COMMERCIAL ITEMS"
                 href="SUBPART_5232.4.dita"
                 outputclass="SubPart"
                 props="SUBPART 5232.4"
@@ -3996,7 +4006,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5232.5 — PROGRESS PAYMENTS BASED ON COSTS"
+      <topicref navtitle="SUBPART 5232.5 â€” PROGRESS PAYMENTS BASED ON COSTS"
                 href="SUBPART_5232.5.dita"
                 outputclass="SubPart"
                 props="SUBPART 5232.5"
@@ -4028,7 +4038,7 @@
                       figures="0"/>
          </topicref>
       </topicref>
-      <topicref navtitle="SUBPART 5232.6 — CONTRACT DEBTS"
+      <topicref navtitle="SUBPART 5232.6 â€” CONTRACT DEBTS"
                 href="SUBPART_5232.6.dita"
                 outputclass="SubPart"
                 props="SUBPART 5232.6"
@@ -4070,7 +4080,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5232.70 — ELECTRONIC SUBMISSION AND PROCESSING OF PAYMENT REQUESTS AND RECEIVING REPORTS"
+      <topicref navtitle="SUBPART 5232.70 â€” ELECTRONIC SUBMISSION AND PROCESSING OF PAYMENT REQUESTS AND RECEIVING REPORTS"
                 href="SUBPART_5232.70.dita"
                 outputclass="SubPart"
                 props="SUBPART 5232.70"
@@ -4101,7 +4111,7 @@
              xtrf="Part"
              tables="0"
              figures="0">
-      <topicref navtitle="SUBPART 5233.1 — PROTESTS"
+      <topicref navtitle="SUBPART 5233.1 â€” PROTESTS"
                 href="SUBPART_5233.1.dita"
                 outputclass="SubPart"
                 props="SUBPART 5233.1"
@@ -4142,7 +4152,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5233.2 — DISPUTES AND APPEALS"
+      <topicref navtitle="SUBPART 5233.2 â€” DISPUTES AND APPEALS"
                 href="SUBPART_5233.2.dita"
                 outputclass="SubPart"
                 props="SUBPART 5233.2"
@@ -4214,7 +4224,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5233.90 — PROCEDURES"
+      <topicref navtitle="SUBPART 5233.90 â€” PROCEDURES"
                 href="SUBPART_5233.90.dita"
                 outputclass="SubPart"
                 props="SUBPART 5233.90"
@@ -4276,7 +4286,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5234.70 — ACQUISITION OF MAJOR WEAPON SYSTEMS AS COMMERCIAL ITEMS"
+      <topicref navtitle="SUBPART 5234.70 â€” ACQUISITION OF MAJOR WEAPON SYSTEMS AS COMMERCIAL ITEMS"
                 href="SUBPART_5234.70.dita"
                 outputclass="SubPart"
                 props="SUBPART 5234.70"
@@ -4360,7 +4370,7 @@
                    figures="0"/>
       </topicref>
    </topicref>
-   <topicref navtitle="PART 5236 CONSTRUCTION AND ARCHITECT–ENGINEER CONTRACTS"
+   <topicref navtitle="PART 5236 CONSTRUCTION AND ARCHITECTâ€“ENGINEER CONTRACTS"
              href="PART_5236.dita"
              outputclass="Part"
              props="PART 5236"
@@ -4369,7 +4379,7 @@
              xtrf="Part"
              tables="0"
              figures="0">
-      <topicref navtitle="SUBPART 5236.2 — SPECIAL ASPECTS OF CONTRACTING FOR CONSTRUCTION"
+      <topicref navtitle="SUBPART 5236.2 â€” SPECIAL ASPECTS OF CONTRACTING FOR CONSTRUCTION"
                 href="SUBPART_5236.2.dita"
                 outputclass="SubPart"
                 props="SUBPART 5236.2"
@@ -4390,7 +4400,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5236.6 — ARCHITECT–ENGINEER SERVICES"
+      <topicref navtitle="SUBPART 5236.6 â€” ARCHITECTâ€“ENGINEER SERVICES"
                 href="SUBPART_5236.6.dita"
                 outputclass="SubPart"
                 props="SUBPART 5236.6"
@@ -4421,7 +4431,7 @@
              xtrf="Part"
              tables="0"
              figures="0">
-      <topicref navtitle="SUBPART 5237.1 — SERVICE CONTRACTS GENERAL"
+      <topicref navtitle="SUBPART 5237.1 â€” SERVICE CONTRACTS GENERAL"
                 href="SUBPART_5237.1.dita"
                 outputclass="SubPart"
                 props="SUBPART 5237.1"
@@ -4504,7 +4514,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5237.2 — ADVISORY AND ASSISTANCE SERVICES"
+      <topicref navtitle="SUBPART 5237.2 â€” ADVISORY AND ASSISTANCE SERVICES"
                 href="SUBPART_5237.2.dita"
                 outputclass="SubPart"
                 props="SUBPART 5237.2"
@@ -4525,7 +4535,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5237.5 — MANAGEMENT OVERSIGHT OF SERVICE CONTRACTS"
+      <topicref navtitle="SUBPART 5237.5 â€” MANAGEMENT OVERSIGHT OF SERVICE CONTRACTS"
                 href="SUBPART_5237.5.dita"
                 outputclass="SubPart"
                 props="SUBPART 5237.5"
@@ -4545,7 +4555,7 @@
                    xtrc="NMCARS_5237.502.html"
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5237.503 Agency–head responsibilities."
+         <topicref navtitle="5237.503 Agencyâ€“head responsibilities."
                    href="5237.503.dita"
                    outputclass="subtopic"
                    props="5237.503"
@@ -4555,7 +4565,7 @@
                    xtrc="NMCARS_5237.503.html"
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5237.504 Contracting official’s responsibilities."
+         <topicref navtitle="5237.504 Contracting officialâ€™s responsibilities."
                    href="5237.504.dita"
                    outputclass="subtopic"
                    props="5237.504"
@@ -4566,7 +4576,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5237.76 — CONTINUATION OF ESSENTIAL CONTRACTOR SERVICES"
+      <topicref navtitle="SUBPART 5237.76 â€” CONTINUATION OF ESSENTIAL CONTRACTOR SERVICES"
                 href="SUBPART_5237.76.dita"
                 outputclass="SubPart"
                 props="SUBPART 5237.76"
@@ -4587,7 +4597,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5237.90 —CONTRACTOR GUARD SERVICES"
+      <topicref navtitle="SUBPART 5237.90 â€”CONTRACTOR GUARD SERVICES"
                 href="SUBPART_5237.90.dita"
                 outputclass="SubPart"
                 props="SUBPART 5237.90"
@@ -4659,7 +4669,7 @@
              xtrf="Part"
              tables="0"
              figures="0">
-      <topicref navtitle="SUBPART 5241.2 — ACQUIRING UTILITY SERVICES"
+      <topicref navtitle="SUBPART 5241.2 â€” ACQUIRING UTILITY SERVICES"
                 href="SUBPART_5241.2.dita"
                 outputclass="SubPart"
                 props="SUBPART 5241.2"
@@ -4690,7 +4700,7 @@
              xtrf="Part"
              tables="0"
              figures="0">
-      <topicref navtitle="SUBPART 5242.1 — CONTRACT AUDIT SERVICES"
+      <topicref navtitle="SUBPART 5242.1 â€” CONTRACT AUDIT SERVICES"
                 href="SUBPART_5242.1.dita"
                 outputclass="SubPart"
                 props="SUBPART 5242.1"
@@ -4711,11 +4721,11 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5242.6 — CORPORATE ADMINISTRATIVE CONTRACTING OFFICER"
+      <topicref navtitle="SUBPART 5242.6 â€” CORPORATE ADMINISTRATIVE CONTRACTING OFFICER"
                 href="SUBPART_5242.6.dita"
                 outputclass="SubPart"
-                props="SUBPART 5242.6"
-                audience="NMCARS_SUBPART_5242.11"
+                props="SUBPART5242.11PRODUCTIONSURVEILLANCEANDREPORTING"
+                audience="NMCARS_SUBPART_5242.6"
                 base="NoTitle"
                 xtrf="SubPart"
                 xtrc="NMCARS_SUBPART_5242.6.html"
@@ -4733,13 +4743,18 @@
                    figures="0"/>
       </topicref>
       <topicref href="SUBPART_5242.11.dita"
-                props="SUBPART 5242.11"
+                props="SUBPART5242.11PRODUCTIONSURVEILLANCEANDREPORTING"
+                outputclass="SubPart"
                 audience="NMCARS_SUBPART_5242.11"
+                xtrc="NMCARS_SUBPART_5242.11.html"
+                navtitle="SUBPART 5242.11 â€” PRODUCTION SURVEILLANCE AND       REPORTING"
                 tables="0"
                 figures="0">
          <topicref href="5242.1105.dita"
                    props="5242.1105"
                    audience="NMCARS_5242.1105"
+                   xtrc="NMCARS_5242.1105.html"
+                   navtitle="5242.1105 Assignment of criticality       designator."
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4753,7 +4768,7 @@
              xtrf="Part"
              tables="0"
              figures="0">
-      <topicref navtitle="SUBPART 5243.2 — CHANGE ORDERS"
+      <topicref navtitle="SUBPART 5243.2 â€” CHANGE ORDERS"
                 href="SUBPART_5243.2.dita"
                 outputclass="SubPart"
                 props="SUBPART 5243.2"
@@ -4826,7 +4841,7 @@
              xtrf="Part"
              tables="0"
              figures="0">
-      <topicref navtitle="SUBPART 5245.1 — GENERAL"
+      <topicref navtitle="SUBPART 5245.1 â€” GENERAL"
                 href="SUBPART_5245.1.dita"
                 outputclass="SubPart"
                 props="SUBPART 5245.1"
@@ -4868,7 +4883,7 @@
                       figures="0"/>
          </topicref>
       </topicref>
-      <topicref navtitle="SUBPART 5245.6 — REPORTING, REUTILIZATION AND DISPOSAL"
+      <topicref navtitle="SUBPART 5245.6 â€” REPORTING, REUTILIZATION AND DISPOSAL"
                 href="SUBPART_5245.6.dita"
                 outputclass="SubPart"
                 props="SUBPART 5245.6"
@@ -4910,7 +4925,7 @@
              xtrf="Part"
              tables="0"
              figures="0">
-      <topicref navtitle="SUBPART 5246.7 – WARRANTIES"
+      <topicref navtitle="SUBPART 5246.7 â€“ WARRANTIES"
                 href="SUBPART_5246.7.dita"
                 outputclass="SubPart"
                 props="SUBPART 5246.7"
@@ -4961,7 +4976,7 @@
              xtrf="Part"
              tables="0"
              figures="0">
-      <topicref navtitle="SUBPART 5248.1 —POLICIES AND PROCEDURES"
+      <topicref navtitle="SUBPART 5248.1 â€”POLICIES AND PROCEDURES"
                 href="SUBPART_5248.1.dita"
                 outputclass="SubPart"
                 props="SUBPART 5248.1"
@@ -4992,7 +5007,7 @@
              xtrf="Part"
              tables="0"
              figures="0">
-      <topicref navtitle="SUBPART 5249.4 —TERMINATION FOR DEFAULT"
+      <topicref navtitle="SUBPART 5249.4 â€”TERMINATION FOR DEFAULT"
                 href="SUBPART_5249.4.dita"
                 outputclass="SubPart"
                 props="SUBPART 5249.4"
@@ -5002,7 +5017,7 @@
                 xtrc="NMCARS_SUBPART_5249.4.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="5249.402 Termination of fixed–price contracts for default."
+         <topicref navtitle="5249.402 Termination of fixedâ€“price contracts for default."
                    href="5249.402.dita"
                    outputclass="subtopic"
                    props="5249.402"
@@ -5023,7 +5038,7 @@
                       tables="0"
                       figures="0"/>
          </topicref>
-         <topicref navtitle="5249.403 Termination of cost–reimbursement contracts for default."
+         <topicref navtitle="5249.403 Termination of costâ€“reimbursement contracts for default."
                    href="5249.403.dita"
                    outputclass="subtopic"
                    props="5249.403"
@@ -5034,7 +5049,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="SUBPART 5249.70 —SPECIAL TERMINATION REQUIREMENTS"
+      <topicref navtitle="SUBPART 5249.70 â€”SPECIAL TERMINATION REQUIREMENTS"
                 href="SUBPART_5249.70.dita"
                 outputclass="SubPart"
                 props="SUBPART 5249.70"
@@ -5065,7 +5080,7 @@
              xtrf="Part"
              tables="0"
              figures="0">
-      <topicref navtitle="SUBPART 5250.1 — EXTRAORDINARY CONTRACTUAL ACTIONS"
+      <topicref navtitle="SUBPART 5250.1 â€” EXTRAORDINARY CONTRACTUAL ACTIONS"
                 href="SUBPART_5250.1.dita"
                 outputclass="SubPart"
                 props="SUBPART 5250.1"
@@ -5109,7 +5124,7 @@
             <topicref navtitle="5250.102-1-70 Delegations."
                       href="5250.102170.dita"
                       outputclass="subtopic"
-                      props="5250.102-1-70"
+                      props="5250.102-1-70Contractadjustmentboards."
                       audience="NMCARS_5250.102170"
                       base="NoTitle"
                       xtrf="subtopic"
@@ -5119,8 +5134,8 @@
             <topicref navtitle="5250.102-2 Contract adjustment boards."
                       href="5250.1022.dita"
                       outputclass="subtopic"
-                      props="5250.102-2"
-                      audience="NMCARS_5250.102170"
+                      props="5250.102-1-70Contractadjustmentboards."
+                      audience="NMCARS_5250.1022"
                       base="NoTitle"
                       xtrf="subtopic"
                       xtrc="NMCARS_5250.1022.html"
@@ -5190,7 +5205,7 @@
              xtrf="Part"
              tables="0"
              figures="0">
-      <topicref navtitle="SUBPART 5252.2 — TEXT OF PROVISIONS AND CLAUSES"
+      <topicref navtitle="SUBPART 5252.2 â€” TEXT OF PROVISIONS AND CLAUSES"
                 href="SUBPART_5252.2.dita"
                 outputclass="SubPart"
                 props="SUBPART 5252.2"
@@ -5223,7 +5238,7 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref navtitle="ANNEX 1 – JUSTIFICATION AND APPROVAL"
+   <topicref navtitle="ANNEX 1 â€“ JUSTIFICATION AND APPROVAL"
              href="Annex-1.dita"
              outputclass="Part"
              props="ANNEX 1"
@@ -5232,7 +5247,7 @@
              xtrf="Part"
              tables="1"
              figures="0"/>
-   <topicref navtitle="ANNEX 2 – BUSINESS CLEARANCE REQUIRED       CONTENT"
+   <topicref navtitle="ANNEX 2 â€“ BUSINESS CLEARANCE REQUIRED       CONTENT"
              href="Annex-2.dita"
              outputclass="Part"
              props="ANNEX 2"
@@ -5241,7 +5256,7 @@
              xtrf="Part"
              tables="1"
              figures="0"/>
-   <topicref navtitle="ANNEX 3 – DOMESTIC NONAVAILABILITY DETERMINATION AND SUPPORTING DOCUMENTATION"
+   <topicref navtitle="ANNEX 3 â€“ DOMESTIC NONAVAILABILITY DETERMINATION AND SUPPORTING DOCUMENTATION"
              href="Annex-3.dita"
              outputclass="Part"
              props="ANNEX 3"
@@ -5250,7 +5265,7 @@
              xtrf="Part"
              tables="2"
              figures="0"/>
-   <topicref navtitle="ANNEX 4 – SUMMARY OF IMPLEMENTATION OF FISCAL YEAR 2017 NATIONAL       DEFENSE AUTHORIZATION ACT SECTION 233 PILOT PROGRAM FOR THE ENHANCEMENT OF THE RESEARCH,       DEVELOPMENT, TEST, AND EVALUATION CENTERS"
+   <topicref navtitle="ANNEX 4 â€“ SUMMARY OF IMPLEMENTATION OF FISCAL YEAR 2017 NATIONAL       DEFENSE AUTHORIZATION ACT SECTION 233 PILOT PROGRAM FOR THE ENHANCEMENT OF THE RESEARCH,       DEVELOPMENT, TEST, AND EVALUATION CENTERS"
              href="Annex-4.dita"
              outputclass="Part"
              props="ANNEX 4"
@@ -5259,7 +5274,7 @@
              xtrf="Part"
              tables="1"
              figures="0"/>
-   <topicref navtitle="ANNEX 5 – BRIDGE CONTRACT APPROVAL AND REPORTING"
+   <topicref navtitle="ANNEX 5 â€“ BRIDGE CONTRACT APPROVAL AND REPORTING"
              href="Annex-5.dita"
              outputclass="Part"
              props="ANNEX 5"
@@ -5268,7 +5283,7 @@
              xtrf="Part"
              tables="0"
              figures="0"/>
-   <topicref navtitle="ANNEX 6 – CONSOLIDATED UNDEFINITIZED CONTRACT ACTION (UCA) MANAGEMENT REPORT"
+   <topicref navtitle="ANNEX 6 â€“ CONSOLIDATED UNDEFINITIZED CONTRACT ACTION (UCA) MANAGEMENT REPORT"
              href="Annex-6.dita"
              outputclass="Part"
              props="ANNEX 6"
@@ -5277,7 +5292,7 @@
              xtrf="Part"
              tables="0"
              figures="0"/>
-   <topicref navtitle="ANNEX 7 – SECTION 843 DETERMINATION &amp; FINDING TEMPLATE"
+   <topicref navtitle="ANNEX 7 â€“ SECTION 843 DETERMINATION &amp; FINDING TEMPLATE"
              href="Annex-7.dita"
              outputclass="Part"
              props="ANNEX 7"
@@ -5286,7 +5301,7 @@
              xtrf="Part"
              tables="2"
              figures="0"/>
-   <topicref navtitle="ANNEX 8 – PEER REVIEW ROLLING FORECAST"
+   <topicref navtitle="ANNEX 8 â€“ PEER REVIEW ROLLING FORECAST"
              href="Annex-8.dita"
              outputclass="Part"
              props="ANNEX 8"
@@ -5295,7 +5310,7 @@
              xtrf="Part"
              tables="0"
              figures="0"/>
-   <topicref navtitle="ANNEX 9 – GOVERNMENT–FURNISHED PROPERTY PREAWARD COMPLIANCE CHECKLIST"
+   <topicref navtitle="ANNEX 9 â€“ GOVERNMENTâ€“FURNISHED PROPERTY PREAWARD COMPLIANCE CHECKLIST"
              href="Annex-9.dita"
              outputclass="Part"
              props="ANNEX 9"
@@ -5304,7 +5319,7 @@
              xtrf="Part"
              tables="0"
              figures="0"/>
-   <topicref navtitle="ANNEX 10 – NOTICE OF SUSPECTED VIOLATIONS OF THE GRATUITIES CLAUSE"
+   <topicref navtitle="ANNEX 10 â€“ NOTICE OF SUSPECTED VIOLATIONS OF THE GRATUITIES CLAUSE"
              href="Annex-10.dita"
              outputclass="Part"
              props="ANNEX 10"
@@ -5313,7 +5328,7 @@
              xtrf="Part"
              tables="0"
              figures="0"/>
-   <topicref navtitle="ANNEX 11 – [RESERVED]"
+   <topicref navtitle="ANNEX 11 â€“ [RESERVED]"
              href="Annex-11.dita"
              outputclass="Part"
              audience="NMCARS_Annex-11"
@@ -5322,7 +5337,7 @@
              props="Annex 11"
              tables="0"
              figures="0"/>
-   <topicref navtitle="ANNEX 12 – Waiver Request for Appointing a Non–DON Employee as a Contracting Officer"
+   <topicref navtitle="ANNEX 12 â€“ Waiver Request for Appointing a Nonâ€“DON Employee as a Contracting Officer"
              href="Annex-12.dita"
              outputclass="Part"
              props="ANNEX 12"
@@ -5331,7 +5346,7 @@
              xtrf="Part"
              tables="0"
              figures="0"/>
-   <topicref navtitle="ANNEX 13 – [RESERVED]"
+   <topicref navtitle="ANNEX 13 â€“ [RESERVED]"
              href="Annex-13.dita"
              outputclass="Part"
              props="ANNEX 13"
@@ -5349,7 +5364,7 @@
              props="Annex 14"
              tables="2"
              figures="0"/>
-   <topicref navtitle="ANNEX 15 – UAC/RATIFICATION REPORT"
+   <topicref navtitle="ANNEX 15 â€“ UAC/RATIFICATION REPORT"
              href="Annex-15.dita"
              outputclass="Part"
              props="ANNEX 15"
@@ -5358,16 +5373,16 @@
              xtrf="Part"
              tables="1"
              figures="0"/>
-   <topicref navtitle="ANNEX 16 – STATEMENT OF WORK LANGUAGE IMPLEMENTING “THE DIB” MEMO"
+   <topicref navtitle="Annex 16 – STATEMENT OF WORK LANGUAGE IMPLEMENTING “THE DIB” MEMO"
              href="Annex-16.dita"
              outputclass="Part"
              audience="NMCARS_Annex-16"
              base="NoTitle"
              xtrf="Part"
-             props="Annex 14"
+             props="Annex 16"
              tables="0"
              figures="0"/>
-   <topicref navtitle="ANNEX 17 – PROGRAM STREAMLINED ACQUISITION PLAN (PSTRAP)"
+   <topicref navtitle="ANNEX 17 â€“ PROGRAM STREAMLINED ACQUISITION PLAN (PSTRAP)"
              href="Annex-17.dita"
              outputclass="Part"
              props="ANNEX 17"
@@ -5376,7 +5391,7 @@
              xtrf="Part"
              tables="5"
              figures="0"/>
-   <topicref navtitle="ANNEX 18 – INDIVIDUAL STREAMLINED ACQUISITION PLAN (ISTRAP)"
+   <topicref navtitle="ANNEX 18 â€“ INDIVIDUAL STREAMLINED ACQUISITION PLAN (ISTRAP)"
              href="Annex-18.dita"
              outputclass="Part"
              props="ANNEX 18"
@@ -5385,7 +5400,7 @@
              xtrf="Part"
              tables="5"
              figures="0"/>
-   <topicref navtitle="ANNEX 19 – PROGRAM STREAMLINED ACQUISITION PLAN WITH SERVICES (PSTRAP–M)"
+   <topicref navtitle="ANNEX 19 â€“ PROGRAM STREAMLINED ACQUISITION PLAN WITH SERVICES (PSTRAPâ€“M)"
              href="Annex-19.dita"
              outputclass="Part"
              props="ANNEX 19"
@@ -5394,7 +5409,7 @@
              xtrf="Part"
              tables="5"
              figures="0"/>
-   <topicref navtitle="ANNEX 20 – INDIVIDUAL STREAMLINED ACQUISITION PLAN WITH SERVICES       (ISTRAP–M)"
+   <topicref navtitle="ANNEX 20 â€“ INDIVIDUAL STREAMLINED ACQUISITION PLAN WITH SERVICES       (ISTRAPâ€“M)"
              href="Annex-20.dita"
              outputclass="Part"
              props="ANNEX 20"
@@ -5403,7 +5418,7 @@
              xtrf="Part"
              tables="5"
              figures="0"/>
-   <topicref navtitle="ANNEX 21 – MANAGEMENT AND OVERSIGHT PROCESS FOR THE ACQUISITION OF SERVICES – STREAMLINED (MOPAS–S)"
+   <topicref navtitle="ANNEX 21 â€“ MANAGEMENT AND OVERSIGHT PROCESS FOR THE ACQUISITION OF SERVICES â€“ STREAMLINED (MOPASâ€“S)"
              href="Annex-21.dita"
              outputclass="Part"
              props="ANNEX 21"
@@ -5412,7 +5427,7 @@
              xtrf="Part"
              tables="5"
              figures="0"/>
-   <topicref navtitle="ANNEX 22 – SEAPORT ENGINEERING AND PROGRAM MANAGEMENT CATEGORIES"
+   <topicref navtitle="ANNEX 22 â€“ SEAPORT ENGINEERING AND PROGRAM MANAGEMENT CATEGORIES"
              href="Annex-22.dita"
              outputclass="Part"
              props="ANNEX 22"
@@ -5421,7 +5436,7 @@
              xtrf="Part"
              tables="0"
              figures="0"/>
-   <topicref navtitle="ANNEX 23 – DOD WAIVERS OF THE CONTRACTOR EMPLOYEE COMPENSATION CAP"
+   <topicref navtitle="ANNEX 23 â€“ DOD WAIVERS OF THE CONTRACTOR EMPLOYEE COMPENSATION CAP"
              href="Annex-23.dita"
              outputclass="Part"
              props="ANNEX 23"
@@ -5430,7 +5445,7 @@
              xtrf="Part"
              tables="1"
              figures="0"/>
-   <topicref navtitle="ANNEX 24 – CONTRACT CLOSEOUT METRIC REPORT"
+   <topicref navtitle="ANNEX 24 â€“ CONTRACT CLOSEOUT METRIC REPORT"
              href="Annex-24.dita"
              outputclass="Part"
              props="ANNEX 24"
@@ -5439,7 +5454,7 @@
              xtrf="Part"
              tables="0"
              figures="0"/>
-   <topicref navtitle="ANNEX 25 – LONG RANGE ACQUISITION FORECAST"
+   <topicref navtitle="ANNEX 25 â€“ LONG RANGE ACQUISITION FORECAST"
              href="Annex-25.dita"
              outputclass="Part"
              props="ANNEX 25"

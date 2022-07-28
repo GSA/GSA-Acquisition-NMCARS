@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5223.3705"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5223.370-5</ph> Contract clauses.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="jPqUXG" outputclass="Normal" class="- topic/p ">(a) Use the clause at 5252.223-9000, DON ADDITIONAL SAFETY REQUIREMENTS APPLICABLE TO SPECIFIED GOVERNMENT FURNISHED AMMUNITION AND EXPLOSIVES, in solicitations and contracts that:</p>
+      <p id="NuqMWv" outputclass="List2" class="- topic/p ">(1) contain the clause at DFARS 252.223-7002; and</p>
+      <p id="QUNQiO" outputclass="List2" class="- topic/p ">(2) provide as GFM any A&amp;E containing nitrocellulose-based propellants and/or nitrate ester-based materials (such as nitroglycerin,) or other similar A&amp;E with a tendency to become chemically unstable over time;</p>
+      <p id="zomQIP" outputclass="Normal" class="- topic/p ">(b) The HCA may make administrative adjustments to the additional requirements (e.g. specify activity points of contact, adjust specified lead times) or add further measures which increase safety requirements as appropriate.</p>
+   </conbody>
+</concept>

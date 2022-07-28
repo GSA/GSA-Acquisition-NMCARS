@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5205.404"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5205.404</ph> Release of long–range acquisition forecasts.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="Yopsxq" outputclass="Normal" class="- topic/p ">Submit an annual long-range acquisition forecast, using the format provided in Annex 25, to DASN(P) by email at <xref format="mailto"
+               href="mailto:RDAJ&amp;As.fct@navy.mil"
+               scope="external"
+               class="- topic/xref ">RDAJ&amp;As.fct@navy.mil</xref> with the subject “[Activity Name] FAR 5.404 Long Range Acquisition Forecast” by June 20.</p>
+   </conbody>
+</concept>

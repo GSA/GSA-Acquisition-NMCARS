@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="NMCARS_Annex-23">
+      <title class="- topic/title " outputclass="Ctr 1 heading">
+         <ph class="- topic/ph " props="autonumber">ANNEX 23</ph> – DOD WAIVERS OF THE CONTRACTOR EMPLOYEE COMPENSATION CAP</title>
+      <body>
+         <p id="DNTaDL" outputclass="Normal" class="- topic/p ">In accordance with NMCARS 5231.205-91, prepare the report for DOD Waivers of the Contractor Employee Compensation Cap using the directions in this annex unless DPC provides an updated format or direction.</p>
+         <p id="PFUtvj" outputclass="Normal" class="- topic/p ">If no waivers were granted by the activity, submit the following statement in email text using the submission directions in NMCARS 5231.205-91.</p>
+         <p id="iwZorI" outputclass="Normal" class="- topic/p ">“No waivers to section 702 of the Bipartisan Budget Act of 2013 (BBA) were granted by the agency during FY 20XX”.</p>
+         <p id="DGjbAO" outputclass="Normal" class="- topic/p ">If one or more waivers were granted, use the following table format in Microsoft Word to respond to the reporting requirement.</p>
+         <p id="inZcZN" outputclass="normal Ctr" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">Department of the Navy Contractor Employee Compensation Cap Waiver Reporting Template</b>
+         </p>
+         <p id="EBlaLS" outputclass="normal Ctr" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">FY 20XX</b>
+         </p>
+         <p class="- topic/p " id="2xrnP">
+            <table colsep="1" rowsep="1" class="- topic/table ">
+               <tgroup cols="6" colsep="1" class="- topic/tgroup ">
+                  <colspec colname="1"
+                           colnum="1"
+                           rowheader="headers"
+                           class="- topic/colspec "/>
+                  <colspec colname="2"
+                           colnum="2"
+                           rowheader="headers"
+                           class="- topic/colspec "/>
+                  <colspec colname="3"
+                           colnum="3"
+                           rowheader="headers"
+                           class="- topic/colspec "/>
+                  <colspec colname="4"
+                           colnum="4"
+                           rowheader="headers"
+                           class="- topic/colspec "/>
+                  <colspec colname="5"
+                           colnum="5"
+                           rowheader="headers"
+                           class="- topic/colspec "/>
+                  <colspec colname="6"
+                           colnum="6"
+                           rowheader="headers"
+                           class="- topic/colspec "/>
+                  <tbody class="- topic/tbody ">
+                     <row rowsep="1" class="- topic/row ">
+                        <entry morerows="1" class="- topic/entry ">
+                           <p id="mqzwZr" class="- topic/p ">Executive</p>
+                           <p id="PdQnlo" class="- topic/p ">Agency</p>
+                        </entry>
+                        <entry morerows="1" class="- topic/entry ">
+                           <p id="NRGbON" class="- topic/p ">Targeted</p>
+                           <p id="BjmxwA" class="- topic/p ">Excepted</p>
+                           <p id="lKLwsj" class="- topic/p ">Position</p>
+                        </entry>
+                        <entry morerows="1" class="- topic/entry ">
+                           <p id="JlOkSn" class="- topic/p ">Duties/Services</p>
+                           <p id="fQEehT" class="- topic/p ">Performed by</p>
+                           <p id="bExAdc" class="- topic/p ">Employees in</p>
+                           <p id="yHdQhk" class="- topic/p ">Excepted Position</p>
+                        </entry>
+                        <entry morerows="1" class="- topic/entry ">
+                           <p id="aFEBce" class="- topic/p ">Number of</p>
+                           <p id="HpbEpV" class="- topic/p ">Employees</p>
+                           <p id="uRmkic" class="- topic/p ">In Excepted</p>
+                           <p id="WsBYPO" class="- topic/p ">Position</p>
+                        </entry>
+                        <entry nameend="6" namest="5" class="- topic/entry ">
+                           <p id="zCoJXx" class="- topic/p ">Amount of Allowable/</p>
+                           <p id="bAXOFY" class="- topic/p ">Reimbursed Compensation</p>
+                           <p id="mBQChW" class="- topic/p ">Rec’d by <u class="+ topic/ph hi-d/u ">EACH</u> Employee in Excepted Position, listed by Employee</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="XjdGCX" class="- topic/p ">Employee</p>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="xCmZlZ" class="- topic/p ">Reimbursed</p>
+                           <p id="oVKuDt" class="- topic/p ">Compensation Amount</p>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry morerows="3" class="- topic/entry ">
+                           <p id="XMkGvL" class="- topic/p "/>
+                        </entry>
+                        <entry morerows="3" class="- topic/entry ">
+                           <p id="tvIAUX" class="- topic/p "/>
+                        </entry>
+                        <entry morerows="3" class="- topic/entry ">
+                           <p id="JKDunj" class="- topic/p "/>
+                        </entry>
+                        <entry morerows="3" class="- topic/entry ">
+                           <p id="DRaRtw" class="- topic/p "/>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="dQuKKA" class="- topic/p "/>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="lyHXLb" class="- topic/p "/>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="YPRHvG" class="- topic/p "/>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="MeUPBQ" class="- topic/p "/>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="mLXZgN" class="- topic/p "/>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="tYsftG" class="- topic/p "/>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="qgwwph" class="- topic/p "/>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="NBPjHS" class="- topic/p "/>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry morerows="2" class="- topic/entry ">
+                           <p id="vDjibe" class="- topic/p "/>
+                        </entry>
+                        <entry morerows="2" class="- topic/entry ">
+                           <p id="AYbYEn" class="- topic/p "/>
+                        </entry>
+                        <entry morerows="2" class="- topic/entry ">
+                           <p id="CFaKiN" class="- topic/p "/>
+                        </entry>
+                        <entry morerows="2" class="- topic/entry ">
+                           <p id="pqcAXw" class="- topic/p "/>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="JHENAp" class="- topic/p "/>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="lTdsEA" class="- topic/p "/>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="cWytmc" class="- topic/p "/>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="ElIVmn" class="- topic/p "/>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="XeqtlA" class="- topic/p "/>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="FTzCip" class="- topic/p "/>
+                        </entry>
+                     </row>
+                     <row rowsep="1" class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <p id="Itxemf" class="- topic/p "/>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="KAqvgV" class="- topic/p "/>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="xLVTjl" class="- topic/p "/>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="hFZaaR" class="- topic/p "/>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="WSrfGh" class="- topic/p "/>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <p id="lWskoK" class="- topic/p "/>
+                        </entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </p>
+      </body>
+   </topic>
+</dita>

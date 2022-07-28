@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="NMCARS_PART_5246">
+      <title class="- topic/title " outputclass="Ctr 1 heading part">
+         <ph class="- topic/ph " props="autonumber">PART 5246</ph> QUALITY ASSURANCE</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5246.7.dita#NMCARS_SUBPART_5246.7">SUBPART 5246.7 – WARRANTIES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li rev="CHANGE 18-22 JULY 11, 2022">
+                     <p>
+                        <xref outputclass="fm:TOC" href="5246.703.dita#NMCARS_5246.703">5246.703 Criteria for use of warranties.</xref>
+                     </p>
+                  </li>
+                  <li rev="CHANGE 18-22 JULY 11, 2022">
+                     <p>
+                        <xref outputclass="fm:TOC" href="5246.704.dita#NMCARS_5246.704">5246.704 Authority for use of warranties.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5246.706.dita#NMCARS_5246.706">5246.706 Warranty terms and conditions.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

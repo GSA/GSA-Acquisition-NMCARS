@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="NMCARS_PART_5230">
+      <title class="- topic/title " outputclass="1 heading part Ctr">
+         <ph class="- topic/ph " props="autonumber">PART 5230</ph> COST ACCOUNTING STANDARDS ADMINISTRATION</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5230.2.dita#NMCARS_SUBPART_5230.2">SUBPART 5230.2 —CAS PROGRAM REQUIREMENTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5230.201.dita#NMCARS_5230.201">5230.201 Contract requirements.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li rev="CHANGE 18-22 JULY 11, 2022">
+                           <p>
+                              <xref outputclass="fm:TOC" href="5230.2015.dita#NMCARS_5230.2015">5230.201-5 Waiver.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5230.202.dita#NMCARS_5230.202">5230.202 Disclosure requirements.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li rev="CHANGE 18-22 JULY 11, 2022">
+                           <p>
+                              <xref outputclass="fm:TOC" href="5230.2022.dita#NMCARS_5230.2022">5230.202-2 Impracticability of submission.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
