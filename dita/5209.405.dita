@@ -1,38 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="NMCARS_5209.405"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5209.405</ph> Effect of listing.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="jtLUwL" outputclass="Normal" class="- topic/p ">(a) ASN(RDA) shall make the required determination that there is a compelling reason. Submit requests for an ASN(RDA) determination to DASN(P) with justification for the proposed consent action by email at <xref format="mailto"
-               href="mailto:Rdaj&amp;as.fct@navy.mil"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct</u>
-            <u class="+ topic/ph hi-d/u ">@navy.mil</u>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="NMCARS_5209.405" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5209.405</ph> Effect of listing.</title>
+   <conbody>
+      <p id="jtLUwL" outputclass="Normal">(a) ASN(RDA) shall make the required determination that there is a compelling reason. Submit requests for an ASN(RDA) determination to DASN(P) with justification for the proposed consent action by email at <xref format="mailto" href="mailto:Rdaj&amp;as.fct@navy.mil" scope="external">
+            <u>RDAJ&amp;As.fct</u>
+            <u>@navy.mil</u>
          </xref> with the subject “[Activity Name] DFARS 209.405 – Compelling Reason Review and Approval.” DASN(P) shall provide written notification of the determination to the General Services Administration.</p>
-      <p id="JTZPeI" outputclass="Normal" class="- topic/p ">(b)(ii) Submit requests for an agency head exception via DASN(P) with justification that award to Code “H” ineligible contractor is in the paramount interest of the United States by email at <xref format="mailto"
-               href="mailto:Rdaj&amp;as.fct@navy.mil"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct</u>
-            <u class="+ topic/ph hi-d/u ">@navy.mil</u>
+      <p id="JTZPeI" outputclass="Normal">(b)(ii) Submit requests for an agency head exception via DASN(P) with justification that award to Code “H” ineligible contractor is in the paramount interest of the United States by email at <xref format="mailto" href="mailto:Rdaj&amp;as.fct@navy.mil" scope="external">
+            <u>RDAJ&amp;As.fct</u>
+            <u>@navy.mil</u>
          </xref> with the subject “[Activity Name] DFARS 209.405 – Code H Ineligible Facility Review and Approval.”</p>
-      <p id="gmEquA" class="- topic/p ">(e)(2) ASN(RDA) shall make the required determination that there is a compelling reason. Submit requests for an ASN(RDA) determination to DASN(P) with justification for the proposed consideration of the bid by email at <xref format="mailto"
-               href="mailto:RDAJ&amp;As.fct@navy.mil"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct@navy.mil</u>
+      <p id="gmEquA">(e)(2) ASN(RDA) shall make the required determination that there is a compelling reason. Submit requests for an ASN(RDA) determination to DASN(P) with justification for the proposed consideration of the bid by email at <xref format="mailto" href="mailto:RDAJ&amp;As.fct@navy.mil" scope="external">
+            <u>RDAJ&amp;As.fct@navy.mil</u>
          </xref> with subject “[Activity Name] FAR 9.405(e)(2) – Compelling Reason Review and Approval.” DASN(P) shall provide written notification of the determination to the General Services Administration.</p>
-      <p id="eOrYUu" outputclass="List2" class="- topic/p ">(3) ASN(RDA) shall make the required determination that there is a compelling reason. Submit requests for an ASN(RDA) determination to DASN(P) with justification for the proposed consideration of the bid by email at <xref format="mailto"
-               href="mailto:RDAJ&amp;As.fct@navy.mil"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct@navy.mil</u>
+      <p id="eOrYUu" outputclass="List2">(3) ASN(RDA) shall make the required determination that there is a compelling reason. Submit requests for an ASN(RDA) determination to DASN(P) with justification for the proposed consideration of the bid by email at <xref format="mailto" href="mailto:RDAJ&amp;As.fct@navy.mil" scope="external">
+            <u>RDAJ&amp;As.fct@navy.mil</u>
          </xref> with subject “[Activity Name] FAR 9.405(e)(3) – Compelling Reason Review and Approval.” DASN(P) shall provide written notification of the determination to the General Services Administration.</p>
    </conbody>
 </concept>

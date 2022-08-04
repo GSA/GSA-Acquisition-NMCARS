@@ -1,118 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="NMCARS_PART_5233"
-          ditaarch:DITAArchVersion="1.3"
-          class="- topic/topic ">
-      <title class="- topic/title " outputclass="1 Heading Part">
-         <ph class="- topic/ph " props="autonumber">Part 5233</ph> - PROTESTS, DISPUTES, AND APPEALS</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5233.1.dita#NMCARS_SUBPART_5233.1"
-                        class="- topic/xref ">Subpart 5233.1 - PROTESTS</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="NMCARS_PART_5233" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 Heading Part">
+         <ph props="autonumber">Part 5233</ph> - PROTESTS, DISPUTES, AND APPEALS</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5233.1.dita#NMCARS_SUBPART_5233.1">Subpart 5233.1 - PROTESTS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5233.103.dita#NMCARS_5233.103"
-                              class="- topic/xref ">5233.103 Protests to the agency.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5233.103.dita#NMCARS_5233.103">5233.103 Protests to the agency.</xref>
                      </p>
                   </li>
-                  <li rev="CHANGE 18-22 JULY 11, 2022" class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5233.104.dita#NMCARS_5233.104"
-                              class="- topic/xref ">5233.104 Protests to GAO.</xref>
+                  <li rev="CHANGE 18-22 JULY 11, 2022">
+                     <p>
+                        <xref outputclass="fm:TOC" href="5233.104.dita#NMCARS_5233.104">5233.104 Protests to GAO.</xref>
                      </p>
                   </li>
-                  <li rev="CHANGE 18-22 JULY 11, 2022" class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5233.170.dita#NMCARS_5233.170"
-                              class="- topic/xref ">5233.170 Briefing requirement for protested acquisitions valued at $1 billion or more.</xref>
+                  <li rev="CHANGE 18-22 JULY 11, 2022">
+                     <p>
+                        <xref outputclass="fm:TOC" href="5233.170.dita#NMCARS_5233.170">5233.170 Briefing requirement for protested acquisitions valued at $1 billion or more.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5233.2.dita#NMCARS_SUBPART_5233.2"
-                        class="- topic/xref ">Subpart 5233.2 - DISPUTES AND APPEALS</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5233.2.dita#NMCARS_SUBPART_5233.2">Subpart 5233.2 - DISPUTES AND APPEALS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5233.201.dita#NMCARS_5233.201"
-                              class="- topic/xref ">5233.201 Definitions.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5233.201.dita#NMCARS_5233.201">5233.201 Definitions.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5233.203.dita#NMCARS_5233.203"
-                              class="- topic/xref ">5233.203 Applicability.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5233.203.dita#NMCARS_5233.203">5233.203 Applicability.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5233.204.dita#NMCARS_5233.204"
-                              class="- topic/xref ">5233.204 Policy.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5233.204.dita#NMCARS_5233.204">5233.204 Policy.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5233.20490.dita#NMCARS_5233.20490"
-                                    class="- topic/xref ">5233.204-90 General.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5233.20490.dita#NMCARS_5233.20490">5233.204-90 General.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5233.209.dita#NMCARS_5233.209"
-                              class="- topic/xref ">5233.209 Suspected fraudulent claims.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5233.209.dita#NMCARS_5233.209">5233.209 Suspected fraudulent claims.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5233.211.dita#NMCARS_5233.211"
-                              class="- topic/xref ">5233.211 Contracting officer's decision.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5233.211.dita#NMCARS_5233.211">5233.211 Contracting officer's decision.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5233.90.dita#NMCARS_SUBPART_5233.90"
-                        class="- topic/xref ">Subpart 5233.90 - PROCEDURES</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5233.90.dita#NMCARS_SUBPART_5233.90">Subpart 5233.90 - PROCEDURES</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li rev="CHANGE 18-22 JULY 11, 2022" class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5233.9001.dita#NMCARS_5233.9001"
-                              class="- topic/xref ">5233.9001 Claims approval requirements.</xref>
+               <ul otherprops="TOC">
+                  <li rev="CHANGE 18-22 JULY 11, 2022">
+                     <p>
+                        <xref outputclass="fm:TOC" href="5233.9001.dita#NMCARS_5233.9001">5233.9001 Claims approval requirements.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5233.9002.dita#NMCARS_5233.9002"
-                              class="- topic/xref ">5233.9002 Contractor appeals to the Armed Services Board of Contract Appeals (ASBCA).</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5233.9002.dita#NMCARS_5233.9002">5233.9002 Contractor appeals to the Armed Services Board of Contract Appeals (ASBCA).</xref>
                      </p>
                   </li>
                </ul>

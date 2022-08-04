@@ -1,22 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="NMCARS_5212.302"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5212.302</ph> Tailoring of provisions and clauses for the acquisition      of commercial items.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="LUpkwF" outputclass="Normal" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Tailoring inconsistent with customary commercial practice.</i> HCAs may delegate the
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="NMCARS_5212.302" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5212.302</ph> Tailoring of provisions and clauses for the acquisition      of commercial items.</title>
+   <conbody>
+      <p id="LUpkwF" outputclass="Normal">(c) <i>Tailoring inconsistent with customary commercial practice.</i> HCAs may delegate the
          authority to approve waivers under FAR 12.302(c) to no lower than the CCOs at their
          subordinate contracting offices, except ASN(RDA) approval of the waiver is required if any
          additional terms or conditions are to be included. Submit waivers requiring ASN(RDA)
-         approval via DASN(P) by email at <ph class="- topic/ph " rev="CHANGE 18-22 JULY 11, 2022">
-            <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
-                  format="html"
-                  scope="external"
-                  class="- topic/xref ">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+         approval via DASN(P) by email at <ph rev="CHANGE 18-22 JULY 11, 2022">
+            <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil" format="html" scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
          </ph> with the subject
          “[Activity Name] DFARS 212.302 - Waiver—Authority to Add Terms and Conditions Inconsistent
          with Commercial Practice.” All waiver requests shall contain the necessary documentation

@@ -1,113 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="NMCARS_PART_5207"
-          ditaarch:DITAArchVersion="1.3"
-          class="- topic/topic ">
-      <title class="- topic/title " outputclass="Ctr 1 heading part">
-         <ph class="- topic/ph " props="autonumber">Part 5207</ph> - ACQUISITION PLANNING</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5207.1.dita#NMCARS_SUBPART_5207.1"
-                        class="- topic/xref ">Subpart 5207.1 - ACQUISITION PLANS</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="NMCARS_PART_5207" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Ctr 1 heading part">
+         <ph props="autonumber">Part 5207</ph> - ACQUISITION PLANNING</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5207.1.dita#NMCARS_SUBPART_5207.1">Subpart 5207.1 - ACQUISITION PLANS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5207.103.dita#NMCARS_5207.103"
-                              class="- topic/xref ">5207.103 Agency-head responsibilities.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5207.103.dita#NMCARS_5207.103">5207.103 Agency-head responsibilities.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5207.105.dita#NMCARS_5207.105"
-                              class="- topic/xref ">5207.105 Contents of written acquisition plans.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5207.105.dita#NMCARS_5207.105">5207.105 Contents of written acquisition plans.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5207.106.dita#NMCARS_5207.106"
-                              class="- topic/xref ">5207.106 Additional requirements for major systems.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5207.106.dita#NMCARS_5207.106">5207.106 Additional requirements for major systems.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5207.107.dita#NMCARS_5207.107"
-                              class="- topic/xref ">5207.107 Additional requirements for acquisitions involving consolidation, bundling, or substantial bundling.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5207.107.dita#NMCARS_5207.107">5207.107 Additional requirements for acquisitions involving consolidation, bundling, or substantial bundling.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5207.1072.dita#NMCARS_5207.1072"
-                                    class="- topic/xref ">5207.107-2 Consolidation.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5207.1072.dita#NMCARS_5207.1072">5207.107-2 Consolidation.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5207.1073.dita#NMCARS_5207.1073"
-                                    class="- topic/xref ">5207.107-3 Bundling.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5207.1073.dita#NMCARS_5207.1073">5207.107-3 Bundling.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5207.2.dita#NMCARS_SUBPART_5207.2"
-                        class="- topic/xref ">Subpart 5207.2 - PLANNING FOR THE PURCHASE OF SUPPLIES IN ECONOMIC QUANTITIES</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5207.2.dita#NMCARS_SUBPART_5207.2">Subpart 5207.2 - PLANNING FOR THE PURCHASE OF SUPPLIES IN ECONOMIC QUANTITIES</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5207.204.dita#NMCARS_5207.204"
-                              class="- topic/xref ">5207.204 Responsibilities of contracting officers.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5207.204.dita#NMCARS_5207.204">5207.204 Responsibilities of contracting officers.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5207.5.dita#NMCARS_SUBPART_5207.5"
-                        class="- topic/xref ">Subpart 5207.5 - INHERENTLY GOVERNMENTAL FUNCTIONS</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5207.5.dita#NMCARS_SUBPART_5207.5">Subpart 5207.5 - INHERENTLY GOVERNMENTAL FUNCTIONS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5207.503.dita#NMCARS_5207.503"
-                              class="- topic/xref ">5207.503 Policy.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5207.503.dita#NMCARS_5207.503">5207.503 Policy.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5207.70.dita#NMCARS_SUBPART_5207.70"
-                        class="- topic/xref ">Subpart 5207.70 - BUY-TO-BUDGET - ADDITIONAL QUANTITIES OF END ITEMS</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5207.70.dita#NMCARS_SUBPART_5207.70">Subpart 5207.70 - BUY-TO-BUDGET - ADDITIONAL QUANTITIES OF END ITEMS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5207.7002.dita#NMCARS_5207.7002"
-                              class="- topic/xref ">5207.7002 Authority to acquire additional quantities of end items.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5207.7002.dita#NMCARS_5207.7002">5207.7002 Authority to acquire additional quantities of end items.</xref>
                      </p>
                   </li>
                </ul>

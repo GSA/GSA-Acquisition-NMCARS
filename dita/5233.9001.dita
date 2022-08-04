@@ -1,47 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="NMCARS_5233.9001"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5233.9001</ph> Claims approval requirements.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="mqNqKU" outputclass="Normal" class="- topic/p ">(a) All proposed claim settlements in
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="NMCARS_5233.9001" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5233.9001</ph> Claims approval requirements.</title>
+   <conbody>
+      <p id="mqNqKU" outputclass="Normal">(a) All proposed claim settlements in
          excess of $25 million, and final decisions of the contracting officer involving payments in
          an amount greater than $25 million, shall be submitted for review and approval to DASN(P)
-         by email at <ph class="- topic/ph " rev="CHANGE 18-22 JULY 11, 2022">
-            <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
-                  format="html"
-                  scope="external"
-                  class="- topic/xref ">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+         by email at <ph rev="CHANGE 18-22 JULY 11, 2022">
+            <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil" format="html" scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
          </ph> with the subject
          “[Activity Name] NMCARS 5233.9001 – Proposed Claim Settlement &gt;$25M.” Other proposed
          claim settlements and final decisions of the contracting officer shall be reviewed and
          approved as specified by the HCA.</p>
-      <p id="xHzeNW" outputclass="Normal" class="- topic/p ">(b) The supporting documentation submitted to DASN(P) with respect to claim settlements or final decisions of a contracting officer shall include a legal memorandum. As a minimum the required legal memorandum should:</p>
-      <p id="KpkxAQ" outputclass="List2" class="- topic/p ">(1) Analyze the applicability and adequacy of the contractor's legal theory or theories of Government liability;</p>
-      <p id="HoTrKq" outputclass="List2" class="- topic/p ">(2) Analyze and evaluate the presence and adequacy of evidentiary facts satisfying the elements of proof required by such legal theory or theories;</p>
-      <p id="jjFTTZ" outputclass="List2" class="- topic/p ">(3) Analyze the applicability and adequacy of any affirmative defense the Government may have to the contractor's claim, e.g., accord and satisfaction, failure of consideration, fraud, release, laches, statute of limitations; and</p>
-      <p id="wlZuRN" outputclass="List2" class="- topic/p ">(4) Analyze and evaluate the presence of any counterclaims the Government may have against the contractor.</p>
-      <p id="uAbyWX" outputclass="Normal" class="- topic/p ">(c) No settlement commitment or final decision may be made prior to obtaining the required approval.</p>
-      <p id="oztSrX" outputclass="Normal" class="- topic/p ">(d) Primary emphasis should be given to achieving prompt settlement of claims, thereby obviating need for provisional price increases or payments. Provisional price increases or provisional payments against contractor claims may be made when the following documents have been obtained:</p>
-      <p id="EfIScI" outputclass="List2" class="- topic/p ">(1) A legal determination that the contractor is entitled to compensation.</p>
-      <p id="zljAYa" outputclass="List2" class="- topic/p ">(2) Sufficient technical, administrative, and audit analyses to permit such legal determination; and</p>
-      <p id="zMYjxe" outputclass="List2" class="- topic/p ">(3) A determination by the contracting officer with respect to the amount of compensation for which there is entitlement and that the amount of ultimate entitlement to compensation will equal or exceed the amount of the provisional price increase or provisional payment.</p>
-      <p id="gTlWov" outputclass="Normal" class="- topic/p ">(e) When a provisional payment, either
+      <p id="xHzeNW" outputclass="Normal">(b) The supporting documentation submitted to DASN(P) with respect to claim settlements or final decisions of a contracting officer shall include a legal memorandum. As a minimum the required legal memorandum should:</p>
+      <p id="KpkxAQ" outputclass="List2">(1) Analyze the applicability and adequacy of the contractor's legal theory or theories of Government liability;</p>
+      <p id="HoTrKq" outputclass="List2">(2) Analyze and evaluate the presence and adequacy of evidentiary facts satisfying the elements of proof required by such legal theory or theories;</p>
+      <p id="jjFTTZ" outputclass="List2">(3) Analyze the applicability and adequacy of any affirmative defense the Government may have to the contractor's claim, e.g., accord and satisfaction, failure of consideration, fraud, release, laches, statute of limitations; and</p>
+      <p id="wlZuRN" outputclass="List2">(4) Analyze and evaluate the presence of any counterclaims the Government may have against the contractor.</p>
+      <p id="uAbyWX" outputclass="Normal">(c) No settlement commitment or final decision may be made prior to obtaining the required approval.</p>
+      <p id="oztSrX" outputclass="Normal">(d) Primary emphasis should be given to achieving prompt settlement of claims, thereby obviating need for provisional price increases or payments. Provisional price increases or provisional payments against contractor claims may be made when the following documents have been obtained:</p>
+      <p id="EfIScI" outputclass="List2">(1) A legal determination that the contractor is entitled to compensation.</p>
+      <p id="zljAYa" outputclass="List2">(2) Sufficient technical, administrative, and audit analyses to permit such legal determination; and</p>
+      <p id="zMYjxe" outputclass="List2">(3) A determination by the contracting officer with respect to the amount of compensation for which there is entitlement and that the amount of ultimate entitlement to compensation will equal or exceed the amount of the provisional price increase or provisional payment.</p>
+      <p id="gTlWov" outputclass="Normal">(e) When a provisional payment, either
          individually or cumulatively against a single claim exceeds $25 million, a written
-         justification shall be submitted for approval to DASN(P) by email at <ph class="- topic/ph " rev="CHANGE 18-22 JULY 11, 2022">
-            <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
-                  format="html"
-                  scope="external"
-                  class="- topic/xref ">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+         justification shall be submitted for approval to DASN(P) by email at <ph rev="CHANGE 18-22 JULY 11, 2022">
+            <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil" format="html" scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
          </ph> with the subject
          “[Activity Name] NMCARS 5233.9001 – Proposed Claim Provisional Payment &gt;$25M.”</p>
-      <p id="rDwonA" outputclass="Normal" class="- topic/p ">The justification shall cover--</p>
-      <p id="vuSjUa" outputclass="List2" class="- topic/p ">(1) the requirements of the claim;</p>
-      <p id="zdEhSO" outputclass="List2" class="- topic/p ">(2) the projected date of settlement of the claim; and</p>
-      <p id="ZgnXcH" outputclass="List2" class="- topic/p ">(3) other pertinent information, including comments as to whether the contractor has reasonably satisfied all requests for documentary and analytical support of the claimed amount.</p>
+      <p id="rDwonA" outputclass="Normal">The justification shall cover--</p>
+      <p id="vuSjUa" outputclass="List2">(1) the requirements of the claim;</p>
+      <p id="zdEhSO" outputclass="List2">(2) the projected date of settlement of the claim; and</p>
+      <p id="ZgnXcH" outputclass="List2">(3) other pertinent information, including comments as to whether the contractor has reasonably satisfied all requests for documentary and analytical support of the claimed amount.</p>
    </conbody>
 </concept>

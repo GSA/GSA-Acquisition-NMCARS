@@ -1,147 +1,142 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="NMCARS_Annex-12"
-          ditaarch:DITAArchVersion="1.3"
-          class="- topic/topic ">
-      <title class="- topic/title " outputclass="1 Heading">
-         <ph class="- topic/ph " props="autonumber">ANNEX 12</ph> - Waiver Request for Appointing a         Non-DON Employee as a Contracting Officer</title>
-      <body class="- topic/body ">
-         <p id="vwiYld" outputclass="Normal" class="- topic/p ">In accordance with 5201.603, HCAs or their authorized
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="NMCARS_Annex-12" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 Heading">
+         <ph props="autonumber">ANNEX 12</ph> - Waiver Request for Appointing a         Non-DON Employee as a Contracting Officer</title>
+      <body>
+         <p id="vwiYld" outputclass="Normal">In accordance with 5201.603, HCAs or their authorized
             designees shall notify DASN(P) of a planned issuance of a contracting officer
             appointment and warrant to a non-DON employee, except when a DON activity is designated
             HCA for a joint-contracting operation. The notification and/or waiver request must
             address the following information:</p>
-         <p class="- topic/p " id="7P5Us">
-            <ol otherprops="UR_D:1-B" class="- topic/ol ">
-               <li id="RQbZOs" class="- topic/li ">
-                  <p id="5pwmhcar" class="- topic/p ">
-                     <ph props="autonumber" class="- topic/ph ">
-                        <b class="+ topic/ph hi-d/b ">I. </b>
+         <p id="7P5Us">
+            <ol otherprops="UR_D:1-B">
+               <li id="RQbZOs">
+                  <p id="5pwmhcar">
+                     <ph props="autonumber">
+                        <b>I. </b>
                      </ph>
-                     <b class="+ topic/ph hi-d/b ">Identify Non-DON Employee to be Delegated Contracting Authority</b>
+                     <b>Identify Non-DON Employee to be Delegated Contracting Authority</b>
                   </p>
-                  <ol otherprops="LA_D:1" class="- topic/ol ">
-                     <li id="ZhGCqY" class="- topic/li ">
-                        <p id="lSFstr" outputclass="List1" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">a. </ph>Name of Nominee (as it
+                  <ol otherprops="LA_D:1">
+                     <li id="ZhGCqY">
+                        <p id="lSFstr" outputclass="List1">
+                           <ph props="autonumber">a. </ph>Name of Nominee (as it
                         will appear on the SF 1402, Certificate of Contracting Officer
                         Appointment)</p>
                      </li>
-                     <li id="HHAQcx" class="- topic/li ">
-                        <p id="TIssRX" outputclass="List1" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">b. </ph>Grade/Series or Military
+                     <li id="HHAQcx">
+                        <p id="TIssRX" outputclass="List1">
+                           <ph props="autonumber">b. </ph>Grade/Series or Military
                         Rank</p>
                      </li>
-                     <li id="EpTIpk" class="- topic/li ">
-                        <p id="UZdWov" outputclass="List1" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">c. </ph>Position/Title</p>
+                     <li id="EpTIpk">
+                        <p id="UZdWov" outputclass="List1">
+                           <ph props="autonumber">c. </ph>Position/Title</p>
                      </li>
-                     <li id="QZpnIu" class="- topic/li ">
-                        <p id="pnXRqr" outputclass="List1" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">d. </ph>Description of Duties</p>
+                     <li id="QZpnIu">
+                        <p id="pnXRqr" outputclass="List1">
+                           <ph props="autonumber">d. </ph>Description of Duties</p>
                      </li>
-                     <li id="KHOnrK" class="- topic/li ">
-                        <p id="iyeyhvj" outputclass="List1" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">e. </ph>Activity Name/DODAAC</p>
+                     <li id="KHOnrK">
+                        <p id="iyeyhvj" outputclass="List1">
+                           <ph props="autonumber">e. </ph>Activity Name/DODAAC</p>
                      </li>
                   </ol>
                </li>
-               <li id="qpcWDY" class="- topic/li ">
-                  <p id="2tykf9r" outputclass="List1" class="- topic/p ">
-                     <ph props="autonumber" class="- topic/ph ">
-                        <b class="+ topic/ph hi-d/b ">II. </b>
+               <li id="qpcWDY">
+                  <p id="2tykf9r" outputclass="List1">
+                     <ph props="autonumber">
+                        <b>II. </b>
                      </ph>
-                     <b class="+ topic/ph hi-d/b ">Describe How the Qualifications of the Nominee Meet the Requirements for the
+                     <b>Describe How the Qualifications of the Nominee Meet the Requirements for the
                      Recommended Level of Delegation</b>
                   </p>
-                  <ol otherprops="LA_D:1" class="- topic/ol ">
-                     <li id="OkTOEu" class="- topic/li ">
-                        <p id="cHXgvz" outputclass="List1" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">a. </ph>Education*</p>
+                  <ol otherprops="LA_D:1">
+                     <li id="OkTOEu">
+                        <p id="cHXgvz" outputclass="List1">
+                           <ph props="autonumber">a. </ph>Education*</p>
                      </li>
-                     <li id="zZKdRb" class="- topic/li ">
-                        <p id="eafhjr" outputclass="List1" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">b. </ph>Specialized
+                     <li id="zZKdRb">
+                        <p id="eafhjr" outputclass="List1">
+                           <ph props="autonumber">b. </ph>Specialized
                         Experience</p>
                      </li>
-                     <li id="ELPbze" class="- topic/li ">
-                        <p id="GqNQfT" outputclass="List1" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">c. </ph>Relevant Training*</p>
+                     <li id="ELPbze">
+                        <p id="GqNQfT" outputclass="List1">
+                           <ph props="autonumber">c. </ph>Relevant Training*</p>
                      </li>
-                     <li id="yvapfk" class="- topic/li ">
-                        <p id="3czddu7d" outputclass="List1" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">d. </ph>Other Qualifications
-                           (<i class="+ topic/ph hi-d/i ">e.g.</i> DAWIA Career Field Certifications, Defense Acquisition Corps
+                     <li id="yvapfk">
+                        <p id="3czddu7d" outputclass="List1">
+                           <ph props="autonumber">d. </ph>Other Qualifications
+                           (<i>e.g.</i> DAWIA Career Field Certifications, Defense Acquisition Corps
                         Membership)*</p>
-                        <p id="sdfdff" outputclass="List1" class="- topic/p ">
-                           <i class="+ topic/ph hi-d/i ">*Note: Submit documentation to substantiate credentials/education
+                        <p id="sdfdff" outputclass="List1">
+                           <i>*Note: Submit documentation to substantiate credentials/education
                            completed.</i>
                         </p>
                      </li>
                   </ol>
                </li>
-               <li id="CSFAdv" class="- topic/li ">
-                  <p id="qtd3hzn3" outputclass="List1" class="- topic/p ">
-                     <ph props="autonumber" class="- topic/ph ">
-                        <b class="+ topic/ph hi-d/b ">III. </b>
+               <li id="CSFAdv">
+                  <p id="qtd3hzn3" outputclass="List1">
+                     <ph props="autonumber">
+                        <b>III. </b>
                      </ph>
-                     <b class="+ topic/ph hi-d/b ">Describe Extent of Contracting Authority to be Delegated</b>
+                     <b>Describe Extent of Contracting Authority to be Delegated</b>
                   </p>
-                  <ol otherprops="LA_D:1" class="- topic/ol ">
-                     <li id="KOLzRv" class="- topic/li ">
-                        <p id="LQKeoJ" outputclass="List1" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">a. </ph>Type of Appointment
-                           (<i class="+ topic/ph hi-d/i ">e.g</i>. PCO, ACO, Ordering Officer)</p>
+                  <ol otherprops="LA_D:1">
+                     <li id="KOLzRv">
+                        <p id="LQKeoJ" outputclass="List1">
+                           <ph props="autonumber">a. </ph>Type of Appointment
+                           (<i>e.g</i>. PCO, ACO, Ordering Officer)</p>
                      </li>
-                     <li id="zXYSPs" class="- topic/li ">
-                        <p id="MAoKKh" outputclass="List1" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">b. </ph>Dollar Threshold
-                           (<i class="+ topic/ph hi-d/i ">e.g</i>. Unlimited, Limited to Specific Dollar Value)</p>
+                     <li id="zXYSPs">
+                        <p id="MAoKKh" outputclass="List1">
+                           <ph props="autonumber">b. </ph>Dollar Threshold
+                           (<i>e.g</i>. Unlimited, Limited to Specific Dollar Value)</p>
                      </li>
-                     <li id="FgNjvo" class="- topic/li ">
-                        <p id="DiwNSs" outputclass="List1" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">c. </ph>Type of
+                     <li id="FgNjvo">
+                        <p id="DiwNSs" outputclass="List1">
+                           <ph props="autonumber">c. </ph>Type of
                         work/products/services nominee will be authorized to procure or
                         administer</p>
                      </li>
-                     <li id="bgEMsd" class="- topic/li ">
-                        <p id="cxaHSc" outputclass="List1" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">d. </ph>Limitations (e.g.
+                     <li id="bgEMsd">
+                        <p id="cxaHSc" outputclass="List1">
+                           <ph props="autonumber">d. </ph>Limitations (e.g.
                         Contract Type; Competitive or Non-Competitive Actions, etc.)</p>
                      </li>
-                     <li id="mJSKwp" class="- topic/li ">
-                        <p id="g3dihz8p" outputclass="List1" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">e. </ph>Appointment Term</p>
+                     <li id="mJSKwp">
+                        <p id="g3dihz8p" outputclass="List1">
+                           <ph props="autonumber">e. </ph>Appointment Term</p>
                      </li>
                   </ol>
                </li>
-               <li id="FWQcnA" class="- topic/li ">
-                  <p id="dbxa9vkd6" outputclass="List1" class="- topic/p ">
-                     <ph props="autonumber" class="- topic/ph ">
-                        <b class="+ topic/ph hi-d/b ">IV. </b>
+               <li id="FWQcnA">
+                  <p id="dbxa9vkd6" outputclass="List1">
+                     <ph props="autonumber">
+                        <b>IV. </b>
                      </ph>
-                     <b class="+ topic/ph hi-d/b ">Provide Rationale to Support Delegation of Contracting Authority</b>
+                     <b>Provide Rationale to Support Delegation of Contracting Authority</b>
                   </p>
-                  <ol otherprops="LA_D:1" class="- topic/ol ">
-                     <li id="UvaUJZ" class="- topic/li ">
-                        <p id="BJglVS" outputclass="List1" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">a. </ph>Explain why this
+                  <ol otherprops="LA_D:1">
+                     <li id="UvaUJZ">
+                        <p id="BJglVS" outputclass="List1">
+                           <ph props="autonumber">a. </ph>Explain why this
                         delegation is necessary and how it results in a more efficient execution and
                         administration of the HCAs contracting operations.</p>
                      </li>
-                     <li id="wtHuWC" class="- topic/li ">
-                        <p id="jJLTDG" outputclass="List1" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">b. </ph>Identify the anticipated
+                     <li id="wtHuWC">
+                        <p id="jJLTDG" outputclass="List1">
+                           <ph props="autonumber">b. </ph>Identify the anticipated
                         workload to support the type of appointment, including the available
                         resources at the Nominee’s Organization.</p>
                      </li>
-                     <li id="daPlYY" class="- topic/li ">
-                        <p id="GzkmFp" outputclass="List1" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">c. </ph>Describe the internal
+                     <li id="daPlYY">
+                        <p id="GzkmFp" outputclass="List1">
+                           <ph props="autonumber">c. </ph>Describe the internal
                         controls that are or will be in place at the Nominee’s Organization and at
                         the HCA/delegating office to ensure efficient and effective execution and
                         management oversight of delegated authority.</p>

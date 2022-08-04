@@ -1,53 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="NMCARS_5201.6023"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 4" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5201.602-3</ph> Ratification of unauthorized commitments.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="cveIIY" outputclass="Normal" class="- topic/p ">(b)(1) Within 10 calendar days of determining the need for a ratification of an unauthorized commitment (UAC), the activity where the ratifiable action occurred shall report the UAC to its respective HCA in accordance with the Activity’s procedures.</p>
-      <p id="kZbWXG" outputclass="Normal" class="- topic/p ">(b)(3)(i) The HCA (or designee) may delegate ratification authority as follows:</p>
-      <ol class="- topic/ol ">
-         <li id="pbPXUb" class="- topic/li ">
-            <p id="Feutlo" outputclass="List1" class="- topic/p ">
-               <ph props="autonumber" class="- topic/ph ">(A) </ph>Actions valued at $50,000 or less - Not lower than the Activity CCO</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="NMCARS_5201.6023" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5201.602-3</ph> Ratification of unauthorized commitments.</title>
+   <conbody>
+      <p id="cveIIY" outputclass="Normal">(b)(1) Within 10 calendar days of determining the need for a ratification of an unauthorized commitment (UAC), the activity where the ratifiable action occurred shall report the UAC to its respective HCA in accordance with the Activity’s procedures.</p>
+      <p id="kZbWXG" outputclass="Normal">(b)(3)(i) The HCA (or designee) may delegate ratification authority as follows:</p>
+      <ol>
+         <li id="pbPXUb">
+            <p id="Feutlo" outputclass="List1">
+               <ph props="autonumber">(A) </ph>Actions valued at $50,000 or less - Not lower than the Activity CCO</p>
          </li>
-         <li id="uJtRcv" class="- topic/li ">
-            <p id="OZHIKv" outputclass="List1" class="- topic/p ">
-               <ph props="autonumber" class="- topic/ph ">(B) </ph>Actions valued at $100,000 or less - Not lower than the Deputy/Assistant Commander for Contracts</p>
+         <li id="uJtRcv">
+            <p id="OZHIKv" outputclass="List1">
+               <ph props="autonumber">(B) </ph>Actions valued at $100,000 or less - Not lower than the Deputy/Assistant Commander for Contracts</p>
          </li>
-         <li id="JIlcLr" class="- topic/li ">
-            <p id="vCHkuw" outputclass="List1 Normal" class="- topic/p ">
-               <ph props="autonumber" class="- topic/ph ">(C) </ph>Actions valued greater than $100,000 – HCA without power of delegation</p>
+         <li id="JIlcLr">
+            <p id="vCHkuw" outputclass="List1 Normal">
+               <ph props="autonumber">(C) </ph>Actions valued greater than $100,000 – HCA without power of delegation</p>
          </li>
       </ol>
-      <p id="tisgxe" outputclass="List2" class="- topic/p ">(ii) The authority to ratify, at any level, reverts to the HCA without power of delegation if--</p>
-      <p id="COkdPR" outputclass="List3" class="- topic/p ">(A) For HCAs except NAVSUP: The HCA has 15 or more UACs exceeding the micro- purchase threshold for that FY.</p>
-      <p id="mzLwGL" outputclass="List3" class="- topic/p ">
-         <ph props="autonumber" class="- topic/ph ">(B)</ph> NAVSUP: A Budget Submitting Office (BSO) supported by NAVSUP has more than four (4) UACs exceeding the micro-purchase threshold in a FY. Authority for delegation of ratification authority is by BSO.</p>
-      <p id="p__Toc221944277" outputclass="List3" class="- topic/p ">
-         <ph props="autonumber" class="- topic/ph ">(C)</ph> When the person committing the UAC has made, or the contractor performing the UAC has submitted, a UAC at any point in the past.</p>
-      <p id="eWVkhk" outputclass="List2" class="- topic/p ">(iii) For counting purposes, use the date that the ratifiable action occurred not the date of reporting.</p>
-      <p id="cfURzH" outputclass="List2" class="- topic/p ">(iv) The ability to delegate in accordance with (i) resets at the beginning of each FY.</p>
-      <p id="LcjnEh" outputclass="List2" class="- topic/p ">(v) The HCA shall maintain records of all ratifications regardless of dollar value and review as part of its Procurement Performance Management Assessment Program (PPMAP) (see NMCARS 5201.691).</p>
-      <p id="VnELcj" outputclass="Normal" class="- topic/p ">(S-90) <i class="+ topic/ph hi-d/i ">DON</i>
-         <i class="+ topic/ph hi-d/i ">Policy</i>.</p>
-      <p id="ODHYLs" outputclass="List2" class="- topic/p ">(a) HCAs shall establish procedures for ratification of UACs.</p>
-      <p id="UizhtW" outputclass="List2" class="- topic/p ">(b) When an activity receives a UAC that falls within another activity’s unique contracting authority (as defined in 5201.601-90), one of two actions is required to address the UAC:</p>
-      <p id="GhSJFj" outputclass="List3" class="- topic/p ">(1) Authority may be requested from the HCA with the unique contracting authority to address the UAC and complete the ratification (if necessary); or,</p>
-      <p id="pxXTrm" outputclass="List3" class="- topic/p ">(2) The HCA with unique contracting authority ratifies the UAC or determines it is not a ratifiable action. If ratification is necessary, a Military Interdepartmental Purchase Request (MIPR) shall be executed and funded by the activity to which the employee who committed the UAC belongs. This MIPR shall be provided to the activity with the unique contracting authority to complete the ratification.</p>
-      <p id="bwSxGq" outputclass="List2" class="- topic/p ">(c) The ratifying official and the contracting officer on the ratified action shall not be the same individual.</p>
-      <p id="CMThyT" outputclass="List2" class="- topic/p ">(d) DASN(P) reserves the right to request copies of any documentation at any point in the process.</p>
-      <p id="ejfbBe" outputclass="List2" class="- topic/p ">(e) Reporting.</p>
-      <p id="shTkLy" outputclass="List3" class="- topic/p ">(1) The activity executing the ratification is responsible for reporting.</p>
-      <p id="qhweVh" outputclass="List3" class="- topic/p ">(2) Submit a quarterly report of all UACs/ratifications exceeding the micro-purchase threshold, approved at a level no lower than the Deputy/Assistant Commander for Contracts, in the format prescribed in Annex 15 to DASN(P) by e-mail at <xref format="mailto"
-               href="mailto:Policy@navy.mil"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">Policy@navy.mil</u>
+      <p id="tisgxe" outputclass="List2">(ii) The authority to ratify, at any level, reverts to the HCA without power of delegation if--</p>
+      <p id="COkdPR" outputclass="List3">(A) For HCAs except NAVSUP: The HCA has 15 or more UACs exceeding the micro- purchase threshold for that FY.</p>
+      <p id="mzLwGL" outputclass="List3">
+         <ph props="autonumber">(B)</ph> NAVSUP: A Budget Submitting Office (BSO) supported by NAVSUP has more than four (4) UACs exceeding the micro-purchase threshold in a FY. Authority for delegation of ratification authority is by BSO.</p>
+      <p id="p__Toc221944277" outputclass="List3">
+         <ph props="autonumber">(C)</ph> When the person committing the UAC has made, or the contractor performing the UAC has submitted, a UAC at any point in the past.</p>
+      <p id="eWVkhk" outputclass="List2">(iii) For counting purposes, use the date that the ratifiable action occurred not the date of reporting.</p>
+      <p id="cfURzH" outputclass="List2">(iv) The ability to delegate in accordance with (i) resets at the beginning of each FY.</p>
+      <p id="LcjnEh" outputclass="List2">(v) The HCA shall maintain records of all ratifications regardless of dollar value and review as part of its Procurement Performance Management Assessment Program (PPMAP) (see NMCARS 5201.691).</p>
+      <p id="VnELcj" outputclass="Normal">(S-90) <i>DON</i>
+         <i>Policy</i>.</p>
+      <p id="ODHYLs" outputclass="List2">(a) HCAs shall establish procedures for ratification of UACs.</p>
+      <p id="UizhtW" outputclass="List2">(b) When an activity receives a UAC that falls within another activity’s unique contracting authority (as defined in 5201.601-90), one of two actions is required to address the UAC:</p>
+      <p id="GhSJFj" outputclass="List3">(1) Authority may be requested from the HCA with the unique contracting authority to address the UAC and complete the ratification (if necessary); or,</p>
+      <p id="pxXTrm" outputclass="List3">(2) The HCA with unique contracting authority ratifies the UAC or determines it is not a ratifiable action. If ratification is necessary, a Military Interdepartmental Purchase Request (MIPR) shall be executed and funded by the activity to which the employee who committed the UAC belongs. This MIPR shall be provided to the activity with the unique contracting authority to complete the ratification.</p>
+      <p id="bwSxGq" outputclass="List2">(c) The ratifying official and the contracting officer on the ratified action shall not be the same individual.</p>
+      <p id="CMThyT" outputclass="List2">(d) DASN(P) reserves the right to request copies of any documentation at any point in the process.</p>
+      <p id="ejfbBe" outputclass="List2">(e) Reporting.</p>
+      <p id="shTkLy" outputclass="List3">(1) The activity executing the ratification is responsible for reporting.</p>
+      <p id="qhweVh" outputclass="List3">(2) Submit a quarterly report of all UACs/ratifications exceeding the micro-purchase threshold, approved at a level no lower than the Deputy/Assistant Commander for Contracts, in the format prescribed in Annex 15 to DASN(P) by e-mail at <xref format="mailto" href="mailto:Policy@navy.mil" scope="external">
+            <u>Policy@navy.mil</u>
          </xref> with the subject “NMCARS 5201.602-3(S-90)(e)(2) – Quarterly Ratification Report”, by January 31, April 30, July 31 and October 31. Negative reports are required.</p>
    </conbody>
 </concept>
