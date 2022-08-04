@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5222.302"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5222.302</ph> Liquidated damages and        overtime pay.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="Normal" class="- topic/p "> (c) The Navy Labor Advisor is delegated authority to act for the
+            agency head. The NAVFACENGCOM Labor Advisor is delegated authority for liquidated
+            damages on NAVFACENGCOM contracts. The contracting officer’s recommendation regarding
+            liquidated damages under the Contract Work Hours and Safety Standards statute shall be
+            forwarded directly to the Navy Labor Advisor in DASN(P) by email at <xref href="mailto:navylaboradvisor@navy.mil"
+               scope="external"
+               format="mailto"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">NavyLaborAdvisor@navy.mil</u>
+         </xref> (or via the
+            NAVFACENGCOM Labor Advisor by email at <xref href="mailto:navfac_labor_advisor@navy.mil"
+               scope="external"
+               format="mailto"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">NAVFAC_Labor_Advisor@navy.mil</u>
+         </xref> if the matter involves a
+            NAVFACENGCOM contract).</p>
+   </conbody>
+</concept>

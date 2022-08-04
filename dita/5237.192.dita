@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5237.192"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3"
+          class="- topic/title "
+          rev="CHANGE 18-22 JULY 11, 2022">
+      <ph props="autonumber" class="- topic/ph ">5237.192</ph> Services Acquisition      Workshops.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="rkeuqy" outputclass="Normal" class="- topic/p ">(a) Except for acquisitions identified
+         as a Special Interest, multi-functional teams that support services acquisition
+         requirements with a total acquisition value of $500 million or more or an annual value of
+         $250,000,000 or more, shall participate in a <ph rev="CHANGE 18-22 JULY 11, 2022" class="- topic/ph ">Services
+            Acquisition Workshop (SAW), or an equivalent program in accordance with DoDI 5000.74,
+            Defense Acquisition of Services. For multiple award, IDIQ contracts, a SAW is not
+            required for the base contract, but is required for any task order valued at $100
+            million or more in accordance with DoDI 5000.74. However, within the DON, this
+            requirement is waived for task orders valued below $250 million.</ph> Multi-functional
+         teams are highly encouraged to apply SAW-like steps to all services acquisitions valued at
+         $10 million or more but less than the values above. If the HCA determines that a waiver is
+         necessary, the waiver request shall be submitted by email to <xref format="mailto"
+               href="mailto:SeniorServicesManage.fct@navy.mil"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">SeniorServicesManage.fct@navy.mil</u>
+         </xref>
+         <ph class="- topic/ph "> </ph>with the subject “NMCARS 5237.192 - Services Acquisition
+         Workshop (SAW) Waiver Request” for approval by:</p>
+      <p id="zFpPJd" outputclass="List2" class="- topic/p ">(i) USD(A&amp;S) or ASD(A) for Special Interest acquisitions;</p>
+      <p id="CysVwj" outputclass="List2" class="- topic/p ">(ii) The DON Senior Services Manager DASN(P) for all other waiver requests.</p>
+      <p id="yaXYNt" outputclass="Normal" class="- topic/p ">(b) The waiver request shall include: the rationale for not participating in a SAW; an assessment of the quality of the requirements documents; and, steps taken to reduce costs, improve competition, and shorten acquisition lead times and whether the acquisition has been designated as a special interest acquisition by USD(A&amp;S) or ASD(A).</p>
+      <p id="jMZYKD" outputclass="Normal" class="- topic/p ">(c) Participation in a SAW or approved waiver is required before a services strategy will be approved.</p>
+      <p id="p__Hlk63249622" outputclass="Normal" class="- topic/p ">(d) Multi-functional teams are permitted to use abbreviated SAW options offered by Defense Acquisition University (DAU) when a SAW has already been completed on a recurring services acquisition requirement in the past five years and there is no change in scope. Abbreviated SAW options are considered equivalent programs to a SAW and are encouraged to be used in lieu of requesting a SAW waiver. Other types of mission assistance workshops that are considered equivalent include, Acquisition and Management (DAU iCatalog “WSM”) and DAU’s Source Selection Simulation (“Triple-S”) workshop.</p>
+   </conbody>
+</concept>

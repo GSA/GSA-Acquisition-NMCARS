@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5215.402"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5215.402</ph> Pricing policy.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="hOMFVc" outputclass="Normal" class="- topic/p ">(a)(S-90)(1) When requesting DPC
+         approval for participation in the Section 890 Pilot Program to Accelerate Contracts and
+         Pricing Processes pursuant to DPC Class Deviation 2020-O0020, provide notification to
+         DASN(P) by emailing a copy of the application, upon submittal to DPC, to <ph class="- topic/ph " rev="CHANGE 18-22 JULY 11, 2022">
+            <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+         </ph> with the subject
+         “[Activity Name] NMCARS 5215.402(a)(S-90)(1) – Section 890 Pilot Program to Accelerate
+         Contracting and Pricing Processes.”</p>
+      <p id="UuhGnY" outputclass="List2" class="- topic/p ">(2) After the contractor submits the required information in accordance with DFARS clause 252.215.7998, Pilot Program to Accelerate Contracting Pricing Processes (Class Deviation 2020-O0020), the contracting officer shall submit the information to DPC and provide a copy to DASN(P) by email at RDAJ&amp;As.fct@navy.mil with the subject “[Activity Name] NMCARS 5215.402(a)(S-90)(2) – Section 890 Pilot Program to Accelerate Contracting and Pricing Processes Measurements.”</p>
+   </conbody>
+</concept>

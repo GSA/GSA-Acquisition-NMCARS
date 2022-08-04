@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5206.30390"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5206.303-90</ph> Legal reviews.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="HFYfTy" outputclass="Normal" class="- topic/p ">(a) Prior to its submission for approval, each justification shall have a legal sufficiency review by counsel for the activity preparing the justification. HCAs are responsible for establishing review procedures for field purchasing activities without assigned counsel.</p>
+      <p id="zFaumu" outputclass="Normal" class="- topic/p ">(b) A legal sufficiency review shall be obtained on the appropriateness of the addition of any new procurement work to a contract prior to its addition.</p>
+      <p id="blActH" class="- topic/p ">5206.303-91 Bridge Contract Status Update.</p>
+      <p id="iiEEYP" class="- topic/p ">(a) In the case of bridge contracts to provide for continuation of a service to be performed through a services contract awarded due to inadequate planning, as defined in paragraph (b) of this subsection, with a total estimated valued at or above $10 million, HCAs shall provide a status update (including rationale for using the bridge contract) to the SSM via email at seniorservicesmanage.fct@navy.mil, with the subject “[Activity Name] NMCARS 5206.303-91 Bridge Contract Status Update”, at the midpoint of the current bridge contract period of performance to allow sufficient time to finalize disposition prior to the end of the bridge contract period of performance.</p>
+      <p id="HtztKI" class="- topic/p ">(b) All bridge contracts are considered awarded due to inadequate planning except in the case of protest, urgent requirements, or evaluation delays during the source selection process.</p>
+      <p id="iKgskG" class="- topic/p ">(c) This subsection does not apply to:</p>
+      <p id="ieicva" class="- topic/p ">(1) Services contracts in support of contingency operations, humanitarian assistance, or disaster relief;</p>
+      <p id="lwowDb" class="- topic/p ">(2) Services contracts in support of a national security emergency declared with respect to a named operation; or</p>
+      <p id="uZkrvd" class="- topic/p ">(3) Services contracts entered into pursuant to an international agreement.</p>
+   </conbody>
+</concept>

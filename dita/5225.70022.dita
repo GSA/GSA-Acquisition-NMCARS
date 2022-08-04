@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5225.70022"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5225.7002-2</ph> Exceptions.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="WfHADA" outputclass="Normal" class="- topic/p ">(b)(1)(iii) Using the format in Annex
+         3, submit domestic nonavailability determinations (DNADs) for approval by SECNAV via
+         DASN(P) by email at <ph class="- topic/ph " rev="CHANGE 18-22 JULY 11, 2022">
+            <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+         </ph> with the subject</p>
+      <p id="EhFLMg" outputclass="Normal" class="- topic/p ">“[Activity Name] DFARS 225.7002-2 - DNAD.”</p>
+      <p id="RChbly" outputclass="List2" class="- topic/p ">(2) When submitting DNADs for approval, include analysis of market research and analysis of alternatives memorandum as supporting documentation using the format in Annex 3.</p>
+   </conbody>
+</concept>

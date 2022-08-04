@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="NMCARS_PART_5201"
+          ditaarch:DITAArchVersion="1.3"
+          class="- topic/topic ">
+      <title class="- topic/title " outputclass="Ctr 1 heading Part">
+         <ph class="- topic/ph " props="autonumber">Part 5201</ph> - FEDERAL ACQUISITION REGULATIONS SYSTEM</title>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5201.1.dita#NMCARS_SUBPART_5201.1"
+                        class="- topic/xref ">Subpart 5201.1 - PURPOSE, AUTHORITY, ISSUANCE</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5201.101.dita#NMCARS_5201.101"
+                              class="- topic/xref ">5201.101 Purpose.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5201.103.dita#NMCARS_5201.103"
+                              class="- topic/xref ">5201.103 Authority.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5201.104.dita#NMCARS_5201.104"
+                              class="- topic/xref ">5201.104 Applicability.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5201.105.dita#NMCARS_5201.105"
+                              class="- topic/xref ">5201.105 Issuance.</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5201.1052.dita#NMCARS_5201.1052"
+                                    class="- topic/xref ">5201.105-2 Arrangement of regulations.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5201.1053.dita#NMCARS_5201.1053"
+                                    class="- topic/xref ">5201.105-3 Copies.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li rev="CHANGE 18-22 JULY 11, 2022" class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5201.107.dita#NMCARS_5201.107"
+                              class="- topic/xref ">5201.107 Certifications.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5201.108.dita#NMCARS_5201.108"
+                              class="- topic/xref ">5201.108 FAR conventions.</xref>
+                     </p>
+                  </li>
+                  <li rev="CHANGE 18-22 JULY 11, 2022" class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5201.170.dita#NMCARS_5201.170"
+                              class="- topic/xref ">5201.170 Peer reviews.</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5201.1704.dita#NMCARS_5201.1704"
+                                    class="- topic/xref ">5201.170-4 Administration of peer reviews.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5201.190.dita#NMCARS_5201.190"
+                              class="- topic/xref ">5201.190 Reports.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5201.2.dita#NMCARS_SUBPART_5201.2"
+                        class="- topic/xref ">Subpart 5201.2 - ADMINISTRATION</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5201.201.dita#NMCARS_5201.201"
+                              class="- topic/xref ">5201.201 Maintenance of the FAR.</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5201.2011.dita#NMCARS_5201.2011"
+                                    class="- topic/xref ">5201.201-1 The two councils.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5201.3.dita#NMCARS_SUBPART_5201.3"
+                        class="- topic/xref ">Subpart 5201.3 - AGENCY ACQUISITION REGULATIONS</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5201.303.dita#NMCARS_5201.303"
+                              class="- topic/xref ">5201.303 Publication and codification.</xref>
+                     </p>
+                  </li>
+                  <li rev="CHANGE 18-22 JULY 11, 2022" class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5201.304.dita#NMCARS_5201.304"
+                              class="- topic/xref ">5201.304 Agency control and compliance procedures.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5201.4.dita#NMCARS_SUBPART_5201.4"
+                        class="- topic/xref ">Subpart 5201.4 - DEVIATIONS FROM THE FAR</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5201.402.dita#NMCARS_5201.402"
+                              class="- topic/xref ">5201.402 Policy.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5201.403.dita#NMCARS_5201.403"
+                              class="- topic/xref ">5201.403 Individual deviations.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5201.404.dita#NMCARS_5201.404"
+                              class="- topic/xref ">5201.404 Class deviations.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5201.6.dita#NMCARS_SUBPART_5201.6"
+                        class="- topic/xref ">Subpart 5201.6 - CAREER DEVELOPMENT, CONTRACTING AUTHORITY, AND RESPONSIBILITIES</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5201.601.dita#NMCARS_5201.601"
+                              class="- topic/xref ">5201.601 General.</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li rev="CHANGE 18-22 JULY 11, 2022" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5201.60190.dita#NMCARS_5201.60190"
+                                    class="- topic/xref ">5201.601-90 Department of the Navy authorities and responsibilities.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5201.602.dita#NMCARS_5201.602"
+                              class="- topic/xref ">5201.602 Contracting officers.</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5201.6021.dita#NMCARS_5201.6021"
+                                    class="- topic/xref ">5201.602-1 Authority.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5201.6022.dita#NMCARS_5201.6022"
+                                    class="- topic/xref ">5201.602-2 Responsibilities.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5201.6023.dita#NMCARS_5201.6023"
+                                    class="- topic/xref ">5201.602-3 Ratification of unauthorized commitments.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5201.603.dita#NMCARS_5201.603"
+                              class="- topic/xref ">5201.603 Selection, appointment, and termination of appointment for contracting officers.</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5201.6031.dita#NMCARS_5201.6031"
+                                    class="- topic/xref ">5201.603-1 General.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5201.603290.dita#NMCARS_5201.603290"
+                                    class="- topic/xref ">5201.603-2-90 Contracting officer warrants.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5201.603291.dita#NMCARS_5201.603291"
+                                    class="- topic/xref ">5201.603-2-91 Contracting officer warrant issuance to non-DON employee.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5201.6034.dita#NMCARS_5201.6034"
+                                    class="- topic/xref ">5201.603-4 Termination.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5201.691.dita#NMCARS_5201.691"
+                              class="- topic/xref ">5201.691 Procurement management oversight.</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5201.6911.dita#NMCARS_5201.6911"
+                                    class="- topic/xref ">5201.691-1 Purpose.</xref>
+                           </p>
+                        </li>
+                        <li rev="CHANGE 18-22 JULY 11, 2022" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5201.6912.dita#NMCARS_5201.6912"
+                                    class="- topic/xref ">5201.691-2 Responsibilities.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5201.90.dita#NMCARS_SUBPART_5201.90"
+                        class="- topic/xref ">Subpart 5201.90 - BUSINESS CLEARANCE</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5201.9000.dita#NMCARS_5201.9000"
+                              class="- topic/xref ">5201.9000 Scope.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5201.9001.dita#NMCARS_5201.9001"
+                              class="- topic/xref ">5201.9001 Policy.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5201.9002.dita#NMCARS_5201.9002"
+                              class="- topic/xref ">5201.9002 Procedures.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5201.9003.dita#NMCARS_5201.9003"
+                              class="- topic/xref ">5201.9003 Applicability</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

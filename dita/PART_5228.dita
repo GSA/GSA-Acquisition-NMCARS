@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="NMCARS_PART_5228"
+          ditaarch:DITAArchVersion="1.3"
+          class="- topic/topic ">
+      <title class="- topic/title " outputclass="1 heading part Ctr">
+         <ph class="- topic/ph " props="autonumber">Part 5228</ph> - BONDS AND INSURANCE</title>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5228.3.dita#NMCARS_SUBPART_5228.3"
+                        class="- topic/xref ">Subpart 5228.3 - INSURANCE</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5228.301.dita#NMCARS_5228.301"
+                              class="- topic/xref ">5228.301 Policy.</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5228.30190.dita#NMCARS_5228.30190"
+                                    class="- topic/xref ">5228.301-90 Authority to act.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5228.30191.dita#NMCARS_5228.30191"
+                                    class="- topic/xref ">5228.301-91 Payment of claims to third parties.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li rev="CHANGE 18-22 JULY 11, 2022" class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5228.305.dita#NMCARS_5228.305"
+                              class="- topic/xref ">5228.305 Overseas workers' compensation and war-hazard insurance.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5228.307.dita#NMCARS_5228.307"
+                              class="- topic/xref ">5228.307 Insurance under cost-reimbursement contracts.</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5228.3071.dita#NMCARS_5228.3071"
+                                    class="- topic/xref ">5228.307-1 Group insurance plans.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5228.30790.dita#NMCARS_5228.30790"
+                                    class="- topic/xref ">5228.307-90 Liability of subcontractors to third parties.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5228.90.dita#NMCARS_SUBPART_5228.90"
+                        class="- topic/xref ">Subpart 5228.90 - INSURANCE UNDER LEASES</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5228.9000.dita#NMCARS_5228.9000"
+                              class="- topic/xref ">5228.9000 General.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5228.9001.dita#NMCARS_5228.9001"
+                              class="- topic/xref ">5228.9001 Waiver.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5228.9002.dita#NMCARS_5228.9002"
+                              class="- topic/xref ">5228.9002 Lease provisions.</xref>
+                     </p>
+                  </li>
+                  <li rev="CHANGE 18-22 JULY 11, 2022" class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5228.9003.dita#NMCARS_5228.9003"
+                              class="- topic/xref ">5228.9003 Insurance policies.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
