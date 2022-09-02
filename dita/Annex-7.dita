@@ -1,174 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="NMCARS_Annex-7">
-      <title class="- topic/title " outputclass="Ctr 1 heading">
-         <ph class="- topic/ph " props="autonumber">ANNEX 7</ph> – SECTION 843 DETERMINATION &amp; FINDING TEMPLATE</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="NMCARS_Annex-7" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Ctr 1 heading">
+         <ph props="autonumber">ANNEX 7</ph> - SECTION 843 DETERMINATION &amp; FINDING TEMPLATE</title>
       <body>
-         <p id="eBtWDZ" outputclass="Normal" class="- topic/p ">This annex contains the required Determination &amp;
+         <p id="eBtWDZ" outputclass="Normal">This annex contains the required Determination &amp;
             Finding template for approval of requirements under Title 10, United States Code, Section
             2304a(d)(1)(A).</p>
-         <p id="qFmZGj" outputclass="Normal" class="- topic/p ">When you <i class="+ topic/ph hi-d/i ">[CITE THE APPROPRIATE REASON FROM</i>
-            <i class="+ topic/ph hi-d/i ">10 USC 2304a(d)(3)(A-D)]</i> on the template, use one of the following:</p>
-         <p id="zledCv" outputclass="Normal" class="- topic/p ">10 USC 2304a(d)(3)(A)(i) - The task or delivery orders
+         <p id="qFmZGj" outputclass="Normal">When you <i>[CITE THE APPROPRIATE REASON FROM</i>
+            <i>10 USC 2304a(d)(3)(A-D)]</i> on the template, use one of the following:</p>
+         <p id="zledCv" outputclass="Normal">10 USC 2304a(d)(3)(A)(i) - The task or delivery orders
             expected under the contract are so integrally related that only a single source can
             efficiently perform the work;</p>
-         <p id="CmcyMC" outputclass="Normal" class="- topic/p ">10 USC 2304a(d)(3)(A)(ii) - The contract provides only for
+         <p id="CmcyMC" outputclass="Normal">10 USC 2304a(d)(3)(A)(ii) - The contract provides only for
             firm, fixed price task orders or delivery orders for-</p>
-         <p id="UHplnz" outputclass="List2" class="- topic/p ">(i) products for which unit prices are established in the
+         <p id="UHplnz" outputclass="List2">(i) products for which unit prices are established in the
             contract; or</p>
-         <p id="gftLyE" outputclass="List2" class="- topic/p ">(ii) services for which prices are established in the
+         <p id="gftLyE" outputclass="List2">(ii) services for which prices are established in the
             contract for the specific tasks to be performed;</p>
-         <p id="fJjSYc" outputclass="Normal" class="- topic/p ">10 USC 2304a(d)(3)(A)(iii) - Only one source is qualified
+         <p id="fJjSYc" outputclass="Normal">10 USC 2304a(d)(3)(A)(iii) - Only one source is qualified
             and capable of performing the work at a reasonable price to the government; or</p>
-         <p id="DfthXb" outputclass="Normal" class="- topic/p ">10 USC 2304a(d)(3)(A)(iv) Because of exceptional
+         <p id="DfthXb" outputclass="Normal">10 USC 2304a(d)(3)(A)(iv) Because of exceptional
             circumstances, it is necessary in the public interest to award the contract to a single
             source.</p>
-         <p id="LQtMAm" outputclass="Normal" class="- topic/p ">,,</p>
-         <p id="tYiHjJ" outputclass="Ctr normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">
-               <i class="+ topic/ph hi-d/i ">[</i>
+         <p id="LQtMAm" outputclass="Normal">,,</p>
+         <p id="tYiHjJ" outputclass="Ctr normal">
+            <b>
+               <i>[</i>
             </b>
-            <b class="+ topic/ph hi-d/b ">
-               <i class="+ topic/ph hi-d/i ">PRINT ON THE APPROPRIATE LETTERHEAD]</i>
+            <b>
+               <i>PRINT ON THE APPROPRIATE LETTERHEAD]</i>
             </b>
          </p>
-         <p id="ZVRcyv" outputclass="Ctr normal" class="- topic/p ">DETERMINATION AND FINDINGS</p>
-         <p id="YnEsSX" outputclass="Ctr normal" class="- topic/p ">FOR AUTHORITY TO AWARD A SINGLE SOURCE TASK OR
+         <p id="ZVRcyv" outputclass="Ctr normal">DETERMINATION AND FINDINGS</p>
+         <p id="YnEsSX" outputclass="Ctr normal">FOR AUTHORITY TO AWARD A SINGLE SOURCE TASK OR
             DELIVERY ORDER CONTRACT</p>
-         <p id="HHoGQA" outputclass="Normal" class="- topic/p ">In accordance with Title 10, United States Code, Section
-            2304a(d)(3), as amended, I as the <i class="+ topic/ph hi-d/i ">[</i>
-            <i class="+ topic/ph hi-d/i ">,INSERT AGENCY AND TITLE]</i> hereby make the following findings and determination
-            concerning the award of a task or delivery order contract to a single source for <i class="+ topic/ph hi-d/i ">[INSERT
+         <p id="HHoGQA" outputclass="Normal">In accordance with Title 10, United States Code, Section
+            2304a(d)(3), as amended, I as the <i>[</i>
+            <i>,INSERT AGENCY AND TITLE]</i> hereby make the following findings and determination
+            concerning the award of a task or delivery order contract to a single source for <i>[INSERT
                BRIEF DESCRIPTION OF END ITEM OR PROGRAM]</i>.</p>
-         <p id="dSnBly" outputclass="Ctr normal" class="- topic/p ">FINDINGS</p>
-         <p id="HgLWmQ" outputclass="Normal" class="- topic/p ">1) Under Title 10, United States Code, Section
+         <p id="dSnBly" outputclass="Ctr normal">FINDINGS</p>
+         <p id="HgLWmQ" outputclass="Normal">1) Under Title 10, United States Code, Section
             2304a(d)(3), the Department of Defense may not award task or delivery order contracts
             exceeding $100 million, inclusive of all options, to a single source, unless the head of
-            the agency, as delegated, determines in writing that <i class="+ topic/ph hi-d/i ">[CITE THE</i>
-            <i class="+ topic/ph hi-d/i ">APPROPRIATE REASON FROM 10 USC 2304a(d)(3)(A)(i-iv)].</i>
+            the agency, as delegated, determines in writing that <i>[CITE THE</i>
+            <i>APPROPRIATE REASON FROM 10 USC 2304a(d)(3)(A)(i-iv)].</i>
          </p>
-         <p id="ROsntM" class="- topic/p ">(2) <i class="+ topic/ph hi-d/i ">[INSERT</i>
-            <i class="+ topic/ph hi-d/i ">NATURE AND/OR DESCRIPTION OF THE ACTION BEING APPROVED. IF THE PREVIOUS EFFORT WAS OTHER
+         <p id="ROsntM">(2) <i>[INSERT</i>
+            <i>NATURE AND/OR DESCRIPTION OF THE ACTION BEING APPROVED. IF THE PREVIOUS EFFORT WAS OTHER
                THAN FULL AND OPEN COMPETITION, CITE THE CONTRACTOR, THE DOCUMENT TITLE AND NUMBER WHICH
                GRANTED APPROVAL AND THE AUTHORITY CITED THEREIN]</i>.</p>
-         <p id="XGCmvg" class="- topic/p ">(3) <i class="+ topic/ph hi-d/i ">[INSERT THE APPROPRIATE STATUTE AND/OR REGULATION UPON WHICH THE D&amp;F
+         <p id="XGCmvg">(3) <i>[INSERT THE APPROPRIATE STATUTE AND/OR REGULATION UPON WHICH THE D&amp;F
             IS BASED]</i>.</p>
-         <p id="PfQqeR" outputclass="Normal" class="- topic/p ">(4) [INSERT THE PARTICULAR CIRCUMSTANCES, FACTS, OR
+         <p id="PfQqeR" outputclass="Normal">(4) [INSERT THE PARTICULAR CIRCUMSTANCES, FACTS, OR
             REASONING ESSENTIAL TO SUPPORT THIS DETERMINATION].</p>
-         <p id="IsOTaM" outputclass="Normal" class="- topic/p ">(5) The anticipated contract amount exceeds $100 million.
-            <i class="+ topic/ph hi-d/i ">(Note, do NOT include specifics on the</i> Government estimate as this document is
+         <p id="IsOTaM" outputclass="Normal">(5) The anticipated contract amount exceeds $100 million.
+            <i>(Note, do NOT include specifics on the</i> Government estimate as this document is
             releasable.)</p>
-         <p id="RQeqFZ" outputclass="Ctr normal" class="- topic/p ">DETERMINATION</p>
-         <p id="uzgAxX" outputclass="Normal" class="- topic/p ">Based on the findings above and pursuant to the authority
-            in Title 10, United States Code, Section 2304a(d)(3), I hereby determine that <i class="+ topic/ph hi-d/i ">[CITE THE
+         <p id="RQeqFZ" outputclass="Ctr normal">DETERMINATION</p>
+         <p id="uzgAxX" outputclass="Normal">Based on the findings above and pursuant to the authority
+            in Title 10, United States Code, Section 2304a(d)(3), I hereby determine that <i>[CITE THE
                APPROPRIATE REASON FROM 10</i>
-            <i class="+ topic/ph hi-d/i ">USC 2304a(d)(3)(A)(i-iv)]</i>. Therefore, approval is granted to award a single source
-            task or delivery order contract for <i class="+ topic/ph hi-d/i ">[INSERT BRIEF DESCRIPTION OF END ITEM OR
+            <i>USC 2304a(d)(3)(A)(i-iv)]</i>. Therefore, approval is granted to award a single source
+            task or delivery order contract for <i>[INSERT BRIEF DESCRIPTION OF END ITEM OR
                PROGRAM]</i>.</p>
-         <p class="- topic/p " id="SR4N3">
-            <table colsep="1" rowsep="1" class="- topic/table ">
-               <tgroup cols="2" class="- topic/tgroup ">
-                  <colspec colname="1"
-                           colnum="1"
-                           rowheader="headers"
-                           class="- topic/colspec "/>
-                  <colspec colname="2"
-                           colnum="2"
-                           rowheader="headers"
-                           class="- topic/colspec "/>
-                  <tbody class="- topic/tbody ">
-                     <row class="- topic/row ">
-                        <entry class="- topic/entry ">
-                           <p id="PgqBkE" class="- topic/p ">_____________________________________</p>
+         <p id="SR4N3">
+            <table colsep="1" rowsep="1">
+               <tgroup cols="2">
+                  <colspec colname="1" colnum="1" rowheader="headers" />
+                  <colspec colname="2" colnum="2" rowheader="headers" />
+                  <tbody>
+                     <row>
+                        <entry>
+                           <p id="PgqBkE">_____________________________________</p>
                         </entry>
-                        <entry class="- topic/entry ">
-                           <p id="nfTfdu" class="- topic/p ">____________________</p>
+                        <entry>
+                           <p id="nfTfdu">____________________</p>
                         </entry>
                      </row>
-                     <row class="- topic/row ">
-                        <entry class="- topic/entry ">
-                           <p id="MRLpaO" class="- topic/p ">[<i class="+ topic/ph hi-d/i ">INSERT NAME OF THE APPROVING OFFICAL</i>]</p>
+                     <row>
+                        <entry>
+                           <p id="MRLpaO">[<i>INSERT NAME OF THE APPROVING OFFICAL</i>]</p>
                         </entry>
-                        <entry class="- topic/entry ">
-                           <p id="bEqCfI" class="- topic/p ">Date</p>
+                        <entry>
+                           <p id="bEqCfI">Date</p>
                         </entry>
                      </row>
                   </tbody>
                </tgroup>
             </table>
          </p>
-         <p id="cgVnHd" class="- topic/p "/>
-         <p id="6yb66sle" class="- topic/p "/>
-         <p id="DmYIhq" outputclass="Ctr normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">
-               <i class="+ topic/ph hi-d/i ">[</i>
+         <p id="cgVnHd"></p>
+         <p id="6yb66sle"></p>
+         <p id="DmYIhq" outputclass="Ctr normal">
+            <b>
+               <i>[</i>
             </b>
-            <b class="+ topic/ph hi-d/b ">
-               <i class="+ topic/ph hi-d/i ">PRINT ON THE APPROPRIATE LETTERHEAD]</i>
+            <b>
+               <i>PRINT ON THE APPROPRIATE LETTERHEAD]</i>
             </b>
          </p>
-         <p id="woPtCT" outputclass="Ctr normal" class="- topic/p ">DETERMINATION AND FINDINGS</p>
-         <p id="svbvJw" outputclass="Ctr normal" class="- topic/p ">FOR AUTHORITY TO AWARD A SINGLE SOURCE TASK OR
+         <p id="woPtCT" outputclass="Ctr normal">DETERMINATION AND FINDINGS</p>
+         <p id="svbvJw" outputclass="Ctr normal">FOR AUTHORITY TO AWARD A SINGLE SOURCE TASK OR
             DELIVERY ORDER CONTRACT</p>
-         <p id="mScmyz" outputclass="Normal" class="- topic/p ">In accordance with Title 10, United States Code, Section
-            2304a(d)(3), as amended, I as the <i class="+ topic/ph hi-d/i ">[INSERT AGENCY AND TITLE]</i> hereby make the
+         <p id="mScmyz" outputclass="Normal">In accordance with Title 10, United States Code, Section
+            2304a(d)(3), as amended, I as the <i>[INSERT AGENCY AND TITLE]</i> hereby make the
             following findings and determination concerning the award of a task or delivery order
-            contract to a single source for <i class="+ topic/ph hi-d/i ">[INSERT BRIEF DESCRIPTION OF END ITEM OR
+            contract to a single source for <i>[INSERT BRIEF DESCRIPTION OF END ITEM OR
                PROGRAM]</i>.</p>
-         <p id="orScVE" outputclass="Ctr normal" class="- topic/p ">FINDINGS</p>
-         <p id="TAHhrP" outputclass="Normal" class="- topic/p ">1) Under Title 10, United States Code, Section
+         <p id="orScVE" outputclass="Ctr normal">FINDINGS</p>
+         <p id="TAHhrP" outputclass="Normal">1) Under Title 10, United States Code, Section
             2304a(d)(3), the Department of Defense may not award task or delivery order contracts
             exceeding $100 million, inclusive of all options, to a single source, unless the head of
-            the agency, as delegated, determines in writing that <i class="+ topic/ph hi-d/i ">[CITE THE</i> APPROPRIATE REASON
+            the agency, as delegated, determines in writing that <i>[CITE THE</i> APPROPRIATE REASON
             FROM 10 USC 2304a(d)(3)(A)(i-iv)].</p>
-         <p id="xAztKV" class="- topic/p ">(2) <i class="+ topic/ph hi-d/i ">[INSERT</i>
-            <i class="+ topic/ph hi-d/i ">NATURE AND/OR DESCRIPTION OF THE ACTION BEING APPROVED</i>
-            <i class="+ topic/ph hi-d/i ">.</i>
-            <i class="+ topic/ph hi-d/i ">IF THE PREVIOUS EFFORT WAS OTHER THAN FULL AND OPEN COMPETITION, CITE THE CONTRACTOR,
+         <p id="xAztKV">(2) <i>[INSERT</i>
+            <i>NATURE AND/OR DESCRIPTION OF THE ACTION BEING APPROVED</i>
+            <i>.</i>
+            <i>IF THE PREVIOUS EFFORT WAS OTHER THAN FULL AND OPEN COMPETITION, CITE THE CONTRACTOR,
                THE DOCUMENT TITLE AND NUMBER WHICH GRANTED APPROVAL AND THE AUTHORITY CITED
                THEREIN]</i>.</p>
-         <p id="McDVgz" class="- topic/p ">(3) <i class="+ topic/ph hi-d/i ">[INSERT THE APPROPRIATE STATUTE AND/OR REGULATION UPON WHICH THE D&amp;F
+         <p id="McDVgz">(3) <i>[INSERT THE APPROPRIATE STATUTE AND/OR REGULATION UPON WHICH THE D&amp;F
             IS BASED]</i>.</p>
-         <p id="HjPHIk" class="- topic/p ">(4) <i class="+ topic/ph hi-d/i ">[INSERT THE PARTICULAR CIRCUMSTANCES, FACTS, OR REASONING ESSENTIAL TO
+         <p id="HjPHIk">(4) <i>[INSERT THE PARTICULAR CIRCUMSTANCES, FACTS, OR REASONING ESSENTIAL TO
             SUPPORT THIS DETERMINATION]</i>.</p>
-         <p id="jBRZhk" outputclass="Normal" class="- topic/p ">(5) The anticipated contract amount exceeds $100 million.
-            <i class="+ topic/ph hi-d/i ">(Note, do NOT include specifics on</i>
-            <i class="+ topic/ph hi-d/i ">the</i> Government estimate as this document is releasable.)</p>
-         <p id="vwinEO" outputclass="Ctr normal" class="- topic/p ">DETERMINATION</p>
-         <p id="byNEHd" outputclass="Normal" class="- topic/p ">Based on the findings above and pursuant to the authority
-            in Title 10, United States Code, Section 2304a(d)(3), I hereby determine that <i class="+ topic/ph hi-d/i ">[CITE THE
+         <p id="jBRZhk" outputclass="Normal">(5) The anticipated contract amount exceeds $100 million.
+            <i>(Note, do NOT include specifics on</i>
+            <i>the</i> Government estimate as this document is releasable.)</p>
+         <p id="vwinEO" outputclass="Ctr normal">DETERMINATION</p>
+         <p id="byNEHd" outputclass="Normal">Based on the findings above and pursuant to the authority
+            in Title 10, United States Code, Section 2304a(d)(3), I hereby determine that <i>[CITE THE
                APPROPRIATE REASON FROM 10</i>
-            <i class="+ topic/ph hi-d/i ">USC 2304a(d)(3)(A)(i-iv)]</i>. Therefore, approval is granted to award a single source
-            task or delivery order contract for <i class="+ topic/ph hi-d/i ">[INSERT BRIEF DESCRIPTION OF END ITEM OR
+            <i>USC 2304a(d)(3)(A)(i-iv)]</i>. Therefore, approval is granted to award a single source
+            task or delivery order contract for <i>[INSERT BRIEF DESCRIPTION OF END ITEM OR
                PROGRAM]</i>.</p>
-         <p class="- topic/p " id="J6Z9D">
-            <table colsep="1" rowsep="1" class="- topic/table ">
-               <tgroup cols="2" class="- topic/tgroup ">
-                  <colspec colname="1"
-                           colnum="1"
-                           rowheader="headers"
-                           class="- topic/colspec "/>
-                  <colspec colname="2"
-                           colnum="2"
-                           rowheader="headers"
-                           class="- topic/colspec "/>
-                  <tbody class="- topic/tbody ">
-                     <row class="- topic/row ">
-                        <entry class="- topic/entry ">
-                           <p id="xeYUqC" class="- topic/p ">_____________________________________</p>
+         <p id="J6Z9D">
+            <table colsep="1" rowsep="1">
+               <tgroup cols="2">
+                  <colspec colname="1" colnum="1" rowheader="headers" />
+                  <colspec colname="2" colnum="2" rowheader="headers" />
+                  <tbody>
+                     <row>
+                        <entry>
+                           <p id="xeYUqC">_____________________________________</p>
                         </entry>
-                        <entry class="- topic/entry ">
-                           <p id="OfHokd" class="- topic/p ">____________________</p>
+                        <entry>
+                           <p id="OfHokd">____________________</p>
                         </entry>
                      </row>
-                     <row class="- topic/row ">
-                        <entry class="- topic/entry ">
-                           <p id="ZOVXEc" class="- topic/p ">[<i class="+ topic/ph hi-d/i ">INSERT NAME OF THE APPROVING OFFICAL</i>]</p>
+                     <row>
+                        <entry>
+                           <p id="ZOVXEc">[<i>INSERT NAME OF THE APPROVING OFFICAL</i>]</p>
                         </entry>
-                        <entry class="- topic/entry ">
-                           <p id="cTsUYl" class="- topic/p ">Date</p>
+                        <entry>
+                           <p id="cTsUYl">Date</p>
                         </entry>
                      </row>
                   </tbody>

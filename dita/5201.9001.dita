@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="NMCARS_5201.9001"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5201.9001</ph> Policy.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="wNKqfg" outputclass="Normal" class="- topic/p ">(a) Contract actions, as delineated in 5201.9003(a), are subject to a formal review process prior to award through the use of a business clearance. The objective of the business clearance process is to:</p>
-      <p id="YDRWIw" outputclass="List2" class="- topic/p ">(1) Ensure that the proposed decision on a contract action is consistent with laws, regulations, and DOD/DON acquisition policies.</p>
-      <p id="ULwZgn" outputclass="List2" class="- topic/p ">(2) Document the basis for approval of the contract action, the basis for determination that the prices are fair and reasonable, and the application of good business practices.</p>
-      <p id="lRNhKs" outputclass="Normal" class="- topic/p ">(b) For contract actions requiring a business clearance, documentation generally includes the use of a pre-negotiation and post-negotiation business clearance memorandum (BCM).</p>
-      <p id="Vruacc" outputclass="List2" class="- topic/p ">(1) For acquisitions requiring competitive range determinations, the pre-negotiation BCM presents a chronology of the acquisition up to the determination to enter into discussions and provides the basis for the competitive range decision. The post-negotiation BCM continues the chronology to contract award and provides the basis for the award decision.</p>
-      <p id="WMRVGJ" outputclass="List2" class="- topic/p ">(2) For acquisitions requiring price negotiations, the pre-negotiation BCM presents the chronology of the acquisition prior to the start of formal negotiations and demonstrates to the approving official that the Government is ready to enter into negotiations. The post-negotiation BCM continues the chronology to contract award and describes the results of negotiations.</p>
-      <p id="bQnknp" outputclass="List2" class="- topic/p ">(3) When intending to use a combined BCM, the contracting officer must still comply with the pre-negotiation objectives documentation requirements of FAR 15.406-1 and DFARS PGI 215.406-1 or the proposal evaluation documentation requirements of FAR 15.305 and DFARS 215.305.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="NMCARS_5201.9001" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5201.9001</ph> Policy.</title>
+   <conbody>
+      <p id="wNKqfg" outputclass="Normal">(a) Contract actions, as delineated in 5201.9003(a), are subject to a formal review process prior to award through the use of a business clearance. The objective of the business clearance process is to:</p>
+      <p id="YDRWIw" outputclass="List2">(1) Ensure that the proposed decision on a contract action is consistent with laws, regulations, and DOD/DON acquisition policies.</p>
+      <p id="ULwZgn" outputclass="List2">(2) Document the basis for approval of the contract action, the basis for determination that the prices are fair and reasonable, and the application of good business practices.</p>
+      <p id="lRNhKs" outputclass="Normal">(b) For contract actions requiring a business clearance, documentation generally includes the use of a pre-negotiation and post-negotiation business clearance memorandum (BCM).</p>
+      <p id="Vruacc" outputclass="List2">(1) For acquisitions requiring competitive range determinations, the pre-negotiation BCM presents a chronology of the acquisition up to the determination to enter into discussions and provides the basis for the competitive range decision. The post-negotiation BCM continues the chronology to contract award and provides the basis for the award decision.</p>
+      <p id="WMRVGJ" outputclass="List2">(2) For acquisitions requiring price negotiations, the pre-negotiation BCM presents the chronology of the acquisition prior to the start of formal negotiations and demonstrates to the approving official that the Government is ready to enter into negotiations. The post-negotiation BCM continues the chronology to contract award and describes the results of negotiations.</p>
+      <p id="bQnknp" outputclass="List2">(3) When intending to use a combined BCM, the contracting officer must still comply with the pre-negotiation objectives documentation requirements of FAR 15.406-1 and DFARS PGI 215.406-1 or the proposal evaluation documentation requirements of FAR 15.305 and DFARS 215.305.</p>
    </conbody>
 </concept>

@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="NMCARS_PART_5237">
-      <title class="- topic/title " outputclass="Ctr 1 heading part">
-         <ph class="- topic/ph " props="autonumber">PART 5237</ph> SERVICE CONTRACTING</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="NMCARS_PART_5237" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Ctr 1 heading part">
+         <ph props="autonumber">Part 5237</ph> - SERVICE CONTRACTING</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5237.1.dita#NMCARS_SUBPART_5237.1">SUBPART 5237.1 — SERVICE CONTRACTS GENERAL</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5237.1.dita#NMCARS_SUBPART_5237.1">Subpart 5237.1 - SERVICE CONTRACTS GENERAL</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -55,7 +54,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5237.2.dita#NMCARS_SUBPART_5237.2">SUBPART 5237.2 — ADVISORY AND ASSISTANCE SERVICES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5237.2.dita#NMCARS_SUBPART_5237.2">Subpart 5237.2 - ADVISORY AND ASSISTANCE SERVICES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -67,7 +66,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5237.5.dita#NMCARS_SUBPART_5237.5">SUBPART 5237.5 — MANAGEMENT OVERSIGHT OF SERVICE CONTRACTS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5237.5.dita#NMCARS_SUBPART_5237.5">Subpart 5237.5 - MANAGEMENT OVERSIGHT OF SERVICE CONTRACTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -77,19 +76,19 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5237.503.dita#NMCARS_5237.503">5237.503 Agency–head responsibilities.</xref>
+                        <xref outputclass="fm:TOC" href="5237.503.dita#NMCARS_5237.503">5237.503 Agency-head responsibilities.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5237.504.dita#NMCARS_5237.504">5237.504 Contracting official’s responsibilities.</xref>
+                        <xref outputclass="fm:TOC" href="5237.504.dita#NMCARS_5237.504">5237.504 Contracting officials responsibilities.</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5237.76.dita#NMCARS_SUBPART_5237.76">SUBPART 5237.76 — CONTINUATION OF ESSENTIAL CONTRACTOR SERVICES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5237.76.dita#NMCARS_SUBPART_5237.76">Subpart 5237.76 - CONTINUATION OF ESSENTIAL CONTRACTOR SERVICES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -101,7 +100,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5237.90.dita#NMCARS_SUBPART_5237.90">SUBPART 5237.90 —CONTRACTOR GUARD SERVICES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5237.90.dita#NMCARS_SUBPART_5237.90">Subpart 5237.90 - CONTRACTOR GUARD SERVICES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="NMCARS_PART_5248">
-      <title class="- topic/title " outputclass="1 heading part Ctr">
-         <ph class="- topic/ph " props="autonumber">PART 5248</ph> VALUE ENGINEERING</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="NMCARS_PART_5248" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 heading part Ctr">
+         <ph props="autonumber">Part 5248</ph> - VALUE ENGINEERING</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5248.1.dita#NMCARS_SUBPART_5248.1">SUBPART 5248.1 —POLICIES AND PROCEDURES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5248.1.dita#NMCARS_SUBPART_5248.1">Subpart 5248.1 - POLICIES AND PROCEDURES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

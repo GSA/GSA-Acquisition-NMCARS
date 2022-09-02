@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="NMCARS_Annex-5">
-      <title class="- topic/title " outputclass="1 heading Ctr">
-         <ph class="- topic/ph " props="autonumber">ANNEX 5</ph> – BRIDGE CONTRACT APPROVAL AND REPORTING</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="NMCARS_Annex-5" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 heading Ctr">
+         <ph props="autonumber">ANNEX 5</ph> - BRIDGE CONTRACT APPROVAL AND REPORTING</title>
       <body>
-         <p id="VaEoQn" outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">1. Approval.</b>
+         <p id="VaEoQn" outputclass="Normal">
+            <b>1. Approval.</b>
          </p>
-         <p id="VwZlxC" class="- topic/p ">Pursuant to 5206.303-1(S-90), the template below shall be used when requesting approval to award a bridge contract.</p>
-         <p id="rFwlfW" outputclass="Ctr normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">REQUEST FOR AUTHORIZATION OF BRIDGE CONTRACT</b>
+         <p id="VwZlxC">Pursuant to 5206.303-1(S-90), the template below shall be used when requesting approval to award a bridge contract.</p>
+         <p id="rFwlfW" outputclass="Ctr normal">
+            <b>REQUEST FOR AUTHORIZATION OF BRIDGE CONTRACT</b>
          </p>
          <p>1) Existing contract #:__________________________________________________________ </p>
          <p>2) Incumbent name:____________________________________________________________ </p>
@@ -47,16 +46,14 @@
             acquisition strategy is full and open, limited competition, or sole source) </p>
          <p>_______________________________________________________________________</p>
          <p>_______________________________________________________________________ </p>
-         <p id="hwukHO" outputclass="Ctr normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">CERTIFICATIONS AND APPROVAL</b>
+         <p id="hwukHO" outputclass="Ctr normal">
+            <b>CERTIFICATIONS AND APPROVAL</b>
          </p>
-         <p id="EvPDmp" outputclass="Ctr normal" class="- topic/p ">TECHNICAL/REQUIREMENTS CERTIFICATION</p>
-         <p id="oRtVSC" outputclass="Normal" class="- topic/p ">I certify that the facts and representations under my cognizance which are included in this request for authorization of a bridge contract are complete and accurate to the best of my knowledge and belief.</p>
-         <p id="QnGTRU" outputclass="Normal" class="- topic/p ">Technical Cognizance:</p>
-         <p outputclass="Normal" class="- topic/p ">
-            <simpletable frame="none"
-                         relcolwidth="1.5* 1.35* 1.0* 1.05*"
-                         id="simpletable_npq_xmp_35b">
+         <p id="EvPDmp" outputclass="Ctr normal">TECHNICAL/REQUIREMENTS CERTIFICATION</p>
+         <p id="oRtVSC" outputclass="Normal">I certify that the facts and representations under my cognizance which are included in this request for authorization of a bridge contract are complete and accurate to the best of my knowledge and belief.</p>
+         <p id="QnGTRU" outputclass="Normal">Technical Cognizance:</p>
+         <p outputclass="Normal">
+            <simpletable frame="none" relcolwidth="1.5* 1.35* 1.0* 1.05*" id="simpletable_npq_xmp_35b">
                <strow>
                   <stentry>_____________________</stentry>
                   <stentry>__________________</stentry>
@@ -71,11 +68,9 @@
                </strow>
             </simpletable>
          </p>
-         <p id="fTcrTN" outputclass="Normal" class="- topic/p ">Requirements Cognizance:</p>
-         <p outputclass="Normal" class="- topic/p ">
-            <simpletable frame="none"
-                         relcolwidth="1.5* 1.35* 1.0* 1.05*"
-                         id="simpletable_wcd_ymp_35b">
+         <p id="fTcrTN" outputclass="Normal">Requirements Cognizance:</p>
+         <p outputclass="Normal">
+            <simpletable frame="none" relcolwidth="1.5* 1.35* 1.0* 1.05*" id="simpletable_wcd_ymp_35b">
                <strow>
                   <stentry>_____________________</stentry>
                   <stentry>__________________</stentry>
@@ -90,12 +85,10 @@
                </strow>
             </simpletable>
          </p>
-         <p id="fkTISV" outputclass="Ctr normal" class="- topic/p ">CONTRACTING OFFICER CERTIFICATION</p>
-         <p id="IkPqEm" outputclass="Normal" class="- topic/p ">I certify that the facts and representations for this request for authorization of a bridge contract are accurate and complete to the best of my knowledge and belief.</p>
-         <p id="yOqQdU" outputclass="Normal" class="- topic/p ">
-            <simpletable frame="none"
-                         id="simpletable_ujp_jmp_35b"
-                         relcolwidth="1.5* 1.35* 1.0* 1.05*">
+         <p id="fkTISV" outputclass="Ctr normal">CONTRACTING OFFICER CERTIFICATION</p>
+         <p id="IkPqEm" outputclass="Normal">I certify that the facts and representations for this request for authorization of a bridge contract are accurate and complete to the best of my knowledge and belief.</p>
+         <p id="yOqQdU" outputclass="Normal">
+            <simpletable frame="none" id="simpletable_ujp_jmp_35b" relcolwidth="1.5* 1.35* 1.0* 1.05*">
                <strow>
                   <stentry>_____________________</stentry>
                   <stentry>__________________</stentry>
@@ -110,13 +103,11 @@
                </strow>
             </simpletable>
          </p>
-         <p id="nFNLqG" outputclass="Ctr normal" class="- topic/p ">ACQUISITION VALUED $700,000 OR LESS</p>
-         <p id="dLRBVh" outputclass="Ctr normal" class="- topic/p ">ACTIVITY CHIEF OF THE CONTRACTING OFFICE APPROVAL</p>
-         <p id="uROpGK" outputclass="Normal" class="- topic/p ">Upon the basis of the information contained in this request, I hereby approve, as the Activity Chief of the Contracting Office, the negotiation of a bridge contract valued at $700,000 or less as described herein.</p>
-         <p outputclass="Normal" class="- topic/p ">
-            <simpletable frame="none"
-                         relcolwidth="1.5* 1.35* 1.05*"
-                         id="simpletable_ovb_zmp_35b">
+         <p id="nFNLqG" outputclass="Ctr normal">ACQUISITION VALUED $700,000 OR LESS</p>
+         <p id="dLRBVh" outputclass="Ctr normal">ACTIVITY CHIEF OF THE CONTRACTING OFFICE APPROVAL</p>
+         <p id="uROpGK" outputclass="Normal">Upon the basis of the information contained in this request, I hereby approve, as the Activity Chief of the Contracting Office, the negotiation of a bridge contract valued at $700,000 or less as described herein.</p>
+         <p outputclass="Normal">
+            <simpletable frame="none" relcolwidth="1.5* 1.35* 1.05*" id="simpletable_ovb_zmp_35b">
                <strow>
                   <stentry>_____________________</stentry>
                   <stentry>__________________</stentry>
@@ -129,13 +120,11 @@
                </strow>
             </simpletable>
          </p>
-         <p id="yCHwZz" outputclass="Ctr normal" class="- topic/p ">ACQUISITION VALUED BETWEEN $700,000 AND $5,500,000</p>
-         <p id="jObsRq" outputclass="Ctr normal" class="- topic/p ">ECHELON II CHIEF OF THE CONTRACTING OFFICE APPROVAL</p>
-         <p id="enasNQ" outputclass="Normal" class="- topic/p ">Upon the basis of the information contained in this request, I hereby approve, as the Echelon II/III Chief of the Contracting Office, the negotiation of a bridge contract valued between $700,000 and $5,500,000 as described herein.</p>
-         <p outputclass="Normal" class="- topic/p ">
-            <simpletable frame="none"
-                         relcolwidth="1.5* 1.35* 1.05*"
-                         id="simpletable_b1f_bnp_35b">
+         <p id="yCHwZz" outputclass="Ctr normal">ACQUISITION VALUED BETWEEN $700,000 AND $5,500,000</p>
+         <p id="jObsRq" outputclass="Ctr normal">ECHELON II CHIEF OF THE CONTRACTING OFFICE APPROVAL</p>
+         <p id="enasNQ" outputclass="Normal">Upon the basis of the information contained in this request, I hereby approve, as the Echelon II/III Chief of the Contracting Office, the negotiation of a bridge contract valued between $700,000 and $5,500,000 as described herein.</p>
+         <p outputclass="Normal">
+            <simpletable frame="none" relcolwidth="1.5* 1.35* 1.05*" id="simpletable_b1f_bnp_35b">
                <strow>
                   <stentry>_____________________</stentry>
                   <stentry>__________________</stentry>
@@ -148,13 +137,11 @@
                </strow>
             </simpletable>
          </p>
-         <p id="WGFxon" outputclass="Ctr normal" class="- topic/p ">ACQUISITION VALUED GREATER THAN $5,500,000</p>
-         <p id="bMLeVh" outputclass="Ctr normal" class="- topic/p ">HEAD OF THE CONTRACTING ACTIVITY APPROVAL</p>
-         <p id="Coykdr" outputclass="Normal" class="- topic/p ">Upon the basis of the information contained in this request, I hereby approve, as the Head of the Contracting Activity, the negotiation of a bridge contract valued greater than $5,500,000 as described herein.</p>
-         <p outputclass="Normal" class="- topic/p ">
-            <simpletable frame="none"
-                         relcolwidth="1.5* 1.35* 1.05*"
-                         id="simpletable_vcz_bnp_35b">
+         <p id="WGFxon" outputclass="Ctr normal">ACQUISITION VALUED GREATER THAN $5,500,000</p>
+         <p id="bMLeVh" outputclass="Ctr normal">HEAD OF THE CONTRACTING ACTIVITY APPROVAL</p>
+         <p id="Coykdr" outputclass="Normal">Upon the basis of the information contained in this request, I hereby approve, as the Head of the Contracting Activity, the negotiation of a bridge contract valued greater than $5,500,000 as described herein.</p>
+         <p outputclass="Normal">
+            <simpletable frame="none" relcolwidth="1.5* 1.35* 1.05*" id="simpletable_vcz_bnp_35b">
                <strow>
                   <stentry>_____________________</stentry>
                   <stentry>__________________</stentry>
@@ -167,26 +154,26 @@
                </strow>
             </simpletable>
          </p>
-         <p id="c9wtfil" outputclass="Normal" class="- topic/p ">
-            <b id="ulm7bsix" class="+ topic/ph hi-d/b ">2. Reporting</b>
-            <b class="+ topic/ph hi-d/b ">.</b>
+         <p id="c9wtfil" outputclass="Normal">
+            <b id="ulm7bsix">2. Reporting</b>
+            <b>.</b>
          </p>
-         <p id="FmgAjK" class="- topic/p ">a. In accordance with 5206.303-91, HCAs shall provide a
+         <p id="FmgAjK">a. In accordance with 5206.303-91, HCAs shall provide a
             bridge contract status update (including rationale for using the bridge contract), <ph rev="CHANGE 18-22 JULY 11, 2022">at the midpoint of the current bridge contract
                period of performance</ph> to the SSM for bridge contracts awarded due to inadequate
             planning with a total estimated value at or above $10 million. All bridge contracts are
             considered awarded due to inadequate planning unless caused by protest, urgency, or
             delays during evaluation.</p>
-         <p id="Wpnpyn" class="- topic/p ">b. The requirement above does not apply to:</p>
-         <p id="KCBXot" outputclass="List2" class="- topic/p ">(1) Service contracts in support of contingency operations, humanitarian assistance, or disaster relief;</p>
-         <p id="YmBIis" outputclass="List2" class="- topic/p ">(2) Service contracts in support of a national security emergency declared with respect to a named operation; or</p>
-         <p id="NJfTJl" outputclass="List2" class="- topic/p ">(3) Service contracts entered into pursuant to an international agreement.</p>
-         <p id="WUGsnr" class="- topic/p ">c. Status updates on bridge contracts awarded due to inadequate planning will be used by DASN(P) to notify senior leadership in accordance with Department of Defense Instruction 5000.74, Defense Acquisition of Services, section 4.7 (Timely Planning to Avoid Bridge Contracts).</p>
-         <p id="BsESOZ" class="- topic/p ">d. In accordance with NMCARS 5206.303-92, <ph rev="CHANGE 18-22 JULY 11, 2022">15 days</ph> after the end of each quarter, each HCA
+         <p id="Wpnpyn">b. The requirement above does not apply to:</p>
+         <p id="KCBXot" outputclass="List2">(1) Service contracts in support of contingency operations, humanitarian assistance, or disaster relief;</p>
+         <p id="YmBIis" outputclass="List2">(2) Service contracts in support of a national security emergency declared with respect to a named operation; or</p>
+         <p id="NJfTJl" outputclass="List2">(3) Service contracts entered into pursuant to an international agreement.</p>
+         <p id="WUGsnr">c. Status updates on bridge contracts awarded due to inadequate planning will be used by DASN(P) to notify senior leadership in accordance with Department of Defense Instruction 5000.74, Defense Acquisition of Services, section 4.7 (Timely Planning to Avoid Bridge Contracts).</p>
+         <p id="BsESOZ">d. In accordance with NMCARS 5206.303-92, <ph rev="CHANGE 18-22 JULY 11, 2022">15 days</ph> after the end of each quarter, each HCA
             shall report data on bridge contract use to DASN(P) using the formatted spreadsheet
             located at: https://www.secnav.navy.mil/rda/DASN-P/Pages/NMCARS.aspx. Negative reports
             are required.</p>
-         <p id="LmwIor" class="- topic/p "/>
+         <p id="LmwIor"></p>
       </body>
    </topic>
 </dita>

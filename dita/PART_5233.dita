@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="NMCARS_PART_5233">
-      <title class="- topic/title " outputclass="1 Heading Part">
-         <ph class="- topic/ph " props="autonumber">PART 5233</ph> PROTESTS, DISPUTES, AND APPEALS</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="NMCARS_PART_5233" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 Heading Part">
+         <ph props="autonumber">Part 5233</ph> - PROTESTS, DISPUTES, AND APPEALS</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5233.1.dita#NMCARS_SUBPART_5233.1">SUBPART 5233.1 — PROTESTS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5233.1.dita#NMCARS_SUBPART_5233.1">Subpart 5233.1 - PROTESTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -31,7 +30,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5233.2.dita#NMCARS_SUBPART_5233.2">SUBPART 5233.2 — DISPUTES AND APPEALS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5233.2.dita#NMCARS_SUBPART_5233.2">Subpart 5233.2 - DISPUTES AND APPEALS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -70,7 +69,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5233.90.dita#NMCARS_SUBPART_5233.90">SUBPART 5233.90 — PROCEDURES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5233.90.dita#NMCARS_SUBPART_5233.90">Subpart 5233.90 - PROCEDURES</xref>
                </p>
                <ul otherprops="TOC">
                   <li rev="CHANGE 18-22 JULY 11, 2022">

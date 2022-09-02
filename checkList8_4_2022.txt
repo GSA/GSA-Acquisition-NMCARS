@@ -1,0 +1,9 @@
+Remove – with - on all concepts.
+Add - if there is no - present
+Replace Uppercase PARTS, SUBPARTS and SUBCHAPTER to lower case
+Remove hidden non breaking space on titles
+Add ‘Reserved’ to empty titles
+
+Updated xtref=”No” on the following items
+5235.015.dita
+5235.070.dita

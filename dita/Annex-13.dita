@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="NMCARS_Annex-13">
-      <title class="- topic/title " outputclass="1 heading Ctr">
-         <ph class="- topic/ph " props="autonumber">ANNEX 13</ph> – [RESERVED]</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="NMCARS_Annex-13" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 heading Ctr">
+         <ph props="autonumber">ANNEX 13</ph> - [RESERVED]</title>
       <body>
-         <p id="dxnNnZ" class="- topic/p "/>
+         <p id="dxnNnZ"></p>
       </body>
    </topic>
 </dita>

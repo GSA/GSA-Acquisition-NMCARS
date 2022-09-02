@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="NMCARS_PART_5225">
-      <title class="- topic/title " outputclass="1 heading part Ctr">
-         <ph class="- topic/ph " props="autonumber">PART 5225</ph> FOREIGN ACQUISITION</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="NMCARS_PART_5225" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 heading part Ctr">
+         <ph props="autonumber">Part 5225</ph> - FOREIGN ACQUISITION</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5225.1.dita#NMCARS_SUBPART_5225.1">SUBPART 5225.1 — BUY AMERICAN ACT–SUPPLIES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5225.1.dita#NMCARS_SUBPART_5225.1">Subpart 5225.1 - BUY AMERICAN ACT-SUPPLIES</xref>
                </p>
                <ul otherprops="TOC">
                   <li rev="CHANGE 18-22 JULY 11, 2022">
@@ -21,7 +20,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5225.2.dita#NMCARS_SUBPART_5225.2">SUBPART 5225.2 —BUY AMERICAN ACT–CONSTRUCTION MATERIALS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5225.2.dita#NMCARS_SUBPART_5225.2">Subpart 5225.2 - BUY AMERICAN ACT-CONSTRUCTION MATERIALS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -33,7 +32,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5225.3.dita#NMCARS_SUBPART_5225.3">SUBPART 5225.3 – Contracts Performed Outside the United States</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5225.3.dita#NMCARS_SUBPART_5225.3">Subpart 5225.3 - Contracts Performed Outside the United States</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -45,7 +44,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5225.4.dita#NMCARS_SUBPART_5225.4">SUBPART 5225.4 —TRADE AGREEMENTS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5225.4.dita#NMCARS_SUBPART_5225.4">Subpart 5225.4 - TRADE AGREEMENTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li rev="CHANGE 18-22 JULY 11, 2022">
@@ -62,7 +61,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5225.7.dita#NMCARS_SUBPART_5225.7">SUBPART 5225.7 —PROHIBITED SOURCES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5225.7.dita#NMCARS_SUBPART_5225.7">Subpart 5225.7 - PROHIBITED SOURCES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -132,7 +131,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5225.8.dita#NMCARS_SUBPART_5225.8">SUBPART 5225.8 —OTHER INTERNATIONAL AGREEMENTS AND COORDINATION</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5225.8.dita#NMCARS_SUBPART_5225.8">Subpart 5225.8 - OTHER INTERNATIONAL AGREEMENTS AND COORDINATION</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -185,7 +184,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5225.70.dita#NMCARS_SUBPART_5225.70">SUBPART 5225.70 —AUTHORIZATION ACTS, APPROPRIATIONS ACTS, AND OTHER STATUTORY RESTRICTIONS ON FOREIGN ACQUISITION</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5225.70.dita#NMCARS_SUBPART_5225.70">Subpart 5225.70 - AUTHORIZATION ACTS, APPROPRIATIONS ACTS, AND OTHER STATUTORY RESTRICTIONS ON FOREIGN ACQUISITION</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -255,7 +254,7 @@
                      <ul otherprops="TOC">
                         <li rev="CHANGE 18-22 JULY 11, 2022">
                            <p>
-                              <xref outputclass="fm:TOC" href="5225.70122.dita#NMCARS_5225.70122">5225.7012-2 (DFARS 225.7012–2) Waiver.</xref>
+                              <xref outputclass="fm:TOC" href="5225.70122.dita#NMCARS_5225.70122">5225.7012-2 (DFARS 225.7012-2) Waiver.</xref>
                            </p>
                         </li>
                      </ul>
@@ -276,7 +275,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5225.73.dita#NMCARS_SUBPART_5225.73">SUBPART 5225.73 —ACQUISITIONS FOR FOREIGN MILITARY SALES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5225.73.dita#NMCARS_SUBPART_5225.73">Subpart 5225.73 - ACQUISITIONS FOR FOREIGN MILITARY SALES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -295,7 +294,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5225.76.dita#NMCARS_SUBPART_5225.76">SUBPART 5225.76 —SECONDARY ARAB BOYCOTT OF ISRAEL</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5225.76.dita#NMCARS_SUBPART_5225.76">Subpart 5225.76 - SECONDARY ARAB BOYCOTT OF ISRAEL</xref>
                </p>
                <ul otherprops="TOC">
                   <li rev="CHANGE 18-22 JULY 11, 2022">
@@ -307,7 +306,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5225.77.dita#NMCARS_SUBPART_5225.77">SUBPART 5225.77 — ACQUISITIONS IN SUPPORT OF OPERATIONS IN AFGHANISTAN</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5225.77.dita#NMCARS_SUBPART_5225.77">Subpart 5225.77 - ACQUISITIONS IN SUPPORT OF OPERATIONS IN AFGHANISTAN</xref>
                </p>
                <ul otherprops="TOC">
                   <li rev="CHANGE 18-22 JULY 11, 2022">

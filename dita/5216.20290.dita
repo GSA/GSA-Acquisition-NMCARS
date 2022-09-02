@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="NMCARS_5216.20290"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5216.202-90</ph> Firm–fixed–price contracts.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="GVULhb" outputclass="Normal" class="- topic/p ">Consultation with DPC is required prior to the use of a firm-fixed-price (FFP) contract for a sole source acquisition with a value greater than $500 million for U.S. or combined U.S./FMS requirements for a major system as defined in FAR 2.101. This consultation should use the Peer Review process provided at NMCARS 5201.170. The HCA shall notify DASN(P) by email at <xref format="mailto"
-               href="mailto:RDAJ&amp;As.fct@navy.mil"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">RDAJ&amp;As.fct@navy.mil</u>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="NMCARS_5216.20290" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5216.202-90</ph> Firm-fixed-price contracts.</title>
+   <conbody>
+      <p id="GVULhb" outputclass="Normal">Consultation with DPC is required prior to the use of a firm-fixed-price (FFP) contract for a sole source acquisition with a value greater than $500 million for U.S. or combined U.S./FMS requirements for a major system as defined in FAR 2.101. This consultation should use the Peer Review process provided at NMCARS 5201.170. The HCA shall notify DASN(P) by email at <xref format="mailto" href="mailto:RDAJ&amp;As.fct@navy.mil" scope="external">
+            <u>RDAJ&amp;As.fct@navy.mil</u>
          </xref> with the subject “[Activity Name] Consultation with DPC for a FFP Contract over $500M" seven days prior to requesting the review from DPC.</p>
    </conbody>
 </concept>

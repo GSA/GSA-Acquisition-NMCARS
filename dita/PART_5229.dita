@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="NMCARS_PART_5229">
-      <title class="- topic/title " outputclass="1 heading part Ctr">
-         <ph class="- topic/ph " props="autonumber">PART 5229</ph> TAXES</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="NMCARS_PART_5229" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 heading part Ctr">
+         <ph props="autonumber">Part 5229</ph> - TAXES</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5229.3.dita#NMCARS_SUBPART_5229.3">SUBPART 5229.3 —STATE AND LOCAL TAXES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5229.3.dita#NMCARS_SUBPART_5229.3">Subpart 5229.3 - STATE AND LOCAL TAXES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

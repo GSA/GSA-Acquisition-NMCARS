@@ -1,387 +1,372 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="NMCARS_Annex-4">
-      <title class="- topic/title " outputclass="Ctr 1 heading">
-         <ph class="- topic/ph " props="autonumber">ANNEX 4</ph> – SUMMARY OF IMPLEMENTATION OF FISCAL YEAR 2017 NATIONAL
-      DEFENSE AUTHORIZATION ACT SECTION 233 PILOT PROGRAM FOR THE ENHANCEMENT OF THE RESEARCH,
-      DEVELOPMENT, TEST, AND EVALUATION CENTERS</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="NMCARS_Annex-4" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Ctr 1 heading">
+         <ph props="autonumber">ANNEX 4</ph> - SUMMARY OF IMPLEMENTATION OF FISCAL YEAR 2017 NATIONAL      DEFENSE AUTHORIZATION ACT SECTION 233 PILOT PROGRAM FOR THE ENHANCEMENT OF THE RESEARCH,      DEVELOPMENT, TEST, AND EVALUATION CENTERS</title>
       <body>
-         <p id="seRjGH" outputclass="Normal" class="- topic/p ">This Annex memorializes ASN(RDA) approved initiatives
+         <p id="seRjGH" outputclass="Normal">This Annex memorializes ASN(RDA) approved initiatives
          under FY17 NDAA Section 233 Pilot Program for the Enhancement of the Research, Development,
          Test, and Evaluation Centers. The FY17 NDAA Section 233 directs the military departments to
          carry out a pilot program to demonstrate methods for more effective development of
          technology and management functions at five eligible science and technology reinvention
          laboratories (STRLs).</p>
-         <p id="JPGnKb" outputclass="Normal" class="- topic/p ">The references supporting this Annex are:</p>
-         <p class="- topic/p " id="m1rYw">
-            <ol otherprops="B_LA_B:1" class="- topic/ol ">
-               <li id="GLZKQV" class="- topic/li ">
-                  <p id="vRZszQ" outputclass="List1" class="- topic/p ">
-                     <ph props="autonumber" class="- topic/ph ">(a) </ph>ASN(RDA) Memorandum, Revised
+         <p id="JPGnKb" outputclass="Normal">The references supporting this Annex are:</p>
+         <p id="m1rYw">
+            <ol otherprops="B_LA_B:1">
+               <li id="GLZKQV">
+                  <p id="vRZszQ" outputclass="List1">
+                     <ph props="autonumber">(a) </ph>ASN(RDA) Memorandum, Revised
                Memorandum for Implementation of Section 233 Pilot Program for the Enhancement of the
                Research, Development, Test and Evaluation Centers dated July 14, 2017;</p>
                </li>
-               <li id="WWqTFb" class="- topic/li ">
-                  <p id="XqkqJl" outputclass="List1" class="- topic/p ">
-                     <ph props="autonumber" class="- topic/ph ">(b) </ph>ASN(RDA) Memorandum, Approval of
+               <li id="WWqTFb">
+                  <p id="XqkqJl" outputclass="List1">
+                     <ph props="autonumber">(b) </ph>ASN(RDA) Memorandum, Approval of
                Initiatives Under FY2017 NDAA Section 233 Pilot Program for the Enhancement of the
                Research, Development, Test and Evaluation Centers dated November 16, 2017;</p>
                </li>
-               <li id="tIDwBL" class="- topic/li ">
-                  <p id="WuDiyC" outputclass="List1 Normal" class="- topic/p ">
-                     <ph props="autonumber" class="- topic/ph ">(c) </ph>ASN(RDA) Memorandum, Approved
+               <li id="tIDwBL">
+                  <p id="WuDiyC" outputclass="List1 Normal">
+                     <ph props="autonumber">(c) </ph>ASN(RDA) Memorandum, Approved
                Initiatives Under FY2017 NOAA Section 233 Pilot Program for the Enhancement of the
                Research, Development, Test and Evaluation Centers, Phase II, Sprint I dated March 5,
                2019; and</p>
-                  <p id="ttNlBf" outputclass="Normal" class="- topic/p ">The table below captures approved initiatives as
+                  <p id="ttNlBf" outputclass="Normal">The table below captures approved initiatives as
                reflected in references (a) through (c).</p>
-                  <table colsep="1" rowsep="1" class="- topic/table ">
-                     <tgroup cols="4" colsep="1" class="- topic/tgroup ">
-                        <colspec colname="1"
-                                 colnum="1"
-                                 rowheader="headers"
-                                 class="- topic/colspec "/>
-                        <colspec colname="2"
-                                 colnum="2"
-                                 rowheader="headers"
-                                 class="- topic/colspec "/>
-                        <colspec colname="3"
-                                 colnum="3"
-                                 rowheader="headers"
-                                 class="- topic/colspec "/>
-                        <colspec colname="4"
-                                 colnum="4"
-                                 rowheader="headers"
-                                 class="- topic/colspec "/>
-                        <tbody class="- topic/tbody ">
-                           <row rowsep="1" class="- topic/row ">
-                              <entry class="- topic/entry ">
-                                 <p id="dieZCi" class="- topic/p ">
-                                    <b class="+ topic/ph hi-d/b ">Reference Date</b>
+                  <table colsep="1" rowsep="1">
+                     <tgroup cols="4" colsep="1">
+                        <colspec colname="1" colnum="1" rowheader="headers" />
+                        <colspec colname="2" colnum="2" rowheader="headers" />
+                        <colspec colname="3" colnum="3" rowheader="headers" />
+                        <colspec colname="4" colnum="4" rowheader="headers" />
+                        <tbody>
+                           <row rowsep="1">
+                              <entry>
+                                 <p id="dieZCi">
+                                    <b>Reference Date</b>
                                  </p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="HIuCik" class="- topic/p ">
-                                    <b class="+ topic/ph hi-d/b ">Initiative</b>
+                              <entry>
+                                 <p id="HIuCik">
+                                    <b>Initiative</b>
                                  </p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="uOIBER" class="- topic/p ">
-                                    <b class="+ topic/ph hi-d/b ">Applicability</b>
+                              <entry>
+                                 <p id="uOIBER">
+                                    <b>Applicability</b>
                                  </p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="uDNlOL" class="- topic/p ">
-                                    <b class="+ topic/ph hi-d/b ">NMCARS Pointer</b>
+                              <entry>
+                                 <p id="uDNlOL">
+                                    <b>NMCARS Pointer</b>
                                  </p>
                               </entry>
                            </row>
-                           <row rowsep="1" class="- topic/row ">
-                              <entry class="- topic/entry ">
-                                 <p id="zNrvUU" class="- topic/p ">July 14, 2017</p>
-                                 <p id="dJuqMa" class="- topic/p ">November 16, 2017</p>
+                           <row rowsep="1">
+                              <entry>
+                                 <p id="zNrvUU">July 14, 2017</p>
+                                 <p id="dJuqMa">November 16, 2017</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="VwKbcB" class="- topic/p ">Justifications and Approvals for Other than Full and Open
+                              <entry>
+                                 <p id="VwKbcB">Justifications and Approvals for Other than Full and Open
                               competition not exceeding $93 million may be approved by a
                               general/flag officer or Senior Executive of the STRL.</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="ApMLMs" class="- topic/p ">Naval Research Laboratory (NRL);</p>
-                                 <p id="ejumok" class="- topic/p ">NAVSEA Warfare Centers (NWCs) (Naval Surface Warfare
+                              <entry>
+                                 <p id="ApMLMs">Naval Research Laboratory (NRL);</p>
+                                 <p id="ejumok">NAVSEA Warfare Centers (NWCs) (Naval Surface Warfare
                               Center and Naval Undersea Warfare Center);</p>
-                                 <p id="ekAAhc" class="- topic/p ">Naval Air Warfare Center - Aircraft Division (NAWCAD);</p>
-                                 <p id="YgRsiT" class="- topic/p ">Naval Air Warfare Center - Weapons Division (NAWCWD);
+                                 <p id="ekAAhc">Naval Air Warfare Center - Aircraft Division (NAWCAD);</p>
+                                 <p id="YgRsiT">Naval Air Warfare Center - Weapons Division (NAWCWD);
                               and</p>
-                                 <p id="hJxCRy" class="- topic/p ">Naval Information and Warfare Centers - Atlantic and
+                                 <p id="hJxCRy">Naval Information and Warfare Centers - Atlantic and
                               Pacific (formerly SPAWAR Systems Centers)</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="bORUjU" class="- topic/p ">5206.304(a)(S-90)</p>
+                              <entry>
+                                 <p id="bORUjU">5206.304(a)(S-90)</p>
                               </entry>
                            </row>
-                           <row rowsep="1" class="- topic/row ">
-                              <entry class="- topic/entry ">
-                                 <p id="JSGDGL" class="- topic/p ">July 14, 2017</p>
-                                 <p id="GsmMGL" class="- topic/p ">November 16, 2017</p>
+                           <row rowsep="1">
+                              <entry>
+                                 <p id="JSGDGL">July 14, 2017</p>
+                                 <p id="GsmMGL">November 16, 2017</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="ueQMUY" class="- topic/p ">Justifications and Approvals to not provide a Fair
+                              <entry>
+                                 <p id="ueQMUY">Justifications and Approvals to not provide a Fair
                               Opportunity to be considered on proposed orders not exceeding $93
                               million under Multiple Award Contracts, may be approved by a
                               general/flag officer or Senior Executive of the STRL.</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="LDWTjG" class="- topic/p ">NRL, NWCs, NAWCAD, NAWCWD, and NIWC SCs</p>
+                              <entry>
+                                 <p id="LDWTjG">NRL, NWCs, NAWCAD, NAWCWD, and NIWC SCs</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="PwKhUm" class="- topic/p ">5206.304(a)(S-90)</p>
+                              <entry>
+                                 <p id="PwKhUm">5206.304(a)(S-90)</p>
                               </entry>
                            </row>
-                           <row rowsep="1" class="- topic/row ">
-                              <entry class="- topic/entry ">
-                                 <p id="QYlfxQ" class="- topic/p ">July 14, 2017</p>
-                                 <p id="bBQAgq" class="- topic/p ">November 16, 2017</p>
+                           <row rowsep="1">
+                              <entry>
+                                 <p id="QYlfxQ">July 14, 2017</p>
+                                 <p id="bBQAgq">November 16, 2017</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="IGNxVX" class="- topic/p ">Management and Oversight Process for the Acquisition of
+                              <entry>
+                                 <p id="IGNxVX">Management and Oversight Process for the Acquisition of
                               Services (MOPAS) actions with an estimated value of less than
                               $100,000,000 may be approved by the STRL.</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="bGNOaw" class="- topic/p ">NRL, NWCs, NAWCAD, NAWCWD, and NIWC SCs</p>
+                              <entry>
+                                 <p id="bGNOaw">NRL, NWCs, NAWCAD, NAWCWD, and NIWC SCs</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="cGypGD" class="- topic/p ">5207.103(j)(ii)</p>
-                                 <p id="qOxUVV" class="- topic/p ">5237.503(S-90)(b)</p>
-                              </entry>
-                           </row>
-                           <row rowsep="1" class="- topic/row ">
-                              <entry class="- topic/entry ">
-                                 <p id="joRPLI" class="- topic/p ">November 16, 2017</p>
-                              </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="shucDW" class="- topic/p ">Purchase card may be used to procure supplies/services</p>
-                              </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="RPpZXu" class="- topic/p ">NRL, NWCs, NAWCAD, NAWCWD, and NIWC SCs</p>
-                              </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="WJsYPP" class="- topic/p ">5213.270</p>
+                              <entry>
+                                 <p id="cGypGD">5207.103(j)(ii)</p>
+                                 <p id="qOxUVV">5237.503(S-90)(b)</p>
                               </entry>
                            </row>
-                           <row rowsep="1" class="- topic/row ">
-                              <entry class="- topic/entry ">
-                                 <p id="WldfcY" class="- topic/p ">November 16, 2017</p>
+                           <row rowsep="1">
+                              <entry>
+                                 <p id="joRPLI">November 16, 2017</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="pEbHAk" class="- topic/p ">Single Award Task or delivery order contracts under $112
+                              <entry>
+                                 <p id="shucDW">Purchase card may be used to procure supplies/services</p>
+                              </entry>
+                              <entry>
+                                 <p id="RPpZXu">NRL, NWCs, NAWCAD, NAWCWD, and NIWC SCs</p>
+                              </entry>
+                              <entry>
+                                 <p id="WJsYPP">5213.270</p>
+                              </entry>
+                           </row>
+                           <row rowsep="1">
+                              <entry>
+                                 <p id="WldfcY">November 16, 2017</p>
+                              </entry>
+                              <entry>
+                                 <p id="pEbHAk">Single Award Task or delivery order contracts under $112
                               Million do not require HCA approval - NMCARS 5216.504-90 is
                               waived.</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="ENIjsh" class="- topic/p ">NRL, NWCs, NAWCAD, NAWCWD, and NIWC SCs</p>
+                              <entry>
+                                 <p id="ENIjsh">NRL, NWCs, NAWCAD, NAWCWD, and NIWC SCs</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="iyBSFX" class="- topic/p ">5216.504-90</p>
+                              <entry>
+                                 <p id="iyBSFX">5216.504-90</p>
                               </entry>
                            </row>
-                           <row rowsep="1" class="- topic/row ">
-                              <entry class="- topic/entry ">
-                                 <p id="IeppxM" class="- topic/p ">November 16, 2017</p>
+                           <row rowsep="1">
+                              <entry>
+                                 <p id="IeppxM">November 16, 2017</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="eaNKka" class="- topic/p ">Peer Reviews for actions less than $250 Million may be
+                              <entry>
+                                 <p id="eaNKka">Peer Reviews for actions less than $250 Million may be
                               conducted by the STRL</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="RWpgJV" class="- topic/p ">NRL, NWCs, NAWCAD, NAWCWD, and NIWC SCs</p>
+                              <entry>
+                                 <p id="RWpgJV">NRL, NWCs, NAWCAD, NAWCWD, and NIWC SCs</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="HFWmEl" class="- topic/p ">5201.170(b)</p>
-                              </entry>
-                           </row>
-                           <row rowsep="1" class="- topic/row ">
-                              <entry class="- topic/entry ">
-                                 <p id="AJrekl" class="- topic/p ">
-                                    <b class="+ topic/ph hi-d/b ">Reference Date</b>
-                                 </p>
-                              </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="uFodvf" class="- topic/p ">
-                                    <b class="+ topic/ph hi-d/b ">Initiative</b>
-                                 </p>
-                              </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="joEudv" class="- topic/p ">
-                                    <b class="+ topic/ph hi-d/b ">Applicability</b>
-                                 </p>
-                              </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="lWLeQI" class="- topic/p ">
-                                    <b class="+ topic/ph hi-d/b ">NMCARS Pointer</b>
-                                 </p>
+                              <entry>
+                                 <p id="HFWmEl">5201.170(b)</p>
                               </entry>
                            </row>
-                           <row rowsep="1" class="- topic/row ">
-                              <entry class="- topic/entry ">
-                                 <p id="QqimyQ" class="- topic/p ">November 16, 2017</p>
+                           <row rowsep="1">
+                              <entry>
+                                 <p id="AJrekl">
+                                    <b>Reference Date</b>
+                                 </p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="KHeEWD" class="- topic/p ">NRL may approve bridge contract actions below $20 Million
+                              <entry>
+                                 <p id="uFodvf">
+                                    <b>Initiative</b>
+                                 </p>
+                              </entry>
+                              <entry>
+                                 <p id="joEudv">
+                                    <b>Applicability</b>
+                                 </p>
+                              </entry>
+                              <entry>
+                                 <p id="lWLeQI">
+                                    <b>NMCARS Pointer</b>
+                                 </p>
+                              </entry>
+                           </row>
+                           <row rowsep="1">
+                              <entry>
+                                 <p id="QqimyQ">November 16, 2017</p>
+                              </entry>
+                              <entry>
+                                 <p id="KHeEWD">NRL may approve bridge contract actions below $20 Million
                               per NMCARS 5206.303-1(S-90), which permits HCAs to delegate bridge
                               contract approval one level.</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="lYKIXd" class="- topic/p ">NRL</p>
+                              <entry>
+                                 <p id="lYKIXd">NRL</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="TCKTpC" class="- topic/p ">5206.303-1(S-90)(a)</p>
+                              <entry>
+                                 <p id="TCKTpC">5206.303-1(S-90)(a)</p>
                               </entry>
                            </row>
-                           <row rowsep="1" class="- topic/row ">
-                              <entry class="- topic/entry ">
-                                 <p id="kzhLpj" class="- topic/p ">November 16, 2017</p>
+                           <row rowsep="1">
+                              <entry>
+                                 <p id="kzhLpj">November 16, 2017</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="qCBnVm" class="- topic/p ">Approve Business Clearance documents up to $75M and use an
+                              <entry>
+                                 <p id="qCBnVm">Approve Business Clearance documents up to $75M and use an
                               abbreviated Business Clearance Form for actions between $150K and
                               $750K as consistent with NMCARS 5201.690, which instructs the HCA to
                               establish Business Clearance Review procedures.</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="QqQiAh" class="- topic/p ">NWCs</p>
+                              <entry>
+                                 <p id="QqQiAh">NWCs</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="bksHBx" class="- topic/p ">5201.690(d)</p>
+                              <entry>
+                                 <p id="bksHBx">5201.690(d)</p>
                               </entry>
                            </row>
-                           <row rowsep="1" class="- topic/row ">
-                              <entry class="- topic/entry ">
-                                 <p id="VcOfHD" class="- topic/p ">November 16, 2017</p>
+                           <row rowsep="1">
+                              <entry>
+                                 <p id="VcOfHD">November 16, 2017</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="ekqnjq" class="- topic/p ">Use contracting functions of Army Corp of Engineers and/or
+                              <entry>
+                                 <p id="ekqnjq">Use contracting functions of Army Corp of Engineers and/or
                               General Services administration in accordance with interagency
                               acquisitions procedures in FAR 17.5, DFARS 217.5, NMCARS 5217.5 and is
                               consistent with 10 U.S.C. Section 2851.</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="YJAEmH" class="- topic/p ">NWCs</p>
+                              <entry>
+                                 <p id="YJAEmH">NWCs</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="RdFpkm" class="- topic/p ">5217.502-2(a)</p>
+                              <entry>
+                                 <p id="RdFpkm">5217.502-2(a)</p>
                               </entry>
                            </row>
-                           <row rowsep="1" class="- topic/row ">
-                              <entry class="- topic/entry ">
-                                 <p id="ocCRkt" class="- topic/p ">March 5, 2019</p>
+                           <row rowsep="1">
+                              <entry>
+                                 <p id="ocCRkt">March 5, 2019</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="HJUJFa" class="- topic/p ">Approval granted to increase current consolidation of
+                              <entry>
+                                 <p id="HJUJFa">Approval granted to increase current consolidation of
                               contract approval thresholds from $2 Million to no more than $50
                               Million for STRL and less than $100 Million for Head of Contracting
                               Activity (HCA).</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="vhvguJ" class="- topic/p ">DON STRLs</p>
+                              <entry>
+                                 <p id="vhvguJ">DON STRLs</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="ehdnGA" class="- topic/p ">5207.107-2(e)(2)(1)</p>
+                              <entry>
+                                 <p id="ehdnGA">5207.107-2(e)(2)(1)</p>
                               </entry>
                            </row>
-                           <row rowsep="1" class="- topic/row ">
-                              <entry class="- topic/entry ">
-                                 <p id="IOeOrf" class="- topic/p ">March 5, 2019</p>
+                           <row rowsep="1">
+                              <entry>
+                                 <p id="IOeOrf">March 5, 2019</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="ctCMaR" class="- topic/p ">Approval granted to waive NMCARS 5237.502 and allow HCA
+                              <entry>
+                                 <p id="ctCMaR">Approval granted to waive NMCARS 5237.502 and allow HCA
                               discretion in establishing Management and Oversight Process for the
                               Acquisition of Services (MOPAS-S) content and format requirement below
                               $2.0M</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="rVEPSA" class="- topic/p ">DON STRLs</p>
+                              <entry>
+                                 <p id="rVEPSA">DON STRLs</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="aMTXWd" class="- topic/p ">5237.502</p>
+                              <entry>
+                                 <p id="aMTXWd">5237.502</p>
                               </entry>
                            </row>
-                           <row rowsep="1" class="- topic/row ">
-                              <entry class="- topic/entry ">
-                                 <p id="FSpDHV" class="- topic/p ">March 5, 2019</p>
+                           <row rowsep="1">
+                              <entry>
+                                 <p id="FSpDHV">March 5, 2019</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="Qxrxdv" class="- topic/p ">Approval granted to waive Source Selection Advisory
+                              <entry>
+                                 <p id="Qxrxdv">Approval granted to waive Source Selection Advisory
                               Council (SSAC) requirement for procurements valued under $250M,
                               increasing threshold from $100M to $250M</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="eReoZZ" class="- topic/p ">DON STRLs</p>
+                              <entry>
+                                 <p id="eReoZZ">DON STRLs</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="CifdUq" class="- topic/p ">5215.300</p>
+                              <entry>
+                                 <p id="CifdUq">5215.300</p>
                               </entry>
                            </row>
-                           <row rowsep="1" class="- topic/row ">
-                              <entry class="- topic/entry ">
-                                 <p id="bgdHtY" class="- topic/p ">March 5, 2019</p>
+                           <row rowsep="1">
+                              <entry>
+                                 <p id="bgdHtY">March 5, 2019</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="tQscsA" class="- topic/p ">Approval granted to increase the threshold for requiring
+                              <entry>
+                                 <p id="tQscsA">Approval granted to increase the threshold for requiring
                               DoD Item Unique Identification (IUID) identifiers from $5K to $10K for
                               acquisitions at or below the micro-purchase threshold.</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="GUqwtH" class="- topic/p ">DON STRLs</p>
+                              <entry>
+                                 <p id="GUqwtH">DON STRLs</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="IugBHn" class="- topic/p ">5211.274-2(a)</p>
+                              <entry>
+                                 <p id="IugBHn">5211.274-2(a)</p>
                               </entry>
                            </row>
-                           <row rowsep="1" class="- topic/row ">
-                              <entry class="- topic/entry ">
-                                 <p id="QRqTcS" class="- topic/p ">March 5, 2019</p>
+                           <row rowsep="1">
+                              <entry>
+                                 <p id="QRqTcS">March 5, 2019</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="VqQqBF" class="- topic/p ">Authority granted to execute architectural and
+                              <entry>
+                                 <p id="VqQqBF">Authority granted to execute architectural and
                               engineering, planning and construction projects to Lab Revitalization
                               Program limits per Title 10 Section 2363 and Section 2805(d) for
                               RDT&amp;E facilities [$6M per revitalization and recapitalization
                               project and $7.5 M per repair project].</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="LZkihQ" class="- topic/p ">DON STRLs</p>
+                              <entry>
+                                 <p id="LZkihQ">DON STRLs</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="ZGkiCr" class="- topic/p ">5201.601-90(b)</p>
-                              </entry>
-                           </row>
-                           <row rowsep="1" class="- topic/row ">
-                              <entry class="- topic/entry ">
-                                 <p id="AOcoYn" class="- topic/p ">
-                                    <b class="+ topic/ph hi-d/b ">Reference Date</b>
-                                 </p>
-                              </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="pxHsBC" class="- topic/p ">
-                                    <b class="+ topic/ph hi-d/b ">Initiative</b>
-                                 </p>
-                              </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="WlzMMV" class="- topic/p ">
-                                    <b class="+ topic/ph hi-d/b ">Applicability</b>
-                                 </p>
-                              </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="bbBKDu" class="- topic/p ">
-                                    <b class="+ topic/ph hi-d/b ">NMCARS Pointer</b>
-                                 </p>
+                              <entry>
+                                 <p id="ZGkiCr">5201.601-90(b)</p>
                               </entry>
                            </row>
-                           <row rowsep="1" class="- topic/row ">
-                              <entry class="- topic/entry ">
-                                 <p id="bFGOqH" class="- topic/p ">March 5, 2019</p>
+                           <row rowsep="1">
+                              <entry>
+                                 <p id="AOcoYn">
+                                    <b>Reference Date</b>
+                                 </p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="byfpap" class="- topic/p ">Approve Acquisition Plans for contract actions less than
+                              <entry>
+                                 <p id="pxHsBC">
+                                    <b>Initiative</b>
+                                 </p>
+                              </entry>
+                              <entry>
+                                 <p id="WlzMMV">
+                                    <b>Applicability</b>
+                                 </p>
+                              </entry>
+                              <entry>
+                                 <p id="bbBKDu">
+                                    <b>NMCARS Pointer</b>
+                                 </p>
+                              </entry>
+                           </row>
+                           <row rowsep="1">
+                              <entry>
+                                 <p id="bFGOqH">March 5, 2019</p>
+                              </entry>
+                              <entry>
+                                 <p id="byfpap">Approve Acquisition Plans for contract actions less than
                               $250M.</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="FRtaLi" class="- topic/p ">DON STRLs</p>
+                              <entry>
+                                 <p id="FRtaLi">DON STRLs</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="mnUNLY" class="- topic/p ">5207.103(j)(ii)</p>
+                              <entry>
+                                 <p id="mnUNLY">5207.103(j)(ii)</p>
                               </entry>
                            </row>
-                           <row rowsep="1" class="- topic/row ">
-                              <entry class="- topic/entry ">
-                                 <p id="Idhkik" class="- topic/p ">March 5, 2019</p>
+                           <row rowsep="1">
+                              <entry>
+                                 <p id="Idhkik">March 5, 2019</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="FYKYMB" class="- topic/p ">Delegation of contracting authority granted for facilities
+                              <entry>
+                                 <p id="FYKYMB">Delegation of contracting authority granted for facilities
                               work to include Sustainment, Restoration, and Modernization (SRM),
                               facilities services and energy conservation projects within assigned
                               buildings to include Heating and Ventilation and Air Conditioning
@@ -392,29 +377,29 @@
                               interagency acquisition procedures in FAR 17.5, DFARS 217.5, NMCARS
                               5217.5 and consistent with 10 U.S.C. Section 2851.</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="JwxCRC" class="- topic/p ">DON STRLs</p>
+                              <entry>
+                                 <p id="JwxCRC">DON STRLs</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="JFucfM" class="- topic/p ">5217.502-2(a)</p>
+                              <entry>
+                                 <p id="JFucfM">5217.502-2(a)</p>
                               </entry>
                            </row>
-                           <row rowsep="1" class="- topic/row ">
-                              <entry class="- topic/entry ">
-                                 <p id="WDIxTf" class="- topic/p ">March 5, 2019</p>
+                           <row rowsep="1">
+                              <entry>
+                                 <p id="WDIxTf">March 5, 2019</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="fYAMJy" class="- topic/p ">Waive DFARS 215.404-70 for Weighted Guidelines Analysis
+                              <entry>
+                                 <p id="fYAMJy">Waive DFARS 215.404-70 for Weighted Guidelines Analysis
                               and establish a 6% standard fee when assessing proposals submitted as
                               a result of a Broad Agency Announcement (BAA). STRLs will establish
                               procedures to document performance risks, contract type risks,
                               facilities capital employed, and cost efficiencies.</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="VVidKc" class="- topic/p ">DON STRLs</p>
+                              <entry>
+                                 <p id="VVidKc">DON STRLs</p>
                               </entry>
-                              <entry class="- topic/entry ">
-                                 <p id="xunxme" class="- topic/p ">5215.4-4(b)(1)</p>
+                              <entry>
+                                 <p id="xunxme">5215.4-4(b)(1)</p>
                               </entry>
                            </row>
                         </tbody>
