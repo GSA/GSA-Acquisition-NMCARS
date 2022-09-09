@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="NMCARS_Annex-23" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Ctr 1 heading">
-         <ph props="autonumber">ANNEX 23</ph> - DOD WAIVERS OF THE CONTRACTOR EMPLOYEE COMPENSATION CAP</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="NMCARS_Annex-23">
+      <title class="- topic/title " outputclass="Ctr 1 heading">
+         <ph class="- topic/ph " props="autonumber">ANNEX 23</ph> - DOD WAIVERS OF THE CONTRACTOR EMPLOYEE COMPENSATION CAP</title>
       <body>
          <p id="DNTaDL" outputclass="Normal">In accordance with NMCARS 5231.205-91, prepare the report for DOD Waivers of the Contractor Employee Compensation Cap using the directions in this annex unless DPC provides an updated format or direction.</p>
          <p id="PFUtvj" outputclass="Normal">If no waivers were granted by the activity, submit the following statement in email text using the submission directions in NMCARS 5231.205-91.</p>
@@ -18,12 +19,12 @@
          <p id="2xrnP">
             <table colsep="1" rowsep="1">
                <tgroup cols="6" colsep="1">
-                  <colspec colname="1" colnum="1" rowheader="headers" />
-                  <colspec colname="2" colnum="2" rowheader="headers" />
-                  <colspec colname="3" colnum="3" rowheader="headers" />
-                  <colspec colname="4" colnum="4" rowheader="headers" />
-                  <colspec colname="5" colnum="5" rowheader="headers" />
-                  <colspec colname="6" colnum="6" rowheader="headers" />
+                  <colspec colname="1" colnum="1" rowheader="headers"/>
+                  <colspec colname="2" colnum="2" rowheader="headers"/>
+                  <colspec colname="3" colnum="3" rowheader="headers"/>
+                  <colspec colname="4" colnum="4" rowheader="headers"/>
+                  <colspec colname="5" colnum="5" rowheader="headers"/>
+                  <colspec colname="6" colnum="6" rowheader="headers"/>
                   <tbody>
                      <row rowsep="1">
                         <entry morerows="1">
@@ -64,102 +65,102 @@
                      </row>
                      <row rowsep="1">
                         <entry morerows="3">
-                           <p id="XMkGvL"></p>
+                           <p id="XMkGvL"/>
                         </entry>
                         <entry morerows="3">
-                           <p id="tvIAUX"></p>
+                           <p id="tvIAUX"/>
                         </entry>
                         <entry morerows="3">
-                           <p id="JKDunj"></p>
+                           <p id="JKDunj"/>
                         </entry>
                         <entry morerows="3">
-                           <p id="DRaRtw"></p>
+                           <p id="DRaRtw"/>
                         </entry>
                         <entry>
-                           <p id="dQuKKA"></p>
+                           <p id="dQuKKA"/>
                         </entry>
                         <entry>
-                           <p id="lyHXLb"></p>
-                        </entry>
-                     </row>
-                     <row rowsep="1">
-                        <entry>
-                           <p id="YPRHvG"></p>
-                        </entry>
-                        <entry>
-                           <p id="MeUPBQ"></p>
+                           <p id="lyHXLb"/>
                         </entry>
                      </row>
                      <row rowsep="1">
                         <entry>
-                           <p id="mLXZgN"></p>
+                           <p id="YPRHvG"/>
                         </entry>
                         <entry>
-                           <p id="tYsftG"></p>
+                           <p id="MeUPBQ"/>
                         </entry>
                      </row>
                      <row rowsep="1">
                         <entry>
-                           <p id="qgwwph"></p>
+                           <p id="mLXZgN"/>
                         </entry>
                         <entry>
-                           <p id="NBPjHS"></p>
+                           <p id="tYsftG"/>
+                        </entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry>
+                           <p id="qgwwph"/>
+                        </entry>
+                        <entry>
+                           <p id="NBPjHS"/>
                         </entry>
                      </row>
                      <row rowsep="1">
                         <entry morerows="2">
-                           <p id="vDjibe"></p>
+                           <p id="vDjibe"/>
                         </entry>
                         <entry morerows="2">
-                           <p id="AYbYEn"></p>
+                           <p id="AYbYEn"/>
                         </entry>
                         <entry morerows="2">
-                           <p id="CFaKiN"></p>
+                           <p id="CFaKiN"/>
                         </entry>
                         <entry morerows="2">
-                           <p id="pqcAXw"></p>
+                           <p id="pqcAXw"/>
                         </entry>
                         <entry>
-                           <p id="JHENAp"></p>
+                           <p id="JHENAp"/>
                         </entry>
                         <entry>
-                           <p id="lTdsEA"></p>
+                           <p id="lTdsEA"/>
                         </entry>
                      </row>
                      <row rowsep="1">
                         <entry>
-                           <p id="cWytmc"></p>
+                           <p id="cWytmc"/>
                         </entry>
                         <entry>
-                           <p id="ElIVmn"></p>
-                        </entry>
-                     </row>
-                     <row rowsep="1">
-                        <entry>
-                           <p id="XeqtlA"></p>
-                        </entry>
-                        <entry>
-                           <p id="FTzCip"></p>
+                           <p id="ElIVmn"/>
                         </entry>
                      </row>
                      <row rowsep="1">
                         <entry>
-                           <p id="Itxemf"></p>
+                           <p id="XeqtlA"/>
                         </entry>
                         <entry>
-                           <p id="KAqvgV"></p>
+                           <p id="FTzCip"/>
+                        </entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry>
+                           <p id="Itxemf"/>
                         </entry>
                         <entry>
-                           <p id="xLVTjl"></p>
+                           <p id="KAqvgV"/>
                         </entry>
                         <entry>
-                           <p id="hFZaaR"></p>
+                           <p id="xLVTjl"/>
                         </entry>
                         <entry>
-                           <p id="WSrfGh"></p>
+                           <p id="hFZaaR"/>
                         </entry>
                         <entry>
-                           <p id="lWskoK"></p>
+                           <p id="WSrfGh"/>
+                        </entry>
+                        <entry>
+                           <p id="lWskoK"/>
                         </entry>
                      </row>
                   </tbody>

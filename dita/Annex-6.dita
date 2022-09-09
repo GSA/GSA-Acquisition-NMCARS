@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="NMCARS_Annex-6" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Ctr 1 heading">
-         <ph props="autonumber">ANNEX 6</ph> - CONSOLIDATED UNDEFINITIZED CONTRACT ACTION (UCA) MANAGEMENT REPORT</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="NMCARS_Annex-6">
+      <title class="- topic/title " outputclass="Ctr 1 heading">
+         <ph class="- topic/ph " props="autonumber">ANNEX 6</ph> - CONSOLIDATED UNDEFINITIZED CONTRACT ACTION (UCA) MANAGEMENT REPORT</title>
       <body>
          <p id="vBkbQJ" outputclass="Normal">In accordance with 5217.7405, Plans and Reports, each contracting activity shall submit a Consolidated UCA Management Report, which provides the following information:</p>
          <p id="fHRNzh" outputclass="Normal">Contract Number</p>
@@ -35,7 +36,9 @@
          <p id="p_BM217_74" outputclass="Normal">To standardize report submissions, use the UCA reporting template of DFARS PGI</p>
          <p id="eBAipl" outputclass="Normal">217.7405(2)(ii) available at the following website:</p>
          <p id="tBRCqa" outputclass="Normal">
-            <xref format="html" href="http://www.acq.osd.mil/dpap/dars/pgi/pgi_htm/PGI217_74.htm" scope="external">
+            <xref format="html"
+                  href="http://www.acq.osd.mil/dpap/dars/pgi/pgi_htm/PGI217_74.htm"
+                  scope="external">
                <u>http://www.acq.osd.mil/dpap/dars/pgi/pgi_htm/PGI217_74.htm</u>
             </xref>.</p>
          <p id="BHNFws" outputclass="Normal">

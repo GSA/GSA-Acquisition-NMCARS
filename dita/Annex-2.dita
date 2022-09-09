@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="NMCARS_Annex-2" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="1 heading Ctr">
-         <ph props="autonumber">ANNEX 2</ph> - BUSINESS CLEARANCE REQUIRED      CONTENT</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="NMCARS_Annex-2">
+      <title class="- topic/title " outputclass="1 heading Ctr">
+         <ph class="- topic/ph " props="autonumber">ANNEX 2</ph> - BUSINESS CLEARANCE REQUIRED      CONTENT</title>
       <body>
          <p id="KmRfCD" outputclass="Normal">In developing business clearance memoranda and/or BCM
          templates, HCAs shall include all required content and compliances as outlined in the
@@ -16,8 +17,8 @@
          <p id="asdwei1" rev="CHANGE 18-22 JULY 11, 2022">
             <table id="table_k5p_blr_35b">
                <tgroup cols="2">
-                  <colspec colnum="1" colname="col1" rowheader="headers" />
-                  <colspec colnum="2" colname="col2" rowheader="headers" />
+                  <colspec colnum="1" colname="col1" rowheader="headers"/>
+                  <colspec colnum="2" colname="col2" rowheader="headers"/>
                   <thead>
                      <row>
                         <entry>
@@ -258,15 +259,15 @@
                      </row>
                      <row>
                         <entry>Contractor Proposal(s)</entry>
-                        <entry />
+                        <entry/>
                      </row>
                      <row>
                         <entry>DCAA Report(s)</entry>
-                        <entry />
+                        <entry/>
                      </row>
                      <row>
                         <entry>ACO Report(s)</entry>
-                        <entry />
+                        <entry/>
                      </row>
                      <row>
                         <entry>Technical Evaluation Report(s)</entry>
@@ -389,7 +390,7 @@
                            <p>3. How was the estimate derived, and</p>
                            <p>4. Why is the estimate reasonable?</p>
                         </entry>
-                        <entry />
+                        <entry/>
                      </row>
                      <row>
                         <entry>Part 15 Negotiation Documentation Requirements</entry>

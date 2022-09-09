@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="NMCARS_Annex-10" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Ctr 1 heading">
-         <ph props="autonumber">ANNEX 10</ph> - NOTICE OF SUSPECTED VIOLATIONS OF THE GRATUITIES CLAUSE</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="NMCARS_Annex-10">
+      <title class="- topic/title " outputclass="Ctr 1 heading">
+         <ph class="- topic/ph " props="autonumber">ANNEX 10</ph> - NOTICE OF SUSPECTED VIOLATIONS OF THE GRATUITIES CLAUSE</title>
       <body>
          <p id="BGYrTf" outputclass="Normal">As required by 5203.203(a), provide a written notice of suspected violations to the Assistant</p>
          <p id="PclAam" outputclass="Normal">General Counsel (Acquisition Integrity) at <xref format="mailto" href="mailto:aio@navy.mil" scope="external">

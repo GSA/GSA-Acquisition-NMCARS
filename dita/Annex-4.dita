@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="NMCARS_Annex-4" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Ctr 1 heading">
-         <ph props="autonumber">ANNEX 4</ph> - SUMMARY OF IMPLEMENTATION OF FISCAL YEAR 2017 NATIONAL      DEFENSE AUTHORIZATION ACT SECTION 233 PILOT PROGRAM FOR THE ENHANCEMENT OF THE RESEARCH,      DEVELOPMENT, TEST, AND EVALUATION CENTERS</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="NMCARS_Annex-4">
+      <title class="- topic/title " outputclass="Ctr 1 heading">
+         <ph class="- topic/ph " props="autonumber">ANNEX 4</ph> - SUMMARY OF IMPLEMENTATION OF FISCAL YEAR 2017 NATIONAL      DEFENSE AUTHORIZATION ACT SECTION 233 PILOT PROGRAM FOR THE ENHANCEMENT OF THE RESEARCH,      DEVELOPMENT, TEST, AND EVALUATION CENTERS</title>
       <body>
          <p id="seRjGH" outputclass="Normal">This Annex memorializes ASN(RDA) approved initiatives
          under FY17 NDAA Section 233 Pilot Program for the Enhancement of the Research, Development,
@@ -36,10 +37,10 @@
                reflected in references (a) through (c).</p>
                   <table colsep="1" rowsep="1">
                      <tgroup cols="4" colsep="1">
-                        <colspec colname="1" colnum="1" rowheader="headers" />
-                        <colspec colname="2" colnum="2" rowheader="headers" />
-                        <colspec colname="3" colnum="3" rowheader="headers" />
-                        <colspec colname="4" colnum="4" rowheader="headers" />
+                        <colspec colname="1" colnum="1" rowheader="headers"/>
+                        <colspec colname="2" colnum="2" rowheader="headers"/>
+                        <colspec colname="3" colnum="3" rowheader="headers"/>
+                        <colspec colname="4" colnum="4" rowheader="headers"/>
                         <tbody>
                            <row rowsep="1">
                               <entry>

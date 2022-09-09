@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="NMCARS_Annex-20" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Ctr 1 heading">
-         <ph props="autonumber">ANNEX 20</ph> - INDIVIDUAL STREAMLINED ACQUISITION PLAN WITH SERVICES      (ISTRAP-M)</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="NMCARS_Annex-20">
+      <title class="- topic/title " outputclass="Ctr 1 heading">
+         <ph class="- topic/ph " props="autonumber">ANNEX 20</ph> - INDIVIDUAL STREAMLINED ACQUISITION PLAN WITH SERVICES      (ISTRAP-M)</title>
       <body>
          <p id="GCkSxp" outputclass="Ctr normal">(Classification: UNCLASSIFIED/FOR OFFICIAL USE
          ONLY)</p>
@@ -12,15 +13,15 @@
          ________________________________________________ ACAT_____</p>
          <p id="CiQzHg" outputclass="Normal">Acquisition Manager:
          __________________________________________ Code _____</p>
-         <p id="musap0in" outputclass="Normal"></p>
+         <p id="musap0in" outputclass="Normal"/>
          <p id="mjruko" outputclass="Ctr normal">
             <b>APPROVED BY:</b>
          </p>
          <p id="6XGFG">
             <table colsep="1" rowsep="1">
                <tgroup cols="2">
-                  <colspec colname="1" colnum="1" rowheader="headers" />
-                  <colspec colname="2" colnum="2" rowheader="headers" />
+                  <colspec colname="1" colnum="1" rowheader="headers"/>
+                  <colspec colname="2" colnum="2" rowheader="headers"/>
                   <tbody>
                      <row>
                         <entry>
@@ -44,16 +45,16 @@
                </tgroup>
             </table>
          </p>
-         <p id="wk3xm4b4" outputclass="Normal"></p>
+         <p id="wk3xm4b4" outputclass="Normal"/>
          <p id="xuTSVO" outputclass="Ctr normal">
             <b>RECOMMEND APPROVAL:</b>
          </p>
-         <p id="tFwsGf" outputclass="Normal"></p>
+         <p id="tFwsGf" outputclass="Normal"/>
          <p id="ABgnc">
             <table colsep="1" rowsep="1">
                <tgroup cols="2">
-                  <colspec colname="1" colnum="1" rowheader="headers" />
-                  <colspec colname="2" colnum="2" rowheader="headers" />
+                  <colspec colname="1" colnum="1" rowheader="headers"/>
+                  <colspec colname="2" colnum="2" rowheader="headers"/>
                   <tbody>
                      <row>
                         <entry>
@@ -76,12 +77,12 @@
                </tgroup>
             </table>
          </p>
-         <p id="f7lfu5md" outputclass="Normal"></p>
+         <p id="f7lfu5md" outputclass="Normal"/>
          <p id="totze">
             <table colsep="1" rowsep="1">
                <tgroup cols="2">
-                  <colspec colname="1" colnum="1" rowheader="headers" />
-                  <colspec colname="2" colnum="2" rowheader="headers" />
+                  <colspec colname="1" colnum="1" rowheader="headers"/>
+                  <colspec colname="2" colnum="2" rowheader="headers"/>
                   <tbody>
                      <row>
                         <entry>
@@ -103,12 +104,12 @@
                </tgroup>
             </table>
          </p>
-         <p id="cecsWm" outputclass="Normal"></p>
+         <p id="cecsWm" outputclass="Normal"/>
          <p id="2QmI8">
             <table colsep="1" rowsep="1">
                <tgroup cols="2">
-                  <colspec colname="1" colnum="1" rowheader="headers" />
-                  <colspec colname="2" colnum="2" rowheader="headers" />
+                  <colspec colname="1" colnum="1" rowheader="headers"/>
+                  <colspec colname="2" colnum="2" rowheader="headers"/>
                   <tbody>
                      <row>
                         <entry>
@@ -131,12 +132,12 @@
                </tgroup>
             </table>
          </p>
-         <p id="KDOLYp" outputclass="Normal"></p>
+         <p id="KDOLYp" outputclass="Normal"/>
          <p id="KvgWG">
             <table colsep="1" rowsep="1">
                <tgroup cols="2">
-                  <colspec colname="1" colnum="1" rowheader="headers" />
-                  <colspec colname="2" colnum="2" rowheader="headers" />
+                  <colspec colname="1" colnum="1" rowheader="headers"/>
+                  <colspec colname="2" colnum="2" rowheader="headers"/>
                   <tbody>
                      <row>
                         <entry>
@@ -158,7 +159,7 @@
                </tgroup>
             </table>
          </p>
-         <p id="iqiSov" outputclass="Normal"></p>
+         <p id="iqiSov" outputclass="Normal"/>
          <p id="xgQGKd" outputclass="Normal">This STRAP will be reviewed for possible revision no less
          often than annually in accordance with FAR 7.104.</p>
          <p id="RYTnqc" outputclass="Normal">
@@ -246,9 +247,13 @@
          exception listed at 5237.102), AbilityOne and Federal Prison Industries, were considered.
          Discuss the availability of other sources identifiable through databases including the
          Government-wide database of contracts and other procurements instruments intended for use
-         by multiple agencies available at <xref format="html" href="http://www.contractdirectory.gov/contractdirectory/" scope="external">
+         by multiple agencies available at <xref format="html"
+                  href="http://www.contractdirectory.gov/contractdirectory/"
+                  scope="external">
                <u>https://www.contractdirectory.gov/contractdirectory/</u>
-            </xref> and AbilityOne sources at <xref format="html" href="http://www.abilityone.gov/procurement_list/index.html" scope="external">
+            </xref> and AbilityOne sources at <xref format="html"
+                  href="http://www.abilityone.gov/procurement_list/index.html"
+                  scope="external">
                <u>http://www.abilityone.gov/procurement_list/index.html</u>
             </xref>.</p>
          <p id="pLtTrR" outputclass="Normal">2.3.4 Discuss the consideration of small businesses.
@@ -614,7 +619,7 @@
          or underway to reduce risk and the consequences of failure to achieve goals. If concurrency
          of development and production is planned, discuss its effects on cost and schedule
          risks.</p>
-         <p id="dkYQrC"></p>
+         <p id="dkYQrC"/>
       </body>
    </topic>
 </dita>

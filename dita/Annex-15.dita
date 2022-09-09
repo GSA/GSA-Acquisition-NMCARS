@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="NMCARS_Annex-15" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="1 heading Ctr">
-         <ph props="autonumber">ANNEX 15</ph> - UAC/RATIFICATION REPORT</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="NMCARS_Annex-15">
+      <title class="- topic/title " outputclass="1 heading Ctr">
+         <ph class="- topic/ph " props="autonumber">ANNEX 15</ph> - UAC/RATIFICATION REPORT</title>
       <body>
          <p id="GqfYcg" outputclass="Normal" rev="CHANGE 18-22 JULY 11, 2022">
             <b>Format</b>
             <b>.</b> A formatted spreadsheet is available on the website
-            identified at NMCARS <xref href="5201.1053.dita" />.</p>
+            identified at NMCARS <xref href="5201.1053.dita"/>.</p>
          <p>
             <table id="table_cs1_syc_35b" rev="CHANGE 18-22 JULY 11, 2022">
                <tgroup cols="2">
-                  <colspec colnum="1" colname="col1" rowheader="headers" />
-                  <colspec colnum="2" colname="col2" rowheader="headers" />
+                  <colspec colnum="1" colname="col1" rowheader="headers"/>
+                  <colspec colnum="2" colname="col2" rowheader="headers"/>
                   <tbody>
                      <row>
                         <entry>

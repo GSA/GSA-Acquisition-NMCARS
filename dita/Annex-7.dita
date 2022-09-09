@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="NMCARS_Annex-7" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Ctr 1 heading">
-         <ph props="autonumber">ANNEX 7</ph> - SECTION 843 DETERMINATION &amp; FINDING TEMPLATE</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="NMCARS_Annex-7">
+      <title class="- topic/title " outputclass="Ctr 1 heading">
+         <ph class="- topic/ph " props="autonumber">ANNEX 7</ph> - SECTION 843 DETERMINATION &amp; FINDING TEMPLATE</title>
       <body>
          <p id="eBtWDZ" outputclass="Normal">This annex contains the required Determination &amp;
             Finding template for approval of requirements under Title 10, United States Code, Section
@@ -69,8 +70,8 @@
          <p id="SR4N3">
             <table colsep="1" rowsep="1">
                <tgroup cols="2">
-                  <colspec colname="1" colnum="1" rowheader="headers" />
-                  <colspec colname="2" colnum="2" rowheader="headers" />
+                  <colspec colname="1" colnum="1" rowheader="headers"/>
+                  <colspec colname="2" colnum="2" rowheader="headers"/>
                   <tbody>
                      <row>
                         <entry>
@@ -92,8 +93,8 @@
                </tgroup>
             </table>
          </p>
-         <p id="cgVnHd"></p>
-         <p id="6yb66sle"></p>
+         <p id="cgVnHd"/>
+         <p id="6yb66sle"/>
          <p id="DmYIhq" outputclass="Ctr normal">
             <b>
                <i>[</i>
@@ -139,8 +140,8 @@
          <p id="J6Z9D">
             <table colsep="1" rowsep="1">
                <tgroup cols="2">
-                  <colspec colname="1" colnum="1" rowheader="headers" />
-                  <colspec colname="2" colnum="2" rowheader="headers" />
+                  <colspec colname="1" colnum="1" rowheader="headers"/>
+                  <colspec colname="2" colnum="2" rowheader="headers"/>
                   <tbody>
                      <row>
                         <entry>

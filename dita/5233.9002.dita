@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="NMCARS_5233.9002" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5233.9002"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5233.9002</ph> Contractor appeals to the Armed Services Board of Contract Appeals (ASBCA).</title>
    <conbody>
       <p id="uqRZGx" outputclass="Normal">(a) <i>General</i>. The DON Office of the General Counsel (OGC) has sole litigation authority for all appeals under DON contracts to the ASBCA. Because of the frequent complexity of these cases, the DON OGC and the contracting activity involved should maintain the continuity of any DON claim team that might have investigated and evaluated the contractor's claim submission. Such teams should continue to function in an assisting capacity under the leadership of the DON OGC Trial Attorney assigned to handle the appeal.</p>
-      <p id="YDuSoW" outputclass="Normal">(b) <i>Litigation report requirement</i>. With the compilation of ASBCA Rule 4 documents (available at <xref format="html" href="https://www.asbca.mil/Rules/rules.html" scope="external">
+      <p id="YDuSoW" outputclass="Normal">(b) <i>Litigation report requirement</i>. With the compilation of ASBCA Rule 4 documents (available at <xref format="html"
+               href="https://www.asbca.mil/Rules/rules.html"
+               scope="external">
             <u>https://www.asbca.mil/Rules/rules.html</u>
          </xref>), a comprehensive litigation report shall be forwarded to the Litigation Division. The report should include:</p>
       <p id="VCQOIA" outputclass="List2">(1) A detailed narrative statement of facts, preferably in chronological sequence, and with a topical segregation when appropriate, with references to attached supporting documents of expected testimony. If such a statement was previously submitted, it need not be submitted a second time, but should be supplemented or revised if additional information becomes available in the interim.</p>

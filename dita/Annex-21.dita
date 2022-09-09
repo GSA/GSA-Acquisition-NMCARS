@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="NMCARS_Annex-21" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Ctr 1 heading">
-         <ph props="autonumber">ANNEX 21</ph> - MANAGEMENT AND OVERSIGHT PROCESS         FOR THE ACQUISITION OF SERVICES - STREAMLINED (MOPAS-S)</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="NMCARS_Annex-21">
+      <title class="- topic/title " outputclass="Ctr 1 heading">
+         <ph class="- topic/ph " props="autonumber">ANNEX 21</ph> - MANAGEMENT AND OVERSIGHT PROCESS         FOR THE ACQUISITION OF SERVICES - STREAMLINED (MOPAS-S)</title>
       <body>
          <p id="NiAFQN" outputclass="Ctr normal">(Classification: UNCLASSIFIED/FOR OFFICIAL USE
             ONLY)</p>
@@ -15,12 +16,12 @@
          <p id="vjLAgL" outputclass="Ctr normal">
             <b>APPROVED BY:</b>
          </p>
-         <p id="ziihr6t" outputclass="Ctr normal"></p>
+         <p id="ziihr6t" outputclass="Ctr normal"/>
          <p id="gvAL0">
             <table colsep="1" rowsep="1">
                <tgroup cols="2">
-                  <colspec colname="1" colnum="1" rowheader="headers" />
-                  <colspec colname="2" colnum="2" rowheader="headers" />
+                  <colspec colname="1" colnum="1" rowheader="headers"/>
+                  <colspec colname="2" colnum="2" rowheader="headers"/>
                   <tbody>
                      <row>
                         <entry>
@@ -43,16 +44,16 @@
                </tgroup>
             </table>
          </p>
-         <p id="UNsYoH" outputclass="Normal"></p>
+         <p id="UNsYoH" outputclass="Normal"/>
          <p id="FnNYkr" outputclass="Ctr normal">
             <b>RECOMMEND APPROVAL:</b>
          </p>
-         <p id="amExlJ" outputclass="Normal"></p>
+         <p id="amExlJ" outputclass="Normal"/>
          <p id="CQCMp">
             <table colsep="1" rowsep="1">
                <tgroup cols="2">
-                  <colspec colname="1" colnum="1" rowheader="headers" />
-                  <colspec colname="2" colnum="2" rowheader="headers" />
+                  <colspec colname="1" colnum="1" rowheader="headers"/>
+                  <colspec colname="2" colnum="2" rowheader="headers"/>
                   <tbody>
                      <row>
                         <entry>
@@ -75,12 +76,12 @@
                </tgroup>
             </table>
          </p>
-         <p id="1c6miuw" outputclass="Normal"></p>
+         <p id="1c6miuw" outputclass="Normal"/>
          <p id="WSzII">
             <table colsep="1" rowsep="1">
                <tgroup cols="2">
-                  <colspec colname="1" colnum="1" rowheader="headers" />
-                  <colspec colname="2" colnum="2" rowheader="headers" />
+                  <colspec colname="1" colnum="1" rowheader="headers"/>
+                  <colspec colname="2" colnum="2" rowheader="headers"/>
                   <tbody>
                      <row>
                         <entry>
@@ -102,12 +103,12 @@
                </tgroup>
             </table>
          </p>
-         <p id="ESzwRH" outputclass="Normal"></p>
+         <p id="ESzwRH" outputclass="Normal"/>
          <p id="zqEZo">
             <table colsep="1" rowsep="1">
                <tgroup cols="2">
-                  <colspec colname="1" colnum="1" rowheader="headers" />
-                  <colspec colname="2" colnum="2" rowheader="headers" />
+                  <colspec colname="1" colnum="1" rowheader="headers"/>
+                  <colspec colname="2" colnum="2" rowheader="headers"/>
                   <tbody>
                      <row>
                         <entry>
@@ -130,12 +131,12 @@
                </tgroup>
             </table>
          </p>
-         <p id="vajwJY" outputclass="Normal"></p>
+         <p id="vajwJY" outputclass="Normal"/>
          <p id="GGk6T">
             <table colsep="1" rowsep="1">
                <tgroup cols="2">
-                  <colspec colname="1" colnum="1" rowheader="headers" />
-                  <colspec colname="2" colnum="2" rowheader="headers" />
+                  <colspec colname="1" colnum="1" rowheader="headers"/>
+                  <colspec colname="2" colnum="2" rowheader="headers"/>
                   <tbody>
                      <row>
                         <entry>
@@ -158,8 +159,8 @@
                </tgroup>
             </table>
          </p>
-         <p id="etPwTx" outputclass="Normal"></p>
-         <p id="wDijDZ" outputclass="Normal"></p>
+         <p id="etPwTx" outputclass="Normal"/>
+         <p id="wDijDZ" outputclass="Normal"/>
          <p id="GTSUEX" outputclass="Normal">This MOPAS will be reviewed for possible revision no
             less often than annually in accordance with NMCARS 5237.503.</p>
          <p id="LcXDWt" outputclass="Normal">

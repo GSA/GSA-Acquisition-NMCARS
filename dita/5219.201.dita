@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="NMCARS_5219.201" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5219.201"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5219.201</ph> General policy.</title>
    <conbody>
@@ -9,7 +12,9 @@
       <p id="dKIyQl" outputclass="List2">(10)(A) The review requirements are not applicable to:</p>
       <p id="jbniCi" outputclass="List3">(i) orders placed against single award indefinite delivery type contracts since the review is performed prior to award of the basic contract; or</p>
       <p id="TgrARb" outputclass="List3">(ii) awards to small business concerns under the SBIR Program.</p>
-      <p id="haLqFz" outputclass="Normal">(10)(B) In accordance with ASN(RDA) memorandum entitled “Small Business Coordination Review Application” dated February 2, 2016, with the exception of SeaPort, contracting officers shall prepare the DD 2579 using the online Small Business Coordination Review (SBCR) Application (App) and submit the form to the Small Business Professional via <xref format="home" href="https://my.navsup.navy.mil/apps/ops$sbc.home" scope="external">
+      <p id="haLqFz" outputclass="Normal">(10)(B) In accordance with ASN(RDA) memorandum entitled “Small Business Coordination Review Application” dated February 2, 2016, with the exception of SeaPort, contracting officers shall prepare the DD 2579 using the online Small Business Coordination Review (SBCR) Application (App) and submit the form to the Small Business Professional via <xref format="home"
+               href="https://my.navsup.navy.mil/apps/ops$sbc.home"
+               scope="external">
             <u>https://my.navsup.navy.mil/apps/ops$sbc.home</u>
          </xref>.</p>
       <p id="KQjPHQ" outputclass="Normal">(e) Small business specialists are appointed in accordance with SECNAVINST 4380.9. Small business specialists:</p>

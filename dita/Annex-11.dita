@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="NMCARS_Annex-11" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="1 heading Ctr">
-         <ph props="autonumber">Annex 11</ph> - DEFENSE COMMERCIAL SOLUTIONS         OPENING DETERMINATION &amp; FINDING TEMPLATE</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="NMCARS_Annex-11">
+      <title class="- topic/title " outputclass="1 heading Ctr">
+         <ph class="- topic/ph " props="autonumber">Annex 11</ph> - DEFENSE COMMERCIAL SOLUTIONS         OPENING DETERMINATION &amp; FINDING TEMPLATE</title>
       <body>
          <p id="Ngu0YD">Pursuant to 5212.290, the template below contains the
             required Determination &amp; Finding format for approval of a contract in excess of $100
@@ -11,7 +12,11 @@
             National Defense Authorization Act (NDAA) for Fiscal Year 2022 as implemented in Class
             Deviation 2022-O0007 dated February 2, 2022.</p>
          <p>
-            <image height="100px" href="Graphics/image1.png" width="100px" placement="inline" id="image_zpx_dmr_35b" />
+            <image height="100px"
+                   href="Graphics/image1.png"
+                   width="100px"
+                   placement="inline"
+                   id="image_zpx_dmr_35b"/>
          </p>
          <p outputclass="Ctr normal">
             <b>DEPARTMENT OF THE NAVY</b>
@@ -32,7 +37,7 @@
             pursuant to a commercial solutions opening to meet the mission needs of the [insert
             name] program.</p>
          <p outputclass="Ctr_SmCaps">FINDINGS</p>
-         <p></p>
+         <p/>
          <p>1. Section 803 of the National Defense Authorization Act (NDAA) for Fiscal Year (FY)
             2022 (Pub. L. 117-81), as implemented in Class Deviation 2022-O0007 dated February 2,
             2022, states that contracting officers shall not award contracts in excess of $100
@@ -42,21 +47,21 @@
             in excess of $100 million for [identify specific item at prime contract level] under
             Solicitation/Contract [insert number]. In accordance with Class Deviation 2022-O0007,
             the following details are provided:</p>
-         <p></p>
+         <p/>
          <p>3. Summarize the market research conducted and the rationale supporting a conclusion
             that the requirements of the class deviation have been satisfied. </p>
-         <p></p>
+         <p/>
          <p>4. The contracting officer shall include an affirmative statement that the contract file
             documents the market research and rationale supporting the conclusion that the
             requirements of the class deviation have been satisfied.</p>
          <p outputclass="Ctr_SmCaps">DETERMINATION</p>
-         <p></p>
+         <p/>
          <p> Based on the findings above, I hereby determine that the requirements of Class
             Deviation 2022-O0007 dated February 2, 2022 have been met regarding the efficacy of the
             effort to meet mission needs of the Department of the Navy<u>, </u>therefore; [insert
             Contract Activity Name] is authorized to award a contract in excess of $100 million
             using a CSO.</p>
-         <p></p>
+         <p/>
       </body>
    </topic>
 </dita>

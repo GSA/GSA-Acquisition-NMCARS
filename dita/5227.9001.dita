@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="NMCARS_5227.9001" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5227.9001"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5227.9001</ph> Trademarks.</title>
    <conbody>
@@ -12,7 +15,9 @@
       <p id="ofyttk" outputclass="List2">(2) Include the following statement of work language for “old” acquisition programs, i.e. acquisition programs for which Government assigned or approved nomenclature (i.e., type designator assigned via the Joint Electronic Type Designation Automated System (JETDAS), MDS designator or approved popular name in accordance with Department of the Air Force Instruction 16-401 (also referred to as NAVAIR Instruction 13100.16)) has been assigned and that do not otherwise meet the criteria for “new” acquisition programs above:</p>
       <p id="HtmHuT" outputclass="List3">“The contractor shall not assert any claim, in any jurisdiction, based on trademark or other name or design-based causes of action that are based on rights the contractor believes it has in the term(s) [contracting officers shall list term(s) (Government assigned or approved</p>
       <p id="aLrrIL" outputclass="List3">nomenclature)] (the “Designation(s)”), against the Government or others authorized by the Government to use the Designation(s) (including the word(s), name, symbol, or design) acting within the scope of such authorization (i.e., claims for trademark infringement, dilution, trade dress infringement, unfair competition, false advertising, palming off, passing off, or counterfeiting). Such authorization shall be implied by the award of a Government contract to any party for the manufacture, production, distribution, use, modification, maintenance, sustainment, or packaging of the products and services identified under this contract, and the scope of such implied authorization is defined as the use of the Designation(s) in performance under such contract by the prime contractor and its subcontractors and suppliers at any tier. In all other cases, the scope of the authorization will be defined by the Government in writing.”</p>
-      <p id="jScYYU" outputclass="Normal">(c) Contracting officers shall submit notifications received from contractors, resulting from the requirements of 5227.9001(a), to the DON Trademark and Licensing Program Office via email at <xref format="mailto" href="mailto:Navylicensing.fct@navy.mil" scope="external">
+      <p id="jScYYU" outputclass="Normal">(c) Contracting officers shall submit notifications received from contractors, resulting from the requirements of 5227.9001(a), to the DON Trademark and Licensing Program Office via email at <xref format="mailto"
+               href="mailto:Navylicensing.fct@navy.mil"
+               scope="external">
             <u>Navylicensing.fct@navy.mil</u>
          </xref>.</p>
    </conbody>

@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="NMCARS_Annex-5" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="1 heading Ctr">
-         <ph props="autonumber">ANNEX 5</ph> - BRIDGE CONTRACT APPROVAL AND REPORTING</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="NMCARS_Annex-5">
+      <title class="- topic/title " outputclass="1 heading Ctr">
+         <ph class="- topic/ph " props="autonumber">ANNEX 5</ph> - BRIDGE CONTRACT APPROVAL AND REPORTING</title>
       <body>
          <p id="VaEoQn" outputclass="Normal">
             <b>1. Approval.</b>
@@ -53,7 +54,9 @@
          <p id="oRtVSC" outputclass="Normal">I certify that the facts and representations under my cognizance which are included in this request for authorization of a bridge contract are complete and accurate to the best of my knowledge and belief.</p>
          <p id="QnGTRU" outputclass="Normal">Technical Cognizance:</p>
          <p outputclass="Normal">
-            <simpletable frame="none" relcolwidth="1.5* 1.35* 1.0* 1.05*" id="simpletable_npq_xmp_35b">
+            <simpletable frame="none"
+                         relcolwidth="1.5* 1.35* 1.0* 1.05*"
+                         id="simpletable_npq_xmp_35b">
                <strow>
                   <stentry>_____________________</stentry>
                   <stentry>__________________</stentry>
@@ -70,7 +73,9 @@
          </p>
          <p id="fTcrTN" outputclass="Normal">Requirements Cognizance:</p>
          <p outputclass="Normal">
-            <simpletable frame="none" relcolwidth="1.5* 1.35* 1.0* 1.05*" id="simpletable_wcd_ymp_35b">
+            <simpletable frame="none"
+                         relcolwidth="1.5* 1.35* 1.0* 1.05*"
+                         id="simpletable_wcd_ymp_35b">
                <strow>
                   <stentry>_____________________</stentry>
                   <stentry>__________________</stentry>
@@ -88,7 +93,9 @@
          <p id="fkTISV" outputclass="Ctr normal">CONTRACTING OFFICER CERTIFICATION</p>
          <p id="IkPqEm" outputclass="Normal">I certify that the facts and representations for this request for authorization of a bridge contract are accurate and complete to the best of my knowledge and belief.</p>
          <p id="yOqQdU" outputclass="Normal">
-            <simpletable frame="none" id="simpletable_ujp_jmp_35b" relcolwidth="1.5* 1.35* 1.0* 1.05*">
+            <simpletable frame="none"
+                         id="simpletable_ujp_jmp_35b"
+                         relcolwidth="1.5* 1.35* 1.0* 1.05*">
                <strow>
                   <stentry>_____________________</stentry>
                   <stentry>__________________</stentry>
@@ -107,7 +114,9 @@
          <p id="dLRBVh" outputclass="Ctr normal">ACTIVITY CHIEF OF THE CONTRACTING OFFICE APPROVAL</p>
          <p id="uROpGK" outputclass="Normal">Upon the basis of the information contained in this request, I hereby approve, as the Activity Chief of the Contracting Office, the negotiation of a bridge contract valued at $700,000 or less as described herein.</p>
          <p outputclass="Normal">
-            <simpletable frame="none" relcolwidth="1.5* 1.35* 1.05*" id="simpletable_ovb_zmp_35b">
+            <simpletable frame="none"
+                         relcolwidth="1.5* 1.35* 1.05*"
+                         id="simpletable_ovb_zmp_35b">
                <strow>
                   <stentry>_____________________</stentry>
                   <stentry>__________________</stentry>
@@ -124,7 +133,9 @@
          <p id="jObsRq" outputclass="Ctr normal">ECHELON II CHIEF OF THE CONTRACTING OFFICE APPROVAL</p>
          <p id="enasNQ" outputclass="Normal">Upon the basis of the information contained in this request, I hereby approve, as the Echelon II/III Chief of the Contracting Office, the negotiation of a bridge contract valued between $700,000 and $5,500,000 as described herein.</p>
          <p outputclass="Normal">
-            <simpletable frame="none" relcolwidth="1.5* 1.35* 1.05*" id="simpletable_b1f_bnp_35b">
+            <simpletable frame="none"
+                         relcolwidth="1.5* 1.35* 1.05*"
+                         id="simpletable_b1f_bnp_35b">
                <strow>
                   <stentry>_____________________</stentry>
                   <stentry>__________________</stentry>
@@ -141,7 +152,9 @@
          <p id="bMLeVh" outputclass="Ctr normal">HEAD OF THE CONTRACTING ACTIVITY APPROVAL</p>
          <p id="Coykdr" outputclass="Normal">Upon the basis of the information contained in this request, I hereby approve, as the Head of the Contracting Activity, the negotiation of a bridge contract valued greater than $5,500,000 as described herein.</p>
          <p outputclass="Normal">
-            <simpletable frame="none" relcolwidth="1.5* 1.35* 1.05*" id="simpletable_vcz_bnp_35b">
+            <simpletable frame="none"
+                         relcolwidth="1.5* 1.35* 1.05*"
+                         id="simpletable_vcz_bnp_35b">
                <strow>
                   <stentry>_____________________</stentry>
                   <stentry>__________________</stentry>
@@ -173,7 +186,7 @@
             shall report data on bridge contract use to DASN(P) using the formatted spreadsheet
             located at: https://www.secnav.navy.mil/rda/DASN-P/Pages/NMCARS.aspx. Negative reports
             are required.</p>
-         <p id="LmwIor"></p>
+         <p id="LmwIor"/>
       </body>
    </topic>
 </dita>

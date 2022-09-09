@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="NMCARS_Annex-3" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Ctr 1 heading">
-         <ph props="autonumber">ANNEX 3</ph> - DOMESTIC NONAVAILABILITY         DETERMINATION AND SUPPORTING DOCUMENTATION</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="NMCARS_Annex-3">
+      <title class="- topic/title " outputclass="Ctr 1 heading">
+         <ph class="- topic/ph " props="autonumber">ANNEX 3</ph> - DOMESTIC NONAVAILABILITY         DETERMINATION AND SUPPORTING DOCUMENTATION</title>
       <body>
          <p id="jhVcsg">Note: This annex contains templates for Domestic Nonavailability
             Determinations (DNADs) and the required supporting documentation for DNADs pursuant to
@@ -11,7 +12,10 @@
          <p id="dZvQRq" outputclass="List3">10 U.S.C. 2533a (“Berry Amendment”); and</p>
          <p id="tZhTRQ" outputclass="List3">10 U.S.C. 2533b (“Specialty Metals”).</p>
          <p id="cg21uo2t" outputclass="List3">
-            <image height="100px" href="Graphics/image1.png" width="100px" placement="inline" />
+            <image height="100px"
+                   href="Graphics/image1.png"
+                   width="100px"
+                   placement="inline"/>
          </p>
          <p id="HNKmVP" outputclass="Ctr normal">
             <b>DEPARTMENT OF THE NAVY</b>
@@ -92,8 +96,8 @@
          <p id="wcb0V">
             <table colsep="1" rowsep="1">
                <tgroup cols="2">
-                  <colspec colname="1" colnum="1" rowheader="headers" />
-                  <colspec colname="2" colnum="2" rowheader="headers" />
+                  <colspec colname="1" colnum="1" rowheader="headers"/>
+                  <colspec colname="2" colnum="2" rowheader="headers"/>
                   <tbody>
                      <row>
                         <entry>
@@ -116,7 +120,7 @@
                </tgroup>
             </table>
          </p>
-         <p id="LVDuMk" outputclass="Normal"></p>
+         <p id="LVDuMk" outputclass="Normal"/>
          <p id="p3kdrmeg" outputclass="Normal">MEMORANDUM FOR THE SECRETARY OF THE NAVY</p>
          <p id="HHvgbr" outputclass="Normal">Subject: Analysis of Market Research and Analysis of
             Alternatives for ________________</p>
@@ -198,9 +202,12 @@
          <p id="wKqLQW" outputclass="List2">[If this analysis was performed by the requiring
             activity, the certification as to why alternatives are not acceptable should be included
             in this section along with the requiring activity signatures.]</p>
-         <p id="zgneta7g" outputclass="List2"></p>
+         <p id="zgneta7g" outputclass="List2"/>
          <p id="r2urumsw" outputclass="List2">
-            <image height="100px" href="Graphics/image1.png" width="100px" placement="inline" />
+            <image height="100px"
+                   href="Graphics/image1.png"
+                   width="100px"
+                   placement="inline"/>
          </p>
          <p id="RrMwCa" outputclass="Ctr normal">
             <b>DEPARTMENT OF THE NAVY</b>
@@ -282,8 +289,8 @@
          <p id="dfffi1">
             <table colsep="1" rowsep="1">
                <tgroup cols="2">
-                  <colspec colname="1" colnum="1" rowheader="headers" />
-                  <colspec colname="2" colnum="2" rowheader="headers" />
+                  <colspec colname="1" colnum="1" rowheader="headers"/>
+                  <colspec colname="2" colnum="2" rowheader="headers"/>
                   <tbody>
                      <row>
                         <entry>
@@ -306,7 +313,7 @@
                </tgroup>
             </table>
          </p>
-         <p id="pSivWI" outputclass="Normal"></p>
+         <p id="pSivWI" outputclass="Normal"/>
          <p id="KzKViN" outputclass="Normal">MEMORANDUM FOR THE SECRETARY OF THE NAVY</p>
          <p id="lSAhoh" outputclass="Normal">Subject: Analysis of Market Research and Analysis of
             Alternatives for ________________</p>
