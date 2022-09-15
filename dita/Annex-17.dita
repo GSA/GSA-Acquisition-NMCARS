@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="NMCARS_Annex-17" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Ctr 1 heading">
-         <ph props="autonumber">ANNEX 17</ph> - PROGRAM STREAMLINED ACQUISITION PLAN (PSTRAP)</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="NMCARS_Annex-17">
+      <title class="- topic/title " outputclass="Ctr 1 heading">
+         <ph class="- topic/ph " props="autonumber">ANNEX 17</ph> - PROGRAM STREAMLINED ACQUISITION PLAN (PSTRAP)</title>
       <body>
          <p id="dLVDYD" outputclass="Ctr normal">(Classification: If not classified, must be FOR OFFICIAL USE ONLY.)</p>
          <p id="yhmULT" outputclass="Normal">Acquisition Plan Number: __________ Rev: _______</p>
@@ -12,12 +13,12 @@
          <p id="IwPzcR" outputclass="Ctr normal">
             <b>APPROVED BY:</b>
          </p>
-         <p id="bk5kzyu9" outputclass="Ctr normal"></p>
+         <p id="bk5kzyu9" outputclass="Ctr normal"/>
          <p id="g4Dli">
             <table colsep="1" rowsep="1">
                <tgroup cols="2">
-                  <colspec colname="1" colnum="1" rowheader="headers" />
-                  <colspec colname="2" colnum="2" rowheader="headers" />
+                  <colspec colname="1" colnum="1" rowheader="headers"/>
+                  <colspec colname="2" colnum="2" rowheader="headers"/>
                   <tbody>
                      <row>
                         <entry>
@@ -42,12 +43,12 @@
          <p id="iLtdaJ" outputclass="Ctr normal">
             <b>RECOMMEND APPROVAL:</b>
          </p>
-         <p id="2ehr0g9m" outputclass="Ctr normal"></p>
+         <p id="2ehr0g9m" outputclass="Ctr normal"/>
          <p id="1bZcd">
             <table colsep="1" rowsep="1">
                <tgroup cols="2">
-                  <colspec colname="1" colnum="1" rowheader="headers" />
-                  <colspec colname="2" colnum="2" rowheader="headers" />
+                  <colspec colname="1" colnum="1" rowheader="headers"/>
+                  <colspec colname="2" colnum="2" rowheader="headers"/>
                   <tbody>
                      <row>
                         <entry>
@@ -69,12 +70,12 @@
                </tgroup>
             </table>
          </p>
-         <p id="RMBJLt"></p>
+         <p id="RMBJLt"/>
          <p id="1wxT0">
             <table colsep="1" rowsep="1">
                <tgroup cols="2">
-                  <colspec colname="1" colnum="1" rowheader="headers" />
-                  <colspec colname="2" colnum="2" rowheader="headers" />
+                  <colspec colname="1" colnum="1" rowheader="headers"/>
+                  <colspec colname="2" colnum="2" rowheader="headers"/>
                   <tbody>
                      <row>
                         <entry>
@@ -96,12 +97,12 @@
                </tgroup>
             </table>
          </p>
-         <p id="zjajtka"></p>
+         <p id="zjajtka"/>
          <p id="LQAa0">
             <table colsep="1" rowsep="1">
                <tgroup cols="2">
-                  <colspec colname="1" colnum="1" rowheader="headers" />
-                  <colspec colname="2" colnum="2" rowheader="headers" />
+                  <colspec colname="1" colnum="1" rowheader="headers"/>
+                  <colspec colname="2" colnum="2" rowheader="headers"/>
                   <tbody>
                      <row>
                         <entry>
@@ -123,12 +124,12 @@
                </tgroup>
             </table>
          </p>
-         <p id="Hgjbqc" outputclass="Normal"></p>
+         <p id="Hgjbqc" outputclass="Normal"/>
          <p id="9StFj">
             <table colsep="1" rowsep="1">
                <tgroup cols="2">
-                  <colspec colname="1" colnum="1" rowheader="headers" />
-                  <colspec colname="2" colnum="2" rowheader="headers" />
+                  <colspec colname="1" colnum="1" rowheader="headers"/>
+                  <colspec colname="2" colnum="2" rowheader="headers"/>
                   <tbody>
                      <row>
                         <entry>
@@ -150,7 +151,7 @@
                </tgroup>
             </table>
          </p>
-         <p id="HZlJel" outputclass="Normal"></p>
+         <p id="HZlJel" outputclass="Normal"/>
          <p id="GAvGHN" outputclass="Normal">This STRAP will be reviewed for possible revision no less often than annually in accordance</p>
          <p id="YWsMkF" outputclass="Normal">with FAR 7.104.</p>
          <p id="qOtoQJ" outputclass="Normal">
@@ -185,7 +186,7 @@
          <p id="gRLuiq" outputclass="Normal">2.1 <i>Product or Services Description.</i>
          </p>
          <p id="kSMLtK" outputclass="Normal">2.1.1 In your description of the product or service, explain the choice of product or service description code ensuring it aligns with the DOD taxonomy associated with the acquisition of services, supplies and equipment. (See USD(ATL) memorandum entitled, “Taxonomy for the Acquisition of Services and Supplies &amp; Equipment” dated August 27, 2012). DPC provides the PSC Selection Tool, available at <xref format="us" href="https://psctool.us" scope="external">https://psctool.us</xref>
-            <ph />to assist in the correct PSC selection.</p>
+            <ph/>to assist in the correct PSC selection.</p>
          <p id="qWXXlI" outputclass="Normal">2.1.2 Specify the required capabilities or performance characteristics of the supplies or the performance standards of the services being acquired. Address whether the supplies to be acquired are critical items (as defined in FAR 46.101) and whether higher-level quality standards are necessary.</p>
          <p id="dSivtL" outputclass="Normal">2.1.3 Describe the basis for establishing delivery schedule or period of performance.</p>
          <p id="vcAzau" outputclass="Normal">2.2 <i>Cost.</i>
@@ -198,9 +199,13 @@
          </p>
          <p id="BACmPq" outputclass="Normal">2.3.1 Indicate the prospective sources of supplies or services that can meet the need.</p>
          <p id="wJjZgd" outputclass="Normal">2.3.2 Address the extent and results of the market research.</p>
-         <p id="nwlGRp" outputclass="Normal">2.3.3 Discuss how required sources of supplies or services, the functional areas specified in Annex 22 (excluding requirements covered by an exception listed at 5237.102), AbilityOne and Federal Prison Industries, were considered. Discuss the availability of other sources identifiable through databases including the Government-wide database of contracts and other procurement instruments intended for use by multiple agencies available at <xref format="html" href="http://www.contractdirectory.gov/contractdirectory/" scope="external">
+         <p id="nwlGRp" outputclass="Normal">2.3.3 Discuss how required sources of supplies or services, the functional areas specified in Annex 22 (excluding requirements covered by an exception listed at 5237.102), AbilityOne and Federal Prison Industries, were considered. Discuss the availability of other sources identifiable through databases including the Government-wide database of contracts and other procurement instruments intended for use by multiple agencies available at <xref format="html"
+                  href="http://www.contractdirectory.gov/contractdirectory/"
+                  scope="external">
                <u>https://www.contractdirectory.gov/contractdirectory/</u>
-            </xref> and AbilityOne sources at <xref format="html" href="http://www.abilityone.gov/procurement_list/index.html" scope="external">
+            </xref> and AbilityOne sources at <xref format="html"
+                  href="http://www.abilityone.gov/procurement_list/index.html"
+                  scope="external">
                <u>http://www.abilityone.gov/procurement_list/index.html</u>
             </xref>.</p>
          <p id="xorONM" outputclass="Normal">2.3.4 Discuss the consideration of small business. Clearly identify how small business will be utilized to meet program or contract requirements, as either a prime contractor or through the use of subcontract provisions.</p>
@@ -388,7 +393,7 @@
          <p id="xMXNZT" outputclass="Normal">
             <i>Risks</i>
             <i>.</i> Discuss technical, cost, and schedule risks and describe what efforts are planned or underway to reduce risk and the consequences of failure to achieve goals. If concurrency of development and production is planned, discuss its effects on cost and schedule risks.</p>
-         <p id="YJSWBy"></p>
+         <p id="YJSWBy"/>
       </body>
    </topic>
 </dita>

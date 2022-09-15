@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="NMCARS_Annex-12" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="1 Heading">
-         <ph props="autonumber">ANNEX 12</ph> - Waiver Request for Appointing a         Non-DON Employee as a Contracting Officer</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="NMCARS_Annex-12">
+      <title class="- topic/title " outputclass="1 Heading">
+         <ph class="- topic/ph " props="autonumber">ANNEX 12</ph> - Waiver Request for Appointing a         Non-DON Employee as a Contracting Officer</title>
       <body>
          <p id="vwiYld" outputclass="Normal">In accordance with 5201.603, HCAs or their authorized
             designees shall notify DASN(P) of a planned issuance of a contracting officer

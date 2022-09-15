@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="NMCARS_5205.303" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5205.303"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5205.303</ph> Announcement of contract awards.</title>
    <conbody>
@@ -9,12 +12,12 @@
       <p id="iQMnQP" outputclass="List2">(ii) Submit announcement information to the Navy Chief of Information (CHINFO).</p>
       <p id="rmUgWq" outputclass="List3">(S-90) <i>Security review</i>. Routine contract announcements are exempt from the security review process. However, full security review is required for contract announcements that are accompanied by amplifying press releases.</p>
       <p id="lHiROa" outputclass="List3">(S-91) <i>Format</i>. To provide for a better understanding by the public, contracting activities should explain in public announcements the specific type of contracting action being awarded (i.e., state that the DON has “awarded a contract”, “exercised an option" or “negotiated a modification" to a contract). Sample formats of announcements for contract modifications are illustrated below. Formats may be altered to suit the circumstances of the contracting action.</p>
-      <p id="CZQZZN" outputclass="List4">(a) Contract award. (Name of contractor, city, state) ______________________ was awarded Contract No. <u></u> issued by the (activity)<u></u>
-         <u></u>. The contract was awarded in the amount of $ <u></u>
-         <u></u>.</p>
-      <p id="OUkdcz" outputclass="List4">(b) Contract modification. (Name of contractor, city, state) _________________ is receiving modification number _____________________ to previously awarded Contract No. issued by the (activity) <u></u>
-         <u></u>. This modification increases the value of the basic contract by $ <u></u>
-         <u></u>, the new total value is $<u></u>. Insert an explanatory statement similar to one of the following as appropriate:</p>
+      <p id="CZQZZN" outputclass="List4">(a) Contract award. (Name of contractor, city, state) ______________________ was awarded Contract No. <u/> issued by the (activity)<u/>
+         <u/>. The contract was awarded in the amount of $ <u/>
+         <u/>.</p>
+      <p id="OUkdcz" outputclass="List4">(b) Contract modification. (Name of contractor, city, state) _________________ is receiving modification number _____________________ to previously awarded Contract No. issued by the (activity) <u/>
+         <u/>. This modification increases the value of the basic contract by $ <u/>
+         <u/>, the new total value is $<u/>. Insert an explanatory statement similar to one of the following as appropriate:</p>
       <p id="SgnMzp" outputclass="List5">(1) This modification adds the (# of increment, <i>i.e.</i>, second, third, etc.) increment of the (length of multi-year contract, <i>i.e.</i>, three, four, etc.) year multi-year basic contract.</p>
       <p id="JcmkOk" outputclass="List5">(2) This modification provides for the purchase of an additional quantity of (quantity and item, <i>e.g.</i>, 500 widgets) being produced under the basic contract. (If appropriate, indicate that the contracting action is the result of a competitive negotiated procurement).</p>
       <p id="IlvYNo" outputclass="List5">(3) This modification provides for the exercise of an option for an additional quantity of (quantity and item, e.g., 200 gadgets) being produced under the basic contract.</p>

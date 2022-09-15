@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="NMCARS_5217.5022" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5217.5022"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 4">
       <ph props="autonumber">5217.502-2</ph> The Economy Act.</title>
    <conbody>
@@ -42,14 +45,18 @@
          Volpe Laboratories is not delegated. The Agency head’s designee to approve D&amp;Fs for
          these Economy Act orders is DASN(P). Submit D&amp;Fs for approval with a copy of the
          approved AS, STRAP, or MOPAS-S to DASN(P) by email at <ph rev="CHANGE 18-22 JULY 11, 2022">
-            <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil" format="html" scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+            <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                  format="html"
+                  scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
          </ph> with the subject
          “[Activity Name] NMCARS 5217.502(c)(2)(ii)(A)(1) – DOT Volpe Lab Determination.”</p>
       <p id="IxkYBE" outputclass="List5">(2) HCAs will enter into and administer all DOD Work For Others (WFO) projects performed at the Department of Energy (DOE) facilities in accordance with the DOE/DOD MOA except as the DPC guidance allows for amendment.</p>
       <p id="DEUzKu" outputclass="List5">(3) HCAs shall conduct an annual compliance assessment of DOE WFO orders.</p>
       <p id="rMvvtj" outputclass="List5">Submit the assessment results by
          December 15 to DASN(P) by email at <ph rev="CHANGE 18-22 JULY 11, 2022">
-            <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil" format="html" scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+            <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                  format="html"
+                  scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
          </ph> with the subject
          “[Activity Name] FAR 17.502-2 – Annual DOE WFO Order Compliance Assessment”.</p>
       <p id="IJSHwf" outputclass="List4">(B) Limitations. Approval authority of
@@ -59,10 +66,12 @@
          and Library of Congress), is limited to the NSPE, without power of redelegation. Submit
          D&amp;Fs for approval with a copy of the approved AS, STRAP, or MOPAS-S to DASN(P) by email
          at <ph rev="CHANGE 18-22 JULY 11, 2022">
-            <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil" format="html" scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+            <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                  format="html"
+                  scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
          </ph> with the subject
          “[Activity Name] Interagency Economy Act orders by Agency not Subject to FAR.”</p>
       <p id="WeHbaJ" outputclass="List3">(iii) <i>Documentation</i>. Files of approved orders, including supporting documentation, shall be maintained at a single location within each activity delegated approval authority.</p>
-      <p id="p__Toc350495310" outputclass="Normal"></p>
+      <p id="p__Toc350495310" outputclass="Normal"/>
    </conbody>
 </concept>

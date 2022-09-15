@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="NMCARS_PART_5202" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="1 heading part Ctr">
-         <ph props="autonumber">Part 5202</ph> - DEFINITIONS OF WORDS AND TERMS</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="NMCARS_PART_5202">
+      <title class="- topic/title " outputclass="1 heading part Ctr">
+         <ph class="- topic/ph " props="autonumber">Part 5202</ph> - DEFINITIONS OF WORDS AND TERMS</title>
       <body>
          <ul otherprops="TOC">
             <li>
@@ -13,7 +14,8 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="SUBPART_5201.1_Definitions.dita#NMCARS2-SUBPART_5201.1_Definitions">Definitions.</xref>
+                        <xref outputclass="fm:TOC"
+                              href="SUBPART_5201.1_Definitions.dita#NMCARS2-SUBPART_5201.1_Definitions">Definitions.</xref>
                      </p>
                   </li>
                </ul>

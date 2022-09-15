@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="NMCARS_Annex-18" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Ctr 1 heading">
-         <ph props="autonumber">ANNEX 18</ph> - INDIVIDUAL STREAMLINED ACQUISITION PLAN (ISTRAP)</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="NMCARS_Annex-18">
+      <title class="- topic/title " outputclass="Ctr 1 heading">
+         <ph class="- topic/ph " props="autonumber">ANNEX 18</ph> - INDIVIDUAL STREAMLINED ACQUISITION PLAN (ISTRAP)</title>
       <body>
          <p id="QLXUek" outputclass="Ctr normal">(Classification: If not classified, must be FOR OFFICIAL USE ONLY.)</p>
          <p id="sDhGPv" outputclass="Normal">Acquisition Plan Number: __________ Rev: _______</p>
@@ -12,12 +13,12 @@
          <p id="MSynVr" outputclass="Ctr normal">
             <b>APPROVED BY:</b>
          </p>
-         <p id="gfsev9el" outputclass="Ctr normal"></p>
+         <p id="gfsev9el" outputclass="Ctr normal"/>
          <p id="il0VV">
             <table colsep="1" rowsep="1">
                <tgroup cols="2">
-                  <colspec colname="1" colnum="1" rowheader="headers" />
-                  <colspec colname="2" colnum="2" rowheader="headers" />
+                  <colspec colname="1" colnum="1" rowheader="headers"/>
+                  <colspec colname="2" colnum="2" rowheader="headers"/>
                   <tbody>
                      <row>
                         <entry>
@@ -39,16 +40,16 @@
                </tgroup>
             </table>
          </p>
-         <p id="bLHaeR" outputclass="Normal"></p>
+         <p id="bLHaeR" outputclass="Normal"/>
          <p id="FsgSHF" outputclass="Ctr normal">
             <b>RECOMMEND APPROVAL:</b>
          </p>
-         <p id="yracrv5k" outputclass="Ctr normal"></p>
+         <p id="yracrv5k" outputclass="Ctr normal"/>
          <p id="QCSY2">
             <table colsep="1" rowsep="1">
                <tgroup cols="2">
-                  <colspec colname="1" colnum="1" rowheader="headers" />
-                  <colspec colname="2" colnum="2" rowheader="headers" />
+                  <colspec colname="1" colnum="1" rowheader="headers"/>
+                  <colspec colname="2" colnum="2" rowheader="headers"/>
                   <tbody>
                      <row>
                         <entry>
@@ -70,12 +71,12 @@
                </tgroup>
             </table>
          </p>
-         <p id="JzbgBF" outputclass="Normal"></p>
+         <p id="JzbgBF" outputclass="Normal"/>
          <p id="SoSdK">
             <table colsep="1" rowsep="1">
                <tgroup cols="2">
-                  <colspec colname="1" colnum="1" rowheader="headers" />
-                  <colspec colname="2" colnum="2" rowheader="headers" />
+                  <colspec colname="1" colnum="1" rowheader="headers"/>
+                  <colspec colname="2" colnum="2" rowheader="headers"/>
                   <tbody>
                      <row>
                         <entry>
@@ -97,12 +98,12 @@
                </tgroup>
             </table>
          </p>
-         <p id="ESXJkQ" outputclass="Normal"></p>
+         <p id="ESXJkQ" outputclass="Normal"/>
          <p id="RzJL4">
             <table colsep="1" rowsep="1">
                <tgroup cols="2">
-                  <colspec colname="1" colnum="1" rowheader="headers" />
-                  <colspec colname="2" colnum="2" rowheader="headers" />
+                  <colspec colname="1" colnum="1" rowheader="headers"/>
+                  <colspec colname="2" colnum="2" rowheader="headers"/>
                   <tbody>
                      <row>
                         <entry>
@@ -124,12 +125,12 @@
                </tgroup>
             </table>
          </p>
-         <p id="ShmazL" outputclass="Normal"></p>
+         <p id="ShmazL" outputclass="Normal"/>
          <p id="YXf4s">
             <table colsep="1" rowsep="1">
                <tgroup cols="2">
-                  <colspec colname="1" colnum="1" rowheader="headers" />
-                  <colspec colname="2" colnum="2" rowheader="headers" />
+                  <colspec colname="1" colnum="1" rowheader="headers"/>
+                  <colspec colname="2" colnum="2" rowheader="headers"/>
                   <tbody>
                      <row>
                         <entry>
@@ -151,7 +152,7 @@
                </tgroup>
             </table>
          </p>
-         <p id="QlEWJQ" outputclass="Normal"></p>
+         <p id="QlEWJQ" outputclass="Normal"/>
          <p id="CXMreA" outputclass="Normal">This STRAP will be reviewed for possible revision no less often than annually in accordance</p>
          <p id="GXrSsL" outputclass="Normal">with FAR 7.104.</p>
          <p id="TvdQdo" outputclass="Normal">
@@ -197,9 +198,13 @@
          </p>
          <p id="wcPkfe" outputclass="Normal">2.3.1 Indicate the prospective sources of supplies or services that can meet the need.</p>
          <p id="legujh" outputclass="Normal">2.3.2 Address the extent and results of the market research.</p>
-         <p id="MIvSNa" outputclass="Normal">2.3.3 Discuss how required sources of supplies or services, the functional areas specified in Annex 22 (excluding requirements covered by an exception listed at 5237.102), AbilityOne and Federal Prison Industries, were considered. Discuss the availability of other sources identifiable through databases including the Government-wide database of contracts and other procurements instruments intended for use by multiple agencies available at <xref format="html" href="http://www.contractdirectory.gov/contractdirectory/" scope="external">
+         <p id="MIvSNa" outputclass="Normal">2.3.3 Discuss how required sources of supplies or services, the functional areas specified in Annex 22 (excluding requirements covered by an exception listed at 5237.102), AbilityOne and Federal Prison Industries, were considered. Discuss the availability of other sources identifiable through databases including the Government-wide database of contracts and other procurements instruments intended for use by multiple agencies available at <xref format="html"
+                  href="http://www.contractdirectory.gov/contractdirectory/"
+                  scope="external">
                <u>https://www.contractdirectory.gov/contractdirectory/</u>
-            </xref> and AbilityOne sources at <xref format="html" href="http://www.abilityone.gov/procurement_list/index.html" scope="external">
+            </xref> and AbilityOne sources at <xref format="html"
+                  href="http://www.abilityone.gov/procurement_list/index.html"
+                  scope="external">
                <u>http://www.abilityone.gov/procurement_list/index.html</u>
             </xref>.</p>
          <p id="BhqRUK" outputclass="Normal">2.3.4 Discuss the consideration of small businesses. Clearly identify how small business will be utilized to meet program or contract requirements, as either a prime contractor or through the use of subcontract provisions.</p>
@@ -275,7 +280,7 @@
          </p>
          <p id="JRzBMd" outputclass="Normal">2.3.6.12 Include a plan for the preservation and storage of special tooling associated with the production of hardware for MDAPs through the end of the service life of the related weapons system. The plan shall include the identification of any contract clauses, facilities, and funding required for the preservation and storage of such tooling.</p>
          <p id="NTsecH" outputclass="Normal">2.3.7 Discuss the use of category management, including strategic sourcing. Address whether the requirement can be achieved through an existing Federal, DOD, or DON contract vehicle. If establishing a new contract vehicle when a similar solution exists, include supporting information to justify why it is necessary to meet the requirement. In addition, address category management tier solutions and Analysis of Alternative (AoA) requirements, as defined by the Office of Management and Budget (OMB) memorandum M-19-13, for all common requirements.</p>
-         <p id="bGjGEF" outputclass="Normal"></p>
+         <p id="bGjGEF" outputclass="Normal"/>
          <p id="EPIHdx" outputclass="Normal">2.4 <i>Competition</i>
             <i>.</i>
          </p>
@@ -392,7 +397,7 @@
          <p id="hSzdtZ" outputclass="Normal">
             <i>Risks</i>
             <i>.</i> Discuss technical, cost, and schedule risks and describe what efforts are planned or underway to reduce risk and the consequences of failure to achieve goals. If concurrency of development and production is planned, discuss its effects on cost and schedule risks.</p>
-         <p id="YFmONg"></p>
+         <p id="YFmONg"/>
       </body>
    </topic>
 </dita>

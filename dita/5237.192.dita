@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="NMCARS_5237.192" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5237.192"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3" rev="CHANGE 18-22 JULY 11, 2022">
       <ph props="autonumber">5237.192</ph> Services Acquisition      Workshops.</title>
    <conbody>
@@ -15,7 +18,9 @@
             requirement is waived for task orders valued below $250 million.</ph> Multi-functional
          teams are highly encouraged to apply SAW-like steps to all services acquisitions valued at
          $10 million or more but less than the values above. If the HCA determines that a waiver is
-         necessary, the waiver request shall be submitted by email to <xref format="mailto" href="mailto:SeniorServicesManage.fct@navy.mil" scope="external">
+         necessary, the waiver request shall be submitted by email to <xref format="mailto"
+               href="mailto:SeniorServicesManage.fct@navy.mil"
+               scope="external">
             <u>SeniorServicesManage.fct@navy.mil</u>
          </xref>
          <ph> </ph>with the subject “NMCARS 5237.192 - Services Acquisition

@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="NMCARS_PART_5201" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Ctr 1 heading Part">
-         <ph props="autonumber">Part 5201</ph> - FEDERAL ACQUISITION REGULATIONS SYSTEM</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="NMCARS_PART_5201">
+      <title class="- topic/title " outputclass="Ctr 1 heading Part">
+         <ph class="- topic/ph " props="autonumber">Part 5201</ph> - FEDERAL ACQUISITION REGULATIONS SYSTEM</title>
       <body>
          <ul otherprops="TOC">
             <li>

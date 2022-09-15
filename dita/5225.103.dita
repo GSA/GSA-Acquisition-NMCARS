@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="NMCARS_5225.103" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="NMCARS_5225.103"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5225.103</ph> Exceptions.</title>
    <conbody>
@@ -13,7 +16,9 @@
             <i>)</i>
          </b> Submit requests for an agency head determination for a public interest exception to
          DASN(P) by email at <ph rev="CHANGE 18-22 JULY 11, 2022">
-            <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil" format="html" scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+            <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                  format="html"
+                  scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
          </ph> with the subject
          “[Activity Name] DFARS 225.103 - Buy American Act --Supplies.”</p>
       <p id="hNgqBC" outputclass="Normal">(b) <i>Nonavailability.</i>
@@ -22,9 +27,11 @@
          considers that the nonavailability of an article is likely to affect future acquisitions,
          the contracting officer shall submit the determinations made under FAR 25.103(b)(2) to
          DASN(P) by email at <ph rev="CHANGE 18-22 JULY 11, 2022">
-            <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil" format="html" scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+            <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                  format="html"
+                  scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
          </ph> with the subject
          “[Activity Name] DFARS 225.103 - Buy American Act--Supplies Determination.”</p>
-      <p id="p__Toc190162322" outputclass="Normal"></p>
+      <p id="p__Toc190162322" outputclass="Normal"/>
    </conbody>
 </concept>

@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="NMCARS_Annex-1" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Ctr 1 heading">
-         <ph props="autonumber">ANNEX 1</ph> - JUSTIFICATION AND         APPROVAL</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="NMCARS_Annex-1">
+      <title class="- topic/title " outputclass="Ctr 1 heading">
+         <ph class="- topic/ph " props="autonumber">ANNEX 1</ph> - JUSTIFICATION AND         APPROVAL</title>
       <body>
          <p id="bfAAVf" outputclass=" Ctr">
             <b>[Letter Head]</b>
@@ -49,7 +50,7 @@
                (i.e., the last day an award is authorized, not the period of performance; the
                J&amp;A "expiration date").]</b>
          </p>
-         <p id="SGELIr"></p>
+         <p id="SGELIr"/>
          <p id="wNbGLh">
             <i>
                <u>Example</u>
@@ -66,7 +67,7 @@
                Supplies/Services</u>.</p>
          <p id="ILjWBt">_____________________________________________________________________________</p>
          <p id="LGxyBP">_____________________________________________________________________________</p>
-         <p id="YIQQhZ"></p>
+         <p id="YIQQhZ"/>
          <p id="KYeCij">
             <b>
                <ph rev="CHANGE 18-22 JULY 11, 2022">[Identify the supplies and services to be acquired, the estimated value (rounded
@@ -95,11 +96,11 @@
          <p>
             <table id="table_crn_g53_35b" colsep="1" rowsep="1">
                <tgroup cols="2">
-                  <colspec colnum="1" colname="col1" rowheader="headers" />
-                  <colspec colnum="2" colname="col2" rowheader="headers" />
+                  <colspec colnum="1" colname="col1" rowheader="headers"/>
+                  <colspec colnum="2" colname="col2" rowheader="headers"/>
                   <thead>
                      <row>
-                        <entry />
+                        <entry/>
                         <entry>
                            <p>FYXX – XY</p>
                            <p>Total</p>
@@ -109,19 +110,19 @@
                   <tbody>
                      <row>
                         <entry colsep="1" rowsep="1">RDT&amp;E</entry>
-                        <entry colsep="1" rowsep="1" />
+                        <entry colsep="1" rowsep="1"/>
                      </row>
                      <row>
                         <entry colsep="1" rowsep="1">OPN</entry>
-                        <entry colsep="1" rowsep="1" />
+                        <entry colsep="1" rowsep="1"/>
                      </row>
                      <row>
                         <entry colsep="1" rowsep="1">O&amp;MN</entry>
-                        <entry colsep="1" rowsep="1" />
+                        <entry colsep="1" rowsep="1"/>
                      </row>
                      <row>
                         <entry colsep="1" rowsep="1">Total</entry>
-                        <entry colsep="1" rowsep="1" />
+                        <entry colsep="1" rowsep="1"/>
                      </row>
                   </tbody>
                </tgroup>

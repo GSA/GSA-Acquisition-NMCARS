@@ -1,0 +1,132 @@
+Picked up JAVA_TOOL_OPTIONS: -Djava.vendor="Sun Microsystems Inc."
+Warning 
+  XTDE0540: Ambiguous rule match for /map/topicref[1]
+Matches both "element(Q{}map)/element(Q{}topicref)" on line 41 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+and "element(Q{}map)[(data(attribute::attribute(Q{}outputclass))) = "dod"]/element(Q{}topicref)" on line 20 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+Warning 
+  XTDE0540: Ambiguous rule match for /map/topicref[2]
+Matches both "element(Q{}map)/element(Q{}topicref)" on line 41 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+and "element(Q{}map)[(data(attribute::attribute(Q{}outputclass))) = "dod"]/element(Q{}topicref)" on line 20 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+Warning 
+  XTDE0540: Ambiguous rule match for /map/topicref[3]
+Matches both "element(Q{}map)/element(Q{}topicref)" on line 41 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+and "element(Q{}map)[(data(attribute::attribute(Q{}outputclass))) = "dod"]/element(Q{}topicref)" on line 20 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+Warning 
+  XTDE0540: Ambiguous rule match for /map/topicref[4]
+Matches both "element(Q{}map)/element(Q{}topicref)" on line 41 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+and "element(Q{}map)[(data(attribute::attribute(Q{}outputclass))) = "dod"]/element(Q{}topicref)" on line 20 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+Warning 
+  XTDE0540: Ambiguous rule match for /map/topicref[5]
+Matches both "element(Q{}map)/element(Q{}topicref)" on line 41 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+and "element(Q{}map)[(data(attribute::attribute(Q{}outputclass))) = "dod"]/element(Q{}topicref)" on line 20 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+Warning 
+  XTDE0540: Ambiguous rule match for /map/topicref[6]
+Matches both "element(Q{}map)/element(Q{}topicref)" on line 41 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+and "element(Q{}map)[(data(attribute::attribute(Q{}outputclass))) = "dod"]/element(Q{}topicref)" on line 20 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+Warning 
+  XTDE0540: Ambiguous rule match for /map/topicref[7]
+Matches both "element(Q{}map)/element(Q{}topicref)" on line 41 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+and "element(Q{}map)[(data(attribute::attribute(Q{}outputclass))) = "dod"]/element(Q{}topicref)" on line 20 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+Warning 
+  XTDE0540: Ambiguous rule match for /map/topicref[8]
+Matches both "element(Q{}map)/element(Q{}topicref)" on line 41 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+and "element(Q{}map)[(data(attribute::attribute(Q{}outputclass))) = "dod"]/element(Q{}topicref)" on line 20 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+Warning 
+  XTDE0540: Ambiguous rule match for /map/topicref[9]
+Matches both "element(Q{}map)/element(Q{}topicref)" on line 41 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+and "element(Q{}map)[(data(attribute::attribute(Q{}outputclass))) = "dod"]/element(Q{}topicref)" on line 20 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+Warning 
+  XTDE0540: Ambiguous rule match for /map/topicref[10]
+Matches both "element(Q{}map)/element(Q{}topicref)" on line 41 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+and "element(Q{}map)[(data(attribute::attribute(Q{}outputclass))) = "dod"]/element(Q{}topicref)" on line 20 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+Warning 
+  XTDE0540: Ambiguous rule match for /map/topicref[11]
+Matches both "element(Q{}map)/element(Q{}topicref)" on line 41 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+and "element(Q{}map)[(data(attribute::attribute(Q{}outputclass))) = "dod"]/element(Q{}topicref)" on line 20 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+Warning 
+  XTDE0540: Ambiguous rule match for /map/topicref[12]
+Matches both "element(Q{}map)/element(Q{}topicref)" on line 41 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+and "element(Q{}map)[(data(attribute::attribute(Q{}outputclass))) = "dod"]/element(Q{}topicref)" on line 20 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+Warning 
+  XTDE0540: Ambiguous rule match for /map/topicref[13]
+Matches both "element(Q{}map)/element(Q{}topicref)" on line 41 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+and "element(Q{}map)[(data(attribute::attribute(Q{}outputclass))) = "dod"]/element(Q{}topicref)" on line 20 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+Warning 
+  XTDE0540: Ambiguous rule match for /map/topicref[14]
+Matches both "element(Q{}map)/element(Q{}topicref)" on line 41 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+and "element(Q{}map)[(data(attribute::attribute(Q{}outputclass))) = "dod"]/element(Q{}topicref)" on line 20 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+Warning 
+  XTDE0540: Ambiguous rule match for /map/topicref[15]
+Matches both "element(Q{}map)/element(Q{}topicref)" on line 41 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+and "element(Q{}map)[(data(attribute::attribute(Q{}outputclass))) = "dod"]/element(Q{}topicref)" on line 20 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+Warning 
+  XTDE0540: Ambiguous rule match for /map/topicref[16]
+Matches both "element(Q{}map)/element(Q{}topicref)" on line 41 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+and "element(Q{}map)[(data(attribute::attribute(Q{}outputclass))) = "dod"]/element(Q{}topicref)" on line 20 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+Warning 
+  XTDE0540: Ambiguous rule match for /map/topicref[17]
+Matches both "element(Q{}map)/element(Q{}topicref)" on line 41 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+and "element(Q{}map)[(data(attribute::attribute(Q{}outputclass))) = "dod"]/element(Q{}topicref)" on line 20 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+Warning 
+  XTDE0540: Ambiguous rule match for /map/topicref[18]
+Matches both "element(Q{}map)/element(Q{}topicref)" on line 41 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+and "element(Q{}map)[(data(attribute::attribute(Q{}outputclass))) = "dod"]/element(Q{}topicref)" on line 20 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+Warning 
+  XTDE0540: Ambiguous rule match for /map/topicref[19]
+Matches both "element(Q{}map)/element(Q{}topicref)" on line 41 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+and "element(Q{}map)[(data(attribute::attribute(Q{}outputclass))) = "dod"]/element(Q{}topicref)" on line 20 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+Warning 
+  XTDE0540: Ambiguous rule match for /map/topicref[20]
+Matches both "element(Q{}map)/element(Q{}topicref)" on line 41 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+and "element(Q{}map)[(data(attribute::attribute(Q{}outputclass))) = "dod"]/element(Q{}topicref)" on line 20 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+Warning 
+  XTDE0540: Ambiguous rule match for /map/topicref[21]
+Matches both "element(Q{}map)/element(Q{}topicref)" on line 41 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+and "element(Q{}map)[(data(attribute::attribute(Q{}outputclass))) = "dod"]/element(Q{}topicref)" on line 20 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+Warning 
+  XTDE0540: Ambiguous rule match for /map/topicref[22]
+Matches both "element(Q{}map)/element(Q{}topicref)" on line 41 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+and "element(Q{}map)[(data(attribute::attribute(Q{}outputclass))) = "dod"]/element(Q{}topicref)" on line 20 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+Warning 
+  XTDE0540: Ambiguous rule match for /map/topicref[23]
+Matches both "element(Q{}map)/element(Q{}topicref)" on line 41 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+and "element(Q{}map)[(data(attribute::attribute(Q{}outputclass))) = "dod"]/element(Q{}topicref)" on line 20 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+Warning 
+  XTDE0540: Ambiguous rule match for /map/topicref[24]
+Matches both "element(Q{}map)/element(Q{}topicref)" on line 41 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+and "element(Q{}map)[(data(attribute::attribute(Q{}outputclass))) = "dod"]/element(Q{}topicref)" on line 20 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+Warning 
+  XTDE0540: Ambiguous rule match for /map/topicref[25]
+Matches both "element(Q{}map)/element(Q{}topicref)" on line 41 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+and "element(Q{}map)[(data(attribute::attribute(Q{}outputclass))) = "dod"]/element(Q{}topicref)" on line 20 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+Warning 
+  XTDE0540: Ambiguous rule match for /map/topicref[26]
+Matches both "element(Q{}map)/element(Q{}topicref)" on line 41 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+and "element(Q{}map)[(data(attribute::attribute(Q{}outputclass))) = "dod"]/element(Q{}topicref)" on line 20 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/OfflineTCE/fixOutputclassAndXtrfDynamicLevelSubpart_4Drupal.xsl
+No more warnings will be displayed

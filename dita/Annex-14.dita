@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="NMCARS_Annex-14" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Ctr 1 heading">
-         <ph props="autonumber">Annex 14</ph> - REPORTS</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="NMCARS_Annex-14">
+      <title class="- topic/title " outputclass="Ctr 1 heading">
+         <ph class="- topic/ph " props="autonumber">Annex 14</ph> - REPORTS</title>
       <body>
          <p id="olQ7o">
             <table colsep="1" rowsep="1">
                <tgroup cols="8" colsep="1">
-                  <colspec colname="1" colnum="1" rowheader="headers" />
-                  <colspec colname="2" colnum="2" rowheader="headers" />
-                  <colspec colname="3" colnum="3" rowheader="headers" />
-                  <colspec colname="4" colnum="4" rowheader="headers" />
-                  <colspec colname="5" colnum="5" rowheader="headers" />
-                  <colspec colname="6" colnum="6" rowheader="headers" />
-                  <colspec colname="7" colnum="7" rowheader="headers" />
-                  <colspec colname="8" colnum="8" rowheader="headers" />
+                  <colspec colname="1" colnum="1" rowheader="headers"/>
+                  <colspec colname="2" colnum="2" rowheader="headers"/>
+                  <colspec colname="3" colnum="3" rowheader="headers"/>
+                  <colspec colname="4" colnum="4" rowheader="headers"/>
+                  <colspec colname="5" colnum="5" rowheader="headers"/>
+                  <colspec colname="6" colnum="6" rowheader="headers"/>
+                  <colspec colname="7" colnum="7" rowheader="headers"/>
+                  <colspec colname="8" colnum="8" rowheader="headers"/>
                   <tbody>
                      <row rowsep="1">
                         <entry>
@@ -114,7 +115,9 @@
                            <p id="QYVlxF">DASN(P) by email to</p>
                            <p>
                               <ph rev="CHANGE 18-22 JULY 11, 2022">
-                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil" format="html" scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                                       format="html"
+                                       scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
                               </ph>
                            </p>
                         </entry>
@@ -145,7 +148,9 @@
                            <p id="svVqeL">DASN(P) by email to</p>
                            <p>
                               <ph rev="CHANGE 18-22 JULY 11, 2022">
-                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil" format="html" scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                                       format="html"
+                                       scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
                               </ph>
                            </p>
                         </entry>
@@ -176,7 +181,9 @@
                            <p id="vEOjcn">DASN(P) by email to</p>
                            <p>
                               <ph rev="CHANGE 18-22 JULY 11, 2022">
-                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil" format="html" scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                                       format="html"
+                                       scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
                               </ph>
                            </p>
                         </entry>
@@ -207,7 +214,9 @@
                            <p id="YnWVlz">DASN(P) by email to</p>
                            <p>
                               <ph rev="CHANGE 18-22 JULY 11, 2022">
-                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil" format="html" scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                                       format="html"
+                                       scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
                               </ph>
                            </p>
                         </entry>
@@ -238,7 +247,9 @@
                            <p id="WuWGfa">DASN(P) by email to</p>
                            <p>
                               <ph rev="CHANGE 18-22 JULY 11, 2022">
-                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil" format="html" scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                                       format="html"
+                                       scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
                               </ph>
                            </p>
                         </entry>
@@ -269,7 +280,9 @@
                            <p id="kZZdyw">DASN(P) by email to</p>
                            <p>
                               <ph rev="CHANGE 18-22 JULY 11, 2022">
-                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil" format="html" scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                                       format="html"
+                                       scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
                               </ph>
                            </p>
                         </entry>
@@ -300,7 +313,9 @@
                            <p id="lhTceK">DASN(P) by email to </p>
                            <p>
                               <ph rev="CHANGE 18-22 JULY 11, 2022">
-                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil" format="html" scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                                       format="html"
+                                       scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
                               </ph>
                            </p>
                         </entry>
@@ -331,7 +346,9 @@
                            <p id="gnxzYd">DASN(P) by email to</p>
                            <p>
                               <ph rev="CHANGE 18-22 JULY 11, 2022">
-                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil" format="html" scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                                       format="html"
+                                       scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
                               </ph>
                            </p>
                         </entry>
@@ -362,7 +379,9 @@
                            <p id="SdhGna">DASN(P) by email to</p>
                            <p>
                               <ph rev="CHANGE 18-22 JULY 11, 2022">
-                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil" format="html" scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                                       format="html"
+                                       scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
                               </ph>
                            </p>
                         </entry>
@@ -393,7 +412,9 @@
                            <p id="PYsjxU">DASN(P) by email to</p>
                            <p>
                               <ph rev="CHANGE 18-22 JULY 11, 2022">
-                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil" format="html" scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                                       format="html"
+                                       scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
                               </ph>
                            </p>
                         </entry>
@@ -425,7 +446,9 @@
                            <p id="qBqwFT">DASN(P) by email to</p>
                            <p>
                               <ph rev="CHANGE 18-22 JULY 11, 2022">
-                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil" format="html" scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                                       format="html"
+                                       scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
                               </ph>
                            </p>
                         </entry>
@@ -496,7 +519,9 @@
                            <p id="idACiF">DASN(P) by email to</p>
                            <p>
                               <ph rev="CHANGE 18-22 JULY 11, 2022">
-                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil" format="html" scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                                       format="html"
+                                       scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
                               </ph>
                            </p>
                         </entry>
@@ -562,7 +587,9 @@
                         <entry>
                            <p id="aEPWrc">DASN(P) by email to</p>
                            <p>
-                              <xref format="mailto" href="mailto:seniorservicesmanage.fct@navy.mil" scope="external">
+                              <xref format="mailto"
+                                    href="mailto:seniorservicesmanage.fct@navy.mil"
+                                    scope="external">
                                  <u>seniorservicesmanage.fct@navy.mil</u>
                               </xref>
                            </p>
@@ -636,7 +663,9 @@
                            <p id="vfIwMz">DASN(P) by email</p>
                            <p>
                               <ph rev="CHANGE 18-22 JULY 11, 2022">
-                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil" format="html" scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                                       format="html"
+                                       scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
                               </ph>
                            </p>
                         </entry>
@@ -667,7 +696,9 @@
                            <p id="RYbWnc">DASN(P) by email</p>
                            <p>
                               <ph rev="CHANGE 18-22 JULY 11, 2022">
-                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil" format="html" scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+                                 <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
+                                       format="html"
+                                       scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
                               </ph>
                            </p>
                         </entry>
@@ -676,19 +707,19 @@
                </tgroup>
             </table>
          </p>
-         <p id="jtlsTl" outputclass="Ctr normal"></p>
+         <p id="jtlsTl" outputclass="Ctr normal"/>
          <p id="wlwjuy5q" outputclass="Ctr normal">
             <b>SYSTEM REPORTS</b>
          </p>
          <p id="5dWeq">
             <table colsep="1" rowsep="1">
                <tgroup cols="6" colsep="1">
-                  <colspec colname="1" colnum="1" rowheader="headers" />
-                  <colspec colname="2" colnum="2" rowheader="headers" />
-                  <colspec colname="3" colnum="3" rowheader="headers" />
-                  <colspec colname="4" colnum="4" rowheader="headers" />
-                  <colspec colname="5" colnum="5" rowheader="headers" />
-                  <colspec colname="6" colnum="6" rowheader="headers" />
+                  <colspec colname="1" colnum="1" rowheader="headers"/>
+                  <colspec colname="2" colnum="2" rowheader="headers"/>
+                  <colspec colname="3" colnum="3" rowheader="headers"/>
+                  <colspec colname="4" colnum="4" rowheader="headers"/>
+                  <colspec colname="5" colnum="5" rowheader="headers"/>
+                  <colspec colname="6" colnum="6" rowheader="headers"/>
                   <tbody>
                      <row rowsep="1">
                         <entry>
