@@ -622,11 +622,43 @@
    </topicref>
    <topicref navtitle="Part 5235 - RESEARCH AND DEVELOPMENT CONTRACTING" href="PART_5235.dita" outputclass="Part" props="Part 5235" audience="NMCARS_PART_5235" base="NoTitle" xtrf="Part">
       <topicref navtitle="5235.006 Contracting methods and contract type." href="5235.006.dita" outputclass="subtopic" props="5235.006" audience="NMCARS_5235.006" base="NoTitle" xtrf="subtopic" xtrc="NMCARS_5235.006.html" />
-      <topicref navtitle="5235.015 Contracts for research with educational institutions and nonprofit organizations." href="5235.015.dita" outputclass="subtopic" props="5235.015" audience="NMCARS_5235.015" base="NoTitle" xtrf="No" xtrc="NMCARS_5235.015.html">
-         <topicref navtitle="5235.015-70 Special use allowances for research facilities acquired by educational institutions." href="5235.01570.dita" outputclass="subtopic" props="5235.015-70" audience="NMCARS_5235.01570" base="NoTitle" xtrf="subtopic" xtrc="NMCARS_5235.01570.html" />
+      <topicref
+         navtitle="5235.015 Contracts for research with educational institutions and nonprofit organizations."
+         href="5235.015.dita"
+         outputclass="subtopic"
+         props="5235.015"
+         audience="NMCARS_5235.015"
+         base="NoTitle"
+         xtrf="subtopic"
+         xtrc="NMCARS_5235.015.html">
+         <topicref
+            navtitle="5235.015-70 Special use allowances for research facilities acquired by educational institutions."
+            href="5235.01570.dita"
+            outputclass="subtopic"
+            props="5235.015-70"
+            audience="NMCARS_5235.01570"
+            base="NoTitle"
+            xtrf="subtopic"
+            xtrc="NMCARS_5235.01570.html"/>
       </topicref>
-      <topicref navtitle="5235.070 Indemnification against unusually hazardous risks." href="5235.070.dita" outputclass="subtopic" props="5235.070" audience="NMCARS_5235.070" base="NoTitle" xtrf="No" xtrc="NMCARS_5235.070.html">
-         <topicref navtitle="5235.070-1 Indemnification under research and development contracts." href="5235.0701.dita" outputclass="subtopic" props="5235.070-1" audience="NMCARS_5235.0701" base="NoTitle" xtrf="subtopic" xtrc="NMCARS_5235.0701.html" />
+      <topicref
+         navtitle="5235.070 Indemnification against unusually hazardous risks."
+         href="5235.070.dita"
+         outputclass="subtopic"
+         props="5235.070"
+         audience="NMCARS_5235.070"
+         base="NoTitle"
+         xtrf="subtopic"
+         xtrc="NMCARS_5235.070.html">
+         <topicref
+            navtitle="5235.070-1 Indemnification under research and development contracts."
+            href="5235.0701.dita"
+            outputclass="subtopic"
+            props="5235.070-1"
+            audience="NMCARS_5235.0701"
+            base="NoTitle"
+            xtrf="subtopic"
+            xtrc="NMCARS_5235.0701.html"/>
       </topicref>
    </topicref>
    <topicref navtitle="Part 5236 - CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS" href="PART_5236.dita" outputclass="Part" props="Part 5236" audience="NMCARS_PART_5236" base="NoTitle" xtrf="Part">
