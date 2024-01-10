@@ -10,11 +10,11 @@
    <conbody>
       <p outputclass="Normal"> Submit requests for impracticability
          determinations to DASN(P) at least 60 days prior to anticipated contract award by email at
-            <ph rev="CHANGE 18-22 JULY 11, 2022">
+            
             <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
-                  format="html"
-                  scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
-         </ph> with the subject
+               format="html"
+               scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+          with the subject
          “[Activity Name] DFARS 230.202-2 – Impracticability Determination.” Include the estimated
          date of contract award.</p>
    </conbody>

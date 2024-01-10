@@ -7,7 +7,7 @@
          <ph class="- topic/ph " props="autonumber">Part 5239</ph> - ACQUISITION OF INFORMATION TECHNOLOGY</title>
       <body>
          <ul otherprops="TOC">
-            <li rev="CHANGE 18-22 JULY 11, 2022">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="5239.001.dita#NMCARS_5239.001">5239.001 Applicability.</xref>
                </p>
@@ -17,7 +17,7 @@
                   <xref outputclass="fm:TOC" href="SUBPART_5239.73.dita#NMCARS_SUBPART_5239.73">Subpart 5239.73 - REQUIREMENTS FOR INFORMATION RELATING TO SUPPLY CHAIN RISK</xref>
                </p>
                <ul otherprops="TOC">
-                  <li rev="CHANGE 18-22 JULY 11, 2022">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5239.7304.dita#NMCARS_5239.7304">5239.7304 Determination and notification.</xref>
                      </p>

@@ -9,14 +9,14 @@
       <ph props="autonumber">5225.7011-2</ph> Waiver.</title>
    <conbody>
       <p outputclass="Normal"> Submit the waiver to SECNAV via DASN(P) by email
-         at <ph rev="CHANGE 18-22 JULY 11, 2022">
+         at 
             <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
-                  format="html"
-                  scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
-         </ph> with the subject
+               format="html"
+               scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+          with the subject
          “[Activity Name] DFARS 225.2011-2 - Carbon, Alloy, And Armor Steel Plate Restriction
-         Waiver”. <ph rev="CHANGE 18-22 JULY 11, 2022">The waiver shall be in the form of a written
-            D&amp;F.</ph>
+         Waiver”. The waiver shall be in the form of a written
+            D&amp;F.
       </p>
    </conbody>
 </concept>

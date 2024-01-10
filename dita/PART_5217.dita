@@ -24,7 +24,7 @@
                         </li>
                      </ul>
                   </li>
-                  <li rev="CHANGE 18-22 JULY 11, 2022">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5217.170.dita#NMCARS_5217.170">5217.170 General.</xref>
                      </p>
@@ -34,12 +34,12 @@
                         <xref outputclass="fm:TOC" href="5217.171.dita#NMCARS_5217.171">5217.171 Multiyear contracts for services.</xref>
                      </p>
                   </li>
-                  <li rev="CHANGE 18-22 JULY 11, 2022">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5217.172.dita#NMCARS_5217.172">5217.172 Multiyear contracts for supplies.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li rev="CHANGE 18-22 JULY 11, 2022">
+                        <li>
                            <p>
                               <xref outputclass="fm:TOC" href="5217.17290.dita#NMCARS_5217.17290">5217.172-90 Multiyear contracts for supplies.</xref>
                            </p>
@@ -63,7 +63,7 @@
                         <xref outputclass="fm:TOC" href="5217.200.dita#NMCARS_5217.200">5217.200 Scope of Subpart.</xref>
                      </p>
                   </li>
-                  <li rev="CHANGE 18-22 JULY 11, 2022">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5217.204.dita#NMCARS_5217.204">5217.204 Contracts.</xref>
                      </p>
@@ -85,12 +85,12 @@
                         <xref outputclass="fm:TOC" href="5217.502.dita#NMCARS_5217.502">5217.502 Procedures.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li rev="CHANGE 18-22 JULY 11, 2022">
+                        <li>
                            <p>
                               <xref outputclass="fm:TOC" href="5217.5021.dita#NMCARS_5217.5021">5217.502-1 General.</xref>
                            </p>
                         </li>
-                        <li rev="CHANGE 18-22 JULY 11, 2022">
+                        <li>
                            <p>
                               <xref outputclass="fm:TOC" href="5217.5022.dita#NMCARS_5217.5022">5217.502-2 The Economy Act.</xref>
                            </p>
@@ -104,7 +104,7 @@
                   <xref outputclass="fm:TOC" href="SUBPART_5217.7.dita#NMCARS_SUBPART_5217.7">Subpart 5217.7 - INTERAGENCY ACQUISITIONS: ACQUISITIONS BY NONDEFENSE AGENCIES ON BEHALF OF THE DEPARTMENT OF DEFENSE</xref>
                </p>
                <ul otherprops="TOC">
-                  <li rev="CHANGE 18-22 JULY 11, 2022">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5217.703.dita#NMCARS_5217.703">5217.703 Policy.</xref>
                      </p>
@@ -121,7 +121,7 @@
                   <xref outputclass="fm:TOC" href="SUBPART_5217.74.dita#NMCARS_SUBPART_5217.74">Subpart 5217.74 - UNDEFINITIZED CONTRACT ACTIONS</xref>
                </p>
                <ul otherprops="TOC">
-                  <li rev="CHANGE 18-22 JULY 11, 2022">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5217.7402.dita#NMCARS_5217.7402">5217.7402 Exceptions.</xref>
                      </p>
@@ -136,7 +136,7 @@
                               <xref outputclass="fm:TOC" href="5217.74043.dita#NMCARS_5217.74043">5217.7404-3 Definitization Schedule.</xref>
                            </p>
                            <ul otherprops="TOC">
-                              <li rev="CHANGE 18-22 JULY 11, 2022">
+                              <li>
                                  <p>
                                     <xref outputclass="fm:TOC" href="5217.74045.dita#NMCARS_5217.74045">5217.7404-5 Exceptions.</xref>
                                  </p>

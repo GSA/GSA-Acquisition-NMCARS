@@ -9,11 +9,11 @@
       <ph props="autonumber">5225.772-4</ph> Exception.</title>
    <conbody>
       <p outputclass="Normal"> (b) Submit exception requests via DASN(P) by email
-         at <ph rev="CHANGE 18-22 JULY 11, 2022">
+         at 
             <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
-                  format="html"
-                  scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
-         </ph> with the subject
+               format="html"
+               scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+          with the subject
          “[Activity Name] DFARS 225.772-4 – “Certain Commercial Satellite Services Exception
          Request.”</p>
    </conbody>

@@ -9,11 +9,11 @@
       <ph props="autonumber">5203.806</ph> Processing suspected violations.</title>
    <conbody>
       <p outputclass="Normal"> Submit Lobbying Disclosure Act Violation reports
-         to DASN(P) by email at <ph rev="CHANGE 18-22 JULY 11, 2022">
+         to DASN(P) by email at 
             <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
-                  format="html"
-                  scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
-         </ph> with the subject
+               format="html"
+               scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+          with the subject
          “[Activity Name] DFARS PGI 203.8—Lobbying Disclosure Act Violation Report.” </p>
    </conbody>
 </concept>

@@ -4,18 +4,18 @@
 <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
          id="NMCARS_5237.192"
          ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 3" rev="CHANGE 18-22 JULY 11, 2022">
+   <title outputclass="Heading 3">
       <ph props="autonumber">5237.192</ph> Services Acquisition      Workshops.</title>
    <conbody>
       <p id="rkeuqy" outputclass="Normal">(a) Except for acquisitions identified
          as a Special Interest, multi-functional teams that support services acquisition
          requirements with a total acquisition value of $500 million or more or an annual value of
-         $250,000,000 or more, shall participate in a <ph rev="CHANGE 18-22 JULY 11, 2022">Services
+         $250,000,000 or more, shall participate in a Services
             Acquisition Workshop (SAW), or an equivalent program in accordance with DoDI 5000.74,
             Defense Acquisition of Services. For multiple award, IDIQ contracts, a SAW is not
             required for the base contract, but is required for any task order valued at $100
             million or more in accordance with DoDI 5000.74. However, within the DON, this
-            requirement is waived for task orders valued below $250 million.</ph> Multi-functional
+            requirement is waived for task orders valued below $250 million. Multi-functional
          teams are highly encouraged to apply SAW-like steps to all services acquisitions valued at
          $10 million or more but less than the values above. If the HCA determines that a waiver is
          necessary, the waiver request shall be submitted by email to <xref format="mailto"
@@ -23,7 +23,7 @@
                scope="external">
             <u>SeniorServicesManage.fct@navy.mil</u>
          </xref>
-         <ph> </ph>with the subject “NMCARS 5237.192 - Services Acquisition
+          with the subject “NMCARS 5237.192 - Services Acquisition
          Workshop (SAW) Waiver Request” for approval by:</p>
       <p id="zFpPJd" outputclass="List2">(i) USD(A&amp;S) or ASD(A) for Special Interest acquisitions;</p>
       <p id="CysVwj" outputclass="List2">(ii) The DON Senior Services Manager DASN(P) for all other waiver requests.</p>

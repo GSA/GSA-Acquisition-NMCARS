@@ -9,11 +9,11 @@
       <ph props="autonumber">5225.871-7</ph> Congressional notification.</title>
    <conbody>
       <p outputclass="Normal"> (a)(1) Submit proposed Congressional notices via
-         DASN(P) by email at <ph rev="CHANGE 18-22 JULY 11, 2022">
+         DASN(P) by email at 
             <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
-                  format="html"
-                  scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
-         </ph> with the subject
+               format="html"
+               scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+          with the subject
          “[Activity Name] DFARS 225.871-7 - NATO Cooperative Projects Statutory Waiver.” </p>
    </conbody>
 </concept>
