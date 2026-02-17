@@ -2,11 +2,11 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="NMCARS_Annex-10">
+   <topic id="NMCARS_ANNEX-10">
       <title class="- topic/title " outputclass="Ctr 1 heading">
          <ph class="- topic/ph " props="autonumber">ANNEX 10</ph> - NOTICE OF SUSPECTED VIOLATIONS OF THE GRATUITIES CLAUSE</title>
       <body>
-         <p id="BGYrTf" outputclass="Normal">As required by 5203.203(a), provide a written notice of suspected violations to the Assistant</p>
+         <p>The official NMCARS regulation resides at <xref href="https://www.secnav.navy.mil/rda/DASN-P/Pages/NMCARS.aspx" scope="external" format="html">https://www.secnav.navy.mil/rda/DASN-P/Pages/NMCARS.aspx</xref></p><p id="BGYrTf" outputclass="Normal">As required by 5203.203(a), provide a written notice of suspected violations to the Assistant</p>
          <p id="PclAam" outputclass="Normal">General Counsel (Acquisition Integrity) at <xref format="mailto" href="mailto:aio@navy.mil" scope="external">
                <u>aio@navy.mil</u>
             </xref>.</p>

@@ -86,13 +86,15 @@
                       base="NoTitle"
                       xtrf="subtopic"
                       xtrc="NMCARS_5201.1052.html"/>
-            <topicref href="5201.1053.dita"
-                      props="5201.105-3"
-                      audience="NMCARS_5201.1053"
-                      xtrc="NMCARS_5201.1053.html"
-                      navtitle="5201.105-3 Copies."
-                      outputclass="subtopic"
-                      base="NoTitle"/>
+            <topicref
+href="5201.1053.dita"
+props="5201.105-3"
+audience="NMCARS_5201.1053"
+xtrc="NMCARS_5201.1053.html"
+navtitle="5201.105-3 Copies."
+outputclass="subtopic"
+base="NoTitle"
+xtrf="subtopic"/>
          </topicref>
          <topicref navtitle="5201.107 Certifications."
                    href="5201.107.dita"
@@ -4318,13 +4320,14 @@
              audience="NMCARS_Annex-10"
              base="NoTitle"
              xtrf="Part"/>
-   <topicref navtitle="Annex 11 - DEFENSE COMMERCIAL SOLUTIONS OPENING DETERMINATION &amp; FINDING TEMPLATE"
-             href="Annex-11.dita"
-             outputclass="Part"
-             audience="NMCARS_Annex-11"
-             base="NoTitle"
-             xtrf="Part"
-             props="Annex 11"/>
+   <topicref
+navtitle="ANNEX 11 - DEFENSE COMMERCIAL SOLUTIONS OPENING DETERMINATION &amp; FINDING TEMPLATE"
+href="Annex-11.dita"
+outputclass="Part"
+audience="NMCARS_Annex-11"
+base="NoTitle"
+xtrf="Part"
+props="Annex 11"/>
    <topicref navtitle="ANNEX 12 - Waiver Request for Appointing a Non-DON Employee as a Contracting Officer"
              href="Annex-12.dita"
              outputclass="Part"
@@ -4339,13 +4342,14 @@
              audience="NMCARS_Annex-13"
              base="NoTitle"
              xtrf="Part"/>
-   <topicref navtitle="Annex 14 - REPORTS"
-             href="Annex-14.dita"
-             outputclass="Part"
-             audience="NMCARS_Annex-14"
-             base="NoTitle"
-             xtrf="Part"
-             props="Annex 14"/>
+   <topicref
+navtitle="ANNEX 14 - REPORTS"
+href="Annex-14.dita"
+outputclass="Part"
+audience="NMCARS_Annex-14"
+base="NoTitle"
+xtrf="Part"
+props="Annex 14"/>
    <topicref navtitle="ANNEX 15 - UAC/RATIFICATION REPORT"
              href="Annex-15.dita"
              outputclass="Part"
@@ -4353,13 +4357,14 @@
              audience="NMCARS_Annex-15"
              base="NoTitle"
              xtrf="Part"/>
-   <topicref navtitle="Annex 16 - STATEMENT OF WORK LANGUAGE IMPLEMENTING THE DIB MEMO"
-             href="Annex-16.dita"
-             outputclass="Part"
-             audience="NMCARS_Annex-16"
-             base="NoTitle"
-             xtrf="Part"
-             props="Annex 16"/>
+   <topicref
+navtitle="ANNEX 16 - STATEMENT OF WORK LANGUAGE IMPLEMENTING THE DIB MEMO"
+href="Annex-16.dita"
+outputclass="Part"
+audience="NMCARS_Annex-16"
+base="NoTitle"
+xtrf="Part"
+props="Annex 16"/>
    <topicref navtitle="ANNEX 17 - PROGRAM STREAMLINED ACQUISITION PLAN (PSTRAP)"
              href="Annex-17.dita"
              outputclass="Part"

@@ -2,11 +2,11 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="NMCARS_Annex-17">
+   <topic id="NMCARS_ANNEX-17">
       <title class="- topic/title " outputclass="Ctr 1 heading">
          <ph class="- topic/ph " props="autonumber">ANNEX 17</ph> - PROGRAM STREAMLINED ACQUISITION PLAN (PSTRAP)</title>
       <body>
-         <p id="dLVDYD" outputclass="Ctr normal">(Classification: If not classified, must be FOR OFFICIAL USE ONLY.)</p>
+         <p>The official NMCARS regulation resides at <xref href="https://www.secnav.navy.mil/rda/DASN-P/Pages/NMCARS.aspx" scope="external" format="html">https://www.secnav.navy.mil/rda/DASN-P/Pages/NMCARS.aspx</xref></p><p id="dLVDYD" outputclass="Ctr normal">(Classification: If not classified, must be FOR OFFICIAL USE ONLY.)</p>
          <p id="yhmULT" outputclass="Normal">Acquisition Plan Number: __________ Rev: _______</p>
          <p id="zPoDHr" outputclass="Normal">Program Title: ________________________________________________ ACAT_____</p>
          <p id="NwfFqf" outputclass="Normal">Acquisition Manager: __________________________________________Code _____</p>

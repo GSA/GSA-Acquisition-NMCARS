@@ -2,11 +2,11 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="NMCARS_Annex-2">
+   <topic id="NMCARS_ANNEX-2">
       <title class="- topic/title " outputclass="1 heading Ctr">
          <ph class="- topic/ph " props="autonumber">ANNEX 2</ph> - BUSINESS CLEARANCE REQUIRED      CONTENT</title>
       <body>
-         <p id="KmRfCD" outputclass="Normal">In developing business clearance memoranda and/or BCM
+         <p>The official NMCARS regulation resides at <xref href="https://www.secnav.navy.mil/rda/DASN-P/Pages/NMCARS.aspx" scope="external" format="html">https://www.secnav.navy.mil/rda/DASN-P/Pages/NMCARS.aspx</xref></p><p id="KmRfCD" outputclass="Normal">In developing business clearance memoranda and/or BCM
          templates, HCAs shall include all required content and compliances as outlined in the
          following table unless the HCA notifies DASN(P) otherwise per 5201.9002(b). When addressing
          a minimum requirement, HCAs may reference previously approved documentation (e.g., source
