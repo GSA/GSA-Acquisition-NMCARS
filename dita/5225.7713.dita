@@ -8,11 +8,11 @@
    <title outputclass="Heading 4">
       <ph props="autonumber">5225.771-3</ph> Notification.</title>
    <conbody>
-      <p outputclass="Normal"> Submit notifications via DASN(P) by email at <ph rev="CHANGE 18-22 JULY 11, 2022">
+      <p outputclass="Normal"> Submit notifications via DASN(P) by email at 
             <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
-                  format="html"
-                  scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
-         </ph> with the subject
+               format="html"
+               scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+          with the subject
          “[Activity Name] DFARS 225.771-3 – “State Sponsor of Terrorism Notification.”</p>
    </conbody>
 </concept>

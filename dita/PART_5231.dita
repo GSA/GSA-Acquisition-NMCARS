@@ -6,13 +6,13 @@
       <title class="- topic/title " outputclass="1 heading part Ctr">
          <ph class="- topic/ph " props="autonumber">Part 5231</ph> - CONTRACT COST PRINCIPLES AND PROCEDURES</title>
       <body>
-         <ul otherprops="TOC">
+         <p>The official NMCARS regulation resides at <xref href="https://www.secnav.navy.mil/rda/DASN-P/Pages/NMCARS.aspx" scope="external" format="html">https://www.secnav.navy.mil/rda/DASN-P/Pages/NMCARS.aspx</xref></p><ul otherprops="TOC">
             <li>
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_5231.1.dita#NMCARS_SUBPART_5231.1">Subpart 5231.1 - APPLICABILITY</xref>
                </p>
                <ul otherprops="TOC">
-                  <li rev="CHANGE 18-22 JULY 11, 2022">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5231.109.dita#NMCARS_5231.109">5231.109 Advance agreements.</xref>
                      </p>
@@ -34,7 +34,7 @@
                               <xref outputclass="fm:TOC" href="5231.20590.dita#NMCARS_5231.20590">5231.205-90 Shipbuilding capability preservation agreements.</xref>
                            </p>
                         </li>
-                        <li rev="CHANGE 18-22 JULY 11, 2022">
+                        <li>
                            <p>
                               <xref outputclass="fm:TOC" href="5231.20591.dita#NMCARS_5231.20591">5231.205-91 Compensation for services.</xref>
                            </p>

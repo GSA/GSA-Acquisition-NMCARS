@@ -2,11 +2,11 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="NMCARS_Annex-6">
+   <topic id="NMCARS_ANNEX-6">
       <title class="- topic/title " outputclass="Ctr 1 heading">
          <ph class="- topic/ph " props="autonumber">ANNEX 6</ph> - CONSOLIDATED UNDEFINITIZED CONTRACT ACTION (UCA) MANAGEMENT REPORT</title>
       <body>
-         <p id="vBkbQJ" outputclass="Normal">In accordance with 5217.7405, Plans and Reports, each contracting activity shall submit a Consolidated UCA Management Report, which provides the following information:</p>
+         <p>The official NMCARS regulation resides at <xref href="https://www.secnav.navy.mil/rda/DASN-P/Pages/NMCARS.aspx" scope="external" format="html">https://www.secnav.navy.mil/rda/DASN-P/Pages/NMCARS.aspx</xref></p><p id="vBkbQJ" outputclass="Normal">In accordance with 5217.7405, Plans and Reports, each contracting activity shall submit a Consolidated UCA Management Report, which provides the following information:</p>
          <p id="fHRNzh" outputclass="Normal">Contract Number</p>
          <p id="HlxJQp" outputclass="Normal">Task Order/Delivery Order Number (if applicable)</p>
          <p id="wRpTXM" outputclass="Normal">Program Description/Reason for Award</p>

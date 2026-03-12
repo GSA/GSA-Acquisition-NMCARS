@@ -2,11 +2,11 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="NMCARS_Annex-3">
+   <topic id="NMCARS_ANNEX-3">
       <title class="- topic/title " outputclass="Ctr 1 heading">
          <ph class="- topic/ph " props="autonumber">ANNEX 3</ph> - DOMESTIC NONAVAILABILITY         DETERMINATION AND SUPPORTING DOCUMENTATION</title>
       <body>
-         <p id="jhVcsg">Note: This annex contains templates for Domestic Nonavailability
+         <p>The official NMCARS regulation resides at <xref href="https://www.secnav.navy.mil/rda/DASN-P/Pages/NMCARS.aspx" scope="external" format="html">https://www.secnav.navy.mil/rda/DASN-P/Pages/NMCARS.aspx</xref></p><p id="jhVcsg">Note: This annex contains templates for Domestic Nonavailability
             Determinations (DNADs) and the required supporting documentation for DNADs pursuant to
             the following statutes:</p>
          <p id="dZvQRq" outputclass="List3">10 U.S.C. 2533a (“Berry Amendment”); and</p>

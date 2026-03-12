@@ -9,11 +9,11 @@
       <ph props="autonumber">5225.772-3</ph> Procedures.</title>
    <conbody>
       <p outputclass="Normal"> (b)(1) Submit disclosures via DASN(P) by email at
-            <ph rev="CHANGE 18-22 JULY 11, 2022">
+            
             <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
-                  format="html"
-                  scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
-         </ph> with the subject </p>
+               format="html"
+               scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+          with the subject </p>
       <p>“[Activity Name] DFARS 225.772-3 – “Certain Foreign Commercial Satellite Services Disclosure.”</p>
    </conbody>
 </concept>

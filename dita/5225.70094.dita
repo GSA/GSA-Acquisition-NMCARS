@@ -9,13 +9,13 @@
       <ph props="autonumber">5225.7009-4</ph> Waiver.</title>
    <conbody>
       <p outputclass="Normal"> Submit the proposed waiver via DASN(P) by email at
-            <ph rev="CHANGE 18-22 JULY 11, 2022">
+            
             <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
-                  format="html"
-                  scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
-         </ph> with the subject
-         “[Activity Name] DFARS 225.7009-4 - Ball and Roller Bearings Restriction Waiver.”  <ph rev="CHANGE 18-22 JULY 11, 2022">The waiver shall be in the form of a written
-            D&amp;F.</ph>
+               format="html"
+               scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+          with the subject
+         “[Activity Name] DFARS 225.7009-4 - Ball and Roller Bearings Restriction Waiver.”  The waiver shall be in the form of a written
+            D&amp;F.
       </p>
    </conbody>
 </concept>

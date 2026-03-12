@@ -6,7 +6,7 @@
       <title class="- topic/title " outputclass="1 heading part Ctr">
          <ph class="- topic/ph " props="autonumber">Part 5234</ph> - MAJOR SYSTEM ACQUISITION</title>
       <body>
-         <ul otherprops="TOC">
+         <p>The official NMCARS regulation resides at <xref href="https://www.secnav.navy.mil/rda/DASN-P/Pages/NMCARS.aspx" scope="external" format="html">https://www.secnav.navy.mil/rda/DASN-P/Pages/NMCARS.aspx</xref></p><ul otherprops="TOC">
             <li>
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_5234.2.dita#NMCARS_SUBPART_5234.2">Subpart 5234.2 - EARNED VALUE MANAGEMENT SYSTEM</xref>
@@ -24,7 +24,7 @@
                   <xref outputclass="fm:TOC" href="SUBPART_5234.70.dita#NMCARS_SUBPART_5234.70">Subpart 5234.70 - ACQUISITION OF MAJOR WEAPON SYSTEMS AS COMMERCIAL ITEMS</xref>
                </p>
                <ul otherprops="TOC">
-                  <li rev="CHANGE 18-22 JULY 11, 2022">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5234.7002.dita#NMCARS_5234.7002">5234.7002 Policy.</xref>
                      </p>

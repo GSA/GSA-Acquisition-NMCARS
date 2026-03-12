@@ -6,7 +6,7 @@
       <title class="- topic/title " outputclass="1 heading part Ctr">
          <ph class="- topic/ph " props="autonumber">Part 5242</ph> - CONTRACT ADMINISTRATION AND AUDIT         SERVICES</title>
       <body>
-         <ul otherprops="TOC">
+         <p>The official NMCARS regulation resides at <xref href="https://www.secnav.navy.mil/rda/DASN-P/Pages/NMCARS.aspx" scope="external" format="html">https://www.secnav.navy.mil/rda/DASN-P/Pages/NMCARS.aspx</xref></p><ul otherprops="TOC">
             <li>
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_5242.1.dita#NMCARS_SUBPART_5242.1">Subpart 5242.1 - CONTRACT AUDIT SERVICES</xref>
@@ -19,19 +19,19 @@
                   </li>
                </ul>
             </li>
-            <li rev="CHANGE 18-22 JULY 11, 2022">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_5242.6.dita#NMCARS_SUBPART_5242.6">Subpart 5242.6 - CORPORATE ADMINISTRATIVE CONTRACTING OFFICER</xref>
                </p>
                <ul otherprops="TOC">
-                  <li rev="CHANGE 18-22 JULY 11, 2022">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5242.602.dita#NMCARS_5242.602">5242.602 Assignment and location.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li rev="CHANGE 18-22 JULY 11, 2022">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_5242.11.dita#NMCARS_SUBPART_5242.11">Subpart 5242.11 - PRODUCTION SURVEILLANCE AND REPORTING</xref>
                </p>

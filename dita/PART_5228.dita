@@ -6,7 +6,7 @@
       <title class="- topic/title " outputclass="1 heading part Ctr">
          <ph class="- topic/ph " props="autonumber">Part 5228</ph> - BONDS AND INSURANCE</title>
       <body>
-         <ul otherprops="TOC">
+         <p>The official NMCARS regulation resides at <xref href="https://www.secnav.navy.mil/rda/DASN-P/Pages/NMCARS.aspx" scope="external" format="html">https://www.secnav.navy.mil/rda/DASN-P/Pages/NMCARS.aspx</xref></p><ul otherprops="TOC">
             <li>
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_5228.3.dita#NMCARS_SUBPART_5228.3">Subpart 5228.3 - INSURANCE</xref>
@@ -29,7 +29,7 @@
                         </li>
                      </ul>
                   </li>
-                  <li rev="CHANGE 18-22 JULY 11, 2022">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5228.305.dita#NMCARS_5228.305">5228.305 Overseas workers' compensation and war-hazard insurance.</xref>
                      </p>
@@ -73,7 +73,7 @@
                         <xref outputclass="fm:TOC" href="5228.9002.dita#NMCARS_5228.9002">5228.9002 Lease provisions.</xref>
                      </p>
                   </li>
-                  <li rev="CHANGE 18-22 JULY 11, 2022">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5228.9003.dita#NMCARS_5228.9003">5228.9003 Insurance policies.</xref>
                      </p>

@@ -6,7 +6,7 @@
       <title class="- topic/title " outputclass="1 heading part Ctr">
          <ph class="- topic/ph " props="autonumber">Part 5209</ph> - CONTRACTOR QUALIFICATIONS</title>
       <body>
-         <ul otherprops="TOC">
+         <p>The official NMCARS regulation resides at <xref href="https://www.secnav.navy.mil/rda/DASN-P/Pages/NMCARS.aspx" scope="external" format="html">https://www.secnav.navy.mil/rda/DASN-P/Pages/NMCARS.aspx</xref></p><ul otherprops="TOC">
             <li>
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_5209.1.dita#NMCARS_SUBPART_5209.1">Subpart 5209.1 - RESPONSIBLE PROSPECTIVE CONTRACTORS</xref>
@@ -68,7 +68,7 @@
                         <xref outputclass="fm:TOC" href="5209.406.dita#NMCARS_5209.406">5209.406 Debarment.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li rev="CHANGE 18-22 JULY 11, 2022">
+                        <li>
                            <p>
                               <xref outputclass="fm:TOC" href="5209.4063.dita#NMCARS_5209.4063">5209.406-3 Procedures.</xref>
                            </p>

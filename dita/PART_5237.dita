@@ -6,7 +6,7 @@
       <title class="- topic/title " outputclass="Ctr 1 heading part">
          <ph class="- topic/ph " props="autonumber">Part 5237</ph> - SERVICE CONTRACTING</title>
       <body>
-         <ul otherprops="TOC">
+         <p>The official NMCARS regulation resides at <xref href="https://www.secnav.navy.mil/rda/DASN-P/Pages/NMCARS.aspx" scope="external" format="html">https://www.secnav.navy.mil/rda/DASN-P/Pages/NMCARS.aspx</xref></p><ul otherprops="TOC">
             <li>
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_5237.1.dita#NMCARS_SUBPART_5237.1">Subpart 5237.1 - SERVICE CONTRACTS GENERAL</xref>
@@ -17,7 +17,7 @@
                         <xref outputclass="fm:TOC" href="5237.102.dita#NMCARS_5237.102">5237.102 Policy.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li rev="CHANGE 18-22 JULY 11, 2022">
+                        <li>
                            <p>
                               <xref outputclass="fm:TOC" href="5237.10271.dita#NMCARS_5237.10271">5237.102-71 Limitations on service contracts for military flight simulators.</xref>
                            </p>
@@ -39,14 +39,14 @@
                         <xref outputclass="fm:TOC" href="5237.170.dita#NMCARS_5237.170">5237.170 Approval of contracts and task orders for services.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li rev="CHANGE 18-22 JULY 11, 2022">
+                        <li>
                            <p>
                               <xref outputclass="fm:TOC" href="5237.1702.dita#NMCARS_5237.1702">5237.170-2 Approval requirements.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li rev="CHANGE 18-22 JULY 11, 2022">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5237.192.dita#NMCARS_5237.192">5237.192 Services Acquisition Workshops.</xref>
                      </p>

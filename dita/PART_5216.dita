@@ -6,7 +6,7 @@
       <title class="- topic/title " outputclass="1 heading part Ctr">
          <ph class="- topic/ph " props="autonumber">Part 5216</ph> - TYPES OF CONTRACTS</title>
       <body>
-         <ul otherprops="TOC">
+         <p>The official NMCARS regulation resides at <xref href="https://www.secnav.navy.mil/rda/DASN-P/Pages/NMCARS.aspx" scope="external" format="html">https://www.secnav.navy.mil/rda/DASN-P/Pages/NMCARS.aspx</xref></p><ul otherprops="TOC">
             <li>
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_5216.2.dita#NMCARS_SUBPART_5216.2">Subpart 5216.2 - FIXED-PRICE CONTRACTS</xref>
@@ -24,7 +24,7 @@
                   <xref outputclass="fm:TOC" href="SUBPART_5216.3.dita#NMCARS_SUBPART_5216.3">Subpart 5216.3 - COST-REIMBURSEMENT CONTRACTS</xref>
                </p>
                <ul otherprops="TOC">
-                  <li rev="CHANGE 18-22 JULY 11, 2022">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5216.306.dita#NMCARS_5216.306">5216.306 Cost-plus-fixed-fee contracts.</xref>
                      </p>
@@ -36,7 +36,7 @@
                   <xref outputclass="fm:TOC" href="SUBPART_5216.4.dita#NMCARS_SUBPART_5216.4">Subpart 5216.4 - INCENTIVE CONTRACTS</xref>
                </p>
                <ul otherprops="TOC">
-                  <li rev="CHANGE 18-22 JULY 11, 2022">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5216.401.dita#NMCARS_5216.401">5216.401 General.</xref>
                      </p>
@@ -48,7 +48,7 @@
                   <xref outputclass="fm:TOC" href="SUBPART_5216.5.dita#NMCARS_SUBPART_5216.5">Subpart 5216.5 - INDEFINITE-DELIVERY CONTRACTS</xref>
                </p>
                <ul otherprops="TOC">
-                  <li rev="CHANGE 18-22 JULY 11, 2022">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5216.504.dita#NMCARS_5216.504">5216.504 Indefinite-quantity contracts.</xref>
                      </p>

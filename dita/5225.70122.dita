@@ -9,11 +9,11 @@
       <ph props="autonumber">5225.7012-2</ph> (DFARS 225.7012-2) Waiver.</title>
    <conbody>
       <p outputclass="Normal"> Submit the proposed waiver via DASN(P) by email at
-            <ph rev="CHANGE 18-22 JULY 11, 2022">
+            
             <xref href="mailto:usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil"
-                  format="html"
-                  scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
-         </ph> with the subject
+               format="html"
+               scope="external">usn.pentagon.asstsecnavrdadc.mbx.pabt@us.navy.mil</xref>
+          with the subject
          “[Activity Name] DFARS 225.7012-2 - Supercomputer Restriction Waiver”. The waiver shall be
          in the form of a written D&amp;F containing a certification that:</p>
       <p outputclass="Normal">        (1) Adequate U.S. supplies are not available to meet requirements on a timely basis; and</p>

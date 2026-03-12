@@ -6,18 +6,18 @@
       <title class="- topic/title " outputclass="Ctr 1 heading part">
          <ph class="- topic/ph " props="autonumber">Part 5246</ph> - QUALITY ASSURANCE</title>
       <body>
-         <ul otherprops="TOC">
+         <p>The official NMCARS regulation resides at <xref href="https://www.secnav.navy.mil/rda/DASN-P/Pages/NMCARS.aspx" scope="external" format="html">https://www.secnav.navy.mil/rda/DASN-P/Pages/NMCARS.aspx</xref></p><ul otherprops="TOC">
             <li>
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_5246.7.dita#NMCARS_SUBPART_5246.7">Subpart 5246.7 - WARRANTIES</xref>
                </p>
                <ul otherprops="TOC">
-                  <li rev="CHANGE 18-22 JULY 11, 2022">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5246.703.dita#NMCARS_5246.703">5246.703 Criteria for use of warranties.</xref>
                      </p>
                   </li>
-                  <li rev="CHANGE 18-22 JULY 11, 2022">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5246.704.dita#NMCARS_5246.704">5246.704 Authority for use of warranties.</xref>
                      </p>
